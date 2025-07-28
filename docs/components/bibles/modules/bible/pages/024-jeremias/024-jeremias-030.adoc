@@ -1,0 +1,195 @@
+include::./index.adoc[]
+
+[[v24-30-0]]
+=== Jeremias, 30
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v24-30-1]]
+
+^<<v24-30-1,1>>^ Jeremias recebeu a seguinte palavra da parte de Jeová:
+
+[[v24-30-2]]
+
+^<<v24-30-2,2>>^ “Assim diz Jeová, o Deus de Israel: ‘Escreve todas as palavras que te digo num livro.
+
+[[v24-30-3]]
+
+^<<v24-30-3,3>>^ Pois “estão a chegar os dias”, diz Jeová, “em que vou reunir o meu povo cativo, Israel e Judá”, diz Jeová, “e vou trazê-los de volta à terra que dei aos seus antepassados, e eles tomarão posse dela novamente”.’”
+
+[[v24-30-4]]
+
+^<<v24-30-4,4>>^ Estas são as palavras que Jeová disse a Israel e Judá.
+
+[[v24-30-5]]
+
+^<<v24-30-5,5>>^ Assim diz Jeová:
+“Ouvimos os gritos de pânico;
+Só há terror, não há paz.
+
+[[v24-30-6]]
+
+^<<v24-30-6,6>>^ Por favor, perguntem se um homem pode dar à luz.
+Então, porque é que vejo todos os homens fortes com as mãos na barriga,^&#42;1^
+Como uma mulher a dar à luz?
+Porque é que todos os rostos ficaram pálidos?
+
+[NOTE]
+====
+. Ou: “região lombar”.
+====
+
+[[v24-30-7]]
+
+^<<v24-30-7,7>>^ Ai, pois esse dia é terrível,^&#42;1^
+Nenhum outro se compara a ele.
+É um tempo de aflição para Jacó.
+Mas ele sairá dele a salvo.”
+
+[NOTE]
+====
+. Lit.: “grande”.
+====
+
+[[v24-30-8]]
+
+^<<v24-30-8,8>>^ “E nesse dia”, diz Jeová dos exércitos, “vou partir o teu jugo, tirá-lo do teu pescoço e rebentar as tuas correias;^&#42;1^ e nunca mais haverá estrangeiros^&#42;2^ a escravizá-lo.^&#42;3^
+
+[NOTE]
+====
+. Lit.: “faixas”.
+. Ou: “estranhos”.
+. Ou: “escravizá-los”.
+====
+
+[[v24-30-9]]
+
+^<<v24-30-9,9>>^ O meu povo servirá a Jeová, seu Deus, e a David, seu rei, que lhes farei surgir.”
+
+[[v24-30-10]]
+
+^<<v24-30-10,10>>^ “E tu, meu servo Jacó, não tenhas medo”, diz Jeová,
+“E não fiques apavorado, ó Israel.
+Pois vou salvar-te do lugar distante;
+E a tua descendência, da terra do cativeiro.
+Jacó voltará, e viverá tranquilo e em paz,
+Sem que ninguém o faça ter medo.”
+
+[[v24-30-11]]
+
+^<<v24-30-11,11>>^ “Pois eu estou contigo”, diz Jeová, “para te salvar,
+Mas vou exterminar todas as nações pelas quais te espalhei;
+No entanto, a ti, não te vou exterminar.
+Vou disciplinar-te^&#42;1^ no devido grau;
+De modo nenhum te deixarei impune.”
+
+[NOTE]
+====
+. Ou: “corrigir-te”.
+====
+
+[[v24-30-12]]
+
+^<<v24-30-12,12>>^ Pois assim diz Jeová:
+“A tua ferida^&#42;1^ é incurável.
+O teu ferimento não tem cura.
+
+[NOTE]
+====
+. Ou: “O teu quebrantamento”.
+====
+
+[[v24-30-13]]
+
+^<<v24-30-13,13>>^ Não há quem defenda a tua causa;
+Não há remédio para a tua ferida.
+Não há cura para ti.
+
+[[v24-30-14]]
+
+^<<v24-30-14,14>>^ Todos os teus amantes se esqueceram de ti.
+Eles não voltarão a procurar-te.
+Pois atingi-te como se atinge um inimigo,
+Com uma punição cruel,
+Por causa da tua grande culpa e dos teus muitos pecados.
+
+[[v24-30-15]]
+
+^<<v24-30-15,15>>^ Porque é que gritas por causa da tua ferida?^&#42;1^
+A tua dor é incurável!
+Por causa da tua grande culpa e dos teus muitos pecados,
+Eu fiz-te isto.
+
+[NOTE]
+====
+. Ou: “do teu quebrantamento”.
+====
+
+[[v24-30-16]]
+
+^<<v24-30-16,16>>^ Porém, todos os que te devoram serão devorados,
+E todos os teus inimigos também irão para o cativeiro.
+Os que te despojam serão despojados,
+E porei a saque todos os que te saqueiam.”
+
+[[v24-30-17]]
+
+^<<v24-30-17,17>>^ “Restabelecerei a tua saúde e curarei as tuas feridas”, diz Jeová,
+“Embora te tenham chamado excluída, dizendo:
+‘Esta é Sião, a quem ninguém procura.’”
+
+[[v24-30-18]]
+
+^<<v24-30-18,18>>^ Assim diz Jeová:
+“Vou reunir os cativos que pertencem às tendas de Jacó
+E terei pena das suas barracas.
+A cidade será reconstruída sobre o seu monte,
+E a torre fortificada será erguida no seu devido lugar.
+
+[[v24-30-19]]
+
+^<<v24-30-19,19>>^ E deles virão agradecimentos e gritos de alegria.
+Eu vou multiplicá-los, e eles não serão poucos;
+Vou torná-los numerosos,^&#42;1^
+E eles não serão insignificantes.
+
+[NOTE]
+====
+. Ou, possivelmente: “honrados”.
+====
+
+[[v24-30-20]]
+
+^<<v24-30-20,20>>^ Os filhos dele serão como no passado,
+E a sua assembleia ficará firmemente estabelecida diante de mim.
+Ajustarei contas com todos os seus opressores.
+
+[[v24-30-21]]
+
+^<<v24-30-21,21>>^ O seu majestoso líder será um dos seus,
+E o seu governante sairá do seu meio;
+Vou trazê-lo para perto, e ele irá aproximar-se de mim.”
+“Pois, caso contrário, quem é que se atreveria a^&#42;1^ aproximar-se de mim?”, diz Jeová.
+
+[NOTE]
+====
+. Lit.: “daria o seu coração como penhor para”.
+====
+
+[[v24-30-22]]
+
+^<<v24-30-22,22>>^ “E vocês vão tornar-se o meu povo, e eu serei o vosso Deus.”
+
+[[v24-30-23]]
+
+^<<v24-30-23,23>>^ Vejam! O vendaval da parte de Jeová irromperá com fúria.
+Será uma tempestade devastadora lançada sobre a cabeça dos maus.
+
+[[v24-30-24]]
+
+^<<v24-30-24,24>>^ A ira ardente de Jeová não recuará
+Até que ele tenha cumprido e executado as intenções do seu coração.
+Na parte final dos dias, vocês entenderão isto.
+
+'''
+
+xref:024-jeremias/024-jeremias-029.adoc#v24-29-0[&#60; Capítulo Anterior] | <<v24-30-0,Topo>> | xref:024-jeremias/024-jeremias-031.adoc#v24-31-0[Próximo Capítulo &#62;]

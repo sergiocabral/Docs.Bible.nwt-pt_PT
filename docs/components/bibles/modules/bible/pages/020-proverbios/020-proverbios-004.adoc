@@ -1,0 +1,179 @@
+include::./index.adoc[]
+
+[[v20-4-0]]
+=== Provérbios, 4
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-4-1]]
+
+^<<v20-4-1,1>>^ Escutem, meus filhos, a disciplina de um pai;
+Prestem atenção para obterem entendimento,
+
+[[v20-4-2]]
+
+^<<v20-4-2,2>>^ Pois irei dar-vos boa instrução;
+Não abandonem os meus ensinamentos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “a minha lei”.
+====
+
+[[v20-4-3]]
+
+^<<v20-4-3,3>>^ Eu fui um bom filho para o meu pai,
+E o filho que a minha mãe amava muito.
+
+[[v20-4-4]]
+
+^<<v20-4-4,4>>^ Ele ensinava-me, dizendo: “Que o teu coração se apegue às minhas palavras.
+Guarda os meus mandamentos e viverás.
+
+[[v20-4-5]]
+
+^<<v20-4-5,5>>^ Adquire sabedoria, adquire entendimento.
+Não te esqueças nem te afastes do que eu digo.
+
+[[v20-4-6]]
+
+^<<v20-4-6,6>>^ Não abandones a sabedoria, e ela irá proteger-te.
+Ama-a, e ela irá guardar-te.
+
+[[v20-4-7]]
+
+^<<v20-4-7,7>>^ Sabedoria é a coisa mais importante,^&#42;1^ então, adquire sabedoria;
+E, além de tudo o que adquirires, adquire entendimento.
+
+[NOTE]
+====
+. Ou: “é o primordial”.
+====
+
+[[v20-4-8]]
+
+^<<v20-4-8,8>>^ Preza-a muito, e ela irá enaltecer-te.
+Se a abraçares, ela irá honrar-te.
+
+[[v20-4-9]]
+
+^<<v20-4-9,9>>^ Porá na tua cabeça uma linda grinalda;
+Irá adornar-te com uma coroa de beleza.”
+
+[[v20-4-10]]
+
+^<<v20-4-10,10>>^ Escuta, meu filho, e aceita as minhas declarações,
+E os anos da tua vida serão muitos.
+
+[[v20-4-11]]
+
+^<<v20-4-11,11>>^ Vou instruir-te no caminho da sabedoria;
+Vou conduzir-te nos trilhos da retidão.
+
+[[v20-4-12]]
+
+^<<v20-4-12,12>>^ Ao andares, nada atrapalhará os teus passos;
+E, se correres, não tropeçarás.
+
+[[v20-4-13]]
+
+^<<v20-4-13,13>>^ Apega-te à disciplina; não a largues.
+Resguarda-a, pois ela significa a tua vida.
+
+[[v20-4-14]]
+
+^<<v20-4-14,14>>^ Não entres na vereda dos maus
+E não andes no caminho dos perversos.
+
+[[v20-4-15]]
+
+^<<v20-4-15,15>>^ Evita-o, não passes por ele;
+Afasta-te dele e segue em frente.
+
+[[v20-4-16]]
+
+^<<v20-4-16,16>>^ Pois eles não conseguem dormir enquanto não fizerem o que é mau.
+Perdem o sono se não fizerem alguém cair.
+
+[[v20-4-17]]
+
+^<<v20-4-17,17>>^ Comem o pão da maldade
+E bebem o vinho da violência.
+
+[[v20-4-18]]
+
+^<<v20-4-18,18>>^ Contudo, a vereda dos justos é como a luz brilhante da manhã,
+Que clareia mais e mais até à plena luz do dia.
+
+[[v20-4-19]]
+
+^<<v20-4-19,19>>^ O caminho dos maus é como a escuridão;
+Eles nem sabem o que os faz tropeçar.
+
+[[v20-4-20]]
+
+^<<v20-4-20,20>>^ Meu filho, presta atenção às minhas palavras;
+Escuta atentamente as^&#42;1^ minhas declarações.
+
+[NOTE]
+====
+. Ou: “Inclina o teu ouvido às”.
+====
+
+[[v20-4-21]]
+
+^<<v20-4-21,21>>^ Não as percas de vista;
+Guarda-as no fundo do coração,
+
+[[v20-4-22]]
+
+^<<v20-4-22,22>>^ Pois são vida para aqueles que as encontram
+E saúde para todo o seu corpo.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “toda a sua carne”.
+====
+
+[[v20-4-23]]
+
+^<<v20-4-23,23>>^ Acima de tudo, protege o teu coração,
+Pois dele procedem as fontes da vida.
+
+[[v20-4-24]]
+
+^<<v20-4-24,24>>^ Afasta de ti a mentira,^&#42;1^
+E põe longe de ti as palavras falsas.
+
+[NOTE]
+====
+. Ou: “as palavras perversas”.
+====
+
+[[v20-4-25]]
+
+^<<v20-4-25,25>>^ Os teus olhos devem olhar diretamente para a frente,
+Sim, fixa o olhar^&#42;1^ diretamente para a frente.
+
+[NOTE]
+====
+. Ou: “os teus olhos radiantes”.
+====
+
+[[v20-4-26]]
+
+^<<v20-4-26,26>>^ Torna plana^&#42;1^ a vereda para os teus pés,
+E todos os teus caminhos serão seguros.
+
+[NOTE]
+====
+. Ou, possivelmente: “Examina cuidadosamente”.
+====
+
+[[v20-4-27]]
+
+^<<v20-4-27,27>>^ Não te desvies nem para a direita nem para a esquerda.
+Afasta os teus pés do que é mau.
+
+'''
+
+xref:020-proverbios/020-proverbios-003.adoc#v20-3-0[&#60; Capítulo Anterior] | <<v20-4-0,Topo>> | xref:020-proverbios/020-proverbios-005.adoc#v20-5-0[Próximo Capítulo &#62;]

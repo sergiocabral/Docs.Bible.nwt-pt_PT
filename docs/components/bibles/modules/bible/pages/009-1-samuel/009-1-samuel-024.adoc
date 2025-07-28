@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v9-24-0]]
+=== 1 Samuel, 24
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-24-1]]
+
+^<<v9-24-1,1>>^ Assim que Saul voltou, depois de perseguir os filisteus, disseram-lhe: “David está no deserto de En-Gedi.”
+
+[[v9-24-2]]
+
+^<<v9-24-2,2>>^ Por conseguinte, Saul escolheu 3000 dos melhores homens de todo o Israel e foi à procura de David e dos seus homens nos penhascos das cabras-montesas.
+
+[[v9-24-3]]
+
+^<<v9-24-3,3>>^ Saul chegou aos currais de pedra para ovelhas ao longo da estrada, onde havia uma caverna, e entrou nela para fazer as suas necessidades.^&#42;1^ Acontece que David e os seus homens estavam escondidos mesmo no fundo da caverna.
+
+[NOTE]
+====
+. Lit.: “para cobrir os seus pés”.
+====
+
+[[v9-24-4]]
+
+^<<v9-24-4,4>>^ Os homens de David disseram-lhe: “Este é o dia em que Jeová te diz: ‘Entrego-te o teu inimigo nas tuas mãos, e podes fazer o que quiseres com ele.’” Assim, David foi com muito cuidado e cortou uma ponta da túnica sem mangas de Saul.
+
+[[v9-24-5]]
+
+^<<v9-24-5,5>>^ Depois disso, porém, o coração^&#42;1^ de David acusava-o por ter cortado a ponta da túnica de Saul.
+
+[NOTE]
+====
+. Ou: “a consciência”.
+====
+
+[[v9-24-6]]
+
+^<<v9-24-6,6>>^ Ele disse aos seus homens: “Por respeito a Jeová, eu jamais faria uma coisa destas ao meu senhor, o ungido de Jeová; eu não levantaria a minha mão contra ele, pois ele é o ungido de Jeová.”
+
+[[v9-24-7]]
+
+^<<v9-24-7,7>>^ Assim, David conteve^&#42;1^ os seus homens com estas palavras e não lhes permitiu que atacassem Saul. Então, Saul saiu da caverna e seguiu o seu caminho.
+
+[NOTE]
+====
+. Ou, possivelmente: “dispersou”.
+====
+
+[[v9-24-8]]
+
+^<<v9-24-8,8>>^ Depois, David saiu da caverna e gritou para Saul: “Ó rei, meu senhor!” Quando Saul olhou para trás, David curvou-se e prostrou-se com o rosto por terra.
+
+[[v9-24-9]]
+
+^<<v9-24-9,9>>^ David disse a Saul: “Porque é que o senhor dá ouvidos aos que dizem que eu lhe quero fazer mal?
+
+[[v9-24-10]]
+
+^<<v9-24-10,10>>^ No dia de hoje, viu com os seus próprios olhos como Jeová o entregou nas minhas mãos, na caverna. Mas quando alguém me disse para matá-lo, tive compaixão de si e disse: ‘Não levantarei a minha mão contra o meu senhor, pois ele é o ungido de Jeová.’
+
+[[v9-24-11]]
+
+^<<v9-24-11,11>>^ E olhe, meu pai, veja a ponta da sua túnica na minha mão. Quando cortei a sua túnica, eu não o matei. Agora, pode ver que não tenho a intenção de lhe fazer mal nem de me rebelar. Também não pequei contra si, embora esteja a perseguir-me para me tirar a vida.^&#42;1^
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v9-24-12]]
+
+^<<v9-24-12,12>>^ Que Jeová seja o juiz entre nós os dois e que Jeová me vingue de si, mas eu não levantarei a minha mão contra si.
+
+[[v9-24-13]]
+
+^<<v9-24-13,13>>^ Assim diz o velho ditado: ‘É dos maus que vem a maldade’, mas eu não levantarei a minha mão contra si.
+
+[[v9-24-14]]
+
+^<<v9-24-14,14>>^ Atrás de quem é que o rei de Israel saiu? Quem é que está a perseguir? Um cão morto? Uma simples pulga?
+
+[[v9-24-15]]
+
+^<<v9-24-15,15>>^ Que Jeová seja o juiz, e ele julgará entre nós os dois; ele vai examinar o assunto, defender a minha causa, fazer justiça e livrar-me de si.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “das suas mãos”.
+====
+
+[[v9-24-16]]
+
+^<<v9-24-16,16>>^ Assim que David acabou de dizer estas palavras, Saul perguntou-lhe: “És tu, meu filho David?” De seguida, Saul começou a chorar alto
+
+[[v9-24-17]]
+
+^<<v9-24-17,17>>^ e disse a David: “És mais justo do que eu, porque me fizeste o bem, e eu retribuí-te com o mal.
+
+[[v9-24-18]]
+
+^<<v9-24-18,18>>^ Hoje, falaste-me do bem que me fizeste por não me matares quando Jeová me entregou nas tuas mãos.
+
+[[v9-24-19]]
+
+^<<v9-24-19,19>>^ Pois, que homem é que encontra o seu inimigo e deixa que ele se vá embora sem lhe fazer nenhum mal? Jeová vai recompensar-te com o bem pelo que fizeste por mim hoje.
+
+[[v9-24-20]]
+
+^<<v9-24-20,20>>^ Agora, sei que, com certeza, tu serás rei, e que o reino de Israel continuará firme nas tuas mãos.
+
+[[v9-24-21]]
+
+^<<v9-24-21,21>>^ Portanto, jura-me por Jeová que não eliminarás os meus descendentes^&#42;1^ e que não apagarás o meu nome da casa do meu pai.”
+
+[NOTE]
+====
+. Lit.: “a minha semente”.
+====
+
+[[v9-24-22]]
+
+^<<v9-24-22,22>>^ Por conseguinte, David jurou-o a Saul. Depois, Saul foi para casa, mas David e os seus homens voltaram para o refúgio.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-023.adoc#v9-23-0[&#60; Capítulo Anterior] | <<v9-24-0,Topo>> | xref:009-1-samuel/009-1-samuel-025.adoc#v9-25-0[Próximo Capítulo &#62;]

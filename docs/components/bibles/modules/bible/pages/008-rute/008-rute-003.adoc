@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v8-3-0]]
+=== Rute, 3
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v8-3-1]]
+
+^<<v8-3-1,1>>^ Noemi, a sua sogra, disse-lhe então: “Minha filha, tenho de procurar um lar^&#42;1^ para ti, para que fiques bem.
+
+[NOTE]
+====
+. Lit.: “lugar de descanso”.
+====
+
+[[v8-3-2]]
+
+^<<v8-3-2,2>>^ Boaz é nosso parente. Foi com as servas dele que estiveste. Hoje à noite, ele vai limpar a cevada na eira.
+
+[[v8-3-3]]
+
+^<<v8-3-3,3>>^ Portanto, lava-te, põe óleo perfumado, veste a tua melhor roupa^&#42;1^ e desce à eira. Não deixes que ele note a tua presença até que tenha terminado de comer e beber.
+
+[NOTE]
+====
+. Ou: “põe os teus mantos”.
+====
+
+[[v8-3-4]]
+
+^<<v8-3-4,4>>^ Quando ele for dormir, presta atenção ao lugar onde se deita. Então, vai, descobre-lhe os pés e deita-te. E ele irá dizer-te o que deves fazer.”
+
+[[v8-3-5]]
+
+^<<v8-3-5,5>>^ Ela respondeu então: “Farei tudo o que me disse.”
+
+[[v8-3-6]]
+
+^<<v8-3-6,6>>^ Então, ela desceu à eira e fez tudo o que a sua sogra lhe tinha dito.
+
+[[v8-3-7]]
+
+^<<v8-3-7,7>>^ Enquanto isso, Boaz comia e bebia, e o seu coração estava feliz. De seguida, ele foi deitar-se ao lado do monte de cereais. Depois, ela aproximou-se com cuidado, descobriu-lhe os pés e deitou-se.
+
+[[v8-3-8]]
+
+^<<v8-3-8,8>>^ À meia-noite, o homem começou a tremer e, quando se inclinou para a frente, viu uma mulher deitada aos seus pés.
+
+[[v8-3-9]]
+
+^<<v8-3-9,9>>^ Ele perguntou: “Quem és tu?” Ela respondeu: “Sou Rute, sua serva. Estenda o seu manto^&#42;1^ sobre a sua serva, pois o senhor é resgatador.”
+
+[NOTE]
+====
+. Ou: “a barra do seu manto”.
+====
+
+[[v8-3-10]]
+
+^<<v8-3-10,10>>^ Então, ele disse: “Que Jeová te abençoe, minha filha. Demonstraste mais amor leal desta vez do que da primeira vez, pois não foste atrás de jovens, quer pobres quer ricos.
+
+[[v8-3-11]]
+
+^<<v8-3-11,11>>^ E agora, minha filha, não tenhas medo. Farei por ti tudo o que me disseres, pois todos na cidade sabem^&#42;1^ que és uma excelente mulher.
+
+[NOTE]
+====
+. Lit.: “todo o portão do meu povo sabe”.
+====
+
+[[v8-3-12]]
+
+^<<v8-3-12,12>>^ Contudo, embora eu realmente seja resgatador, há um resgatador de parentesco mais próximo do que eu.
+
+[[v8-3-13]]
+
+^<<v8-3-13,13>>^ Fica aqui esta noite. Se de manhã ele te resgatar, muito bem! Que ele te resgate. Mas, tão certo como Jeová vive, eu mesmo te resgatarei se ele não te quiser resgatar. Fica deitada aqui até amanhecer.”
+
+[[v8-3-14]]
+
+^<<v8-3-14,14>>^ Assim, ela ficou deitada aos pés dele até de manhã e levantou-se antes que clareasse o suficiente para ser reconhecida. Então, ele disse: “Ninguém deve saber que uma mulher veio à eira.”
+
+[[v8-3-15]]
+
+^<<v8-3-15,15>>^ E também disse: “Traz o manto que estás a usar e segura-o aberto.” Ela assim fez, e ele pôs no manto seis medidas^&#42;1^ de cevada e colocou-o sobre ela; depois, entrou na cidade.
+
+[NOTE]
+====
+. Possivelmente seis seás, ou cerca de 44 l. Veja o Ap. B14.
+====
+
+[[v8-3-16]]
+
+^<<v8-3-16,16>>^ Ela voltou à sua sogra, que lhe perguntou: “Como é que foi,^&#42;1^ minha filha?” Rute contou-lhe tudo o que o homem tinha feito por ela.
+
+[NOTE]
+====
+. Lit.: “Quem és tu”.
+====
+
+[[v8-3-17]]
+
+^<<v8-3-17,17>>^ Ela acrescentou: “Ele deu-me estas seis medidas de cevada e disse: ‘Não vás de mãos vazias à tua sogra.’”
+
+[[v8-3-18]]
+
+^<<v8-3-18,18>>^ Então, ela disse: “Agora, espera, minha filha, até saberes como ficará o assunto, pois o homem não descansará até resolver o assunto hoje.”
+
+'''
+
+xref:008-rute/008-rute-002.adoc#v8-2-0[&#60; Capítulo Anterior] | <<v8-3-0,Topo>> | xref:008-rute/008-rute-004.adoc#v8-4-0[Próximo Capítulo &#62;]

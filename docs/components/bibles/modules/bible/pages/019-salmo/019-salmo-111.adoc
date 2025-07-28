@@ -1,0 +1,172 @@
+include::./index.adoc[]
+
+[[v19-111-0]]
+=== Salmos, 111
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-111-1]]
+
+^<<v19-111-1,1>>^ Louvem a Jah!^&#42;1^
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+_א &#91;álefe&#93;_
+
+Louvarei a Jeová de todo o coração
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+_ב &#91;bete&#93;_
+
+Entre os justos reunidos e na congregação.
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+_ג &#91;guímel&#93;_
+
+[[v19-111-2]]
+
+^<<v19-111-2,2>>^ Grandes são as obras de Jeová;
+
+_ד &#91;dálete&#93;_
+
+Todos os que têm prazer nelas estudam-nas.
+
+_ה &#91;hê&#93;_
+
+[[v19-111-3]]
+
+^<<v19-111-3,3>>^ Os seus feitos são gloriosos e esplêndidos,
+
+_ו &#91;vau&#93;_
+
+E a sua justiça dura para sempre.
+
+_ז &#91;zaine&#93;_
+
+[[v19-111-4]]
+
+^<<v19-111-4,4>>^ Ele faz com que os seus atos maravilhosos sejam lembrados.
+
+[NOTE]
+====
+. Ou: “benevolente”.
+====
+
+_ח &#91;hete&#93;_
+
+Jeová é compassivo^&#42;1^ e misericordioso.
+
+[NOTE]
+====
+. Ou: “benevolente”.
+====
+
+_ט &#91;tete&#93;_
+
+[[v19-111-5]]
+
+^<<v19-111-5,5>>^ Dá alimento aos que o temem.
+
+_י &#91;iode&#93;_
+
+Ele lembra-se do seu pacto para sempre.
+
+_כ &#91;cafe&#93;_
+
+[[v19-111-6]]
+
+^<<v19-111-6,6>>^ Mostrou ao seu povo os seus atos poderosos,
+
+_ל &#91;lâmede&#93;_
+
+Dando-lhes a herança das nações.
+
+_מ &#91;meme&#93;_
+
+[[v19-111-7]]
+
+^<<v19-111-7,7>>^ Os trabalhos das suas mãos são verdade e justiça;
+
+_נ &#91;nune&#93;_
+
+Todas as suas ordens são dignas de confiança.
+
+_ס &#91;sâmeque&#93;_
+
+[[v19-111-8]]
+
+^<<v19-111-8,8>>^ São confiáveis,^&#42;1^ agora e para sempre;
+
+[NOTE]
+====
+. Ou: “bem fundadas”.
+====
+
+_ע &#91;aine&#93;_
+
+São baseadas na verdade e na retidão.
+
+[NOTE]
+====
+. Ou: “bem fundadas”.
+====
+
+_פ &#91;pê&#93;_
+
+[[v19-111-9]]
+
+^<<v19-111-9,9>>^ Ele trouxe redenção ao seu povo.
+
+_צ &#91;tsadê&#93;_
+
+Ordenou que o seu pacto durasse para sempre.
+
+_ק &#91;cofe&#93;_
+
+O seu nome é santo e inspira temor.
+
+_ר &#91;rexe&#93;_
+
+[[v19-111-10]]
+
+^<<v19-111-10,10>>^ O temor de Jeová é o princípio da sabedoria.
+
+[NOTE]
+====
+. Lit.: “Todos os que as fazem”.
+. Ou: “boa perspicácia”.
+====
+
+_ש &#91;sim&#93;_
+
+Todos os que cumprem as suas ordens^&#42;1^ revelam um bom entendimento.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “Todos os que as fazem”.
+. Ou: “boa perspicácia”.
+====
+
+_ת &#91;tau&#93;_
+
+O seu louvor dura para sempre.
+
+[NOTE]
+====
+. Lit.: “Todos os que as fazem”.
+. Ou: “boa perspicácia”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-110.adoc#v19-110-0[&#60; Capítulo Anterior] | <<v19-111-0,Topo>> | xref:019-salmo/019-salmo-112.adoc#v19-112-0[Próximo Capítulo &#62;]

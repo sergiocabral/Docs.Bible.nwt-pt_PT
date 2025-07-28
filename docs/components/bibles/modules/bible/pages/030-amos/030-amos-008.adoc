@@ -1,0 +1,122 @@
+include::./index.adoc[]
+
+[[v30-8-0]]
+=== Amós, 8
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v30-8-1]]
+
+^<<v30-8-1,1>>^ Isto foi o que o Soberano Senhor Jeová me mostrou: eu vi um cesto de frutos de verão.
+
+[[v30-8-2]]
+
+^<<v30-8-2,2>>^ Então, ele perguntou-me: “O que vês, Amós?” Eu respondi: “Um cesto de frutos de verão.” De seguida, Jeová disse-me: “Chegou o fim para o meu povo Israel. Nunca mais lhes perdoarei.
+
+[[v30-8-3]]
+
+^<<v30-8-3,3>>^ ‘As canções do templo, nesse dia, vão transformar-se em lamentos’, diz o Soberano Senhor Jeová. ‘Haverá muitos cadáveres por toda a parte. Silêncio!’
+
+[[v30-8-4]]
+
+^<<v30-8-4,4>>^ Ouçam isto, vocês, os que espezinham o pobre
+E arruínam os mansos da terra,
+
+[[v30-8-5]]
+
+^<<v30-8-5,5>>^ Que dizem: ‘Quando é que acabará a festividade da lua nova, para que vendamos os nossos cereais;
+E também o sábado, para que ponhamos os grãos à venda?
+Assim, poderemos reduzir a medida da efa^&#42;1^
+E aumentar o peso do siclo,^&#42;2^
+Adulterando a nossa balança para enganar;
+
+[NOTE]
+====
+. Veja o Ap. B14.
+. Veja o Ap. B14.
+====
+
+[[v30-8-6]]
+
+^<<v30-8-6,6>>^ Poderemos comprar o necessitado por prata
+E o pobre por um par de sandálias,
+E também vender as impurezas^&#42;1^ dos cereais.’
+
+[NOTE]
+====
+. Ou: “o refugo”.
+====
+
+[[v30-8-7]]
+
+^<<v30-8-7,7>>^ Jeová jurou pelo Orgulho de Jacó:
+‘Nunca me esquecerei de tudo o que eles fizeram.
+
+[[v30-8-8]]
+
+^<<v30-8-8,8>>^ Por causa disso, esta terra^&#42;1^ tremerá
+E todos os seus habitantes ficarão de luto.
+Por acaso, não se levantará, toda ela, como o Nilo,
+E subirá e baixará como o Nilo do Egito?’
+
+[NOTE]
+====
+. Ou: “a terra”.
+====
+
+[[v30-8-9]]
+
+^<<v30-8-9,9>>^ ‘Nesse dia’, diz o Soberano Senhor Jeová,
+‘Farei com que o sol se ponha ao meio-dia
+E escurecerei a terra em plena luz do dia.
+
+[[v30-8-10]]
+
+^<<v30-8-10,10>>^ Transformarei as vossas festividades em luto
+E todas as vossas canções em lamentações,
+Cobrirei todas as ancas com serapilheira^&#42;1^ e farei com que todas as cabeças sejam rapadas;
+Farei com que lamentem como se tivessem perdido um filho único,
+E o fim de tudo será como um dia amargo.’
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v30-8-11]]
+
+^<<v30-8-11,11>>^ ‘Vejam! Virão os dias’, diz o Soberano Senhor Jeová,
+‘Em que enviarei uma fome a esta terra,
+Não uma fome de pão nem uma sede de água,
+Mas de se ouvirem as palavras de Jeová.
+
+[[v30-8-12]]
+
+^<<v30-8-12,12>>^ Cambalearão de mar a mar
+E de norte a leste.^&#42;1^
+Procurarão por toda a parte a palavra de Jeová, mas não a encontrarão.
+
+[NOTE]
+====
+. Ou: “nascente”.
+====
+
+[[v30-8-13]]
+
+^<<v30-8-13,13>>^ Nesse dia, as moças^&#42;1^ bonitas desmaiarão,
+Assim como os jovens, por causa da sede;
+
+[NOTE]
+====
+. Ou: “virgens”.
+====
+
+[[v30-8-14]]
+
+^<<v30-8-14,14>>^ Aqueles que juram pelo pecado de Samaria e dizem:
+“Tão certo como o teu deus vive, ó Dã!”
+E “Tão certo como o caminho de Berseba vive!”
+— Eles cairão, e nunca mais se levantarão.’”
+
+'''
+
+xref:030-amos/030-amos-007.adoc#v30-7-0[&#60; Capítulo Anterior] | <<v30-8-0,Topo>> | xref:030-amos/030-amos-009.adoc#v30-9-0[Próximo Capítulo &#62;]

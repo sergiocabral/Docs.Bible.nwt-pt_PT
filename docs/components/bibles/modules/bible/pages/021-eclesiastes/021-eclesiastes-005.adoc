@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v21-5-0]]
+=== Eclesiastes, 5
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v21-5-1]]
+
+^<<v21-5-1,1>>^ Presta atenção aos teus passos sempre que fores à casa do verdadeiro Deus; é melhor aproximar-se para ouvir do que para oferecer um sacrifício como fazem os tolos, pois eles não se apercebem de que estão a agir mal.
+
+[[v21-5-2]]
+
+^<<v21-5-2,2>>^ Não te apresses em abrir a boca, nem permitas que o teu coração fale irrefletidamente diante do verdadeiro Deus, pois o verdadeiro Deus está nos céus, mas tu estás na terra. É por isso que as tuas palavras devem ser poucas.
+
+[[v21-5-3]]
+
+^<<v21-5-3,3>>^ Pois o sonho resulta de muitas preocupações, e a fala insensata resulta de muitas palavras.
+
+[[v21-5-4]]
+
+^<<v21-5-4,4>>^ Sempre que fizeres um voto a Deus, não demores a cumpri-lo, pois ele não se agrada dos tolos. O que votares, cumpre.
+
+[[v21-5-5]]
+
+^<<v21-5-5,5>>^ Mais vale não fazeres um voto do que fazeres um voto e não o cumprires.
+
+[[v21-5-6]]
+
+^<<v21-5-6,6>>^ Não permitas que a tua boca te leve^&#42;1^ a pecar, nem digas diante do anjo^&#42;2^ que se tratou de um engano. Porque é que havias de deixar o verdadeiro Deus indignado por causa do que disseste, de modo a que ele destrua o que realizaste?
+
+[NOTE]
+====
+. Lit.: “leve a tua carne”.
+. Ou: “mensageiro”.
+====
+
+[[v21-5-7]]
+
+^<<v21-5-7,7>>^ Pois, assim como muitas preocupações levam a sonhos, de igual modo, muitas palavras levam à vaidade. No entanto, teme o verdadeiro Deus.
+
+[[v21-5-8]]
+
+^<<v21-5-8,8>>^ Caso vejas, na tua província, a opressão do pobre e a violação da justiça e do que é direito, não te surpreendas. Pois aquele que está numa posição de autoridade é observado por alguém superior a ele, e há outros numa posição ainda mais elevada do que a deles.
+
+[[v21-5-9]]
+
+^<<v21-5-9,9>>^ Além disso, o produto da terra é dividido entre todos; até o rei é servido com o que vem do campo.
+
+[[v21-5-10]]
+
+^<<v21-5-10,10>>^ Quem ama a prata nunca se fartará da prata, e quem ama as riquezas nunca ficará satisfeito com os seus rendimentos. Isto também é vaidade.
+
+[[v21-5-11]]
+
+^<<v21-5-11,11>>^ Quando as coisas boas aumentam, aumentam aqueles que as consomem. E que vantagem há para o seu dono, a não ser contemplá-las com os seus olhos?
+
+[[v21-5-12]]
+
+^<<v21-5-12,12>>^ Doce é o sono de quem serve, quer coma pouco quer muito; mas a fartura do rico não o deixa dormir.
+
+[[v21-5-13]]
+
+^<<v21-5-13,13>>^ Há uma grande desgraça^&#42;1^ que tenho visto debaixo do sol: riquezas acumuladas para o próprio mal do homem que as possui.
+
+[NOTE]
+====
+. Ou: “calamidade”.
+====
+
+[[v21-5-14]]
+
+^<<v21-5-14,14>>^ Essas riquezas perdem-se por causa de um mau negócio,^&#42;1^ e, quando ele se torna pai, já não tem nada nas suas mãos.
+
+[NOTE]
+====
+. Ou: “uma ocupação calamitosa”.
+====
+
+[[v21-5-15]]
+
+^<<v21-5-15,15>>^ O homem sai nu do ventre da sua mãe, e assim se vai embora. E não pode levar nada consigo por todo o seu trabalho árduo.
+
+[[v21-5-16]]
+
+^<<v21-5-16,16>>^ Isto também é uma grande desgraça:^&#42;1^ assim como o homem vem, assim se vai embora; e que vantagem tem aquele que continua a trabalhar arduamente para alcançar o vento?
+
+[NOTE]
+====
+. Ou: “calamidade”.
+====
+
+[[v21-5-17]]
+
+^<<v21-5-17,17>>^ Além disso, durante todos os seus dias, ele come em escuridão, com muita frustração, doença e indignação.
+
+[[v21-5-18]]
+
+^<<v21-5-18,18>>^ O que eu vi que era bom e apropriado foi o seguinte: que a pessoa coma, beba e desfrute dos resultados de todo o trabalho árduo pelo qual tanto se esforça debaixo do sol, durante os poucos dias de vida que o verdadeiro Deus lhe deu, pois essa é a sua recompensa.^&#42;1^
+
+[NOTE]
+====
+. Ou: “porção”.
+====
+
+[[v21-5-19]]
+
+^<<v21-5-19,19>>^ Também, quando o verdadeiro Deus dá riquezas e bens materiais a um homem, bem como a capacidade de desfrutar deles, este deve aceitar a sua recompensa^&#42;1^ e alegrar-se com o seu trabalho árduo. Esta é a dádiva de Deus.
+
+[NOTE]
+====
+. Ou: “porção”.
+====
+
+[[v21-5-20]]
+
+^<<v21-5-20,20>>^ Pois não pensará muito nos^&#42;1^ dias da sua vida passageira, porque o verdadeiro Deus mantém-no ocupado com a alegria do seu coração.
+
+[NOTE]
+====
+. Ou: “não se lembrará muito dos”.
+====
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-004.adoc#v21-4-0[&#60; Capítulo Anterior] | <<v21-5-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-006.adoc#v21-6-0[Próximo Capítulo &#62;]

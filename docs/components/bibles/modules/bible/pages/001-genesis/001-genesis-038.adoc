@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v1-38-0]]
+=== Génesis, 38
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-38-1]]
+
+^<<v1-38-1,1>>^ Por volta daquela época, Judá deixou os seus irmãos e armou a tenda perto de um homem adulamita chamado Hira.
+
+[[v1-38-2]]
+
+^<<v1-38-2,2>>^ Ali, Judá viu a filha de certo cananeu chamado Sua. Assim, Judá tomou-a e teve relações com ela,
+
+[[v1-38-3]]
+
+^<<v1-38-3,3>>^ e ela ficou grávida. Mais tarde, ela teve um filho, e ele deu-lhe o nome de Er.
+
+[[v1-38-4]]
+
+^<<v1-38-4,4>>^ Ela ficou grávida novamente e teve um filho, e deu-lhe o nome de Onã.
+
+[[v1-38-5]]
+
+^<<v1-38-5,5>>^ Mais uma vez ela teve um filho, e deu-lhe o nome de Selá. Ele^&#42;1^ estava em Aczibe quando ela deu à luz.
+
+[NOTE]
+====
+. Isto é, Judá.
+====
+
+[[v1-38-6]]
+
+^<<v1-38-6,6>>^ Com o tempo, Judá tomou uma esposa para Er, o seu primogénito, e o nome dela era Tamar.
+
+[[v1-38-7]]
+
+^<<v1-38-7,7>>^ Mas Er, o primogénito de Judá, desagradava a Jeová; por isso, Jeová entregou-o à morte.
+
+[[v1-38-8]]
+
+^<<v1-38-8,8>>^ Em vista disso, Judá disse a Onã: “Tem relações com a esposa do teu irmão e realiza o casamento de cunhado com ela, e dá descendência ao teu irmão.”
+
+[[v1-38-9]]
+
+^<<v1-38-9,9>>^ Mas Onã sabia que a descendência não seria considerada sua. Então, quando tinha relações com a esposa do irmão, desperdiçava o sémen, derramando-o no chão, para não dar descendência ao seu irmão.
+
+[[v1-38-10]]
+
+^<<v1-38-10,10>>^ O que Onã fazia era mau aos olhos de Jeová, de modo que também o entregou à morte.
+
+[[v1-38-11]]
+
+^<<v1-38-11,11>>^ Judá disse a Tamar, sua nora: “Mora como viúva na casa do teu pai até que o meu filho Selá cresça.” Pois ele disse a si mesmo: ‘Ele também poderia morrer como os seus irmãos.’ Então, Tamar foi morar na casa do seu pai.
+
+[[v1-38-12]]
+
+^<<v1-38-12,12>>^ Passado algum tempo, a esposa de Judá, filha de Sua, morreu. Judá guardou o período de luto e depois foi a Timná com o seu amigo Hira, o adulamita, para se encontrar com os tosquiadores das suas ovelhas.
+
+[[v1-38-13]]
+
+^<<v1-38-13,13>>^ Tamar foi informada: “O teu sogro está a subir para Timná para tosquiar as suas ovelhas.”
+
+[[v1-38-14]]
+
+^<<v1-38-14,14>>^ Em vista disso, ela trocou de roupa, tirando as roupas de viúva, colocou um véu sobre o rosto e cobriu-se com um xaile, e sentou-se à entrada de Enaim, que fica na estrada de Timná, pois viu que Selá tinha crescido, mas ela não lhe tinha sido dada como esposa.
+
+[[v1-38-15]]
+
+^<<v1-38-15,15>>^ Quando Judá a viu, pensou imediatamente que fosse uma prostituta, porque ela tinha coberto o rosto.
+
+[[v1-38-16]]
+
+^<<v1-38-16,16>>^ Assim, dirigiu-se a ela, à beira da estrada, e disse: “Deixa-me ter relações contigo”, pois não sabia que era a sua nora. No entanto, ela perguntou: “O que me dará para ter relações comigo?”
+
+[[v1-38-17]]
+
+^<<v1-38-17,17>>^ Ele respondeu: “Vou enviar-te um cabrito do meu rebanho.” Mas ela perguntou: “Vai dar-me uma garantia até o enviar?”
+
+[[v1-38-18]]
+
+^<<v1-38-18,18>>^ Ele disse: “Que garantia te devo dar?” Ela respondeu: “O seu anel de sinete, o seu cordão e o seu bastão, que está na sua mão.” Então, ele entregou-lhos e teve relações com ela, e ela ficou grávida.
+
+[[v1-38-19]]
+
+^<<v1-38-19,19>>^ Depois, ela levantou-se e foi-se embora, tirou o xaile e vestiu-se com as roupas de viúva.
+
+[[v1-38-20]]
+
+^<<v1-38-20,20>>^ E Judá enviou o cabrito através do seu amigo, o adulamita, para receber de volta os objetos que tinha dado à mulher como garantia, mas ele não a encontrou.
+
+[[v1-38-21]]
+
+^<<v1-38-21,21>>^ Ele perguntou aos homens daquele lugar: “Onde está aquela prostituta de templo que costumava estar em Enaim, à beira da estrada?” Mas eles responderam: “Nunca houve nenhuma prostituta de templo neste lugar.”
+
+[[v1-38-22]]
+
+^<<v1-38-22,22>>^ Por fim, ele voltou a Judá e disse: “Não a encontrei. Além disso, os homens daquele lugar disseram: ‘Nunca houve nenhuma prostituta de templo neste lugar.’”
+
+[[v1-38-23]]
+
+^<<v1-38-23,23>>^ Então, Judá disse: “Que ela fique com eles para si, para não cairmos no ridículo. De qualquer maneira, enviei este cabrito, mas tu não a encontraste.”
+
+[[v1-38-24]]
+
+^<<v1-38-24,24>>^ No entanto, cerca de três meses depois, Judá foi informado: “Tamar, a tua nora, fez-se de prostituta e está grávida em resultado da sua prostituição.” Judá disse então: “Tragam-na para fora a fim de que seja queimada.”
+
+[[v1-38-25]]
+
+^<<v1-38-25,25>>^ Quando estava a ser levada para fora, mandou dizer ao sogro: “Estou grávida do homem a quem pertencem estes objetos.” E acrescentou: “Examine, por favor, a quem pertencem o anel de sinete, o cordão e o bastão.”
+
+[[v1-38-26]]
+
+^<<v1-38-26,26>>^ Judá examinou-os então e disse: “Ela é mais justa do que eu, pois eu não a dei a Selá, o meu filho.” Depois disso, nunca mais teve relações com ela.
+
+[[v1-38-27]]
+
+^<<v1-38-27,27>>^ Quando chegou a hora de ela dar à luz, havia gémeos no seu ventre.
+
+[[v1-38-28]]
+
+^<<v1-38-28,28>>^ Enquanto estava a dar à luz, um deles pôs a mão de fora, e a parteira pegou imediatamente num fio escarlate e atou-o à mão dele, dizendo: “Este saiu primeiro.”
+
+[[v1-38-29]]
+
+^<<v1-38-29,29>>^ Mas, assim que ele recolheu a mão, o seu irmão saiu, e ela exclamou: “Que brecha abriste para ti!” Por isso, recebeu o nome de Peres.^&#42;1^
+
+[NOTE]
+====
+. Que significa “rutura” e, provavelmente, refere-se a uma rutura perineal.
+====
+
+[[v1-38-30]]
+
+^<<v1-38-30,30>>^ Depois, saiu o seu irmão, que tinha o fio escarlate atado à mão, e recebeu o nome de Zerá.
+
+'''
+
+xref:001-genesis/001-genesis-037.adoc#v1-37-0[&#60; Capítulo Anterior] | <<v1-38-0,Topo>> | xref:001-genesis/001-genesis-039.adoc#v1-39-0[Próximo Capítulo &#62;]

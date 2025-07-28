@@ -1,0 +1,277 @@
+include::./index.adoc[]
+
+[[v18-38-0]]
+=== Jó, 38
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-38-1]]
+
+^<<v18-38-1,1>>^ Então, Jeová respondeu a Jó do meio do vendaval:
+
+[[v18-38-2]]
+
+^<<v18-38-2,2>>^ “Quem é este que está a obscurecer os meus propósitos^&#42;1^
+E a falar sem conhecimento?
+
+[NOTE]
+====
+. Ou: “o meu conselho”.
+====
+
+[[v18-38-3]]
+
+^<<v18-38-3,3>>^ Por favor, prepara-te como um homem;
+Eu irei fazer-te perguntas, e tu irás informar-me.
+
+[[v18-38-4]]
+
+^<<v18-38-4,4>>^ Onde estavas quando lancei os alicerces da terra?
+Responde-me, se achas que tens entendimento.
+
+[[v18-38-5]]
+
+^<<v18-38-5,5>>^ Quem lhe estabeleceu as medidas, caso saibas,
+Ou quem estendeu uma corda de medir sobre ela?
+
+[[v18-38-6]]
+
+^<<v18-38-6,6>>^ Em que é que se encaixaram as suas bases,
+Ou quem assentou a sua pedra angular,
+
+[[v18-38-7]]
+
+^<<v18-38-7,7>>^ Quando as estrelas da manhã gritavam de alegria, em conjunto,
+E todos os filhos de Deus^&#42;1^ davam gritos de louvor?
+
+[NOTE]
+====
+. Expressão idiomática hebraica que se refere aos filhos angélicos de Deus.
+====
+
+[[v18-38-8]]
+
+^<<v18-38-8,8>>^ E quem fechou com portas o mar
+Quando ele saiu repentinamente do ventre,
+
+[[v18-38-9]]
+
+^<<v18-38-9,9>>^ Quando o vesti com nuvens
+E o envolvi^&#42;1^ com densas trevas,
+
+[NOTE]
+====
+. Ou: “enfaixei”.
+====
+
+[[v18-38-10]]
+
+^<<v18-38-10,10>>^ Quando lhe estabeleci o meu limite
+E lhe coloquei portas e trancas,
+
+[[v18-38-11]]
+
+^<<v18-38-11,11>>^ E disse: ‘Podes chegar até aqui, mas não mais além;
+Aqui param as tuas ondas orgulhosas’?
+
+[[v18-38-12]]
+
+^<<v18-38-12,12>>^ Já^&#42;1^ alguma vez deste ordens à manhã
+Ou fizeste a aurora saber o seu lugar,
+
+[NOTE]
+====
+. Lit.: “Nos teus dias”.
+====
+
+[[v18-38-13]]
+
+^<<v18-38-13,13>>^ Para que ela segurasse os confins da terra
+E sacudisse dela os maus?
+
+[[v18-38-14]]
+
+^<<v18-38-14,14>>^ A terra transforma-se como argila debaixo de um selo,
+E tudo nela se destaca como os adornos de uma roupa.
+
+[[v18-38-15]]
+
+^<<v18-38-15,15>>^ Contudo, a luz dos maus é-lhes retirada,
+E o braço forte^&#42;1^ deles é partido.
+
+[NOTE]
+====
+. Lit.: “erguido”.
+====
+
+[[v18-38-16]]
+
+^<<v18-38-16,16>>^ Já desceste às fontes do mar
+Ou exploraste as águas profundas?
+
+[[v18-38-17]]
+
+^<<v18-38-17,17>>^ Foram-te revelados os portões da morte,
+Ou já viste os portões da escuridão profunda?^&#42;1^
+
+[NOTE]
+====
+. Ou: “da sombra da morte”.
+====
+
+[[v18-38-18]]
+
+^<<v18-38-18,18>>^ Compreendeste a imensidão da terra?
+Responde-me, se sabes tudo isto.
+
+[[v18-38-19]]
+
+^<<v18-38-19,19>>^ Em que direção reside a luz?
+E onde é o lugar da escuridão,
+
+[[v18-38-20]]
+
+^<<v18-38-20,20>>^ Para que a leves ao seu território
+E conheças os caminhos para a sua casa?
+
+[[v18-38-21]]
+
+^<<v18-38-21,21>>^ Por acaso, sabes isto porque já tinhas nascido
+E porque são muitos os teus anos?^&#42;1^
+
+[NOTE]
+====
+. Lit.: “dias”.
+====
+
+[[v18-38-22]]
+
+^<<v18-38-22,22>>^ Por acaso, entraste nos depósitos da neve,
+Ou viste os depósitos do granizo,
+
+[[v18-38-23]]
+
+^<<v18-38-23,23>>^ Que reservei para o tempo de aflição,
+Para o dia de batalha e de guerra?
+
+[[v18-38-24]]
+
+^<<v18-38-24,24>>^ De onde se propaga a luz,^&#42;1^
+E de onde sopra o vento leste sobre a terra?
+
+[NOTE]
+====
+. Ou, possivelmente: “o relâmpago”.
+====
+
+[[v18-38-25]]
+
+^<<v18-38-25,25>>^ Quem abriu um canal para o aguaceiro
+E fez um caminho para a trovejante nuvem de tempestade,
+
+[[v18-38-26]]
+
+^<<v18-38-26,26>>^ Para fazer chover onde não mora ninguém,
+No deserto, onde não há nenhum humano,
+
+[[v18-38-27]]
+
+^<<v18-38-27,27>>^ Para saciar lugares devastados
+E fazer a erva brotar?
+
+[[v18-38-28]]
+
+^<<v18-38-28,28>>^ Será que a chuva tem um pai?
+Ou quem gerou as gotas de orvalho?
+
+[[v18-38-29]]
+
+^<<v18-38-29,29>>^ Do ventre de quem saiu o gelo,
+E quem deu à luz a geada do céu?
+
+[[v18-38-30]]
+
+^<<v18-38-30,30>>^ As águas são cobertas como que com pedra,
+E a superfície das águas profundas congela-se.
+
+[[v18-38-31]]
+
+^<<v18-38-31,31>>^ Será que podes atar as cordas da constelação de Quima,^&#42;1^
+Ou desatar as cordas da constelação de Quesil?^&#42;2^
+
+[NOTE]
+====
+. Possivelmente, as estrelas de Plêiades na constelação do Touro.
+. Possivelmente, a constelação de Órion.
+====
+
+[[v18-38-32]]
+
+^<<v18-38-32,32>>^ Podes fazer sair uma constelação^&#42;1^ na sua estação,
+Ou guiar a constelação de Ás^&#42;2^ com os seus filhos?
+
+[NOTE]
+====
+. Lit.: “Mazarote”. Em 2 Reis 23:5, o termo relacionado ocorre no plural e refere-se às constelações do zodíaco.
+. Possivelmente, a constelação da Ursa Maior.
+====
+
+[[v18-38-33]]
+
+^<<v18-38-33,33>>^ Por acaso, conheces as leis que governam os céus,
+Ou podes impor a autoridade delas^&#42;1^ sobre a terra?
+
+[NOTE]
+====
+. Ou, possivelmente: “Dele”.
+====
+
+[[v18-38-34]]
+
+^<<v18-38-34,34>>^ Será que podes erguer a tua voz até às nuvens,
+Para fazer com que um aguaceiro te cubra?
+
+[[v18-38-35]]
+
+^<<v18-38-35,35>>^ Por acaso, podes enviar raios?
+Será que eles vêm e te dizem: ‘Aqui estamos!’?
+
+[[v18-38-36]]
+
+^<<v18-38-36,36>>^ Quem pôs sabedoria nas nuvens,^&#42;1^
+Ou deu entendimento aos fenómenos celestes?^&#42;2^
+
+[NOTE]
+====
+. Ou, possivelmente: “no íntimo do homem”.
+. Ou, possivelmente: “à mente”.
+====
+
+[[v18-38-37]]
+
+^<<v18-38-37,37>>^ Quem tem sabedoria para contar as nuvens,
+Ou quem pode despejar os jarros de água do céu,
+
+[[v18-38-38]]
+
+^<<v18-38-38,38>>^ De modo que o pó se transforma em lama
+E os torrões de terra aderem um ao outro?
+
+[[v18-38-39]]
+
+^<<v18-38-39,39>>^ Será que podes caçar a presa para o leão
+Ou satisfazer o apetite dos leões novos,
+
+[[v18-38-40]]
+
+^<<v18-38-40,40>>^ Quando se agacham nos esconderijos
+Ou ficam de emboscada nas tocas?
+
+[[v18-38-41]]
+
+^<<v18-38-41,41>>^ Quem dá alimento ao corvo
+Quando os seus filhotes clamam a Deus por ajuda
+E vagueiam por não haver nada para comer?
+
+'''
+
+xref:018-jo/018-jo-037.adoc#v18-37-0[&#60; Capítulo Anterior] | <<v18-38-0,Topo>> | xref:018-jo/018-jo-039.adoc#v18-39-0[Próximo Capítulo &#62;]

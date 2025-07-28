@@ -1,0 +1,165 @@
+include::./index.adoc[]
+
+[[v5-7-0]]
+=== Deuteronómio, 7
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-7-1]]
+
+^<<v5-7-1,1>>^ “Quando Jeová, teu Deus, te levar à terra em que estás para entrar e da qual estás prestes a tomar posse, ele também expulsará de diante de ti nações populosas: os hititas, os girgaseus, os amorreus, os cananeus, os perizeus, os heveus e os jebuseus, sete nações mais populosas e mais fortes do que tu.
+
+[[v5-7-2]]
+
+^<<v5-7-2,2>>^ Jeová, teu Deus, irá entregá-las a ti, e tu irás derrotá-las. Deves, sem falta, entregá-las à destruição.^&#42;1^ Não faças nenhum pacto com elas, nem lhes mostres nenhum favor.
+
+[NOTE]
+====
+. Ou: “devotá-las à destruição”. Veja o Glossário.
+====
+
+[[v5-7-3]]
+
+^<<v5-7-3,3>>^ Não formes nenhuma aliança matrimonial^&#42;1^ com elas. Não dês as tuas filhas aos filhos deles, nem tomes as filhas deles para os teus filhos.
+
+[NOTE]
+====
+. Ou: “Não realizes casamentos mistos”.
+====
+
+[[v5-7-4]]
+
+^<<v5-7-4,4>>^ Pois desviarão os teus filhos de me seguirem para servirem outros deuses. Então, a ira de Jeová irá acender-se contra vocês, e ele irá destruir-te depressa.
+
+[[v5-7-5]]
+
+^<<v5-7-5,5>>^ “Em vez disso, vocês devem fazer-lhes o seguinte: destruam os seus altares, destrocem as suas colunas sagradas, cortem os seus postes sagrados^&#42;1^ e queimem as suas imagens esculpidas.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v5-7-6]]
+
+^<<v5-7-6,6>>^ Pois tu és um povo santo para Jeová, teu Deus. Jeová, teu Deus, escolheu-te para te tornares o seu povo, a sua propriedade especial^&#42;1^ dentre todos os povos que há na face da terra.
+
+[NOTE]
+====
+. Ou: “estimada”.
+====
+
+[[v5-7-7]]
+
+^<<v5-7-7,7>>^ “Não foi por serem o mais numeroso de todos os povos que Jeová vos mostrou afeição e vos escolheu, pois eram o menor de todos os povos.
+
+[[v5-7-8]]
+
+^<<v5-7-8,8>>^ Mas foi porque Jeová vos amou e porque cumpriu o juramento que tinha feito aos vossos antepassados. Por isso, Jeová tirou-vos de lá com mão poderosa, para te resgatar da terra da escravidão,^&#42;1^ do poder^&#42;2^ do Faraó, rei do Egito.
+
+[NOTE]
+====
+. Lit.: “casa dos escravos”.
+. Ou: “da mão”.
+====
+
+[[v5-7-9]]
+
+^<<v5-7-9,9>>^ Sabes muito bem que Jeová, teu Deus, é o verdadeiro Deus, o Deus fiel, que mantém contigo o seu pacto e o amor leal até à milésima geração dos que o amam e guardam os seus mandamentos.
+
+[[v5-7-10]]
+
+^<<v5-7-10,10>>^ Mas retribuirá diretamente àqueles que o odeiam, destruindo-os. Não se demorará a agir contra aqueles que o odeiam; irá retribuir-lhes diretamente.
+
+[[v5-7-11]]
+
+^<<v5-7-11,11>>^ Portanto, tem o cuidado de guardar os mandamentos, os decretos e as decisões judiciais que hoje te ordeno, cumprindo-os.
+
+[[v5-7-12]]
+
+^<<v5-7-12,12>>^ “Se continuarem a prestar atenção a estas decisões judiciais, e se as guardarem e cumprirem, Jeová, teu Deus, manterá contigo o pacto e o amor leal que jurou aos teus antepassados.
+
+[[v5-7-13]]
+
+^<<v5-7-13,13>>^ Ele irá amar-te, abençoar-te e multiplicar-te. Sim, ele irá abençoar-te com muitos filhos,^&#42;1^ com os produtos da tua terra — os teus cereais, o teu vinho novo e o teu azeite — e com as crias das tuas vacas e das tuas ovelhas, na terra que te dará, conforme jurou aos teus antepassados.
+
+[NOTE]
+====
+. Lit.: “abençoar o fruto do teu ventre”.
+====
+
+[[v5-7-14]]
+
+^<<v5-7-14,14>>^ Irás tornar-te o mais abençoado de todos os povos; nenhum homem ou mulher no teu meio ficará sem filhos, nem o teu gado ficará sem crias.
+
+[[v5-7-15]]
+
+^<<v5-7-15,15>>^ Jeová eliminará do teu meio todas as doenças e não trará sobre ti nenhuma das doenças terríveis que conheceste no Egito. Em vez disso, ele irá trazê-las sobre todos os que te odeiam.
+
+[[v5-7-16]]
+
+^<<v5-7-16,16>>^ Deves destruir^&#42;1^ todos os povos que Jeová, teu Deus, te entregar. Tu não deves^&#42;2^ ter dó deles. E não sirvas os seus deuses, pois isso seria um laço para ti.
+
+[NOTE]
+====
+. Lit.: “devorar”.
+. Lit.: “O teu olho não deve”.
+====
+
+[[v5-7-17]]
+
+^<<v5-7-17,17>>^ “Se disseres no coração: ‘Estas nações são mais numerosas do que nós. Como é que as poderei expulsar?’,
+
+[[v5-7-18]]
+
+^<<v5-7-18,18>>^ não tenhas medo delas. Deves lembrar-te do que Jeová, teu Deus, fez ao Faraó e a todo o Egito,
+
+[[v5-7-19]]
+
+^<<v5-7-19,19>>^ os grandes julgamentos^&#42;1^ que os teus olhos viram, os sinais, os milagres, a mão poderosa e o braço estendido com que Jeová, teu Deus, te tirou de lá. Isso é o que Jeová, teu Deus, fará a todos os povos dos quais tens medo.
+
+[NOTE]
+====
+. Ou: “as grandes provas”.
+====
+
+[[v5-7-20]]
+
+^<<v5-7-20,20>>^ Jeová, teu Deus, trará sobre eles o sentimento de desânimo,^&#42;1^ até morrerem os que restarem e os que se esconderem de ti.
+
+[NOTE]
+====
+. Ou, possivelmente: “pânico; pavor”.
+====
+
+[[v5-7-21]]
+
+^<<v5-7-21,21>>^ Não fiques apavorado por causa deles, pois Jeová, teu Deus, um Deus grande e que inspira temor, está contigo.
+
+[[v5-7-22]]
+
+^<<v5-7-22,22>>^ “Jeová, teu Deus, certamente expulsará estas nações de diante de ti aos poucos. Não te será permitido acabar depressa com elas, para que os animais selvagens não se multipliquem e venham contra ti.
+
+[[v5-7-23]]
+
+^<<v5-7-23,23>>^ Jeová, teu Deus, irá entregá-las a ti e derrotá-las completamente, até que sejam destruídas.
+
+[[v5-7-24]]
+
+^<<v5-7-24,24>>^ Entregará os seus reis nas tuas mãos, e apagarás o nome deles de debaixo dos céus. Ninguém resistirá diante de ti até que os tenhas exterminado.
+
+[[v5-7-25]]
+
+^<<v5-7-25,25>>^ Vocês devem queimar com fogo as imagens esculpidas dos seus deuses. Não desejes a prata e o ouro das imagens, nem os leves para ti, para que não sejas enlaçado por eles, pois são algo detestável para Jeová, teu Deus.
+
+[[v5-7-26]]
+
+^<<v5-7-26,26>>^ Não leves nenhuma coisa detestável para casa, de modo a não te tornares como ela, uma coisa condenada à destruição.^&#42;1^ Deves ter completa repugnância por ela e detestá-la profundamente, porque está condenada à destruição.
+
+[NOTE]
+====
+. Ou: “devotada à destruição”. Veja o Glossário.
+====
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-006.adoc#v5-6-0[&#60; Capítulo Anterior] | <<v5-7-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-008.adoc#v5-8-0[Próximo Capítulo &#62;]

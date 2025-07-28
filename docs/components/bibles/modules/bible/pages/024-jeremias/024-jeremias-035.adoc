@@ -1,0 +1,106 @@
+include::./index.adoc[]
+
+[[v24-35-0]]
+=== Jeremias, 35
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v24-35-1]]
+
+^<<v24-35-1,1>>^ Nos dias de Jeoiaquim, filho de Josias e rei de Judá, Jeremias recebeu de Jeová a seguinte palavra:
+
+[[v24-35-2]]
+
+^<<v24-35-2,2>>^ “Vai à casa dos recabitas, fala com eles e trá-los à casa de Jeová, a um dos refeitórios,^&#42;1^ e oferece-lhes vinho para beber.”
+
+[NOTE]
+====
+. Ou: “uma das salas”.
+====
+
+[[v24-35-3]]
+
+^<<v24-35-3,3>>^ Portanto, levei Jaazanias, filho de Jeremias, filho de Habazinias, e também os seus irmãos, todos os seus filhos e toda a casa dos recabitas
+
+[[v24-35-4]]
+
+^<<v24-35-4,4>>^ à casa de Jeová. Levei-os ao refeitório dos filhos de Hanã, filho de Jigdalias, homem do verdadeiro Deus. Esse refeitório ficava ao lado do refeitório dos príncipes que ficava por cima do refeitório de Maaseias, filho do porteiro Salum.
+
+[[v24-35-5]]
+
+^<<v24-35-5,5>>^ Depois, coloquei copos e taças cheios de vinho diante dos homens da casa dos recabitas e disse-lhes: “Bebam vinho.”
+
+[[v24-35-6]]
+
+^<<v24-35-6,6>>^ Porém, eles disseram: “Não vamos beber vinho, pois Jonadabe, filho de Recabe, nosso antepassado, deu-nos a seguinte ordem: ‘Nunca bebam vinho, nem vocês nem os vossos filhos.
+
+[[v24-35-7]]
+
+^<<v24-35-7,7>>^ Não construam uma casa nem semeiem, não plantem nem obtenham nenhuma vinha. Em vez disso, morem sempre em tendas, para que vivam por muito tempo na terra onde moram como estrangeiros.’
+
+[[v24-35-8]]
+
+^<<v24-35-8,8>>^ Por isso, continuamos a obedecer às palavras de Jonadabe, filho de Recabe, nosso antepassado, fazendo tudo o que nos ordenou. Nós, as nossas esposas, os nossos filhos e as nossas filhas nunca bebemos vinho.
+
+[[v24-35-9]]
+
+^<<v24-35-9,9>>^ Também não construímos casas para habitar, nem temos vinhas, nem campos, nem sementes.
+
+[[v24-35-10]]
+
+^<<v24-35-10,10>>^ Continuamos a morar em tendas e a obedecer a tudo o que Jonadabe, nosso antepassado, nos ordenou.
+
+[[v24-35-11]]
+
+^<<v24-35-11,11>>^ No entanto, quando Nabucodonosor,^&#42;1^ rei de Babilónia, veio contra o país, nós dissemos: ‘Venham, entremos em Jerusalém, para escapar do exército dos caldeus e dos sírios.’ E, agora, moramos em Jerusalém.”
+
+[NOTE]
+====
+. Lit.: “Nabucodorosor”, grafia variante.
+====
+
+[[v24-35-12]]
+
+^<<v24-35-12,12>>^ Então, Jeremias recebeu a seguinte palavra de Jeová:
+
+[[v24-35-13]]
+
+^<<v24-35-13,13>>^ “Assim diz Jeová dos exércitos, o Deus de Israel: ‘Vai e diz aos homens de Judá e aos habitantes de Jerusalém: “Não foram exortados, vez após vez, a obedecerem às minhas palavras?”, diz Jeová.
+
+[[v24-35-14]]
+
+^<<v24-35-14,14>>^ “Jonadabe, filho de Recabe, ordenou aos seus descendentes que não bebessem vinho e, até hoje, eles têm cumprido as suas palavras de não beber vinho, obedecendo assim à ordem do seu antepassado. No entanto, tenho falado convosco vez após vez,^&#42;1^ mas vocês não me obedecem.
+
+[NOTE]
+====
+. Lit.: “convosco, levantando-me cedo e falando”.
+====
+
+[[v24-35-15]]
+
+^<<v24-35-15,15>>^ Eu enviava-vos todos os meus servos, os profetas; enviava-os vez após vez,^&#42;1^ dizendo: ‘Por favor, que cada um recue do seu mau caminho e faça o que é certo! Não sigam outros deuses nem os sirvam. Assim, continuarão a morar na terra que vos dei, a vocês e aos vossos antepassados.’ Contudo, não me prestaram atenção^&#42;2^ nem me deram ouvidos.
+
+[NOTE]
+====
+. Lit.: “os profetas; levantando-me cedo e enviando”.
+. Ou: “não inclinaram o vosso ouvido”.
+====
+
+[[v24-35-16]]
+
+^<<v24-35-16,16>>^ Os descendentes de Jonadabe, filho de Recabe, cumprem a ordem que o seu antepassado lhes deu, mas este povo não me escuta.”’”
+
+[[v24-35-17]]
+
+^<<v24-35-17,17>>^ “Portanto, assim diz Jeová, o Deus dos exércitos, o Deus de Israel: ‘Vou trazer sobre Judá e sobre todos os habitantes de Jerusalém toda a calamidade sobre a qual os alertei, pois falei-lhes, mas eles não escutaram, e continuei a chamá-los, mas eles não responderam.’”
+
+[[v24-35-18]]
+
+^<<v24-35-18,18>>^ E Jeremias disse aos da casa dos recabitas: “Assim diz Jeová dos exércitos, o Deus de Israel: ‘Visto que obedeceram à ordem de Jonadabe, vosso antepassado, e continuam a cumprir todas as suas ordens e a fazer exatamente o que ele vos ordenou,
+
+[[v24-35-19]]
+
+^<<v24-35-19,19>>^ assim diz Jeová dos exércitos, o Deus de Israel: “Haverá sempre um descendente de Jonadabe, filho de Recabe, para servir diante de mim.”’”
+
+'''
+
+xref:024-jeremias/024-jeremias-034.adoc#v24-34-0[&#60; Capítulo Anterior] | <<v24-35-0,Topo>> | xref:024-jeremias/024-jeremias-036.adoc#v24-36-0[Próximo Capítulo &#62;]

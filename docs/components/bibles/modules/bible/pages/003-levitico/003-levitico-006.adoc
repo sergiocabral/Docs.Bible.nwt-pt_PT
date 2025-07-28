@@ -1,0 +1,162 @@
+include::./index.adoc[]
+
+[[v3-6-0]]
+=== Levítico, 6
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v3-6-1]]
+
+^<<v3-6-1,1>>^ Jeová continuou a dizer a Moisés:
+
+[[v3-6-2]]
+
+^<<v3-6-2,2>>^ “Se alguém^&#42;1^ pecar e se comportar de modo infiel para com Jeová, por enganar o seu próximo a respeito de algo que lhe foi confiado ou que lhe foi deixado como garantia, ou se ele roubar ou defraudar o seu próximo,
+
+[NOTE]
+====
+. Ou: “uma alma”.
+====
+
+[[v3-6-3]]
+
+^<<v3-6-3,3>>^ ou encontrar algo perdido e mentir a respeito disso, e se ele jurar falsamente a respeito de qualquer um desses pecados que cometer, isto é o que ele deve fazer:
+
+[[v3-6-4]]
+
+^<<v3-6-4,4>>^ se ele pecou e é culpado, deve devolver o que roubou, o que extorquiu, o que tirou por meio de fraude, o que foi confiado aos seus cuidados, a coisa perdida que encontrou,
+
+[[v3-6-5]]
+
+^<<v3-6-5,5>>^ ou qualquer coisa a respeito da qual tenha jurado falsamente, e deve pagar a quantia integral, acrescida de um quinto do seu valor. Irá dá-la ao dono, no dia em que se provar a sua culpa.
+
+[[v3-6-6]]
+
+^<<v3-6-6,6>>^ E ele levará ao sacerdote, como oferta pela culpa a Jeová, um carneiro sadio do rebanho, segundo o valor que for estipulado, como oferta pela culpa.
+
+[[v3-6-7]]
+
+^<<v3-6-7,7>>^ O sacerdote fará expiação por ele perante Jeová e ele receberá o perdão por qualquer coisa que tenha feito e pela qual se tornou culpado.”
+
+[[v3-6-8]]
+
+^<<v3-6-8,8>>^ Jeová continuou a dizer a Moisés:
+
+[[v3-6-9]]
+
+^<<v3-6-9,9>>^ “Dá a Arão e aos seus filhos as seguintes ordens: ‘Esta é a lei da oferta queimada: a oferta queimada ficará no braseiro do altar durante toda a noite, até à manhã seguinte, e o fogo será mantido aceso no altar.
+
+[[v3-6-10]]
+
+^<<v3-6-10,10>>^ O sacerdote porá a sua veste oficial de linho e porá os calções^&#42;1^ de linho sobre a sua nudez.^&#42;2^ Então, retirará as cinzas^&#42;3^ da oferta queimada que o fogo consumiu no altar e irá pô-las ao lado do altar.
+
+[NOTE]
+====
+. Ou: “a roupa interior”.
+. Lit.: “carne”.
+. Ou: “cinzas gordurosas”, isto é, cinzas impregnadas da gordura dos sacrifícios.
+====
+
+[[v3-6-11]]
+
+^<<v3-6-11,11>>^ Depois, tirará as suas vestes e porá outras vestes, e levará as cinzas para um lugar limpo, fora do acampamento.
+
+[[v3-6-12]]
+
+^<<v3-6-12,12>>^ O fogo será mantido aceso no altar. Não se deve apagar. Todas as manhãs, o sacerdote queimará nele lenha, disporá a oferta queimada sobre ele e queimará nele a gordura dos sacrifícios de participação em comum.
+
+[[v3-6-13]]
+
+^<<v3-6-13,13>>^ O fogo será mantido continuamente aceso no altar. Não se deve apagar.
+
+[[v3-6-14]]
+
+^<<v3-6-14,14>>^ “‘Esta é a lei da oferta de cereais: vocês, filhos de Arão, devem apresentá-la perante Jeová, diante do altar.
+
+[[v3-6-15]]
+
+^<<v3-6-15,15>>^ Um deles tirará da oferta de cereais um punhado de farinha fina com azeite e todo o olíbano que há sobre a oferta de cereais. Irá queimá-los no altar como representação da oferta inteira,^&#42;1^ como aroma agradável^&#42;2^ para Jeová.
+
+[NOTE]
+====
+. Ou: “como sua porção memorial”.
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v3-6-16]]
+
+^<<v3-6-16,16>>^ Arão e os seus filhos comerão o que sobrar da oferta. Farão com ela pães sem fermento e irão comê-los num lugar santo. Eles irão comê-la no pátio da tenda de reunião.
+
+[[v3-6-17]]
+
+^<<v3-6-17,17>>^ Não deve ser preparada com fermento. É a parte que lhes dei das ofertas que me foram feitas por fogo. É algo santíssimo, assim como a oferta pelo pecado e como a oferta pela culpa.
+
+[[v3-6-18]]
+
+^<<v3-6-18,18>>^ Todos os descendentes do sexo masculino dentre os filhos de Arão comerão dela. É a porção que lhes é concedida permanentemente, para todas as suas gerações, dentre as ofertas feitas por fogo a Jeová. Tudo o que tocar nelas^&#42;1^ irá tornar-se sagrado.’”
+
+[NOTE]
+====
+. Ou: “nas ofertas”.
+====
+
+[[v3-6-19]]
+
+^<<v3-6-19,19>>^ Jeová ainda disse a Moisés:
+
+[[v3-6-20]]
+
+^<<v3-6-20,20>>^ “Esta é a oferta que Arão e os seus filhos apresentarão a Jeová no dia em que ele for ungido: a décima parte de uma efa^&#42;1^ de farinha fina como oferta de cereais, como se faz regularmente, metade de manhã e metade ao anoitecer.
+
+[NOTE]
+====
+. A décima parte de uma efa equivalia a 2,2 l. Veja o Ap. B14.
+====
+
+[[v3-6-21]]
+
+^<<v3-6-21,21>>^ Será feita com azeite, numa assadeira. Terás de a trazer bem misturada com azeite e apresentá-la como oferta de cereais cozida, partida em pedaços, como aroma agradável^&#42;1^ para Jeová.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v3-6-22]]
+
+^<<v3-6-22,22>>^ O sacerdote ungido dentre os filhos de Arão que lhe suceder também fará essa oferta. É um decreto permanente: a oferta inteira será queimada perante Jeová.
+
+[[v3-6-23]]
+
+^<<v3-6-23,23>>^ Todas as ofertas de cereais em favor de um sacerdote devem ser ofertas apresentadas integralmente; não devem ser comidas.”
+
+[[v3-6-24]]
+
+^<<v3-6-24,24>>^ Jeová falou outra vez a Moisés:
+
+[[v3-6-25]]
+
+^<<v3-6-25,25>>^ “Diz a Arão e aos seus filhos: ‘Esta é a lei da oferta pelo pecado: no lugar onde se abate a oferta queimada, também se abaterá perante Jeová a oferta pelo pecado. É algo santíssimo.
+
+[[v3-6-26]]
+
+^<<v3-6-26,26>>^ O sacerdote que a oferecer pelo pecado irá comê-la. Será comida num lugar santo, no pátio da tenda de reunião.
+
+[[v3-6-27]]
+
+^<<v3-6-27,27>>^ “‘Tudo o que tocar na carne da oferta irá tornar-se sagrado, e, se a roupa de alguém for salpicada com um pouco do sangue da oferta, deves lavar num lugar santo a roupa que foi salpicada com sangue.
+
+[[v3-6-28]]
+
+^<<v3-6-28,28>>^ O recipiente de barro em que a carne foi cozida deve ser despedaçado. Mas, se ela foi cozida num recipiente de cobre, o recipiente terá de ser esfregado e lavado com água.
+
+[[v3-6-29]]
+
+^<<v3-6-29,29>>^ “‘Todos os homens dentre os sacerdotes irão comê-la. É algo santíssimo.
+
+[[v3-6-30]]
+
+^<<v3-6-30,30>>^ No entanto, não se deve comer nenhuma oferta pelo pecado se um pouco do seu sangue for trazido para dentro da tenda de reunião, para fazer expiação no lugar santo. Deve ser queimada no fogo.
+
+'''
+
+xref:003-levitico/003-levitico-005.adoc#v3-5-0[&#60; Capítulo Anterior] | <<v3-6-0,Topo>> | xref:003-levitico/003-levitico-007.adoc#v3-7-0[Próximo Capítulo &#62;]

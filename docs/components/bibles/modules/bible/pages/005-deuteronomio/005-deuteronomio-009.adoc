@@ -1,0 +1,170 @@
+include::./index.adoc[]
+
+[[v5-9-0]]
+=== Deuteronómio, 9
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-9-1]]
+
+^<<v5-9-1,1>>^ “Ouve, ó Israel: hoje, estás a atravessar o Jordão para entrares nesta terra e expulsares nações maiores e mais fortes do que tu, cidades grandes e fortificadas até aos céus,^&#42;1^
+
+[NOTE]
+====
+. Isto é, fortificadas com muralhas enormes.
+====
+
+[[v5-9-2]]
+
+^<<v5-9-2,2>>^ um povo forte e alto, os filhos dos anaquins, que tu conheces e de quem ouviste dizer: ‘Quem pode resistir diante dos filhos de Anaque?’
+
+[[v5-9-3]]
+
+^<<v5-9-3,3>>^ Portanto, hoje, fica a saber que Jeová, teu Deus, irá à tua frente. Ele é um fogo consumidor e irá exterminá-los. Ele irá subjugá-los diante dos teus olhos, para que os expulses^&#42;1^ rapidamente e os destruas, assim como Jeová te prometeu.
+
+[NOTE]
+====
+. Ou: “desaposses”.
+====
+
+[[v5-9-4]]
+
+^<<v5-9-4,4>>^ “Quando Jeová, teu Deus, os expulsar de diante de ti, não digas no teu coração: ‘Foi por causa da minha justiça que Jeová me fez entrar nesta terra para tomar posse dela.’ Em vez disso, é por causa da maldade destas nações que Jeová as expulsa de diante de ti.
+
+[[v5-9-5]]
+
+^<<v5-9-5,5>>^ Não é por causa da tua justiça ou da retidão do teu coração que estás a entrar na sua terra para tomar posse dela. Mas é por causa da maldade destas nações que Jeová, teu Deus, as expulsa de diante de ti, e é para cumprir a palavra que Jeová jurou aos teus antepassados, Abraão, Isaque e Jacó.
+
+[[v5-9-6]]
+
+^<<v5-9-6,6>>^ Assim, fica a saber que não é por causa da tua justiça que Jeová, teu Deus, te dá esta boa terra para tomares posse dela, porque vocês são um povo obstinado.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “de dura cerviz”.
+====
+
+[[v5-9-7]]
+
+^<<v5-9-7,7>>^ “Lembra-te, nunca te esqueças, de como provocaste a Jeová, teu Deus, no deserto. Desde o dia em que saíram da terra do Egito até chegarem a este lugar, rebelaram-se contra Jeová.
+
+[[v5-9-8]]
+
+^<<v5-9-8,8>>^ Até mesmo em Horebe vocês provocaram a Jeová, e Jeová ficou tão furioso convosco que estava pronto para vos destruir.
+
+[[v5-9-9]]
+
+^<<v5-9-9,9>>^ Quando subi ao monte para receber as tábuas de pedra, as tábuas do pacto que Jeová fez convosco, permaneci no monte 40 dias e 40 noites, sem comer pão nem beber água.
+
+[[v5-9-10]]
+
+^<<v5-9-10,10>>^ Então, Jeová deu-me as duas tábuas de pedra escritas pelo dedo de Deus. Nelas estavam todas as palavras que Jeová vos tinha falado no monte, do meio do fogo, no dia em que a assembleia estava reunida.^&#42;1^
+
+[NOTE]
+====
+. Ou: “no dia da congregação”.
+====
+
+[[v5-9-11]]
+
+^<<v5-9-11,11>>^ No fim dos 40 dias e 40 noites, Jeová deu-me as duas tábuas de pedra, as tábuas do pacto,
+
+[[v5-9-12]]
+
+^<<v5-9-12,12>>^ e Jeová disse-me: ‘Levanta-te e desce depressa daqui, porque o teu povo, que tiraste do Egito, corrompeu-se. Desviaram-se depressa do caminho que lhes ordenei que seguissem. Fizeram para si uma imagem de metal.’^&#42;1^
+
+[NOTE]
+====
+. Ou: “estátua fundida”.
+====
+
+[[v5-9-13]]
+
+^<<v5-9-13,13>>^ E Jeová disse-me: ‘Vejo que este povo é realmente obstinado.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “de dura cerviz”.
+====
+
+[[v5-9-14]]
+
+^<<v5-9-14,14>>^ Não me tentes impedir de os destruir e de apagar o seu nome de debaixo dos céus; e farei de ti uma nação mais forte e mais numerosa do que eles.’
+
+[[v5-9-15]]
+
+^<<v5-9-15,15>>^ “Então, eu virei-me e desci do monte, enquanto o monte ardia em chamas; e as duas tábuas do pacto estavam nas minhas mãos.
+
+[[v5-9-16]]
+
+^<<v5-9-16,16>>^ Quando olhei, vi que vocês tinham pecado contra Jeová, vosso Deus! Tinham feito para vocês um bezerro de metal.^&#42;1^ Tinham-se desviado depressa do caminho que Jeová ordenara que seguissem.
+
+[NOTE]
+====
+. Ou: “bezerro fundido”.
+====
+
+[[v5-9-17]]
+
+^<<v5-9-17,17>>^ Por isso, peguei nas duas tábuas e atirei-as ao chão com as duas mãos, despedaçando-as diante dos vossos olhos.
+
+[[v5-9-18]]
+
+^<<v5-9-18,18>>^ Então, prostrei-me perante Jeová, como tinha feito antes, por 40 dias e 40 noites. Não comi pão nem bebi água, por causa de todos os pecados que tinham cometido, por fazerem o que é mau aos olhos de Jeová e por o ofenderem.
+
+[[v5-9-19]]
+
+^<<v5-9-19,19>>^ Pois estava apavorado por causa da grande ira de Jeová contra vocês; ele estava pronto para vos destruir. No entanto, Jeová escutou-me também daquela vez.
+
+[[v5-9-20]]
+
+^<<v5-9-20,20>>^ “Jeová estava tão furioso com Arão que estava pronto para o destruir, mas eu também fiz súplicas a favor de Arão naquela ocasião.
+
+[[v5-9-21]]
+
+^<<v5-9-21,21>>^ Então, peguei no objeto do vosso pecado, o bezerro que tinham feito, e queimei-o no fogo; esmaguei-o, moí-o completamente até ficar fino como pó, e lancei o pó na água que desce do monte.
+
+[[v5-9-22]]
+
+^<<v5-9-22,22>>^ “Além disso, em Taberá, em Massá e em Quibrote-Ataavá, também provocaram Jeová à ira.
+
+[[v5-9-23]]
+
+^<<v5-9-23,23>>^ Quando Jeová vos enviou de Cades-Barneia, dizendo: ‘Vão e tomem posse da terra que certamente vos darei’, rebelaram-se outra vez contra a ordem de Jeová, vosso Deus, e não exerceram fé nele, nem lhe obedeceram.
+
+[[v5-9-24]]
+
+^<<v5-9-24,24>>^ Têm-se rebelado contra Jeová desde que vos conheço.
+
+[[v5-9-25]]
+
+^<<v5-9-25,25>>^ “Portanto, prostrei-me perante Jeová 40 dias e 40 noites; fiquei prostrado desta maneira porque Jeová disse que vos destruiria.
+
+[[v5-9-26]]
+
+^<<v5-9-26,26>>^ Comecei a fazer súplicas a Jeová, dizendo: ‘Ó Soberano Senhor Jeová, não destruas o teu povo. Eles são a tua propriedade particular,^&#42;1^ que resgataste com a tua grandeza e tiraste do Egito com mão poderosa.
+
+[NOTE]
+====
+. Ou: “a tua herança”.
+====
+
+[[v5-9-27]]
+
+^<<v5-9-27,27>>^ Lembra-te dos teus servos Abraão, Isaque e Jacó. Não prestes atenção à obstinação deste povo, à sua maldade e ao seu pecado.
+
+[[v5-9-28]]
+
+^<<v5-9-28,28>>^ Senão o povo da terra de onde nos tiraste dirá: “Jeová não foi capaz de os levar à terra que lhes prometeu e, visto que os odeia, tirou-os daqui para os matar no deserto.”
+
+[[v5-9-29]]
+
+^<<v5-9-29,29>>^ Pois são o teu povo e a tua propriedade particular,^&#42;1^ que tiraste de lá com o teu grande poder e o teu braço estendido.’
+
+[NOTE]
+====
+. Ou: “a tua herança”.
+====
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-008.adoc#v5-8-0[&#60; Capítulo Anterior] | <<v5-9-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-010.adoc#v5-10-0[Próximo Capítulo &#62;]

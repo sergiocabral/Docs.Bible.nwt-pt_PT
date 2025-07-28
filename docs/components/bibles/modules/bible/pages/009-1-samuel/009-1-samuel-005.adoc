@@ -1,0 +1,67 @@
+include::./index.adoc[]
+
+[[v9-5-0]]
+=== 1 Samuel, 5
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-5-1]]
+
+^<<v9-5-1,1>>^ Quando os filisteus capturaram a Arca do verdadeiro Deus, levaram-na de Ebenezer para Asdode.
+
+[[v9-5-2]]
+
+^<<v9-5-2,2>>^ Os filisteus pegaram na Arca do verdadeiro Deus e levaram-na à casa^&#42;1^ de Dagom, colocando-a ao lado de Dagom.
+
+[NOTE]
+====
+. Ou: “ao templo”.
+====
+
+[[v9-5-3]]
+
+^<<v9-5-3,3>>^ Quando os asdoditas se levantaram cedo no dia seguinte, lá estava Dagom, caído com a face por terra, diante da Arca de Jeová. Portanto, pegaram em Dagom e voltaram a pô-lo no seu lugar.
+
+[[v9-5-4]]
+
+^<<v9-5-4,4>>^ No dia seguinte, ao levantarem-se de manhã cedo, lá estava Dagom, caído com a face por terra, diante da Arca de Jeová. A cabeça e as mãos de Dagom tinham sido decepadas e estavam na soleira da porta. Só lhe tinha restado a parte em forma de peixe.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “o Dagom”.
+====
+
+[[v9-5-5]]
+
+^<<v9-5-5,5>>^ É por isso que, até ao dia de hoje, os sacerdotes de Dagom e todos os que entram na casa de Dagom, em Asdode, não pisam a soleira da porta.
+
+[[v9-5-6]]
+
+^<<v9-5-6,6>>^ A mão de Jeová pesou contra os asdoditas, e ele devastou-os por atingir o povo de Asdode e dos seus territórios com hemorroidas.
+
+[[v9-5-7]]
+
+^<<v9-5-7,7>>^ Quando os homens de Asdode viram o que estava a acontecer, disseram: “A Arca do Deus de Israel não deve ficar connosco, pois a sua mão tem sido dura contra nós e contra Dagom, o nosso deus.”
+
+[[v9-5-8]]
+
+^<<v9-5-8,8>>^ Assim, convocaram todos os governantes dos filisteus e perguntaram-lhes: “O que é que devemos fazer com a Arca do Deus de Israel?” Eles responderam: “Que a Arca do Deus de Israel seja levada para Gate.” Portanto, levaram a Arca do Deus de Israel para lá.
+
+[[v9-5-9]]
+
+^<<v9-5-9,9>>^ Depois de a terem levado para lá, a mão de Jeová veio contra a cidade, causando grande pânico. Ele atingiu os habitantes da cidade, desde o pequeno até ao grande, e apareceram-lhes hemorroidas.
+
+[[v9-5-10]]
+
+^<<v9-5-10,10>>^ Então, enviaram a Arca do verdadeiro Deus para Ecrom, mas, assim que a Arca do verdadeiro Deus chegou a Ecrom, os ecronitas começaram a gritar: “Eles trouxeram a Arca do Deus de Israel para aqui, a fim de nos matarem a nós e ao nosso povo!”
+
+[[v9-5-11]]
+
+^<<v9-5-11,11>>^ Portanto, enviaram mensageiros e reuniram todos os governantes dos filisteus, e disseram: “Levem a Arca do Deus de Israel daqui para fora; que ela volte ao seu lugar para que nós e o nosso povo não sejamos mortos.” Pois o medo da morte tinha-se espalhado por toda a cidade; a mão do verdadeiro Deus pesava muito sobre ela,
+
+[[v9-5-12]]
+
+^<<v9-5-12,12>>^ e os homens que não morreram tinham sido atingidos com hemorroidas. E o clamor da cidade por ajuda subia aos céus.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-004.adoc#v9-4-0[&#60; Capítulo Anterior] | <<v9-5-0,Topo>> | xref:009-1-samuel/009-1-samuel-006.adoc#v9-6-0[Próximo Capítulo &#62;]

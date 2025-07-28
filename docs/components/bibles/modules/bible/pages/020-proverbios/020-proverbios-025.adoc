@@ -1,0 +1,225 @@
+include::./index.adoc[]
+
+[[v20-25-0]]
+=== Provérbios, 25
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-25-1]]
+
+^<<v20-25-1,1>>^ Estes também são provérbios de Salomão e foram transcritos^&#42;1^ pelos homens de Ezequias, rei de Judá:
+
+[NOTE]
+====
+. Ou: “copiados e compilados”.
+====
+
+[[v20-25-2]]
+
+^<<v20-25-2,2>>^ A glória de Deus é manter um assunto em segredo,
+E a glória dos reis é examinar um assunto.
+
+[[v20-25-3]]
+
+^<<v20-25-3,3>>^ Assim como os céus são elevados e a terra é profunda,
+Assim o coração dos reis é insondável.
+
+[[v20-25-4]]
+
+^<<v20-25-4,4>>^ Remove a escória da prata,
+E ela ficará completamente refinada.
+
+[[v20-25-5]]
+
+^<<v20-25-5,5>>^ Retira aquele que é mau da presença do rei,
+E o seu trono ficará firmemente estabelecido na justiça.
+
+[[v20-25-6]]
+
+^<<v20-25-6,6>>^ Não te honres a ti mesmo diante do rei,
+Nem ocupes um lugar entre homens importantes,
+
+[[v20-25-7]]
+
+^<<v20-25-7,7>>^ Pois é melhor que ele te diga: “Sobe para aqui”,
+Do que te humilhar na presença de um nobre.
+
+[[v20-25-8]]
+
+^<<v20-25-8,8>>^ Não te apresses a entrar numa disputa judicial,
+Pois o que farás depois, se o teu próximo te humilhar?
+
+[[v20-25-9]]
+
+^<<v20-25-9,9>>^ Resolve a tua causa com o teu próximo,
+Mas não reveles o que te confidenciaram.^&#42;1^
+
+[NOTE]
+====
+. Ou: “os segredos de outros”.
+====
+
+[[v20-25-10]]
+
+^<<v20-25-10,10>>^ Caso contrário, quem escuta irá envergonhar-te,
+E não poderás retirar o mau relato^&#42;1^ que espalhaste.
+
+[NOTE]
+====
+. Ou: “o boato maldoso”.
+====
+
+[[v20-25-11]]
+
+^<<v20-25-11,11>>^ Como maçãs de ouro em esculturas^&#42;1^ de prata
+É a palavra dita no tempo certo.
+
+[NOTE]
+====
+. Ou: “engastes”.
+====
+
+[[v20-25-12]]
+
+^<<v20-25-12,12>>^ Como brincos de ouro e um enfeite de ouro puro
+É a repreensão do sábio para o ouvido atento.
+
+[[v20-25-13]]
+
+^<<v20-25-13,13>>^ Como a neve refrescante no dia da colheita
+É o mensageiro fiel para os que o enviam,
+Pois ele reanima o seu senhor.^&#42;1^
+
+[NOTE]
+====
+. Ou: “a alma do seu senhor”.
+====
+
+[[v20-25-14]]
+
+^<<v20-25-14,14>>^ Como nuvens e vento que não trazem chuva
+É o homem que se gaba de um presente que nunca deu.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “um presente de falsidade”.
+====
+
+[[v20-25-15]]
+
+^<<v20-25-15,15>>^ Com paciência pode-se convencer um governante,
+E a língua suave^&#42;1^ pode partir um osso.
+
+[NOTE]
+====
+. Ou: “branda”.
+====
+
+[[v20-25-16]]
+
+^<<v20-25-16,16>>^ Se encontrares mel, come apenas o necessário;
+Pois, se comeres demais, acabarás por vomitar.
+
+[[v20-25-17]]
+
+^<<v20-25-17,17>>^ Põe raramente o pé na casa do teu próximo,
+Para que ele não se canse de ti e te passe a odiar.
+
+[[v20-25-18]]
+
+^<<v20-25-18,18>>^ Como uma clava de guerra, uma espada ou uma flecha afiada
+É o homem que dá falso testemunho contra o seu próximo.
+
+[[v20-25-19]]
+
+^<<v20-25-19,19>>^ Como um dente partido e um pé sem firmeza
+É confiar, em tempos de aflição, em quem não merece crédito.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “numa pessoa traiçoeira”.
+====
+
+[[v20-25-20]]
+
+^<<v20-25-20,20>>^ Como quem se despe num dia frio
+E como vinagre derramado na soda^&#42;1^
+É aquele que canta canções para um coração triste.
+
+[NOTE]
+====
+. Ou: “no álcali”.
+====
+
+[[v20-25-21]]
+
+^<<v20-25-21,21>>^ Se o teu inimigo^&#42;1^ tiver fome, dá-lhe pão para comer;
+Se tiver sede, dá-lhe água para beber;
+
+[NOTE]
+====
+. Lit.: “aquele que te odeia”.
+====
+
+[[v20-25-22]]
+
+^<<v20-25-22,22>>^ Pois, assim, amontoarás brasas sobre a sua cabeça,^&#42;1^
+E Jeová irá recompensar-te.
+
+[NOTE]
+====
+. Isto é, para abrandar a pessoa e amolecer o seu coração.
+====
+
+[[v20-25-23]]
+
+^<<v20-25-23,23>>^ O vento norte traz chuva;
+E a língua tagarela traz rostos enfurecidos.
+
+[[v20-25-24]]
+
+^<<v20-25-24,24>>^ Mais vale morar num canto do terraço
+Do que com uma esposa conflituosa,^&#42;1^ na mesma casa.
+
+[NOTE]
+====
+. Ou: “esposa que passa a vida a resmungar”.
+====
+
+[[v20-25-25]]
+
+^<<v20-25-25,25>>^ Como água fresca para a alma^&#42;1^ cansada,
+Assim é a notícia boa de uma terra distante.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v20-25-26]]
+
+^<<v20-25-26,26>>^ Como uma nascente barrenta e uma fonte poluída
+É o justo que cede diante de^&#42;1^ quem é mau.
+
+[NOTE]
+====
+. Ou: “faz concessões a”. Lit.: “cambaleia diante de”.
+====
+
+[[v20-25-27]]
+
+^<<v20-25-27,27>>^ Não é bom comer demasiado mel,
+Nem é glorioso buscar a própria glória.
+
+[[v20-25-28]]
+
+^<<v20-25-28,28>>^ Como uma cidade arrombada, sem muralhas,
+É o homem que não se consegue controlar.^&#42;1^
+
+[NOTE]
+====
+. Ou: “não domina o seu espírito”.
+====
+
+'''
+
+xref:020-proverbios/020-proverbios-024.adoc#v20-24-0[&#60; Capítulo Anterior] | <<v20-25-0,Topo>> | xref:020-proverbios/020-proverbios-026.adoc#v20-26-0[Próximo Capítulo &#62;]

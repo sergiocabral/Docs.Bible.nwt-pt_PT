@@ -1,0 +1,191 @@
+include::./index.adoc[]
+
+[[v5-12-0]]
+=== Deuteronómio, 12
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-12-1]]
+
+^<<v5-12-1,1>>^ “Estes são os decretos e as decisões judiciais que devem ter o cuidado de cumprir todos os dias em que viverem na terra que Jeová, o Deus dos vossos antepassados, vos dará como propriedade.
+
+[[v5-12-2]]
+
+^<<v5-12-2,2>>^ Devem destruir completamente todos os locais onde as nações que vocês expulsarão serviram os seus deuses, seja nos montes altos, seja nas colinas, seja debaixo de qualquer árvore frondosa.
+
+[[v5-12-3]]
+
+^<<v5-12-3,3>>^ Devem demolir os seus altares, despedaçar as suas colunas sagradas, queimar com fogo os seus postes sagrados^&#42;1^ e derrubar as imagens esculpidas dos seus deuses, apagando o nome deles daquele lugar.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v5-12-4]]
+
+^<<v5-12-4,4>>^ “Não adorem a Jeová, vosso Deus, da maneira como eles adoram os deuses deles.
+
+[[v5-12-5]]
+
+^<<v5-12-5,5>>^ Em vez disso, busquem a Jeová, vosso Deus, no lugar que ele escolher para ali colocar o seu nome e a sua morada entre todas as vossas tribos; devem ir para lá.
+
+[[v5-12-6]]
+
+^<<v5-12-6,6>>^ É para lá que devem levar as vossas ofertas queimadas, os vossos sacrifícios, os vossos dízimos,^&#42;1^ a contribuição da vossa mão, as vossas ofertas para cumprir um voto, as vossas ofertas voluntárias e os primogénitos dos vossos bois e ovelhas.
+
+[NOTE]
+====
+. Ou: “as vossas décimas partes”.
+====
+
+[[v5-12-7]]
+
+^<<v5-12-7,7>>^ Vocês e os da vossa casa devem comer ali perante Jeová, vosso Deus, e alegrar-se com tudo o que tiverem realizado, porque Jeová, teu Deus, ter-te-á abençoado.
+
+[[v5-12-8]]
+
+^<<v5-12-8,8>>^ “Não façam como estamos a fazer aqui hoje. Cada um está a fazer o que é certo aos seus próprios olhos,^&#42;1^
+
+[NOTE]
+====
+. Ou: “o que acha ser certo”.
+====
+
+[[v5-12-9]]
+
+^<<v5-12-9,9>>^ porque vocês ainda não entraram no lugar de descanso e na herança que Jeová, teu Deus, te dá.
+
+[[v5-12-10]]
+
+^<<v5-12-10,10>>^ Quando atravessarem o Jordão e morarem na terra que Jeová, vosso Deus, vos dá como propriedade, ele certamente vos dará descanso de todos os inimigos ao vosso redor, e vocês morarão em segurança.
+
+[[v5-12-11]]
+
+^<<v5-12-11,11>>^ Levarão tudo o que vos ordeno ao lugar que Jeová, vosso Deus, escolher para ali fazer residir o seu nome: as vossas ofertas queimadas, os vossos sacrifícios, os vossos dízimos, a contribuição da vossa mão e todas as ofertas para cumprir um voto que façam a Jeová.
+
+[[v5-12-12]]
+
+^<<v5-12-12,12>>^ Vocês irão alegrar-se perante Jeová, vosso Deus — vocês e os vossos filhos, as vossas filhas, os vossos escravos e as vossas escravas, e os levitas que estão dentro das vossas cidades,^&#42;1^ pois estes não receberam uma porção ou uma herança no vosso meio.
+
+[NOTE]
+====
+. Ou: “dos vossos portões”.
+====
+
+[[v5-12-13]]
+
+^<<v5-12-13,13>>^ Tem cuidado para não fazeres as tuas ofertas queimadas em qualquer outro lugar que encontrares.
+
+[[v5-12-14]]
+
+^<<v5-12-14,14>>^ Deves fazer a tua oferta queimada apenas no lugar que Jeová escolher no território de uma das tuas tribos, e ali deves fazer tudo o que te ordeno.
+
+[[v5-12-15]]
+
+^<<v5-12-15,15>>^ “Mas, sempre que quiseres,^&#42;1^ podes abater animais e comer carne nas tuas cidades,^&#42;2^ segundo a bênção que Jeová, teu Deus, te der. Tanto a pessoa impura como a pura podem comer, assim como comerias uma gazela ou um veado.
+
+[NOTE]
+====
+. Ou: “conforme todo o desejo da tua alma”.
+. Lit.: “dentro de todos os teus portões”.
+====
+
+[[v5-12-16]]
+
+^<<v5-12-16,16>>^ Mas não comam o sangue. Deves derramá-lo na terra como se fosse água.
+
+[[v5-12-17]]
+
+^<<v5-12-17,17>>^ Não te será permitido comer dentro das tuas cidades^&#42;1^ a décima parte dos teus cereais, do teu vinho novo e do teu azeite, nem os primogénitos da tua manada e do teu rebanho, nem as ofertas para cumprir um voto que faças, nem as tuas ofertas voluntárias, nem a contribuição da tua mão.
+
+[NOTE]
+====
+. Ou: “dos teus portões”.
+====
+
+[[v5-12-18]]
+
+^<<v5-12-18,18>>^ Irás comê-las perante Jeová, teu Deus, no lugar que Jeová, teu Deus, escolher — tu e o teu filho, a tua filha, o teu servo e a tua serva, e os levitas que estão dentro das tuas cidades.^&#42;1^ E irás alegrar-te perante Jeová, teu Deus, com tudo o que tiveres realizado.
+
+[NOTE]
+====
+. Ou: “dos teus portões”.
+====
+
+[[v5-12-19]]
+
+^<<v5-12-19,19>>^ Enquanto viveres na tua terra, tem cuidado para nunca negligenciares o levita.
+
+[[v5-12-20]]
+
+^<<v5-12-20,20>>^ “Quando Jeová, teu Deus, aumentar o teu território, assim como te prometeu, e tu desejares^&#42;1^ comer carne e disseres: ‘Quero comer carne’, poderás comer carne sempre que quiseres.^&#42;2^
+
+[NOTE]
+====
+. Ou: “a tua alma desejar”.
+. Ou: “conforme todo o desejo da tua alma”.
+====
+
+[[v5-12-21]]
+
+^<<v5-12-21,21>>^ Se o lugar que Jeová, teu Deus, escolher para ali pôr o seu nome for longe, então, assim como te ordenei, deverás abater alguns dos bois ou das ovelhas que Jeová te tiver dado e deverás comê-los dentro das tuas cidades,^&#42;1^ sempre que quiseres.^&#42;2^
+
+[NOTE]
+====
+. Ou: “dos teus portões”.
+. Ou: “conforme todo o desejo da tua alma”.
+====
+
+[[v5-12-22]]
+
+^<<v5-12-22,22>>^ Podes comê-los assim como comerias a gazela e o veado; tanto a pessoa impura como a pura podem comê-los.
+
+[[v5-12-23]]
+
+^<<v5-12-23,23>>^ Apenas fica firmemente decidido a não comer o sangue, porque o sangue é a vida;^&#42;1^ não comas a vida^&#42;2^ com a carne.
+
+[NOTE]
+====
+. Ou: “alma”.
+. Ou: “alma”.
+====
+
+[[v5-12-24]]
+
+^<<v5-12-24,24>>^ Não o comas. Deves derramá-lo na terra como se fosse água.
+
+[[v5-12-25]]
+
+^<<v5-12-25,25>>^ Não o comas, para que tudo te corra bem a ti e aos teus filhos, por estarem a fazer o que é certo aos olhos de Jeová.
+
+[[v5-12-26]]
+
+^<<v5-12-26,26>>^ Quando fores ao lugar que Jeová escolher, deves levar apenas as tuas coisas sagradas e as tuas ofertas para cumprir um voto.
+
+[[v5-12-27]]
+
+^<<v5-12-27,27>>^ Lá, oferecerás as tuas ofertas queimadas, a carne e o sangue, no altar de Jeová, teu Deus; e o sangue dos teus sacrifícios deverá ser derramado junto ao altar de Jeová, teu Deus, mas a carne poderás comer.
+
+[[v5-12-28]]
+
+^<<v5-12-28,28>>^ “Tem o cuidado de obedecer a todas estas palavras que te ordeno, para que tudo te corra bem, a ti e aos teus filhos, para sempre, porque, assim, estarás a fazer o que é bom e certo aos olhos de Jeová, teu Deus.
+
+[[v5-12-29]]
+
+^<<v5-12-29,29>>^ “Quando Jeová, teu Deus, eliminar as nações que vais expulsar, e estiveres a morar na terra delas,
+
+[[v5-12-30]]
+
+^<<v5-12-30,30>>^ tem cuidado para não seres enlaçado depois de elas terem sido eliminadas de diante de ti. Não perguntes a respeito dos seus deuses: ‘Como é que estas nações serviam os seus deuses? Eu também farei o mesmo.’
+
+[[v5-12-31]]
+
+^<<v5-12-31,31>>^ Não faças estas coisas a Jeová, teu Deus, pois as nações fazem pelos seus deuses tudo o que é detestável para Jeová, tudo o que ele odeia; até mesmo queimam os filhos e as filhas no fogo para os seus deuses.
+
+[[v5-12-32]]
+
+^<<v5-12-32,32>>^ Devem ter o cuidado de cumprir cada palavra que vos ordeno. Não lhe acrescentem nem tirem nada.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-011.adoc#v5-11-0[&#60; Capítulo Anterior] | <<v5-12-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-013.adoc#v5-13-0[Próximo Capítulo &#62;]

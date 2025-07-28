@@ -1,0 +1,123 @@
+include::./index.adoc[]
+
+[[v24-39-0]]
+=== Jeremias, 39
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v24-39-1]]
+
+^<<v24-39-1,1>>^ No nono ano de Zedequias, rei de Judá, no décimo mês, Nabucodonosor,^&#42;1^ rei de Babilónia, e todo o seu exército chegaram a Jerusalém e cercaram-na.
+
+[NOTE]
+====
+. Lit.: “Nabucodorosor”, grafia variante.
+====
+
+[[v24-39-2]]
+
+^<<v24-39-2,2>>^ No décimo primeiro ano de Zedequias, no quarto mês, no dia nove do mês, eles abriram uma brecha na muralha da cidade.
+
+[[v24-39-3]]
+
+^<<v24-39-3,3>>^ E todos os príncipes do rei de Babilónia entraram e sentaram-se no Portão do Meio. Eram eles: Nergal-Sarezer, o Sangar; Nebo-Sarsequim, o Rabe-Saris;^&#42;1^ Nergal-Sarezer, o Rabe-Mague;^&#42;2^ e todos os outros príncipes do rei de Babilónia.
+
+[NOTE]
+====
+. Ou, com base numa diferente divisão de palavras do texto hebraico: “Nergal-Sarezer, Sangar-Nebo, Sarsequim, Rabe-Saris”.
+. Ou: “o principal mago (astrólogo)”.
+====
+
+[[v24-39-4]]
+
+^<<v24-39-4,4>>^ Quando Zedequias, rei de Judá, e todos os soldados os viram, fugiram, saindo da cidade à noite pelo caminho do jardim do rei, pelo portão entre as duas muralhas, e seguiram pelo caminho do Arabá.
+
+[[v24-39-5]]
+
+^<<v24-39-5,5>>^ No entanto, o exército dos caldeus perseguiu-os e alcançou Zedequias nas planícies desérticas de Jericó. Eles capturaram-no e levaram-no a Nabucodonosor,^&#42;1^ rei de Babilónia, em Ribla, na terra de Hamate, onde ele decretou a sua sentença.
+
+[NOTE]
+====
+. Lit.: “Nabucodorosor”, grafia variante.
+====
+
+[[v24-39-6]]
+
+^<<v24-39-6,6>>^ O rei de Babilónia mandou matar os filhos de Zedequias em Ribla, diante dos seus olhos, e o rei de Babilónia mandou matar também todos os nobres de Judá.
+
+[[v24-39-7]]
+
+^<<v24-39-7,7>>^ De seguida, cegou os olhos de Zedequias e, depois, prendeu-o com correntes de cobre, a fim de o levar para Babilónia.
+
+[[v24-39-8]]
+
+^<<v24-39-8,8>>^ Os caldeus queimaram então a casa^&#42;1^ do rei e as casas do povo, e demoliram as muralhas de Jerusalém.
+
+[NOTE]
+====
+. Ou: “o palácio”.
+====
+
+[[v24-39-9]]
+
+^<<v24-39-9,9>>^ Nebuzaradã, chefe da guarda, levou para o exílio em Babilónia o restante do povo que tinha sido deixado na cidade, os desertores que tinham tomado o seu lado e todos os que tinham sobrevivido.
+
+[[v24-39-10]]
+
+^<<v24-39-10,10>>^ Todavia, Nebuzaradã, chefe da guarda, deixou na terra de Judá alguns dos mais pobres do povo, os que não possuíam nada. E, naquele dia, deu-lhes vinhas e campos para trabalharem.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “para trabalhos forçados”.
+====
+
+[[v24-39-11]]
+
+^<<v24-39-11,11>>^ Nabucodonosor,^&#42;1^ rei de Babilónia, deu a Nebuzaradã, chefe da guarda, as seguintes ordens a respeito de Jeremias:
+
+[NOTE]
+====
+. Lit.: “Nabucodorosor”, grafia variante.
+====
+
+[[v24-39-12]]
+
+^<<v24-39-12,12>>^ “Vão buscá-lo e cuidem dele; não lhe façam mal. Façam tudo o que ele vos pedir.”
+
+[[v24-39-13]]
+
+^<<v24-39-13,13>>^ Portanto, Nebuzaradã, chefe da guarda; Nebusazbã, o Rabe-Saris;^&#42;1^ Nergal-Sarezer, o Rabe-Mague;^&#42;2^ e todos os principais oficiais do rei de Babilónia mandaram
+
+[NOTE]
+====
+. Ou: “o principal oficial da corte”.
+. Ou: “o principal mago (astrólogo)”.
+====
+
+[[v24-39-14]]
+
+^<<v24-39-14,14>>^ tirar Jeremias do Pátio da Guarda e entregaram-no a Gedalias, filho de Aicão, filho de Safã, para que o levasse para a sua casa. Assim, Jeremias ficou a viver no meio do povo.
+
+[[v24-39-15]]
+
+^<<v24-39-15,15>>^ Enquanto estava detido no Pátio da Guarda, Jeremias recebeu a seguinte palavra de Jeová:
+
+[[v24-39-16]]
+
+^<<v24-39-16,16>>^ “Vai e diz a Ebede-Meleque, o etíope: ‘Assim diz Jeová dos exércitos, o Deus de Israel: “Vou cumprir as minhas palavras contra esta cidade, para a sua calamidade, não para o seu bem; e, nesse dia, verás isso acontecer.”’
+
+[[v24-39-17]]
+
+^<<v24-39-17,17>>^ “‘Contudo, vou livrar-te nesse dia’, diz Jeová, ‘e não serás entregue aos homens de quem tens medo’.
+
+[[v24-39-18]]
+
+^<<v24-39-18,18>>^ “‘Pois vou certamente livrar-te, e não cairás pela espada. Terás a tua vida como despojo^&#42;1^ porque confiaste em mim’, diz Jeová.”
+
+[NOTE]
+====
+. Ou: “Escaparás com a tua vida (alma)”.
+====
+
+'''
+
+xref:024-jeremias/024-jeremias-038.adoc#v24-38-0[&#60; Capítulo Anterior] | <<v24-39-0,Topo>> | xref:024-jeremias/024-jeremias-040.adoc#v24-40-0[Próximo Capítulo &#62;]

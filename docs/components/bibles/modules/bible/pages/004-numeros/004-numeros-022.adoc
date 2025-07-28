@@ -1,0 +1,192 @@
+include::./index.adoc[]
+
+[[v4-22-0]]
+=== Números, 22
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-22-1]]
+
+^<<v4-22-1,1>>^ Os israelitas partiram então e acamparam nas planícies desérticas de Moabe, em frente a Jericó, do outro lado do Jordão.
+
+[[v4-22-2]]
+
+^<<v4-22-2,2>>^ Balaque, filho de Zipor, viu tudo o que Israel tinha feito aos amorreus,
+
+[[v4-22-3]]
+
+^<<v4-22-3,3>>^ e Moabe ficou com muito medo daquele povo, porque eram muitos; de facto, Moabe ficou apavorado por causa dos israelitas.
+
+[[v4-22-4]]
+
+^<<v4-22-4,4>>^ Moabe disse então aos anciãos de Midiã: “Agora, esta congregação devorará tudo ao nosso redor, assim como um touro devora a erva do campo.”
+Naquela época, Balaque, filho de Zipor, era rei de Moabe.
+
+[[v4-22-5]]
+
+^<<v4-22-5,5>>^ Ele enviou mensageiros para chamar Balaão, filho de Beor, em Petor, que fica junto ao rio Eufrates,^&#42;1^ na sua terra natal, dizendo: “Apareceu aqui um povo que saiu do Egito. Eles cobrem a face^&#42;2^ da terra^&#42;3^ e estão a morar mesmo à minha frente!
+
+[NOTE]
+====
+. Lit.: “ao Rio”.
+. Lit.: “o olho”.
+. Ou: “do país”.
+====
+
+[[v4-22-6]]
+
+^<<v4-22-6,6>>^ Agora, vem, por favor, e amaldiçoa-me este povo, pois são mais fortes do que eu. Talvez eu consiga derrotá-los e expulsá-los desta terra, porque sei muito bem que quem abençoas é abençoado e quem amaldiçoas é amaldiçoado.”
+
+[[v4-22-7]]
+
+^<<v4-22-7,7>>^ Portanto, os anciãos de Moabe e os anciãos de Midiã viajaram, levando nas suas mãos o pagamento pela adivinhação, foram ter com Balaão e transmitiram-lhe a mensagem de Balaque.
+
+[[v4-22-8]]
+
+^<<v4-22-8,8>>^ A isso, ele disse-lhes: “Passem cá a noite e eu vou trazer-vos a resposta que Jeová me der.” Assim, os príncipes de Moabe ficaram com Balaão.
+
+[[v4-22-9]]
+
+^<<v4-22-9,9>>^ Deus veio então a Balaão e perguntou: “Quem são estes homens que estão contigo?”
+
+[[v4-22-10]]
+
+^<<v4-22-10,10>>^ Balaão respondeu ao verdadeiro Deus: “Balaque, filho de Zipor, rei de Moabe, enviou-me uma mensagem, dizendo:
+
+[[v4-22-11]]
+
+^<<v4-22-11,11>>^ ‘Apareceu aqui o povo que saiu do Egito, e estão a cobrir a face^&#42;1^ da terra.^&#42;2^ Agora, vem e amaldiçoa-os para mim. Talvez eu consiga lutar contra eles e expulsá-los.’”
+
+[NOTE]
+====
+. Lit.: “o olho”.
+. Ou: “do país”.
+====
+
+[[v4-22-12]]
+
+^<<v4-22-12,12>>^ Contudo, Deus disse a Balaão: “Não vás com eles. Não amaldiçoes o povo, pois eles são abençoados.”
+
+[[v4-22-13]]
+
+^<<v4-22-13,13>>^ Balaão levantou-se de manhã e disse aos príncipes de Balaque: “Voltem para a vossa terra, pois Jeová não permitiu que eu fosse convosco.”
+
+[[v4-22-14]]
+
+^<<v4-22-14,14>>^ Então, os príncipes de Moabe partiram, voltaram a Balaque e disseram: “Balaão recusou-se a vir connosco.”
+
+[[v4-22-15]]
+
+^<<v4-22-15,15>>^ No entanto, Balaque enviou novamente príncipes, em maior número e de mais destaque do que os primeiros.
+
+[[v4-22-16]]
+
+^<<v4-22-16,16>>^ Eles foram a Balaão e disseram-lhe: “Assim disse Balaque, filho de Zipor: ‘Por favor, não permitas que nada te impeça de vir até mim,
+
+[[v4-22-17]]
+
+^<<v4-22-17,17>>^ pois eu vou honrar-te grandemente e fazer tudo o que me disseres. Vem, por favor, e amaldiçoa-me este povo.’”
+
+[[v4-22-18]]
+
+^<<v4-22-18,18>>^ Todavia, Balaão respondeu aos servos de Balaque: “Mesmo que Balaque me desse a sua própria casa cheia de prata e ouro, eu não poderia fazer coisa alguma, grande ou pequena, que fosse além da ordem de Jeová, meu Deus.
+
+[[v4-22-19]]
+
+^<<v4-22-19,19>>^ Mas, por favor, peço-vos que também fiquem aqui esta noite, para que eu saiba o que Jeová ainda tem para me dizer.”
+
+[[v4-22-20]]
+
+^<<v4-22-20,20>>^ Deus veio a Balaão de noite e disse-lhe: “Se estes homens vieram chamar-te, vai com eles. Porém, só poderás dizer as palavras que eu te transmitir.”
+
+[[v4-22-21]]
+
+^<<v4-22-21,21>>^ Assim, Balaão levantou-se de manhã, selou a sua jumenta e foi com os príncipes de Moabe.
+
+[[v4-22-22]]
+
+^<<v4-22-22,22>>^ No entanto, a ira de Deus acendeu-se porque ele estava a caminho, e o anjo de Jeová colocou-se de pé na estrada, a fim de impedi-lo. Balaão estava montado na sua jumenta, e dois dos seus ajudantes estavam com ele.
+
+[[v4-22-23]]
+
+^<<v4-22-23,23>>^ E, quando a jumenta viu o anjo de Jeová parado na estrada com uma espada desembainhada na mão, tentou sair da estrada e entrar no campo. Contudo, Balaão começou a bater na jumenta para fazê-la voltar à estrada.
+
+[[v4-22-24]]
+
+^<<v4-22-24,24>>^ Então, o anjo de Jeová permaneceu parado num caminho estreito entre duas vinhas, com muros de pedra dos dois lados.
+
+[[v4-22-25]]
+
+^<<v4-22-25,25>>^ Quando a jumenta viu o anjo de Jeová, começou a encostar-se contra o muro e entalou o pé de Balaão contra o muro; e Balaão bateu-lhe novamente.
+
+[[v4-22-26]]
+
+^<<v4-22-26,26>>^ O anjo de Jeová colocou-se mais adiante, num lugar estreito, onde não havia como se desviar nem para a direita nem para a esquerda.
+
+[[v4-22-27]]
+
+^<<v4-22-27,27>>^ Quando a jumenta viu o anjo de Jeová, deitou-se debaixo de Balaão, de modo que Balaão ficou furioso e voltou a bater-lhe com o seu bastão.
+
+[[v4-22-28]]
+
+^<<v4-22-28,28>>^ Por fim, Jeová fez com que a jumenta falasse,^&#42;1^ e ela disse a Balaão: “O que é que te fiz para me bateres três vezes?”
+
+[NOTE]
+====
+. Lit.: “abriu a boca da jumenta”.
+====
+
+[[v4-22-29]]
+
+^<<v4-22-29,29>>^ Balaão respondeu à jumenta: “Fizeste de mim parvo. Se eu tivesse uma espada na mão, matava-te!”
+
+[[v4-22-30]]
+
+^<<v4-22-30,30>>^ A jumenta perguntou a Balaão: “Não sou eu a jumenta que sempre montaste até hoje? Já alguma vez agi assim contigo?” Ele respondeu: “Não!”
+
+[[v4-22-31]]
+
+^<<v4-22-31,31>>^ Então, Jeová abriu os olhos de Balaão, e ele viu o anjo de Jeová parado na estrada com uma espada desembainhada na mão. Ele curvou-se imediatamente e prostrou-se com o rosto por terra.
+
+[[v4-22-32]]
+
+^<<v4-22-32,32>>^ Por conseguinte, o anjo de Jeová disse-lhe: “Porque é que bateste na tua jumenta três vezes? Fui eu que vim impedir-te, porque o teu caminho é contrário à minha vontade.
+
+[[v4-22-33]]
+
+^<<v4-22-33,33>>^ A jumenta viu-me e tentou desviar-se de mim três vezes. Imagina se ela não se tivesse desviado de mim! Por esta altura, eu já te teria matado e deixado a jumenta viva.”
+
+[[v4-22-34]]
+
+^<<v4-22-34,34>>^ Balaão disse ao anjo de Jeová: “Pequei, porque não sabia que o senhor estava parado na estrada para vir ao meu encontro. Agora, se isto é mau aos seus olhos, eu voltarei para trás.”
+
+[[v4-22-35]]
+
+^<<v4-22-35,35>>^ Contudo, o anjo de Jeová disse a Balaão: “Vai com os homens, mas só poderás dizer as palavras que eu te transmitir.” Assim, Balaão continuou a viagem com os príncipes de Balaque.
+
+[[v4-22-36]]
+
+^<<v4-22-36,36>>^ Quando Balaque soube que Balaão tinha chegado, foi imediatamente ao seu encontro na cidade de Moabe, que fica na margem do Arnom, na fronteira do território.
+
+[[v4-22-37]]
+
+^<<v4-22-37,37>>^ Balaque disse a Balaão: “Não te mandei chamar? Porque é que não vieste? Achaste que eu não seria capaz de te honrar grandemente?”
+
+[[v4-22-38]]
+
+^<<v4-22-38,38>>^ Então, Balaão respondeu a Balaque: “Pois bem, agora estou aqui na sua presença. Mas será que poderei dizer alguma coisa? Só poderei dizer as palavras que Deus puser na minha boca.”
+
+[[v4-22-39]]
+
+^<<v4-22-39,39>>^ Portanto, Balaão foi com Balaque, e eles chegaram a Quiriate-Huzote.
+
+[[v4-22-40]]
+
+^<<v4-22-40,40>>^ Balaque ofereceu bois e ovelhas em sacrifício, e mandou algumas porções a Balaão e aos príncipes que estavam com ele.
+
+[[v4-22-41]]
+
+^<<v4-22-41,41>>^ De manhã, Balaque levou Balaão consigo para cima, a Bamote-Baal. De lá, ele podia avistar todo o povo.
+
+'''
+
+xref:004-numeros/004-numeros-021.adoc#v4-21-0[&#60; Capítulo Anterior] | <<v4-22-0,Topo>> | xref:004-numeros/004-numeros-023.adoc#v4-23-0[Próximo Capítulo &#62;]

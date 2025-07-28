@@ -1,0 +1,106 @@
+include::./index.adoc[]
+
+[[v13-22-0]]
+=== 1 Crónicas, 22
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v13-22-1]]
+
+^<<v13-22-1,1>>^ David disse então: “Aqui será a casa de Jeová, o verdadeiro Deus, e aqui ficará o altar das ofertas queimadas de Israel.”
+
+[[v13-22-2]]
+
+^<<v13-22-2,2>>^ A seguir, David mandou reunir os residentes estrangeiros que moravam na terra de Israel, e designou-os como cortadores de pedras a fim de cortarem e prepararem pedras para a construção da casa do verdadeiro Deus.
+
+[[v13-22-3]]
+
+^<<v13-22-3,3>>^ David também providenciou grande quantidade de ferro para a fabricação de pregos para os portões e as braçadeiras, e tanto cobre que não era possível pesá-lo.
+
+[[v13-22-4]]
+
+^<<v13-22-4,4>>^ E também muita madeira de cedro, pois os sidónios e os tírios tinham trazido a David uma grande quantidade de madeira de cedro.
+
+[[v13-22-5]]
+
+^<<v13-22-5,5>>^ E David disse: “O meu filho Salomão é jovem e inexperiente,^&#42;1^ e a casa que será construída para Jeová deve ser extremamente magnífica, para que a fama e a beleza da casa se tornem conhecidas em todas as terras. Por isso, farei preparativos para ele.” Assim, antes de morrer, David providenciou uma grande quantidade de materiais.
+
+[NOTE]
+====
+. Ou: “frágil”.
+====
+
+[[v13-22-6]]
+
+^<<v13-22-6,6>>^ Depois, ele chamou Salomão, seu filho, e ordenou-lhe que construísse uma casa para Jeová, o Deus de Israel.
+
+[[v13-22-7]]
+
+^<<v13-22-7,7>>^ David disse a Salomão, seu filho: “O meu desejo de coração era construir uma casa para o nome de Jeová, meu Deus.
+
+[[v13-22-8]]
+
+^<<v13-22-8,8>>^ Mas recebi a seguinte palavra de Jeová: ‘Derramaste muito sangue e travaste grandes guerras. Assim, não construirás uma casa para o meu nome, pois derramaste muito sangue diante de mim sobre a terra.
+
+[[v13-22-9]]
+
+^<<v13-22-9,9>>^ Terás um filho que será um homem de paz,^&#42;1^ e eu irei dar-lhe descanso de todos os seus inimigos ao redor; pois o nome dele será Salomão,^&#42;2^ e nos seus dias darei paz e tranquilidade a Israel.
+
+[NOTE]
+====
+. Lit.: “descanso”.
+. Derivado de uma palavra hebraica que significa “paz”.
+====
+
+[[v13-22-10]]
+
+^<<v13-22-10,10>>^ É ele quem vai construir uma casa para o meu nome. Há de tornar-se meu filho, e eu serei o seu pai. Estabelecerei firmemente o trono do reinado dele sobre Israel para sempre.’
+
+[[v13-22-11]]
+
+^<<v13-22-11,11>>^ “Agora, meu filho, que Jeová esteja contigo, e que sejas bem-sucedido e construas a casa de Jeová, teu Deus, assim como ele prometeu.
+
+[[v13-22-12]]
+
+^<<v13-22-12,12>>^ Que Jeová te conceda prudência e entendimento quando te der autoridade sobre Israel, para que guardes a lei de Jeová, teu Deus.
+
+[[v13-22-13]]
+
+^<<v13-22-13,13>>^ Então serás bem-sucedido, se obedeceres cuidadosamente aos decretos e às decisões judiciais que Jeová mandou Moisés transmitir a Israel. Sê corajoso e forte. Não tenhas medo nem fiques apavorado.
+
+[[v13-22-14]]
+
+^<<v13-22-14,14>>^ Com muito esforço, providenciei para a casa de Jeová 100 000 talentos^&#42;1^ de ouro, 1 000 000 de talentos de prata e tanto cobre e ferro que não é possível pesá-los. Providenciei também madeiras e pedras, mas tu providenciarás ainda mais.
+
+[NOTE]
+====
+. Um talento equivalia a 34,2 kg. Veja o Ap. B14.
+====
+
+[[v13-22-15]]
+
+^<<v13-22-15,15>>^ Tens ao teu dispor um grande número de trabalhadores: cortadores de pedras, pedreiros, carpinteiros e todo o tipo de trabalhadores especializados.
+
+[[v13-22-16]]
+
+^<<v13-22-16,16>>^ A quantidade de ouro, prata, cobre e ferro é incalculável. Portanto, começa a obra, e que Jeová esteja contigo.”
+
+[[v13-22-17]]
+
+^<<v13-22-17,17>>^ Em seguida, David ordenou a todos os príncipes de Israel que ajudassem Salomão, seu filho. Ele disse:
+
+[[v13-22-18]]
+
+^<<v13-22-18,18>>^ “Não está Jeová, vosso Deus, convosco, e não vos deu descanso de todos os inimigos ao vosso redor? Ele entregou-me os habitantes desta terra, e esta terra foi subjugada diante de Jeová e do seu povo.
+
+[[v13-22-19]]
+
+^<<v13-22-19,19>>^ Agora, estejam decididos de todo o coração e de toda a alma^&#42;1^ a procurar a Jeová, vosso Deus, e comecem a construir o santuário de Jeová, o verdadeiro Deus, para que levem a Arca do Pacto de Jeová e os utensílios sagrados do verdadeiro Deus para a casa que será construída para o nome de Jeová.”
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-021.adoc#v13-21-0[&#60; Capítulo Anterior] | <<v13-22-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-023.adoc#v13-23-0[Próximo Capítulo &#62;]

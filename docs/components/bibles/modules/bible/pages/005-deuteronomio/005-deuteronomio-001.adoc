@@ -1,0 +1,230 @@
+include::./index.adoc[]
+
+[[v5-1-0]]
+=== Deuteronómio, 1
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-1-1]]
+
+^<<v5-1-1,1>>^ Estas são as palavras que Moisés disse a todo o Israel, na região do Jordão, no deserto, nas planícies desérticas em frente a Sufe, entre Parã, Tofel, Labã, Hazerote e Dizaabe.
+
+[[v5-1-2]]
+
+^<<v5-1-2,2>>^ (A distância entre Horebe e Cades-Barneia pelo caminho da região montanhosa de Seir é de 11 dias de viagem.)
+
+[[v5-1-3]]
+
+^<<v5-1-3,3>>^ No quadragésimo ano, no décimo primeiro mês, no primeiro dia do mês, Moisés transmitiu aos israelitas^&#42;1^ tudo o que Jeová ordenara que lhes dissesse.
+
+[NOTE]
+====
+. Lit.: “filhos de Israel”.
+====
+
+[[v5-1-4]]
+
+^<<v5-1-4,4>>^ Isto foi depois de derrotar Síon, rei dos amorreus, que morava em Hésbon, e depois de, em Edrei, derrotar Ogue, rei de Basã, que morava em Astarote.
+
+[[v5-1-5]]
+
+^<<v5-1-5,5>>^ Na região do Jordão, na terra de Moabe, Moisés começou a explicar esta Lei, dizendo:
+
+[[v5-1-6]]
+
+^<<v5-1-6,6>>^ “Jeová, nosso Deus, disse-nos em Horebe: ‘Já passaram tempo suficiente nesta região montanhosa.
+
+[[v5-1-7]]
+
+^<<v5-1-7,7>>^ Preparem-se e partam para a região montanhosa dos amorreus e em direção a todos os seus vizinhos no Arabá, na região montanhosa, na Sefelá, no Neguebe, na costa marítima, a terra dos cananeus, e no Líbano,^&#42;1^ até ao grande rio, o rio Eufrates.
+
+[NOTE]
+====
+. Pelos vistos, refere-se à cadeia de montanhas do Líbano.
+====
+
+[[v5-1-8]]
+
+^<<v5-1-8,8>>^ Vejam, ponho esta terra à vossa frente. Entrem e tomem posse da terra que Jeová jurou dar aos vossos pais, Abraão, Isaque e Jacó, e à sua descendência.’^&#42;1^
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v5-1-9]]
+
+^<<v5-1-9,9>>^ “E, naquela ocasião, eu disse-vos: ‘Não vos posso levar sozinho.
+
+[[v5-1-10]]
+
+^<<v5-1-10,10>>^ Jeová, vosso Deus, multiplicou-vos, de modo que, hoje, vocês são tão numerosos como as estrelas dos céus.
+
+[[v5-1-11]]
+
+^<<v5-1-11,11>>^ Que Jeová, o Deus dos vossos antepassados, vos multiplique mil vezes mais do que são agora e vos abençoe, assim como vos prometeu.
+
+[[v5-1-12]]
+
+^<<v5-1-12,12>>^ Como é que posso levar sozinho o fardo e a carga que vocês são, e lidar com as vossas discussões?
+
+[[v5-1-13]]
+
+^<<v5-1-13,13>>^ Escolham homens sábios, prudentes e experientes das vossas tribos, e eu vou designá-los como vossos cabeças.’
+
+[[v5-1-14]]
+
+^<<v5-1-14,14>>^ Vocês responderam-me: ‘O que nos disse para fazer é bom.’
+
+[[v5-1-15]]
+
+^<<v5-1-15,15>>^ Portanto, tomei os cabeças das vossas tribos, homens sábios e experientes, e designei-os sobre vocês como chefes de mil, chefes de cem, chefes de cinquenta, chefes de dez e oficiais das vossas tribos.
+
+[[v5-1-16]]
+
+^<<v5-1-16,16>>^ “Naquela ocasião, instruí os vossos juízes, dizendo: ‘Quando ouvirem uma causa entre os vossos irmãos, devem julgar com justiça entre um homem e o seu irmão ou um residente estrangeiro.
+
+[[v5-1-17]]
+
+^<<v5-1-17,17>>^ Não sejam parciais no julgamento. Devem ouvir da mesma maneira tanto o pequeno como o grande. Não se deixem intimidar por homens, pois o julgamento pertence a Deus. E, se o caso vos parecer demasiado difícil, devem apresentá-lo a mim, e eu irei ouvi-lo.’
+
+[[v5-1-18]]
+
+^<<v5-1-18,18>>^ Naquela ocasião, instruí-vos a respeito de todas as coisas que deveriam fazer.
+
+[[v5-1-19]]
+
+^<<v5-1-19,19>>^ “Partimos então de Horebe e atravessámos todo aquele deserto grande e assustador que vocês viram no caminho para a região montanhosa dos amorreus, assim como Jeová, nosso Deus, nos ordenara. Por fim, chegámos a Cades-Barneia.
+
+[[v5-1-20]]
+
+^<<v5-1-20,20>>^ Eu disse-vos então: ‘Chegaram à região montanhosa dos amorreus, que Jeová, nosso Deus, nos dá.
+
+[[v5-1-21]]
+
+^<<v5-1-21,21>>^ Vê, Jeová, teu Deus, entregou-te a terra. Sobe, toma posse dela, assim como te disse Jeová, o Deus dos teus antepassados. Não tenhas medo nem fiques apavorado.’
+
+[[v5-1-22]]
+
+^<<v5-1-22,22>>^ “No entanto, vocês aproximaram-se todos de mim e disseram: ‘Enviemos homens à nossa frente para fazerem um reconhecimento da terra e para nos trazerem informações sobre o caminho que devemos seguir e sobre o tipo de cidades que encontraremos.’
+
+[[v5-1-23]]
+
+^<<v5-1-23,23>>^ A sugestão pareceu-me boa, de modo que escolhi 12 dos vossos homens, um de cada tribo.
+
+[[v5-1-24]]
+
+^<<v5-1-24,24>>^ Eles partiram, subiram até à região montanhosa, chegaram ao vale^&#42;1^ de Escol e espiaram-no.
+
+[NOTE]
+====
+. Ou: “uádi”.
+====
+
+[[v5-1-25]]
+
+^<<v5-1-25,25>>^ Pegaram em alguns dos frutos da terra e trouxeram-nos. Trouxeram também informações, dizendo: ‘A terra que Jeová, nosso Deus, nos dá é boa.’
+
+[[v5-1-26]]
+
+^<<v5-1-26,26>>^ Mas vocês recusaram-se a subir e rebelaram-se contra a ordem de Jeová, vosso Deus.
+
+[[v5-1-27]]
+
+^<<v5-1-27,27>>^ Resmungavam nas vossas tendas e diziam: ‘Jeová odeia-nos; foi por isso que nos tirou da terra do Egito para nos entregar aos amorreus e nos destruir.
+
+[[v5-1-28]]
+
+^<<v5-1-28,28>>^ Para onde é que nós vamos? Os nossos irmãos desanimaram-nos,^&#42;1^ dizendo: “Eles são mais fortes e mais altos do que nós, as suas cidades são grandes e fortificadas até aos céus,^&#42;2^ e vimos lá os filhos dos anaquins.”’
+
+[NOTE]
+====
+. Lit.: “fizeram o nosso coração derreter-se”.
+. Isto é, fortificadas com muralhas enormes.
+====
+
+[[v5-1-29]]
+
+^<<v5-1-29,29>>^ “Então, eu disse-vos: ‘Não fiquem apavorados nem tenham medo por causa deles.
+
+[[v5-1-30]]
+
+^<<v5-1-30,30>>^ Jeová, vosso Deus, irá à vossa frente e lutará por vocês, assim como fez no Egito diante dos vossos próprios olhos.
+
+[[v5-1-31]]
+
+^<<v5-1-31,31>>^ E, no deserto, tu viste como Jeová, teu Deus, te carregou — assim como um homem carrega o seu filho — para onde quer que fossem, até chegarem a este lugar.’
+
+[[v5-1-32]]
+
+^<<v5-1-32,32>>^ Mas, apesar de tudo isso, não depositaram fé em Jeová, vosso Deus,
+
+[[v5-1-33]]
+
+^<<v5-1-33,33>>^ que ia à vossa frente no caminho, a fim de vos encontrar um lugar para acamparem. De noite, aparecia num fogo, e, de dia, numa nuvem, para vos mostrar o caminho em que deviam andar.
+
+[[v5-1-34]]
+
+^<<v5-1-34,34>>^ “Durante todo esse tempo, Jeová ouvia o que diziam, por isso, ficou indignado e jurou solenemente:
+
+[[v5-1-35]]
+
+^<<v5-1-35,35>>^ ‘Nem sequer um dos homens desta geração má verá a boa terra que jurei dar aos vossos pais,
+
+[[v5-1-36]]
+
+^<<v5-1-36,36>>^ com a exceção de Caleb, filho de Jefuné. Ele irá vê-la, e eu irei dar-lhe, a ele e aos seus filhos, a terra em que ele andou, porque seguiu a Jeová de todo o coração.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “plenamente; completamente”.
+====
+
+[[v5-1-37]]
+
+^<<v5-1-37,37>>^ (Até comigo Jeová se irritou por vossa causa, e disse: “Tu também não entrarás lá.
+
+[[v5-1-38]]
+
+^<<v5-1-38,38>>^ Josué, filho de Num, teu servo,^&#42;1^ é quem entrará na terra. Fortalece-o,^&#42;2^ pois ele fará Israel herdá-la.”)
+
+[NOTE]
+====
+. Lit.: “que está de pé perante ti”.
+. Ou, possivelmente: “Deus fortaleceu-o”.
+====
+
+[[v5-1-39]]
+
+^<<v5-1-39,39>>^ E as vossas crianças, que vocês disseram que seriam levadas como despojo, e os vossos filhos, que hoje não conhecem nem o bem nem o mal, esses entrarão lá, e irei dar-lhes a terra como propriedade.
+
+[[v5-1-40]]
+
+^<<v5-1-40,40>>^ Quanto a vocês, deem meia-volta e partam para o deserto pelo caminho do mar Vermelho.’
+
+[[v5-1-41]]
+
+^<<v5-1-41,41>>^ “A isso, vocês disseram-me: ‘Pecámos contra Jeová. Agora, vamos subir e lutar, assim como Jeová, nosso Deus, nos ordenou!’ Cada um pegou então nas suas armas de guerra, pensando que seria fácil subir até à região montanhosa.
+
+[[v5-1-42]]
+
+^<<v5-1-42,42>>^ Mas Jeová disse-me: ‘Diz-lhes: “Não subam nem lutem, pois não estarei convosco. Se forem, serão derrotados pelos vossos inimigos.”’
+
+[[v5-1-43]]
+
+^<<v5-1-43,43>>^ Eu falei convosco, mas vocês não me escutaram. Em vez disso, rebelaram-se contra a ordem de Jeová e, presunçosamente, tentaram subir até à região montanhosa.
+
+[[v5-1-44]]
+
+^<<v5-1-44,44>>^ Então, os amorreus que moravam naquela região foram ao vosso encontro e perseguiram-vos, assim como fazem as abelhas, e puseram-vos em fuga para Seir, e até Hormá.
+
+[[v5-1-45]]
+
+^<<v5-1-45,45>>^ Vocês voltaram então e começaram a chorar perante Jeová, mas Jeová não vos escutou nem vos deu atenção.
+
+[[v5-1-46]]
+
+^<<v5-1-46,46>>^ Foi por isso que continuaram a morar durante tanto tempo em Cades.
+
+'''
+
+xref:004-numeros/004-numeros-036.adoc#v4-36-0[&#60; Capítulo Anterior] | <<v5-1-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-002.adoc#v5-2-0[Próximo Capítulo &#62;]

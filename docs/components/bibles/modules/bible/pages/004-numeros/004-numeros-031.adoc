@@ -1,0 +1,291 @@
+include::./index.adoc[]
+
+[[v4-31-0]]
+=== Números, 31
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-31-1]]
+
+^<<v4-31-1,1>>^ Jeová disse então a Moisés:
+
+[[v4-31-2]]
+
+^<<v4-31-2,2>>^ “Vinga-te dos midianitas pelo que fizeram aos israelitas. Depois, irás juntar-te ao teu povo.”^&#42;1^
+
+[NOTE]
+====
+. Expressão poética que se refere à morte.
+====
+
+[[v4-31-3]]
+
+^<<v4-31-3,3>>^ Portanto, Moisés disse ao povo: “Equipem alguns dos vossos homens para a batalha^&#42;1^ contra Midiã e para executar a vingança de Jeová sobre Midiã.
+
+[NOTE]
+====
+. Ou: “o exército”.
+====
+
+[[v4-31-4]]
+
+^<<v4-31-4,4>>^ Devem enviar para a guerra 1000 de cada tribo, de todas as tribos de Israel.”
+
+[[v4-31-5]]
+
+^<<v4-31-5,5>>^ Assim, dentre os milhares de Israel, foram designados 1000 de cada tribo: 12 000 homens equipados para a batalha.^&#42;1^
+
+[NOTE]
+====
+. Ou: “o exército”.
+====
+
+[[v4-31-6]]
+
+^<<v4-31-6,6>>^ Então, Moisés enviou-os para a guerra, 1000 de cada tribo, juntamente com Fineias, filho de Eleazar, o sacerdote, que acompanhava o exército e tinha nas mãos os utensílios sagrados e as trombetas para dar os sinais de guerra.
+
+[[v4-31-7]]
+
+^<<v4-31-7,7>>^ Eles guerrearam contra Midiã, assim como Jeová tinha ordenado a Moisés, e mataram todos os homens.
+
+[[v4-31-8]]
+
+^<<v4-31-8,8>>^ Entre os que foram mortos, estavam os reis de Midiã, isto é, Evi, Requém, Zur, Hur e Reba, os cinco reis de Midiã. Mataram também Balaão, filho de Beor, pela espada.
+
+[[v4-31-9]]
+
+^<<v4-31-9,9>>^ No entanto, os israelitas levaram cativas as mulheres e as crianças de Midiã. Além disso, saquearam todos os seus animais domésticos, todo o seu gado e todos os seus bens.
+
+[[v4-31-10]]
+
+^<<v4-31-10,10>>^ E queimaram com fogo todas as cidades em que eles tinham fixado residência e todos os seus acampamentos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “acampamentos murados”.
+====
+
+[[v4-31-11]]
+
+^<<v4-31-11,11>>^ Apoderaram-se de todos os despojos e de todo o espólio, incluindo pessoas e animais.
+
+[[v4-31-12]]
+
+^<<v4-31-12,12>>^ Então, trouxeram os cativos, o espólio e os despojos a Moisés, a Eleazar, o sacerdote, e à assembleia de Israel, no acampamento, nas planícies desérticas de Moabe, junto ao Jordão, perto de Jericó.
+
+[[v4-31-13]]
+
+^<<v4-31-13,13>>^ De seguida, Moisés, o sacerdote Eleazar e todos os maiorais da assembleia foram ao encontro deles, fora do acampamento.
+
+[[v4-31-14]]
+
+^<<v4-31-14,14>>^ Contudo, Moisés ficou indignado com os homens designados das forças combatentes, os chefes de mil e os chefes de cem, que retornavam da expedição militar.
+
+[[v4-31-15]]
+
+^<<v4-31-15,15>>^ Moisés disse-lhes: “Mantiveram vivas todas as mulheres?
+
+[[v4-31-16]]
+
+^<<v4-31-16,16>>^ Foram elas que, pela palavra de Balaão, induziram os israelitas a cometer infidelidade para com Jeová no caso de Peor, de modo que o flagelo sobreveio à assembleia de Jeová.
+
+[[v4-31-17]]
+
+^<<v4-31-17,17>>^ Agora, devem matar todos os meninos e também todas as mulheres que tiverem tido relações sexuais com um homem.
+
+[[v4-31-18]]
+
+^<<v4-31-18,18>>^ Porém, podem deixar vivas todas as jovens que nunca tiveram relações sexuais com um homem.
+
+[[v4-31-19]]
+
+^<<v4-31-19,19>>^ E devem acampar fora do acampamento durante sete dias. Todos os que tiverem matado alguém^&#42;1^ ou tocado em alguém que foi morto devem purificar-se no terceiro dia e no sétimo dia, juntamente com os vossos cativos.
+
+[NOTE]
+====
+. Ou: “uma alma”.
+====
+
+[[v4-31-20]]
+
+^<<v4-31-20,20>>^ E devem purificar todas as roupas, todos os artigos de couro, tudo o que é feito de pelo de cabra e todos os objetos de madeira.”
+
+[[v4-31-21]]
+
+^<<v4-31-21,21>>^ Eleazar, o sacerdote, disse então aos homens do exército que tinham ido à batalha: “Este é o decreto da lei que Jeová ordenou a Moisés:
+
+[[v4-31-22]]
+
+^<<v4-31-22,22>>^ ‘Só o ouro, a prata, o cobre, o ferro, o estanho e o chumbo,
+
+[[v4-31-23]]
+
+^<<v4-31-23,23>>^ todas as coisas que resistem ao fogo, é que devem passar pelo fogo, de modo a que sejam purificadas. Contudo, também devem ser purificadas com a água da purificação. Devem passar pela água tudo o que não resiste ao fogo.
+
+[[v4-31-24]]
+
+^<<v4-31-24,24>>^ Devem lavar as vossas roupas no sétimo dia, e ficarão puros; depois, podem entrar no acampamento.’”
+
+[[v4-31-25]]
+
+^<<v4-31-25,25>>^ Então, Jeová disse o seguinte a Moisés:
+
+[[v4-31-26]]
+
+^<<v4-31-26,26>>^ “Faz um inventário do que foi trazido como despojo, contando o que foi capturado, tanto pessoas como animais; faz isso com Eleazar, o sacerdote, e com os cabeças das casas paternas da assembleia.
+
+[[v4-31-27]]
+
+^<<v4-31-27,27>>^ Divide em duas partes o que foi saqueado: uma para os soldados que participaram na batalha e a outra para o restante da assembleia.
+
+[[v4-31-28]]
+
+^<<v4-31-28,28>>^ Como imposto para Jeová, dos soldados que saíram para a batalha, deves retirar um^&#42;1^ de cada quinhentos, sejam pessoas, bois, jumentos ou ovelhas.
+
+[NOTE]
+====
+. Ou: “uma alma”. Veja o Glossário, “Alma”.
+====
+
+[[v4-31-29]]
+
+^<<v4-31-29,29>>^ Devem tirá-lo da metade deles e dá-lo a Eleazar, o sacerdote, como contribuição pertencente a Jeová.
+
+[[v4-31-30]]
+
+^<<v4-31-30,30>>^ Da metade dada aos israelitas, deves tirar um de cada cinquenta, sejam pessoas, bois, jumentos, ovelhas ou qualquer tipo de animal doméstico, e deves dá-los aos levitas, que cuidam das responsabilidades relacionadas com o tabernáculo de Jeová.”
+
+[[v4-31-31]]
+
+^<<v4-31-31,31>>^ Então, Moisés e Eleazar, o sacerdote, fizeram assim como Jeová tinha ordenado a Moisés.
+
+[[v4-31-32]]
+
+^<<v4-31-32,32>>^ O espólio, o que restou dos despojos de que os homens da expedição se tinham apoderado, totalizou 675 000 ovelhas,
+
+[[v4-31-33]]
+
+^<<v4-31-33,33>>^ 72 000 bois
+
+[[v4-31-34]]
+
+^<<v4-31-34,34>>^ e 61 000 jumentos.
+
+[[v4-31-35]]
+
+^<<v4-31-35,35>>^ O total das mulheres que não tinham tido relações sexuais com um homem foi de 32 000 mulheres.^&#42;1^
+
+[NOTE]
+====
+. Ou: “almas”.
+====
+
+[[v4-31-36]]
+
+^<<v4-31-36,36>>^ A metade que coube aos que saíram para a batalha totalizou 337 500 ovelhas,
+
+[[v4-31-37]]
+
+^<<v4-31-37,37>>^ e a soma do imposto para Jeová, dentre as ovelhas, foi de 675.
+
+[[v4-31-38]]
+
+^<<v4-31-38,38>>^ Havia 36 000 bois e o imposto sobre eles para Jeová foi de 72.
+
+[[v4-31-39]]
+
+^<<v4-31-39,39>>^ Havia 30 500 jumentos e o imposto sobre eles para Jeová foi de 61.
+
+[[v4-31-40]]
+
+^<<v4-31-40,40>>^ E havia 16 000 pessoas^&#42;1^ e o imposto sobre elas para Jeová foi de 32 pessoas.^&#42;2^
+
+[NOTE]
+====
+. Ou: “almas humanas”.
+. Ou: “almas”.
+====
+
+[[v4-31-41]]
+
+^<<v4-31-41,41>>^ Então, Moisés entregou o imposto a Eleazar, o sacerdote, como contribuição pertencente a Jeová, assim como Jeová tinha ordenado a Moisés.
+
+[[v4-31-42]]
+
+^<<v4-31-42,42>>^ A metade pertencente aos israelitas, que Moisés separou da porção pertencente aos homens que guerrearam, foi a seguinte:
+
+[[v4-31-43]]
+
+^<<v4-31-43,43>>^ a metade das ovelhas totalizou 337 500;
+
+[[v4-31-44]]
+
+^<<v4-31-44,44>>^ dos bois, 36 000;
+
+[[v4-31-45]]
+
+^<<v4-31-45,45>>^ dos jumentos, 30 500;
+
+[[v4-31-46]]
+
+^<<v4-31-46,46>>^ e das pessoas,^&#42;1^ 16 000.
+
+[NOTE]
+====
+. Ou: “almas humanas”.
+====
+
+[[v4-31-47]]
+
+^<<v4-31-47,47>>^ Da metade pertencente aos israelitas, Moisés retirou um de cada cinquenta, das pessoas e dos animais, e deu-os aos levitas, que cuidavam da responsabilidade do tabernáculo de Jeová, assim como Jeová tinha ordenado a Moisés.
+
+[[v4-31-48]]
+
+^<<v4-31-48,48>>^ Então, os homens designados das divisões^&#42;1^ do exército, os chefes de mil e os chefes de cem, aproximaram-se de Moisés
+
+[NOTE]
+====
+. Lit.: “dos grupos de mil”.
+====
+
+[[v4-31-49]]
+
+^<<v4-31-49,49>>^ e disseram-lhe: “Os teus servos fizeram a contagem dos homens de guerra que estão sob as nossas ordens e foi-nos relatado que não falta nenhum deles.
+
+[[v4-31-50]]
+
+^<<v4-31-50,50>>^ Portanto, que cada um de nós apresente a Jeová, como oferta, aquilo que encontrou: objetos de ouro, correntezinhas para os tornozelos, pulseiras, anéis de sinete, brincos e outras joias, a fim de se fazer expiação por nós mesmos^&#42;1^ perante Jeová.”
+
+[NOTE]
+====
+. Ou: “pelas nossas almas”.
+====
+
+[[v4-31-51]]
+
+^<<v4-31-51,51>>^ Assim, Moisés e Eleazar, o sacerdote, aceitaram o ouro da parte deles, todas as joias.
+
+[[v4-31-52]]
+
+^<<v4-31-52,52>>^ Todo o ouro da contribuição que os chefes de mil e os chefes de cem deram a Jeová totalizou 16 750 siclos.^&#42;1^
+
+[NOTE]
+====
+. Um siclo equivalia a 11,4 g. Veja o Ap. B14.
+====
+
+[[v4-31-53]]
+
+^<<v4-31-53,53>>^ Cada homem do exército tinha retirado uma parte do despojo para si.
+
+[[v4-31-54]]
+
+^<<v4-31-54,54>>^ Moisés e Eleazar, o sacerdote, aceitaram o ouro da parte dos chefes de mil e de cem, e levaram-no para dentro da tenda de reunião, como recordação^&#42;1^ perante Jeová, em favor do povo de Israel.
+
+[NOTE]
+====
+. Ou: “memorial”.
+====
+
+'''
+
+xref:004-numeros/004-numeros-030.adoc#v4-30-0[&#60; Capítulo Anterior] | <<v4-31-0,Topo>> | xref:004-numeros/004-numeros-032.adoc#v4-32-0[Próximo Capítulo &#62;]

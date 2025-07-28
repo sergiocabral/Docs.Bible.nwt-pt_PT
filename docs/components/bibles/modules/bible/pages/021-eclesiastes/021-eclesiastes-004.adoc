@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v21-4-0]]
+=== Eclesiastes, 4
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v21-4-1]]
+
+^<<v21-4-1,1>>^ Voltei novamente a minha atenção para todos os atos de opressão que ocorrem debaixo do sol. Vi as lágrimas dos oprimidos, mas não havia quem os consolasse. Os seus opressores tinham o poder, e não havia quem os consolasse.
+
+[[v21-4-2]]
+
+^<<v21-4-2,2>>^ E declarei felizes as pessoas que já tinham morrido, em vez das que ainda estão vivas.
+
+[[v21-4-3]]
+
+^<<v21-4-3,3>>^ E melhor do que todas elas é aquele que ainda não nasceu, que não viu as ações aflitivas praticadas debaixo do sol.
+
+[[v21-4-4]]
+
+^<<v21-4-4,4>>^ E eu vi quanto esforço^&#42;1^ e trabalho habilidoso vêm da rivalidade entre as pessoas; isto também é vaidade, é correr atrás do vento.
+
+[NOTE]
+====
+. Ou: “trabalho árduo”.
+====
+
+[[v21-4-5]]
+
+^<<v21-4-5,5>>^ O tolo cruza os braços e vai-se definhando.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “e está a comer a sua própria carne”.
+====
+
+[[v21-4-6]]
+
+^<<v21-4-6,6>>^ Mais vale um punhado de descanso do que dois punhados de trabalho árduo e um esforço para alcançar o vento.
+
+[[v21-4-7]]
+
+^<<v21-4-7,7>>^ Voltei a minha atenção para outro exemplo de vaidade debaixo do sol:
+
+[[v21-4-8]]
+
+^<<v21-4-8,8>>^ um homem completamente solitário, que não tem nenhuma companhia; não tem filhos nem irmãos, mas não há fim para todo o seu trabalho árduo. Os seus olhos nunca se satisfazem com as riquezas. No entanto, será que ele se pergunta: “Para quem é que eu trabalho arduamente, privando-me^&#42;1^ de coisas boas?” Isto também é vaidade e uma ocupação penosa.
+
+[NOTE]
+====
+. Ou: “privando a minha alma”.
+====
+
+[[v21-4-9]]
+
+^<<v21-4-9,9>>^ Melhor dois do que um, porque eles têm uma boa recompensa^&#42;1^ pelo seu trabalho árduo.
+
+[NOTE]
+====
+. Ou: “um maior benefício”.
+====
+
+[[v21-4-10]]
+
+^<<v21-4-10,10>>^ Pois, se um deles cai, o outro pode ajudar o seu companheiro a levantar-se. Porém, o que acontecerá com aquele que cai e não tem ninguém para ajudá-lo a levantar-se?
+
+[[v21-4-11]]
+
+^<<v21-4-11,11>>^ Além disso, se dois se deitarem juntos, vão aquecer-se; mas como é que alguém sozinho pode aquecer-se?
+
+[[v21-4-12]]
+
+^<<v21-4-12,12>>^ Além disso, alguém pode vencer um que está só, mas dois juntos conseguem resistir ao agressor. E um cordão tríplice não pode ser facilmente^&#42;1^ rebentado.
+
+[NOTE]
+====
+. Ou: “rapidamente”.
+====
+
+[[v21-4-13]]
+
+^<<v21-4-13,13>>^ Mais vale um jovem pobre, mas sábio, do que um rei velho, mas tolo, que já não tem bom senso para ouvir conselhos.
+
+[[v21-4-14]]
+
+^<<v21-4-14,14>>^ Pois ele^&#42;1^ saiu da prisão para tornar-se rei, embora tenha nascido pobre no domínio do outro rei.
+
+[NOTE]
+====
+. Talvez se refira ao jovem sábio.
+====
+
+[[v21-4-15]]
+
+^<<v21-4-15,15>>^ Considerei todos os vivos que andam debaixo do sol e o que acontece com o jovem sucessor, que se levanta no lugar do outro.
+
+[[v21-4-16]]
+
+^<<v21-4-16,16>>^ Embora a multidão que o apoia seja incontável, os que vêm depois não ficarão contentes com ele. Isto também é vaidade, é correr atrás do vento.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-003.adoc#v21-3-0[&#60; Capítulo Anterior] | <<v21-4-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-005.adoc#v21-5-0[Próximo Capítulo &#62;]

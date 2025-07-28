@@ -1,0 +1,90 @@
+include::./index.adoc[]
+
+[[v19-32-0]]
+=== Salmos, 32
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_De David. Masquil.^&#42;1^_
+
+[[v19-32-1]]
+
+^<<v19-32-1,1>>^ Feliz aquele cuja transgressão é perdoada, cujo pecado é coberto.^&#42;1^
+
+[NOTE]
+====
+. Ou: “desculpado”.
+====
+
+[[v19-32-2]]
+
+^<<v19-32-2,2>>^ Feliz o homem a quem Jeová não atribui culpa,
+Em cujo espírito não há engano.
+
+[[v19-32-3]]
+
+^<<v19-32-3,3>>^ Enquanto fiquei calado, os meus ossos definharam-se por eu gemer o dia inteiro.
+
+[[v19-32-4]]
+
+^<<v19-32-4,4>>^ Pois, de dia e de noite, a tua mão^&#42;1^ pesava sobre mim.
+As minhas forças evaporaram-se^&#42;2^ como água no calor seco do verão. (Selá)
+
+[NOTE]
+====
+. Ou: “o teu desagrado”.
+. Ou: “A seiva da minha vida transformou-se”.
+====
+
+[[v19-32-5]]
+
+^<<v19-32-5,5>>^ Finalmente, confessei-te o meu pecado;
+Não encobri o meu erro.
+Eu disse: “Confessarei as minhas transgressões a Jeová.”
+E tu perdoaste o meu erro e os meus pecados.^&#42;1^ (Selá)
+
+[NOTE]
+====
+. Ou: “perdoaste a culpa dos meus pecados”.
+====
+
+[[v19-32-6]]
+
+^<<v19-32-6,6>>^ É por isso que todo aquele que é leal orará a ti
+Enquanto puderes ser encontrado.
+Assim, nem mesmo as águas torrenciais o alcançarão.
+
+[[v19-32-7]]
+
+^<<v19-32-7,7>>^ Tu és um esconderijo para mim;
+Vais proteger-me da aflição.
+Vais cercar-me com gritos alegres de livramento. (Selá)
+
+[[v19-32-8]]
+
+^<<v19-32-8,8>>^ “Vou dar-te perspicácia e instruir-te no caminho em que deves andar.
+Vou aconselhar-te com os meus olhos fixos em ti.
+
+[[v19-32-9]]
+
+^<<v19-32-9,9>>^ Não sejam como o cavalo e a mula, que não têm entendimento,
+Cuja impetuosidade precisa de ser domada com freio e rédeas
+Para que obedeçam.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “Antes de se aproximarem de ti”.
+====
+
+[[v19-32-10]]
+
+^<<v19-32-10,10>>^ Muitas são as dores dos maus;
+Mas aquele que confia em Jeová é rodeado pelo Seu amor leal.
+
+[[v19-32-11]]
+
+^<<v19-32-11,11>>^ Alegrem-se em Jeová e exultem, ó justos;
+Gritem de alegria, todos vocês, os que são retos de coração.
+
+'''
+
+xref:019-salmo/019-salmo-031.adoc#v19-31-0[&#60; Capítulo Anterior] | <<v19-32-0,Topo>> | xref:019-salmo/019-salmo-033.adoc#v19-33-0[Próximo Capítulo &#62;]

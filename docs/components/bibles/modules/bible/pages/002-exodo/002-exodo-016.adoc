@@ -1,0 +1,184 @@
+include::./index.adoc[]
+
+[[v2-16-0]]
+=== Êxodo, 16
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-16-1]]
+
+^<<v2-16-1,1>>^ Depois de partir de Elim, toda a assembleia de Israel chegou finalmente ao deserto de Sim, que fica entre Elim e o Sinai, no dia 15 do segundo mês após a sua saída da terra do Egito.
+
+[[v2-16-2]]
+
+^<<v2-16-2,2>>^ Então, toda a assembleia de Israel começou a resmungar contra Moisés e Arão no deserto.
+
+[[v2-16-3]]
+
+^<<v2-16-3,3>>^ Os israelitas diziam-lhes: “Quem nos dera que tivéssemos morrido pela mão de Jeová na terra do Egito, enquanto estávamos sentados junto às panelas de carne, enquanto comíamos pão à vontade! Mas vocês trouxeram-nos para este deserto para fazer toda esta congregação morrer de fome.”
+
+[[v2-16-4]]
+
+^<<v2-16-4,4>>^ Jeová disse então a Moisés: “Farei chover pão para vocês desde os céus. O povo deve sair, e cada um recolherá a sua porção diária, a fim de que eu os ponha à prova para ver se andarão na minha lei ou não.
+
+[[v2-16-5]]
+
+^<<v2-16-5,5>>^ Contudo, no sexto dia, ao prepararem o que recolheram, usem o dobro do que apanharam em cada um dos outros dias.”
+
+[[v2-16-6]]
+
+^<<v2-16-6,6>>^ Portanto, Moisés e Arão disseram a todos os israelitas: “Ao anoitecer, certamente saberão que foi Jeová quem vos tirou da terra do Egito.
+
+[[v2-16-7]]
+
+^<<v2-16-7,7>>^ De manhã, verão a glória de Jeová, pois Jeová ouviu as vossas queixas contra ele. Quem somos nós, para que se queixem contra nós?”
+
+[[v2-16-8]]
+
+^<<v2-16-8,8>>^ Moisés continuou: “Quando Jeová vos der carne para comer, ao anoitecer, e pão à vontade de manhã, verão que Jeová ouviu as queixas que fazem contra ele. Mas quem somos nós? Vocês não se estão a queixar contra nós, mas contra Jeová.”
+
+[[v2-16-9]]
+
+^<<v2-16-9,9>>^ Então, Moisés disse a Arão: “Diz a toda a assembleia de Israel: ‘Apresentem-se perante Jeová, pois ele ouviu as vossas queixas.’”
+
+[[v2-16-10]]
+
+^<<v2-16-10,10>>^ Assim que Arão falou com toda a assembleia de Israel, eles viraram-se para trás e olharam para o deserto, e a glória de Jeová apareceu na nuvem.
+
+[[v2-16-11]]
+
+^<<v2-16-11,11>>^ Jeová disse ainda a Moisés:
+
+[[v2-16-12]]
+
+^<<v2-16-12,12>>^ “Ouvi as queixas dos israelitas. Diz-lhes o seguinte: ‘Ao anoitecer,^&#42;1^ comerão carne, e de manhã comerão pão à vontade, e certamente saberão que eu sou Jeová, vosso Deus.’”
+
+[NOTE]
+====
+. Lit.: “Entre os dois anoiteceres”.
+====
+
+[[v2-16-13]]
+
+^<<v2-16-13,13>>^ Ao anoitecer, vieram codornizes e cobriram o acampamento, e de manhã havia uma camada de orvalho à volta do acampamento.
+
+[[v2-16-14]]
+
+^<<v2-16-14,14>>^ Quando a camada de orvalho se evaporou, havia na superfície do deserto uma substância fina e quebradiça, semelhante à geada sobre o solo.
+
+[[v2-16-15]]
+
+^<<v2-16-15,15>>^ Quando os israelitas a viram, começaram a dizer uns aos outros: “O que é isto?”, pois não sabiam o que era. Moisés disse-lhes: “É o pão que Jeová vos deu como alimento.
+
+[[v2-16-16]]
+
+^<<v2-16-16,16>>^ Isto é o que Jeová ordenou: ‘Cada um deve apanhar a quantidade que come. Devem apanhar um gomor^&#42;1^ por pessoa, segundo o número de pessoas^&#42;2^ que cada um tem na sua tenda.’”
+
+[NOTE]
+====
+. Cerca de 2,2 l. Veja o Ap. B14.
+. Ou: “almas”.
+====
+
+[[v2-16-17]]
+
+^<<v2-16-17,17>>^ Os israelitas começaram a fazer isso. Alguns recolheram muito e outros recolheram pouco.
+
+[[v2-16-18]]
+
+^<<v2-16-18,18>>^ Ao medirem as quantidades pelo gomor, não sobrava a quem tinha recolhido muito, nem faltava a quem tinha recolhido pouco. Cada um apanhou a quantidade que comia.
+
+[[v2-16-19]]
+
+^<<v2-16-19,19>>^ Então, Moisés disse-lhes: “Ninguém deve guardar nada para a manhã seguinte.”
+
+[[v2-16-20]]
+
+^<<v2-16-20,20>>^ Porém, eles não ouviram Moisés. Quando alguns guardaram uma parte para a manhã seguinte, o que tinha sido guardado criou bichos e cheirou mal; e Moisés ficou indignado com eles.
+
+[[v2-16-21]]
+
+^<<v2-16-21,21>>^ Eles apanhavam-no todas as manhãs, cada um conforme o que comia. Quando o sol aquecia, ele derretia-se.
+
+[[v2-16-22]]
+
+^<<v2-16-22,22>>^ No sexto dia, eles apanharam o dobro: dois gomores por pessoa. Então, todos os maiorais da assembleia foram comunicar isso a Moisés.
+
+[[v2-16-23]]
+
+^<<v2-16-23,23>>^ Portanto, ele disse-lhes: “Isto é o que Jeová disse. Amanhã, haverá um completo descanso,^&#42;1^ um santo sábado para Jeová. Assem no forno o que precisarem de assar e cozinhem em água o que precisarem de cozinhar; então, guardem o que sobrar para a manhã seguinte.”
+
+[NOTE]
+====
+. Ou: “uma celebração sabática”.
+====
+
+[[v2-16-24]]
+
+^<<v2-16-24,24>>^ Assim, guardaram-no para a manhã seguinte, como Moisés tinha ordenado, e o que guardaram não cheirou mal nem criou vermes.
+
+[[v2-16-25]]
+
+^<<v2-16-25,25>>^ De seguida, Moisés disse: “Comam-no hoje, porque hoje é um sábado para Jeová. Hoje não o encontrarão no campo.
+
+[[v2-16-26]]
+
+^<<v2-16-26,26>>^ Devem apanhá-lo por seis dias, mas não haverá nada no sétimo dia, o sábado.”
+
+[[v2-16-27]]
+
+^<<v2-16-27,27>>^ No entanto, no sétimo dia, alguns do povo saíram para apanhá-lo, mas não encontraram nada.
+
+[[v2-16-28]]
+
+^<<v2-16-28,28>>^ Depois disso, Jeová disse a Moisés: “Até quando se recusarão a guardar os meus mandamentos e as minhas leis?
+
+[[v2-16-29]]
+
+^<<v2-16-29,29>>^ Notem que Jeová vos deu o sábado. É por isso que ele vos dá o pão para dois dias no sexto dia. No sétimo dia, todos devem ficar onde estão; ninguém deve sair do seu lugar.”
+
+[[v2-16-30]]
+
+^<<v2-16-30,30>>^ Então, o povo guardou o sábado^&#42;1^ no sétimo dia.
+
+[NOTE]
+====
+. Ou: “descansou”.
+====
+
+[[v2-16-31]]
+
+^<<v2-16-31,31>>^ A casa de Israel chamou ao pão “maná”.^&#42;1^ Este era branco como a semente de coentro, e o seu sabor era como o de bolachas de mel.
+
+[NOTE]
+====
+. Provavelmente vem da expressão hebraica que significa “O que é isto?”
+====
+
+[[v2-16-32]]
+
+^<<v2-16-32,32>>^ Moisés disse: “Isto é o que Jeová ordenou: ‘Recolham um gomor dele para ser guardado por todas as vossas gerações, a fim de que vejam o pão que vos dei para comer no deserto quando vos tirei da terra do Egito.’”
+
+[[v2-16-33]]
+
+^<<v2-16-33,33>>^ Portanto, Moisés disse a Arão: “Pega num jarro e põe nele um gomor de maná, e coloca-o diante de Jeová para ser guardado por todas as vossas gerações.”
+
+[[v2-16-34]]
+
+^<<v2-16-34,34>>^ E Arão colocou-o diante do Testemunho para que fosse preservado, assim como Jeová tinha ordenado a Moisés.
+
+[[v2-16-35]]
+
+^<<v2-16-35,35>>^ Os israelitas comeram o maná por 40 anos, até chegarem a uma terra que era habitada. Comeram o maná até chegarem às fronteiras da terra de Canaã.
+
+[[v2-16-36]]
+
+^<<v2-16-36,36>>^ Um gomor é um décimo de uma efa.^&#42;1^
+
+[NOTE]
+====
+. Uma efa equivalia a 22 l. Veja o Ap. B14.
+====
+
+'''
+
+xref:002-exodo/002-exodo-015.adoc#v2-15-0[&#60; Capítulo Anterior] | <<v2-16-0,Topo>> | xref:002-exodo/002-exodo-017.adoc#v2-17-0[Próximo Capítulo &#62;]

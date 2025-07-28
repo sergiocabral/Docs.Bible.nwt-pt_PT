@@ -1,0 +1,74 @@
+include::./index.adoc[]
+
+[[v19-64-0]]
+=== Salmos, 64
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. Salmo de David._
+
+[[v19-64-1]]
+
+^<<v19-64-1,1>>^ Ouve a minha voz, ó Deus, quando eu suplico.
+Protege a minha vida dos terríveis ataques do inimigo.
+
+[[v19-64-2]]
+
+^<<v19-64-2,2>>^ Defende-me das tramas secretas dos maus,
+Da multidão dos malfeitores;
+
+[[v19-64-3]]
+
+^<<v19-64-3,3>>^ Eles afiam a língua como uma espada;
+Apontam, como flechas, palavras cruéis,
+
+[[v19-64-4]]
+
+^<<v19-64-4,4>>^ E, dos seus esconderijos, atingem o inocente.
+Atiram contra ele de repente, sem temor.
+
+[[v19-64-5]]
+
+^<<v19-64-5,5>>^ Insistem no seu propósito maligno;^&#42;1^
+Falam sobre como esconder as suas armadilhas.
+Dizem: “Quem é que as verá?”
+
+[NOTE]
+====
+. Ou: “Animam-se uns aos outros para fazer o mal”.
+====
+
+[[v19-64-6]]
+
+^<<v19-64-6,6>>^ Procuram novos meios de fazer o mal;
+Planeiam secretamente a sua estratégia astuta;
+O pensamento e o coração de cada um deles são insondáveis.
+
+[[v19-64-7]]
+
+^<<v19-64-7,7>>^ Mas Deus vai atingi-los com uma flecha;
+Eles serão feridos de repente.
+
+[[v19-64-8]]
+
+^<<v19-64-8,8>>^ A sua própria língua será a causa da sua ruína;
+Todos os que estiverem a observar abanarão a cabeça.
+
+[[v19-64-9]]
+
+^<<v19-64-9,9>>^ Então, todos os homens ficarão com medo,
+E proclamarão o que Deus fez,
+E compreenderão os seus feitos.
+
+[[v19-64-10]]
+
+^<<v19-64-10,10>>^ O justo irá alegrar-se em Jeová e refugiar-se nele;
+Todos os que são retos de coração exultarão.^&#42;1^
+
+[NOTE]
+====
+. Ou: “irão orgulhar-se”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-063.adoc#v19-63-0[&#60; Capítulo Anterior] | <<v19-64-0,Topo>> | xref:019-salmo/019-salmo-065.adoc#v19-65-0[Próximo Capítulo &#62;]

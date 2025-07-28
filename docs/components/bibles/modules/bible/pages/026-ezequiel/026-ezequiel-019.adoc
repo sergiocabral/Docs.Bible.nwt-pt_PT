@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v26-19-0]]
+=== Ezequiel, 19
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v26-19-1]]
+
+^<<v26-19-1,1>>^ “Canta uma lamentação a respeito dos maiorais de Israel.
+
+[[v26-19-2]]
+
+^<<v26-19-2,2>>^ Diz:
+‘Quem foi a tua mãe? Uma leoa no meio de leões.
+Ela deitou-se entre leões jovens e fortes,^&#42;1^ e criou as suas crias.
+
+[NOTE]
+====
+. Ou: “leões novos jubados”.
+====
+
+[[v26-19-3]]
+
+^<<v26-19-3,3>>^ Ela criou uma das suas crias que se tornou um leão jovem e forte.
+Ele aprendeu a dilacerar a presa,
+Até mesmo devorou homens.
+
+[[v26-19-4]]
+
+^<<v26-19-4,4>>^ Nações ouviram falar dele e apanharam-no numa cova,
+E levaram-no com ganchos para a terra do Egito.
+
+[[v26-19-5]]
+
+^<<v26-19-5,5>>^ Ela ficou à espera de que ele voltasse até que, por fim, viu que já não havia esperança.
+Por isso, pegou noutra cria e fez dela um leão jovem e forte.
+
+[[v26-19-6]]
+
+^<<v26-19-6,6>>^ Ele também andou no meio dos leões e tornou-se um leão jovem e forte.
+Ele aprendeu a dilacerar a presa e até mesmo devorou homens.
+
+[[v26-19-7]]
+
+^<<v26-19-7,7>>^ Rondou torres fortificadas e devastou cidades,
+De modo que o som do seu rugido encheu aquela terra desolada.
+
+[[v26-19-8]]
+
+^<<v26-19-8,8>>^ Nações das províncias ao redor vieram contra ele para lhe lançarem a sua rede
+E apanharam-no numa cova.
+
+[[v26-19-9]]
+
+^<<v26-19-9,9>>^ Com ganchos, puseram-no numa jaula e levaram-no ao rei de Babilónia.
+Aprisionaram-no lá para que nunca mais se ouvisse a sua voz nos montes de Israel.
+
+[[v26-19-10]]
+
+^<<v26-19-10,10>>^ A tua mãe era como uma videira no teu sangue,^&#42;1^ plantada junto às águas.
+Ela produzia frutos e estava cheia de ramos por causa da água abundante.
+
+[NOTE]
+====
+. Ou, possivelmente: “na tua vinha”.
+====
+
+[[v26-19-11]]
+
+^<<v26-19-11,11>>^ Desenvolveu ramos^&#42;1^ fortes, próprios para cetros de governantes.
+Cresceu e ficou mais alta do que as outras árvores.
+Podia ser vista de longe por causa da sua altura e da sua vasta folhagem.
+
+[NOTE]
+====
+. Ou: “varas”.
+====
+
+[[v26-19-12]]
+
+^<<v26-19-12,12>>^ Todavia, com fúria, ela foi arrancada pela raiz e lançada por terra,
+E um vento leste secou os seus frutos.
+Os seus ramos fortes foram arrancados e secaram-se, e o fogo consumiu-os.
+
+[[v26-19-13]]
+
+^<<v26-19-13,13>>^ Agora, ela está plantada no deserto,
+Numa terra árida, sedenta.
+
+[[v26-19-14]]
+
+^<<v26-19-14,14>>^ O fogo espalhou-se a partir dos seus ramos^&#42;1^ e consumiu os seus rebentos e os seus frutos.
+Não sobrou nenhum ramo forte, nem nenhum cetro para governar.
+“‘Esta é uma lamentação, e servirá como uma lamentação.’”
+
+[NOTE]
+====
+. Ou: “das suas varas”.
+====
+
+'''
+
+xref:026-ezequiel/026-ezequiel-018.adoc#v26-18-0[&#60; Capítulo Anterior] | <<v26-19-0,Topo>> | xref:026-ezequiel/026-ezequiel-020.adoc#v26-20-0[Próximo Capítulo &#62;]

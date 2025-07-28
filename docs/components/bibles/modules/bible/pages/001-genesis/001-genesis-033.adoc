@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v1-33-0]]
+=== Génesis, 33
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-33-1]]
+
+^<<v1-33-1,1>>^ Jacó levantou os olhos e viu Esaú a chegar, e com ele havia 400 homens. Assim, repartiu os filhos entre Lia, Raquel e as duas servas.
+
+[[v1-33-2]]
+
+^<<v1-33-2,2>>^ Pôs as servas e os seus filhos à frente, Lia e os seus filhos depois deles, e Raquel e José por último.
+
+[[v1-33-3]]
+
+^<<v1-33-3,3>>^ Então, passou à frente deles e curvou-se por terra sete vezes, ao aproximar-se do seu irmão.
+
+[[v1-33-4]]
+
+^<<v1-33-4,4>>^ Mas Esaú correu ao seu encontro, e abraçou-o e beijou-o, e eles irromperam em lágrimas.
+
+[[v1-33-5]]
+
+^<<v1-33-5,5>>^ Quando Esaú levantou os olhos e viu as mulheres e os filhos, disse: “Quem são estes contigo?” Jacó respondeu: “Os filhos com os quais Deus favoreceu o seu servo.”
+
+[[v1-33-6]]
+
+^<<v1-33-6,6>>^ Aproximaram-se então as servas com os seus filhos e curvaram-se,
+
+[[v1-33-7]]
+
+^<<v1-33-7,7>>^ e Lia e os seus filhos também se aproximaram, e curvaram-se. Depois, José e Raquel aproximaram-se e curvaram-se.
+
+[[v1-33-8]]
+
+^<<v1-33-8,8>>^ Esaú perguntou: “Qual é a tua intenção ao enviares-me todo este acampamento de viajantes?” Ele respondeu: “Achar favor aos olhos do meu senhor.”
+
+[[v1-33-9]]
+
+^<<v1-33-9,9>>^ Esaú disse então: “Tenho muitos bens, meu irmão. Fica com o que é teu.”
+
+[[v1-33-10]]
+
+^<<v1-33-10,10>>^ No entanto, Jacó disse: “Não, por favor. Se achei favor aos seus olhos, aceite o presente da minha mão, pois trouxe-o para poder ver o seu rosto. E vi o seu rosto como se visse a face de Deus, visto que me recebeu com prazer.
+
+[[v1-33-11]]
+
+^<<v1-33-11,11>>^ Por favor, aceite o presente que lhe foi trazido,^&#42;1^ pois Deus favoreceu-me e eu tenho tudo o que é necessário.” E continuou a insistir com ele, até que ele aceitou.
+
+[NOTE]
+====
+. Lit.: “a minha bênção”.
+====
+
+[[v1-33-12]]
+
+^<<v1-33-12,12>>^ Mais tarde, Esaú disse: “Vamos partir, e deixa-me ir à tua frente.”
+
+[[v1-33-13]]
+
+^<<v1-33-13,13>>^ Mas ele disse-lhe: “O meu senhor sabe que as crianças são frágeis e que tenho aos meus cuidados ovelhas e vacas que estão a amamentar; se forem forçadas a andar demasiado depressa, mesmo que seja por um só dia, todo o rebanho morrerá.
+
+[[v1-33-14]]
+
+^<<v1-33-14,14>>^ Por favor, meu senhor, vá à frente do seu servo, mas eu continuarei a viagem mais devagar, ao passo do meu rebanho e das crianças, até chegar ao meu senhor em Seir.”
+
+[[v1-33-15]]
+
+^<<v1-33-15,15>>^ Esaú disse então: “Por favor, permite-me deixar contigo alguns dos meus homens.” E ele respondeu: “Não é preciso. Achar favor aos olhos do meu senhor já é suficiente.”
+
+[[v1-33-16]]
+
+^<<v1-33-16,16>>^ Assim, naquele dia, Esaú voltou para Seir.
+
+[[v1-33-17]]
+
+^<<v1-33-17,17>>^ Jacó viajou para Sucote, onde construiu uma casa para si e fez abrigos para o seu rebanho. Foi por isso que deu ao lugar o nome de Sucote.^&#42;1^
+
+[NOTE]
+====
+. Que significa “barracas; abrigos”.
+====
+
+[[v1-33-18]]
+
+^<<v1-33-18,18>>^ Depois de voltar de Padã-Arã, Jacó chegou são e salvo à cidade de Siquém, na terra de Canaã; e armou o seu acampamento perto da cidade.
+
+[[v1-33-19]]
+
+^<<v1-33-19,19>>^ Então, ele adquiriu dos filhos de Hamor, pai de Siquém, por 100 peças de dinheiro, uma parte do campo onde tinha armado a tenda.
+
+[[v1-33-20]]
+
+^<<v1-33-20,20>>^ Erigiu ali um altar e chamou-lhe Deus, o Deus de Israel.
+
+'''
+
+xref:001-genesis/001-genesis-032.adoc#v1-32-0[&#60; Capítulo Anterior] | <<v1-33-0,Topo>> | xref:001-genesis/001-genesis-034.adoc#v1-34-0[Próximo Capítulo &#62;]

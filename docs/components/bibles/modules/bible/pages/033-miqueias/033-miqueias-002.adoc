@@ -1,0 +1,102 @@
+include::./index.adoc[]
+
+[[v33-2-0]]
+=== Miqueias, 2
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v33-2-1]]
+
+^<<v33-2-1,1>>^ “Ai dos que tramam o que é prejudicial,
+Que planeiam o mal na sua cama!
+Quando amanhece, eles executam-no,
+Porque têm nas mãos o poder para o fazer.
+
+[[v33-2-2]]
+
+^<<v33-2-2,2>>^ Eles desejam campos e apoderam-se deles;
+Também casas e tomam-nas;
+Apoderam-se da casa de um homem por meio de fraude,
+Tiram a um homem a sua herança.
+
+[[v33-2-3]]
+
+^<<v33-2-3,3>>^ Portanto, assim diz Jeová:
+‘Estou a preparar uma calamidade contra esta família e vocês não lhe escaparão.^&#42;1^
+Não voltarão a andar com arrogância, pois será um tempo de calamidade.
+
+[NOTE]
+====
+. Lit.: “não removerão os vossos pescoços”.
+====
+
+[[v33-2-4]]
+
+^<<v33-2-4,4>>^ Nesse dia, as pessoas proferirão um provérbio a vosso respeito
+E lamentarão amargamente por ti.
+Elas dirão: “Estamos completamente arruinados!
+Ele passou a propriedade do nosso povo para outros; ele tirou-a de nós!
+Ele reparte os nossos campos pelos infiéis.”
+
+[[v33-2-5]]
+
+^<<v33-2-5,5>>^ Por isso, não terás ninguém para estender a corda de medir,
+Para distribuir a terra pela congregação de Jeová.
+
+[[v33-2-6]]
+
+^<<v33-2-6,6>>^ “Parem de pregar!”, pregam eles,
+“Eles não devem pregar estas coisas;
+A humilhação não nos atingirá!”
+
+[[v33-2-7]]
+
+^<<v33-2-7,7>>^ É isto o que dizem, ó casa de Jacó:
+“Será que o espírito de Jeová ficou impaciente?
+São estas as suas ações?”
+Será que as minhas palavras não fazem bem aos que andam em retidão?
+
+[[v33-2-8]]
+
+^<<v33-2-8,8>>^ Contudo, recentemente, o meu próprio povo levantou-se como se fosse um inimigo.
+Sem disfarçar, vocês arrancam o adorno majestoso da^&#42;1^ roupa
+Daqueles que andam confiantemente como os que regressam da guerra.
+
+[NOTE]
+====
+. Ou: “com a”.
+====
+
+[[v33-2-9]]
+
+^<<v33-2-9,9>>^ Expulsam as mulheres do meu povo das suas casas agradáveis;
+Tiram dos seus filhos a minha glória para sempre.
+
+[[v33-2-10]]
+
+^<<v33-2-10,10>>^ Levantem-se e vão, pois este não é um lugar de descanso.
+Por causa da impureza, haverá destruição, uma destruição dolorosa.
+
+[[v33-2-11]]
+
+^<<v33-2-11,11>>^ Se um homem anda atrás do vento e do engano, e diz esta mentira:
+“Vou pregar-te a respeito do vinho e da bebida alcoólica”,
+Nesse caso, ele é o pregador certo para este povo!
+
+[[v33-2-12]]
+
+^<<v33-2-12,12>>^ Certamente, vou ajuntar-vos a todos, ó Jacó;
+Com certeza, reunirei os que restarem de Israel.
+Eu vou pô-los em união como ovelhas no curral,
+Como o rebanho no pasto;
+Ali haverá o barulho de muitas pessoas.’
+
+[[v33-2-13]]
+
+^<<v33-2-13,13>>^ Aquele que abre uma brecha irá à frente deles;
+Eles abrirão uma brecha, atravessarão o portão e sairão por ele.
+O seu rei atravessará à sua frente;
+Jeová estará à sua frente.”
+
+'''
+
+xref:033-miqueias/033-miqueias-001.adoc#v33-1-0[&#60; Capítulo Anterior] | <<v33-2-0,Topo>> | xref:033-miqueias/033-miqueias-003.adoc#v33-3-0[Próximo Capítulo &#62;]

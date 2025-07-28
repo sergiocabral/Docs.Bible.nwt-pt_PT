@@ -1,0 +1,192 @@
+include::./index.adoc[]
+
+[[v24-9-0]]
+=== Jeremias, 9
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v24-9-1]]
+
+^<<v24-9-1,1>>^ Quem me dera que a minha cabeça fosse um poço cheio de água,^&#42;1^
+E que os meus olhos fossem uma fonte de lágrimas!
+Se assim fosse, eu choraria, dia e noite,
+Pelos mortos do meu povo.
+
+[NOTE]
+====
+. Ou: “fosse de águas”.
+====
+
+[[v24-9-2]]
+
+^<<v24-9-2,2>>^ Quem me dera que houvesse para mim um alojamento para viajantes no deserto!
+Eu deixaria o meu povo e iria para longe,
+Pois todos os que lhe pertencem são adúlteros,
+Um bando de traiçoeiros.
+
+[[v24-9-3]]
+
+^<<v24-9-3,3>>^ A sua língua é como um arco pronto a atirar;
+A falsidade, não a fidelidade, prevalece nesta terra.
+“Eles passam de uma maldade para outra,
+E não me dão atenção”, diz Jeová.
+
+[[v24-9-4]]
+
+^<<v24-9-4,4>>^ “Tenham todos cuidado com o vosso amigo,^&#42;1^
+E não confiem nem sequer no vosso irmão.
+Pois todos os irmãos são traidores,
+E todos os amigos^&#42;2^ são caluniadores.
+
+[NOTE]
+====
+. Ou: “próximo”.
+. Ou: “próximos”.
+====
+
+[[v24-9-5]]
+
+^<<v24-9-5,5>>^ Cada um deles trapaceia o seu próximo,
+E ninguém diz a verdade.
+Ensinaram a sua língua a dizer mentiras.
+Ficam exaustos de tanto fazer o que é errado.
+
+[[v24-9-6]]
+
+^<<v24-9-6,6>>^ Vives no meio de mentiras.
+Por serem mentirosos, eles recusam-se a conhecer-me”, diz Jeová.
+
+[[v24-9-7]]
+
+^<<v24-9-7,7>>^ Portanto, assim diz Jeová dos exércitos:
+“Vou refiná-los e testá-los,
+Pois o que é que posso fazer mais com a filha do meu povo?
+
+[[v24-9-8]]
+
+^<<v24-9-8,8>>^ A sua língua é uma flecha mortal, que diz mentiras.
+Com a boca, eles falam de paz ao seu próximo,
+Mas, no íntimo, armam emboscadas.”
+
+[[v24-9-9]]
+
+^<<v24-9-9,9>>^ “Não devia eu ajustar contas com eles por causa destas coisas?”, diz Jeová.
+“Não devia eu vingar-me^&#42;1^ de uma nação como esta?
+
+[NOTE]
+====
+. Ou: “Não devia a minha alma vingar-se”.
+====
+
+[[v24-9-10]]
+
+^<<v24-9-10,10>>^ Chorarei e lamentarei por causa dos montes,
+E cantarei uma lamentação por causa das pastagens do deserto,^&#42;1^
+Pois foram queimadas, de modo que ninguém passa por ali
+Nem se ouve o som de gado.
+As aves dos céus e os animais fugiram; foram-se embora.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v24-9-11]]
+
+^<<v24-9-11,11>>^ Transformarei Jerusalém em montes de pedras, um esconderijo de chacais,
+E farei com que as cidades de Judá fiquem desoladas, sem habitantes.
+
+[[v24-9-12]]
+
+^<<v24-9-12,12>>^ Quem é suficientemente sábio para compreender isto?
+A quem é que a boca de Jeová se dirigiu para que ele possa proclamá-lo?
+Porque é que esta terra foi arruinada?
+Porque é que está seca como o deserto,
+De modo que ninguém passa por ela?”
+
+[[v24-9-13]]
+
+^<<v24-9-13,13>>^ Jeová respondeu: “Foi por eles terem rejeitado a minha lei,^&#42;1^ que pus diante deles, e por não seguirem nem obedecerem à minha voz.
+
+[NOTE]
+====
+. Ou: “instrução”.
+====
+
+[[v24-9-14]]
+
+^<<v24-9-14,14>>^ Em vez disso, teimaram em seguir o seu próprio coração e seguiram as imagens de Baal, como os seus pais lhes tinham ensinado.
+
+[[v24-9-15]]
+
+^<<v24-9-15,15>>^ Portanto, assim diz Jeová dos exércitos, o Deus de Israel: ‘Vou fazer este povo comer absinto e vou fazê-los beber água envenenada.
+
+[[v24-9-16]]
+
+^<<v24-9-16,16>>^ Vou espalhá-los entre as nações que nem eles nem os seus pais conheciam, e vou enviar uma espada atrás deles até que os tenha exterminado.’
+
+[[v24-9-17]]
+
+^<<v24-9-17,17>>^ Assim diz Jeová dos exércitos:
+‘Ajam com entendimento.
+Convoquem as mulheres que cantam lamentações,
+Mandem chamar as mais hábeis,
+
+[[v24-9-18]]
+
+^<<v24-9-18,18>>^ Para que venham depressa e nos cantem uma lamentação,
+Para que se derramem lágrimas dos nossos olhos,
+E escorra água das nossas pálpebras.
+
+[[v24-9-19]]
+
+^<<v24-9-19,19>>^ De Sião, ouve-se o som de lamento:
+“Fomos completamente devastados!
+Como é grande a nossa vergonha!
+Pois deixámos a nossa terra e eles derrubaram as nossas casas.”
+
+[[v24-9-20]]
+
+^<<v24-9-20,20>>^ Ó mulheres, ouçam a palavra de Jeová.
+Que os vossos ouvidos aceitem a palavra da Sua boca.
+Ensinem às vossas filhas esta lamentação,
+E ensinem umas às outras esta canção de luto.
+
+[[v24-9-21]]
+
+^<<v24-9-21,21>>^ Pois a morte subiu pelas nossas janelas,
+Entrou nas nossas torres fortificadas,
+A fim de eliminar das ruas as crianças,
+E os jovens, das praças.’
+
+[[v24-9-22]]
+
+^<<v24-9-22,22>>^ Diz: ‘Assim diz Jeová:
+“Os cadáveres serão como estrume sobre os campos,
+Como feixes de cereais recém-cortados que o ceifeiro deixa para trás,
+Sem ninguém para recolhê-los.”’”
+
+[[v24-9-23]]
+
+^<<v24-9-23,23>>^ Assim diz Jeová:
+“Que o sábio não se gabe da sua sabedoria,
+Que o poderoso não se gabe do seu poder,
+E que o rico não se gabe das suas riquezas.”
+
+[[v24-9-24]]
+
+^<<v24-9-24,24>>^ “Mas quem se gaba, gabe-se do seguinte:
+De ter perspicácia e conhecimento de mim,
+De que eu sou Jeová, aquele que demonstra amor leal, justiça e retidão na terra,
+Pois estas são as coisas que me agradam”, diz Jeová.
+
+[[v24-9-25]]
+
+^<<v24-9-25,25>>^ “Vejam! Estão a chegar os dias”, diz Jeová, “em que vou ajustar contas com todos os circuncisos que, na verdade, ainda são incircuncisos:
+
+[[v24-9-26]]
+
+^<<v24-9-26,26>>^ Egito, Judá, Edom, os filhos de Amom, Moabe e todos os que moram no deserto e têm o cabelo cortado nas têmporas; pois todas as nações são incircuncisas, e toda a casa de Israel é incircuncisa no coração”.
+
+'''
+
+xref:024-jeremias/024-jeremias-008.adoc#v24-8-0[&#60; Capítulo Anterior] | <<v24-9-0,Topo>> | xref:024-jeremias/024-jeremias-010.adoc#v24-10-0[Próximo Capítulo &#62;]

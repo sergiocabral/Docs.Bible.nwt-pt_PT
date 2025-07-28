@@ -1,0 +1,210 @@
+include::./index.adoc[]
+
+[[v10-3-0]]
+=== 2 Samuel, 3
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v10-3-1]]
+
+^<<v10-3-1,1>>^ A guerra entre a casa de Saul e a casa de David continuou por um bom tempo; e, enquanto David se fortalecia, a casa de Saul enfraquecia cada vez mais.
+
+[[v10-3-2]]
+
+^<<v10-3-2,2>>^ Entretanto, David teve filhos em Hébron. O primogénito foi Amnom, filho de Ainoã, de Jezreel;
+
+[[v10-3-3]]
+
+^<<v10-3-3,3>>^ o segundo foi Quileabe, filho de Abigail, viúva de Nabal, o carmelita; o terceiro foi Absalão, filho de Maacá, filha de Talmai, rei de Gesur;
+
+[[v10-3-4]]
+
+^<<v10-3-4,4>>^ o quarto foi Adonias, filho de Hagite; o quinto foi Sefatias, filho de Abital;
+
+[[v10-3-5]]
+
+^<<v10-3-5,5>>^ e o sexto foi Itreão, filho de Eglá, esposa de David. Estes foram os filhos que David teve em Hébron.
+
+[[v10-3-6]]
+
+^<<v10-3-6,6>>^ Enquanto continuava a guerra entre a casa de Saul e a casa de David, Abner fortalecia cada vez mais a sua posição na casa de Saul.
+
+[[v10-3-7]]
+
+^<<v10-3-7,7>>^ Saul tinha tido uma concubina chamada Rispa, filha de Aiá. Um dia, Is-Bosete disse a Abner: “Porque é que tiveste relações com a concubina do meu pai?”
+
+[[v10-3-8]]
+
+^<<v10-3-8,8>>^ Abner ficou muito zangado com as palavras de Is-Bosete e disse: “Por acaso, sou algum cão^&#42;1^ de Judá? Até hoje, tenho demonstrado amor leal para com a casa de Saul, teu pai, e para com os seus irmãos e amigos, e não te entreguei nas mãos de David. Ainda assim, chamas-me para prestar contas por causa de um erro referente a uma mulher.
+
+[NOTE]
+====
+. Ou: “a cabeça de um cão”.
+====
+
+[[v10-3-9]]
+
+^<<v10-3-9,9>>^ Que Deus me castigue, e que o faça severamente, se eu não fizer por David aquilo que Jeová lhe jurou,
+
+[[v10-3-10]]
+
+^<<v10-3-10,10>>^ ou seja, tirar o reino da casa de Saul e estabelecer o trono de David sobre Israel e sobre Judá, desde Dã até Berseba.”
+
+[[v10-3-11]]
+
+^<<v10-3-11,11>>^ Is-Bosete não disse mais nenhuma palavra em resposta a Abner, porque tinha medo dele.
+
+[[v10-3-12]]
+
+^<<v10-3-12,12>>^ Abner enviou imediatamente mensageiros para dizer a David: “A quem é que o país pertence?” E acrescentou: “Faça um pacto comigo, e eu farei tudo o que puder^&#42;1^ para trazer todo o Israel para o seu lado.”
+
+[NOTE]
+====
+. Lit.: “e eis que a minha mão está consigo”.
+====
+
+[[v10-3-13]]
+
+^<<v10-3-13,13>>^ David respondeu: “Muito bem! Farei um pacto contigo. Só te peço que, quando me vieres ver, não compareças na minha presença sem antes trazeres Mical, filha de Saul.”
+
+[[v10-3-14]]
+
+^<<v10-3-14,14>>^ Então, David enviou mensageiros para dizer a Is-Bosete, filho de Saul: “Entrega-me a minha esposa Mical, de quem fiquei noivo por cem prepúcios dos filisteus.”
+
+[[v10-3-15]]
+
+^<<v10-3-15,15>>^ Assim, Is-Bosete mandou tirá-la ao seu marido, Paltiel, filho de Laís.
+
+[[v10-3-16]]
+
+^<<v10-3-16,16>>^ Contudo, o seu marido foi atrás dela e seguiu-a, enquanto chorava, até Baurim. Por conseguinte, Abner disse-lhe: “Vai, volta para casa!” E ele voltou.
+
+[[v10-3-17]]
+
+^<<v10-3-17,17>>^ Entretanto, Abner enviou a seguinte mensagem aos anciãos de Israel: “Já há algum tempo que querem ter David como rei.
+
+[[v10-3-18]]
+
+^<<v10-3-18,18>>^ Agora, ajam, porque Jeová disse a David: ‘Por meio de David, meu servo, salvarei o meu povo Israel das mãos dos filisteus e das mãos de todos os seus inimigos.’”
+
+[[v10-3-19]]
+
+^<<v10-3-19,19>>^ De seguida, Abner falou com o povo de Benjamim. Abner também foi a Hébron para falar com David em particular e contar-lhe o que Israel e toda a casa de Benjamim tinham resolvido.
+
+[[v10-3-20]]
+
+^<<v10-3-20,20>>^ Quando Abner, acompanhado de 20 homens, foi ter com David em Hébron, David ofereceu um banquete a Abner e aos homens que estavam com ele.
+
+[[v10-3-21]]
+
+^<<v10-3-21,21>>^ Abner disse então a David: “Permita-me ir e reunir todo o Israel para o meu senhor, o rei, a fim de que façam um pacto consigo, e o senhor será rei sobre tudo o que desejar.”^&#42;1^ Portanto, David dispensou Abner, e ele foi-se embora em paz.
+
+[NOTE]
+====
+. Ou: “o que a sua alma desejar”.
+====
+
+[[v10-3-22]]
+
+^<<v10-3-22,22>>^ Naquele momento, Joabe e os homens de David voltavam de um ataque rápido, trazendo consigo muitos despojos. Abner já não estava com David em Hébron, porque David o tinha deixado ir-se embora em paz.
+
+[[v10-3-23]]
+
+^<<v10-3-23,23>>^ Quando Joabe chegou com todo o exército, disseram-lhe: “Abner, filho de Ner, veio ter com o rei, que o dispensou; e ele partiu em paz.”
+
+[[v10-3-24]]
+
+^<<v10-3-24,24>>^ Portanto, Joabe compareceu perante o rei e disse: “O que é que o senhor fez? Abner veio falar consigo, e o senhor deixou-o ir-se embora e escapar?
+
+[[v10-3-25]]
+
+^<<v10-3-25,25>>^ O senhor conhece Abner, filho de Ner! Ele veio cá para enganá-lo, para ficar a conhecer cada um dos seus passos e para descobrir tudo o que faz.”
+
+[[v10-3-26]]
+
+^<<v10-3-26,26>>^ Seguidamente, Joabe saiu da presença de David e enviou mensageiros atrás de Abner. Eles trouxeram-no de volta da cisterna de Sirá, mas David não sabia de nada.
+
+[[v10-3-27]]
+
+^<<v10-3-27,27>>^ Quando Abner voltou a Hébron, Joabe levou-o à parte, junto ao portão da cidade, para falar com ele em particular. No entanto, Joabe enfiou-lhe a espada na barriga, e ele morreu; fez isso por causa de ele ter matado o^&#42;1^ seu irmão Asael.
+
+[NOTE]
+====
+. Lit.: “pelo sangue do”.
+====
+
+[[v10-3-28]]
+
+^<<v10-3-28,28>>^ Mais tarde, quando David soube o que aconteceu, disse: “Perante Jeová, eu e o meu reino somos inocentes do sangue de Abner, filho de Ner, para sempre.
+
+[[v10-3-29]]
+
+^<<v10-3-29,29>>^ Que a culpa de sangue recaia sobre a cabeça de Joabe e sobre toda a casa do seu pai. Que nunca falte na casa de Joabe um homem que tenha um fluxo, ou um leproso, ou um homem que trabalhe numa roda de fiar,^&#42;1^ ou alguém que seja morto à espada, ou alguém que passe fome!”
+
+[NOTE]
+====
+. Talvez se refira a um aleijado que precisava de fazer o trabalho de uma mulher.
+====
+
+[[v10-3-30]]
+
+^<<v10-3-30,30>>^ Assim, Joabe e o seu irmão Abisai mataram Abner por causa de ele ter matado Asael, irmão deles, na batalha em Gibeão.
+
+[[v10-3-31]]
+
+^<<v10-3-31,31>>^ David disse então a Joabe e a todos os homens que estavam com ele: “Rasguem as vossas roupas, vistam-se de serapilheira e chorem por Abner.” O próprio rei David ia atrás do caixão.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “da maca funerária”.
+====
+
+[[v10-3-32]]
+
+^<<v10-3-32,32>>^ Abner foi enterrado em Hébron e o rei chorou em voz alta junto ao túmulo de Abner. Todo o povo chorou também.
+
+[[v10-3-33]]
+
+^<<v10-3-33,33>>^ E o rei entoou o seguinte cântico fúnebre por Abner:
+“Porque é que Abner teve de morrer como um insensato?
+
+[[v10-3-34]]
+
+^<<v10-3-34,34>>^ As tuas mãos não estavam amarradas,
+E os teus pés não estavam acorrentados.^&#42;1^
+Caíste como quem cai diante de criminosos.”^&#42;2^
+Então, todo o povo chorou novamente por ele.
+
+[NOTE]
+====
+. Lit.: “não estavam em cobre”.
+. Lit.: “diante dos filhos da injustiça”.
+====
+
+[[v10-3-35]]
+
+^<<v10-3-35,35>>^ Mais tarde, o povo levou pão para consolar^&#42;1^ David enquanto ainda era dia, mas ele jurou: “Que Deus me castigue, e que o faça severamente, se eu comer pão ou qualquer outra coisa antes do pôr do sol!”
+
+[NOTE]
+====
+. Ou: “pão de luto para”.
+====
+
+[[v10-3-36]]
+
+^<<v10-3-36,36>>^ Todo o povo viu isso e gostou. De facto, isso agradou ao povo, assim como tudo o que o rei fazia.
+
+[[v10-3-37]]
+
+^<<v10-3-37,37>>^ Assim, todos os homens de David e todo o Israel souberam naquele dia que o rei não era responsável pela morte de Abner, filho de Ner.
+
+[[v10-3-38]]
+
+^<<v10-3-38,38>>^ Assim, o rei disse aos seus servos: “Saibam que foi um príncipe e um grande homem que caiu hoje em Israel.
+
+[[v10-3-39]]
+
+^<<v10-3-39,39>>^ Hoje, sou fraco, embora ungido rei, e estes homens, os filhos de Zeruia, são demasiado violentos para mim. Que Jeová retribua ao malfeitor de acordo com a sua maldade.”
+
+'''
+
+xref:010-2-samuel/010-2-samuel-002.adoc#v10-2-0[&#60; Capítulo Anterior] | <<v10-3-0,Topo>> | xref:010-2-samuel/010-2-samuel-004.adoc#v10-4-0[Próximo Capítulo &#62;]

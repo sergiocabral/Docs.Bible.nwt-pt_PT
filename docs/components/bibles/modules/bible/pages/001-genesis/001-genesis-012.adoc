@@ -1,0 +1,114 @@
+include::./index.adoc[]
+
+[[v1-12-0]]
+=== Génesis, 12
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-12-1]]
+
+^<<v1-12-1,1>>^ E Jeová disse a Abrão: “Sai da tua terra e deixa os teus parentes e a casa do teu pai, e vai para a terra que te mostrarei.
+
+[[v1-12-2]]
+
+^<<v1-12-2,2>>^ Farei de ti uma grande nação, irei abençoar-te e engrandecer o teu nome, e irás tornar-te uma bênção.
+
+[[v1-12-3]]
+
+^<<v1-12-3,3>>^ Abençoarei os que te abençoarem e amaldiçoarei aquele que invocar o mal sobre ti, e todas as famílias da terra certamente serão abençoadas^&#42;1^ por meio de ti.”
+
+[NOTE]
+====
+. Ou: “obterão para si uma bênção”.
+====
+
+[[v1-12-4]]
+
+^<<v1-12-4,4>>^ Então Abrão partiu, assim como Jeová lhe dissera, e Ló foi com ele. Abrão tinha 75 anos de idade quando saiu de Harã.
+
+[[v1-12-5]]
+
+^<<v1-12-5,5>>^ Abrão levou consigo a sua esposa Sarai, Ló, filho do seu irmão, todos os bens que tinham acumulado e as pessoas^&#42;1^ que tinham adquirido em Harã, e partiram para a terra de Canaã. Quando chegaram à terra de Canaã,
+
+[NOTE]
+====
+. Ou: “as almas”.
+====
+
+[[v1-12-6]]
+
+^<<v1-12-6,6>>^ Abrão atravessou aquela terra até à região de Siquém, perto das árvores grandes de Moré. (Naquele tempo, os cananeus moravam naquela terra.)
+
+[[v1-12-7]]
+
+^<<v1-12-7,7>>^ Jeová apareceu então a Abrão e disse: “Vou dar esta terra à tua descendência.”^&#42;1^ E ele construiu ali um altar a Jeová, que lhe aparecera.
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v1-12-8]]
+
+^<<v1-12-8,8>>^ Mais tarde, mudou-se dali para a região montanhosa a leste de Betel e armou a sua tenda, com Betel a oeste e Ai a leste. Ali construiu um altar a Jeová e começou a invocar o nome de Jeová.
+
+[[v1-12-9]]
+
+^<<v1-12-9,9>>^ Depois, Abrão levantou acampamento e viajou na direção do Neguebe, acampando num lugar após outro.
+
+[[v1-12-10]]
+
+^<<v1-12-10,10>>^ Houve então uma fome naquela terra, e Abrão desceu em direção ao Egito para morar ali durante um tempo,^&#42;1^ porque a fome era severa.
+
+[NOTE]
+====
+. Ou: “para morar ali como estrangeiro”.
+====
+
+[[v1-12-11]]
+
+^<<v1-12-11,11>>^ Quando estava para entrar no Egito, ele disse a Sarai, sua esposa: “Escuta, por favor. Eu sei que és uma mulher muito bonita.
+
+[[v1-12-12]]
+
+^<<v1-12-12,12>>^ Assim, quando os egípcios te virem, sem dúvida dirão: ‘Esta é a sua esposa.’ Depois, vão matar-me, mas vão deixar-te viva.
+
+[[v1-12-13]]
+
+^<<v1-12-13,13>>^ Diz, por favor, que és minha irmã, para que eu seja bem tratado por tua causa, e a minha vida seja poupada.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “a minha alma fique viva”.
+====
+
+[[v1-12-14]]
+
+^<<v1-12-14,14>>^ Assim que Abrão entrou no Egito, os egípcios viram que a mulher era muito bonita.
+
+[[v1-12-15]]
+
+^<<v1-12-15,15>>^ E os príncipes do Faraó também a viram e começaram a elogiá-la diante do Faraó, e assim a mulher foi levada para a casa do Faraó.
+
+[[v1-12-16]]
+
+^<<v1-12-16,16>>^ Ele tratou bem Abrão por causa dela, e Abrão adquiriu ovelhas, gado, jumentos e jumentas, servos e servas, e camelos.
+
+[[v1-12-17]]
+
+^<<v1-12-17,17>>^ Então, Jeová infligiu terríveis pragas ao Faraó e aos da sua casa, por causa de Sarai, esposa de Abrão.
+
+[[v1-12-18]]
+
+^<<v1-12-18,18>>^ Então, o Faraó chamou Abrão e disse: “O que é isto que me fizeste? Porque é que não me disseste que ela era tua esposa?
+
+[[v1-12-19]]
+
+^<<v1-12-19,19>>^ Porque é que me disseste: ‘Ela é minha irmã’? Eu estava prestes a tomá-la como minha esposa! Aqui está a tua esposa. Toma-a e vai-te embora!”
+
+[[v1-12-20]]
+
+^<<v1-12-20,20>>^ Então, o Faraó deu ordens aos seus homens a respeito de Abrão, e eles mandaram-no embora com a sua esposa e com tudo o que ele tinha.
+
+'''
+
+xref:001-genesis/001-genesis-011.adoc#v1-11-0[&#60; Capítulo Anterior] | <<v1-12-0,Topo>> | xref:001-genesis/001-genesis-013.adoc#v1-13-0[Próximo Capítulo &#62;]

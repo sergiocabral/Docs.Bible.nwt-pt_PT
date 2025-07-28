@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v24-20-0]]
+=== Jeremias, 20
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v24-20-1]]
+
+^<<v24-20-1,1>>^ Pasur, filho de Imer, era sacerdote e também o administrador-chefe da casa de Jeová, e ele ouviu Jeremias a profetizar estas coisas.
+
+[[v24-20-2]]
+
+^<<v24-20-2,2>>^ Pasur espancou, então, o profeta Jeremias e meteu-o no tronco que havia no Portão Superior de Benjamim, na casa de Jeová.
+
+[[v24-20-3]]
+
+^<<v24-20-3,3>>^ Contudo, no dia seguinte, quando Pasur soltou Jeremias do tronco, Jeremias disse-lhe:
+“Jeová mudou o teu nome de Pasur para Terror em Todo o Redor.
+
+[[v24-20-4]]
+
+^<<v24-20-4,4>>^ Pois assim diz Jeová: ‘Farei de ti um motivo de terror para ti mesmo e para todos os teus amigos. Eles cairão pela espada diante dos seus inimigos, e os teus próprios olhos hão de vê-lo. Entregarei todo o povo de Judá nas mãos do rei de Babilónia, e ele vai levá-los para o exílio em Babilónia e matá-los pela espada.
+
+[[v24-20-5]]
+
+^<<v24-20-5,5>>^ E entregarei toda a riqueza desta cidade, todos os seus recursos, todas as suas coisas preciosas e todos os tesouros dos reis de Judá nas mãos dos seus inimigos. E estes irão saquear todas estas coisas e apoderar-se delas, e levá-las para Babilónia.
+
+[[v24-20-6]]
+
+^<<v24-20-6,6>>^ E, no que se refere a ti, Pasur, e a todos os que moram na tua casa, vocês irão para o cativeiro. Irás para Babilónia, e lá morrerás e serás enterrado com todos os teus amigos, por lhes teres profetizado mentiras.’”
+
+[[v24-20-7]]
+
+^<<v24-20-7,7>>^ Enganaste-me, ó Jeová; fui enganado.
+Foste mais forte do que eu e venceste.
+Sou objeto de riso o dia inteiro;
+Todos fazem pouco de mim.
+
+[[v24-20-8]]
+
+^<<v24-20-8,8>>^ Pois, sempre que falo, devo gritar e proclamar:
+“Violência e destruição!”
+A palavra de Jeová tem sido para mim um motivo de insultos e de desprezo o dia inteiro.
+
+[[v24-20-9]]
+
+^<<v24-20-9,9>>^ Então, eu disse: “Não vou voltar a mencioná-lo,
+Nem voltarei a falar no seu nome.”
+No entanto, a sua palavra tornou-se como um fogo ardente no meu coração, preso nos meus ossos;
+Fiquei exausto de contê-la,
+Não consegui aguentar mais.
+
+[[v24-20-10]]
+
+^<<v24-20-10,10>>^ Eu ouvi as coisas más que muitos estão a dizer;
+O terror rodeou-me.
+“Denunciem-no! Vamos denunciá-lo!”
+Todos os que me desejam paz estavam atentos para me verem cair:
+“Talvez ele se deixe enganar e cometa algum erro,
+E nós poderemos vencê-lo e vingar-nos dele.”
+
+[[v24-20-11]]
+
+^<<v24-20-11,11>>^ No entanto, Jeová estava comigo como um guerreiro atemorizante.
+Por isso, os que me perseguem tropeçarão e não vencerão.
+Ficarão muito envergonhados, pois não serão bem-sucedidos.
+A sua humilhação será eterna; nunca será esquecida.
+
+[[v24-20-12]]
+
+^<<v24-20-12,12>>^ Porém, tu, ó Jeová dos exércitos, examinas o justo;
+Vês os pensamentos mais íntimos^&#42;1^ e o coração.
+Que eu veja a tua vingança contra eles,
+Pois foi a ti que confiei a minha causa.
+
+[NOTE]
+====
+. Ou: “as emoções mais profundas”. Lit.: “os rins”.
+====
+
+[[v24-20-13]]
+
+^<<v24-20-13,13>>^ Cantem a Jeová! Louvem a Jeová!
+Pois ele livrou o pobre^&#42;1^ das mãos dos malfeitores.
+
+[NOTE]
+====
+. Ou: “a alma do pobre”.
+====
+
+[[v24-20-14]]
+
+^<<v24-20-14,14>>^ Maldito seja o dia em que nasci!
+Não seja abençoado o dia em que a minha mãe me deu à luz!
+
+[[v24-20-15]]
+
+^<<v24-20-15,15>>^ Maldito seja o homem que trouxe boas notícias ao meu pai, dizendo:
+“Nasceu o teu filho! É um menino!”,
+Dando-lhe assim grande alegria.
+
+[[v24-20-16]]
+
+^<<v24-20-16,16>>^ Que esse homem se torne igual às cidades que Jeová destruiu sem compaixão.
+Que ele ouça clamores de manhã e o toque de guerra ao meio-dia.
+
+[[v24-20-17]]
+
+^<<v24-20-17,17>>^ Porque é que ele não me matou no ventre da minha mãe,
+Para que o seu ventre se tornasse a minha sepultura,
+E ela ficasse grávida para sempre?
+
+[[v24-20-18]]
+
+^<<v24-20-18,18>>^ Porque é que tive de sair do ventre?
+Só para ver sofrimento e tristeza,
+E terminar os meus dias na vergonha?
+
+'''
+
+xref:024-jeremias/024-jeremias-019.adoc#v24-19-0[&#60; Capítulo Anterior] | <<v24-20-0,Topo>> | xref:024-jeremias/024-jeremias-021.adoc#v24-21-0[Próximo Capítulo &#62;]

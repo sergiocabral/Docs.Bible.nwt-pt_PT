@@ -1,0 +1,130 @@
+include::./index.adoc[]
+
+[[v40-7-0]]
+=== Mateus, 7
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v40-7-1]]
+
+^<<v40-7-1,1>>^ “Parem de julgar, para que não sejam julgados;
+
+[[v40-7-2]]
+
+^<<v40-7-2,2>>^ pois, com o julgamento com que julgam, serão julgados, e com a medida com que medem, serão medidos.
+
+[[v40-7-3]]
+
+^<<v40-7-3,3>>^ Então, porque é que olhas para o cisco no olho do teu irmão, mas não percebes que há uma trave no teu próprio olho?
+
+[[v40-7-4]]
+
+^<<v40-7-4,4>>^ Ou como é que podes dizer ao teu irmão: ‘Deixa-me tirar o cisco do teu olho’, quando há uma trave no teu próprio olho?
+
+[[v40-7-5]]
+
+^<<v40-7-5,5>>^ Hipócrita! Tira primeiro a trave do teu próprio olho e depois verás claramente como tirar o cisco do olho do teu irmão.
+
+[[v40-7-6]]
+
+^<<v40-7-6,6>>^ “Não deem aos cães o que é santo, nem lancem as vossas pérolas diante dos porcos, para que eles nunca as pisem com os pés e, voltando-se, vos dilacerem.
+
+[[v40-7-7]]
+
+^<<v40-7-7,7>>^ “Persistam em pedir, e ser-vos-á dado; persistam em procurar, e encontrarão; persistam em bater, e ser-vos-á aberto;
+
+[[v40-7-8]]
+
+^<<v40-7-8,8>>^ pois todo aquele que pede, recebe; e todo aquele que procura, encontra; e a todo aquele que bate, abrir-se-á.
+
+[[v40-7-9]]
+
+^<<v40-7-9,9>>^ Realmente, quem entre vocês entregará uma pedra ao seu filho, se este lhe pedir pão?
+
+[[v40-7-10]]
+
+^<<v40-7-10,10>>^ Ou quem lhe entregará uma serpente, se ele pedir um peixe?
+
+[[v40-7-11]]
+
+^<<v40-7-11,11>>^ Portanto, se vocês, embora maus, sabem dar coisas boas aos vossos filhos, quanto mais o vosso Pai, que está nos céus, dará coisas boas aos que lhe pedirem!
+
+[[v40-7-12]]
+
+^<<v40-7-12,12>>^ “Portanto, todas as coisas que querem que os homens vos façam, façam-nas também a eles. De facto, isto é o que a Lei e os Profetas querem dizer.
+
+[[v40-7-13]]
+
+^<<v40-7-13,13>>^ “Entrem pelo portão estreito, porque largo é o portão e espaçosa é a estrada que conduz à destruição, e muitos entram por ele;
+
+[[v40-7-14]]
+
+^<<v40-7-14,14>>^ ao passo que estreito é o portão e apertada a estrada que conduz à vida, e poucos a encontram.
+
+[[v40-7-15]]
+
+^<<v40-7-15,15>>^ “Tenham cuidado com os falsos profetas, que se aproximam de vocês em pele de ovelha, mas que por dentro são lobos vorazes.
+
+[[v40-7-16]]
+
+^<<v40-7-16,16>>^ Pelos seus frutos, vocês irão reconhecê-los. Será que se colhem uvas dos espinheiros ou figos dos abrolhos?
+
+[[v40-7-17]]
+
+^<<v40-7-17,17>>^ Do mesmo modo, toda a árvore boa produz bons frutos, mas toda a árvore má^&#42;1^ produz frutos imprestáveis.
+
+[NOTE]
+====
+. Ou: “podre”.
+====
+
+[[v40-7-18]]
+
+^<<v40-7-18,18>>^ A árvore boa não pode dar frutos imprestáveis, nem pode a árvore má produzir bons frutos.
+
+[[v40-7-19]]
+
+^<<v40-7-19,19>>^ Toda a árvore que não produz bons frutos é cortada e lançada ao fogo.
+
+[[v40-7-20]]
+
+^<<v40-7-20,20>>^ Realmente, então, pelos seus frutos reconhecerão esses homens.
+
+[[v40-7-21]]
+
+^<<v40-7-21,21>>^ “Nem todo o que me disser: ‘Senhor, Senhor’, entrará no Reino dos céus, mas apenas aquele que fizer a vontade do meu Pai, que está nos céus.
+
+[[v40-7-22]]
+
+^<<v40-7-22,22>>^ Muitos me dirão nesse dia: ‘Senhor, Senhor, não profetizámos em teu nome, não expulsámos demónios em teu nome e não fizemos muitas obras poderosas em teu nome?’
+
+[[v40-7-23]]
+
+^<<v40-7-23,23>>^ Mas, então, eu vou declarar-lhes: ‘Nunca vos conheci! Afastem-se de mim, vocês que fazem o que é contra a lei!’
+
+[[v40-7-24]]
+
+^<<v40-7-24,24>>^ “Portanto, todo aquele que ouve estas minhas palavras e as pratica será como um homem prudente, que construiu a sua casa sobre a rocha.
+
+[[v40-7-25]]
+
+^<<v40-7-25,25>>^ E caiu a chuva, vieram as inundações, e os ventos sopraram com força contra aquela casa, mas ela não se desmoronou, pois tinha sido fundada sobre a rocha.
+
+[[v40-7-26]]
+
+^<<v40-7-26,26>>^ Além disso, todo aquele que ouve estas minhas palavras e não as pratica será como um homem tolo, que construiu a sua casa sobre a areia.
+
+[[v40-7-27]]
+
+^<<v40-7-27,27>>^ E caiu a chuva, vieram as inundações, e os ventos sopraram e bateram contra aquela casa, e ela desmoronou-se, e foi grande a sua queda.”
+
+[[v40-7-28]]
+
+^<<v40-7-28,28>>^ Quando Jesus acabou de dizer estas palavras, o efeito foi que as multidões ficaram maravilhadas com o seu modo de ensinar,
+
+[[v40-7-29]]
+
+^<<v40-7-29,29>>^ pois ele ensinava-as como quem tinha autoridade, e não como os seus escribas.
+
+'''
+
+xref:040-mateus/040-mateus-006.adoc#v40-6-0[&#60; Capítulo Anterior] | <<v40-7-0,Topo>> | xref:040-mateus/040-mateus-008.adoc#v40-8-0[Próximo Capítulo &#62;]

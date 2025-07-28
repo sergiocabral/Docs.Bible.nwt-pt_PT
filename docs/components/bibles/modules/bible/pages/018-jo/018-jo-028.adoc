@@ -1,0 +1,182 @@
+include::./index.adoc[]
+
+[[v18-28-0]]
+=== Jó, 28
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-28-1]]
+
+^<<v18-28-1,1>>^ “Há um lugar de onde se extrai prata
+E um lugar de onde se extrai o ouro que eles refinam.
+
+[[v18-28-2]]
+
+^<<v18-28-2,2>>^ Do solo, tira-se o ferro,
+E, das rochas, funde-se^&#42;1^ o cobre.
+
+[NOTE]
+====
+. Lit.: “derrama-se”.
+====
+
+[[v18-28-3]]
+
+^<<v18-28-3,3>>^ O homem domina a escuridão;
+Nas trevas e na escuridão, ele explora até ao limite
+À procura de minério.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “pedra”.
+====
+
+[[v18-28-4]]
+
+^<<v18-28-4,4>>^ Ele abre uma mina longe de onde as pessoas residem,
+Em lugares esquecidos, longe de onde as pessoas passam;
+Alguns homens descem e ficam a balançar suspensos.
+
+[[v18-28-5]]
+
+^<<v18-28-5,5>>^ A terra produz alimentos à superfície,
+Mas, em baixo, é revolvida como que pelo fogo.^&#42;1^
+
+[NOTE]
+====
+. Aparentemente, refere-se à mineração.
+====
+
+[[v18-28-6]]
+
+^<<v18-28-6,6>>^ Ali, nas pedras, há safira,
+E o pó contém ouro.
+
+[[v18-28-7]]
+
+^<<v18-28-7,7>>^ Nenhuma ave de rapina conhece o caminho até ali;
+O olho do milhafre-preto não o viu.
+
+[[v18-28-8]]
+
+^<<v18-28-8,8>>^ Nenhum animal majestoso o pisa,
+E o leão novo não ronda por ali.
+
+[[v18-28-9]]
+
+^<<v18-28-9,9>>^ As mãos do homem golpeiam o rochedo;^&#42;1^
+Ele revira a base das montanhas.
+
+[NOTE]
+====
+. Ou: “a rocha de pederneira”.
+====
+
+[[v18-28-10]]
+
+^<<v18-28-10,10>>^ Faz galerias de água nas rochas;
+Os seus olhos veem todas as coisas preciosas.
+
+[[v18-28-11]]
+
+^<<v18-28-11,11>>^ Ele bloqueia as nascentes dos rios
+E traz à luz o que estava escondido.
+
+[[v18-28-12]]
+
+^<<v18-28-12,12>>^ Mas a sabedoria — onde é que pode ser encontrada?
+E onde está a fonte do entendimento?
+
+[[v18-28-13]]
+
+^<<v18-28-13,13>>^ Nenhum homem reconhece o seu valor,
+E ela não pode ser encontrada na terra dos vivos.
+
+[[v18-28-14]]
+
+^<<v18-28-14,14>>^ As águas profundas dizem: ‘Ela não está aqui!’
+E o mar diz: ‘Não está comigo!’
+
+[[v18-28-15]]
+
+^<<v18-28-15,15>>^ Ela não pode ser comprada com ouro puro;
+Nem se pode pesar prata para a trocar por ela.
+
+[[v18-28-16]]
+
+^<<v18-28-16,16>>^ Não pode ser comprada com o ouro de Ofir,
+Nem com o raro ónix, nem com a safira.
+
+[[v18-28-17]]
+
+^<<v18-28-17,17>>^ Ouro e vidro não podem ser comparados com ela;
+Nem se pode trocá-la por um vaso de ouro fino.^&#42;1^
+
+[NOTE]
+====
+. Ou: “refinado”.
+====
+
+[[v18-28-18]]
+
+^<<v18-28-18,18>>^ Coral e cristal nem merecem ser mencionados,
+Pois uma bolsa cheia de sabedoria vale mais do que uma cheia de pérolas.
+
+[[v18-28-19]]
+
+^<<v18-28-19,19>>^ O topázio de Cuche não pode ser comparado com ela;
+Ela não pode ser comprada nem mesmo com ouro puro.
+
+[[v18-28-20]]
+
+^<<v18-28-20,20>>^ Mas de onde vem a sabedoria?
+E onde está a fonte do entendimento?
+
+[[v18-28-21]]
+
+^<<v18-28-21,21>>^ Ela foi escondida dos olhos de todos os seres vivos
+E ocultada das aves dos céus.
+
+[[v18-28-22]]
+
+^<<v18-28-22,22>>^ A destruição e a morte dizem:
+‘Os nossos ouvidos apenas ouviram falar dela.’
+
+[[v18-28-23]]
+
+^<<v18-28-23,23>>^ Deus conhece o caminho para a encontrar;
+Só ele sabe onde ela mora,
+
+[[v18-28-24]]
+
+^<<v18-28-24,24>>^ Pois ele olha até aos confins da terra,
+E vê tudo debaixo dos céus.
+
+[[v18-28-25]]
+
+^<<v18-28-25,25>>^ Quando determinou a força do vento^&#42;1^
+E mediu as águas,
+
+[NOTE]
+====
+. Lit.: “um peso para o vento”.
+====
+
+[[v18-28-26]]
+
+^<<v18-28-26,26>>^ Quando estabeleceu uma lei para a chuva
+E um caminho para a trovejante nuvem de tempestade,
+
+[[v18-28-27]]
+
+^<<v18-28-27,27>>^ Então, ele viu a sabedoria e explicou-a,
+Estabeleceu-a e examinou-a.
+
+[[v18-28-28]]
+
+^<<v18-28-28,28>>^ E disse ao homem:
+‘O temor de Jeová — isso é sabedoria.
+E desviar-se do mal é entendimento.’”
+
+'''
+
+xref:018-jo/018-jo-027.adoc#v18-27-0[&#60; Capítulo Anterior] | <<v18-28-0,Topo>> | xref:018-jo/018-jo-029.adoc#v18-29-0[Próximo Capítulo &#62;]

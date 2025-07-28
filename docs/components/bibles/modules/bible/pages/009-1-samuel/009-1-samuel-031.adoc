@@ -1,0 +1,76 @@
+include::./index.adoc[]
+
+[[v9-31-0]]
+=== 1 Samuel, 31
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-31-1]]
+
+^<<v9-31-1,1>>^ Os filisteus estavam a lutar contra Israel. Os homens de Israel fugiram dos filisteus, e muitos foram mortos no monte Gilboa.
+
+[[v9-31-2]]
+
+^<<v9-31-2,2>>^ Os filisteus perseguiram Saul e os seus filhos a uma curta distância, e os filisteus mataram Jonatã, Abinadabe e Malquisua, filhos de Saul.
+
+[[v9-31-3]]
+
+^<<v9-31-3,3>>^ A luta intensificou-se contra Saul; os arqueiros encontraram-no, e ele foi ferido gravemente pelos arqueiros.
+
+[[v9-31-4]]
+
+^<<v9-31-4,4>>^ Nisto, Saul disse ao seu escudeiro: “Puxa da espada e mata-me, para que estes incircuncisos não me tratem com crueldade^&#42;1^ e me matem.” O seu escudeiro, contudo, não quis fazer isso, porque estava com muito medo. Então, Saul pegou na espada e lançou-se sobre ela.
+
+[NOTE]
+====
+. Ou: “maldade”.
+====
+
+[[v9-31-5]]
+
+^<<v9-31-5,5>>^ Ao ver que Saul estava morto, o seu escudeiro também se lançou sobre a sua espada e morreu com ele.
+
+[[v9-31-6]]
+
+^<<v9-31-6,6>>^ Assim, Saul, os seus três filhos, o seu escudeiro e todos os seus homens morreram naquele dia.
+
+[[v9-31-7]]
+
+^<<v9-31-7,7>>^ Quando os israelitas que estavam na região do vale^&#42;1^ e na região do Jordão viram que o exército de Israel tinha fugido e que Saul e os seus filhos tinham morrido, abandonaram as cidades e fugiram. Depois disso, vieram os filisteus e ocuparam-nas.
+
+[NOTE]
+====
+. Ou: “da planície”.
+====
+
+[[v9-31-8]]
+
+^<<v9-31-8,8>>^ No dia seguinte, quando os filisteus foram recolher o despojo dos cadáveres, encontraram Saul e os seus três filhos mortos no monte Gilboa.
+
+[[v9-31-9]]
+
+^<<v9-31-9,9>>^ Então, deceparam a cabeça de Saul, tiraram-lhe a armadura e enviaram mensageiros por toda a terra dos filisteus para espalhar a notícia nas casas^&#42;1^ dos seus ídolos e entre o povo.
+
+[NOTE]
+====
+. Ou: “nos templos”.
+====
+
+[[v9-31-10]]
+
+^<<v9-31-10,10>>^ Então, puseram a armadura dele na casa de Astorete e penduraram o seu cadáver na muralha de Bete-Sã.
+
+[[v9-31-11]]
+
+^<<v9-31-11,11>>^ Quando os habitantes de Jabes-Gileade souberam o que os filisteus tinham feito a Saul,
+
+[[v9-31-12]]
+
+^<<v9-31-12,12>>^ todos os guerreiros viajaram toda a noite e tiraram os corpos de Saul e dos seus filhos da muralha de Bete-Sã; depois, voltaram a Jabes, onde os queimaram.
+
+[[v9-31-13]]
+
+^<<v9-31-13,13>>^ Pegaram então nos ossos, enterraram-nos debaixo da tamargueira em Jabes e jejuaram por sete dias.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-030.adoc#v9-30-0[&#60; Capítulo Anterior] | <<v9-31-0,Topo>> | xref:010-2-samuel/010-2-samuel-001.adoc#v10-1-0[Próximo Capítulo &#62;]

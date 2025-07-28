@@ -1,0 +1,155 @@
+include::./index.adoc[]
+
+[[v44-28-0]]
+=== Atos, 28
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v44-28-1]]
+
+^<<v44-28-1,1>>^ Quando já estávamos a salvo, soubemos que a ilha se chamava Malta.
+
+[[v44-28-2]]
+
+^<<v44-28-2,2>>^ Os nativos da ilha^&#42;1^ demonstraram extraordinária bondade^&#42;2^ para connosco. Acenderam uma fogueira e receberam-nos bem a todos, pois chovia e estava frio.
+
+[NOTE]
+====
+. Ou: “As pessoas de língua estrangeira”.
+. Ou: “humanidade”.
+====
+
+[[v44-28-3]]
+
+^<<v44-28-3,3>>^ Paulo reuniu um molho de galhos e, quando o colocou no fogo, saiu de lá uma víbora por causa do calor e prendeu-se à sua mão.
+
+[[v44-28-4]]
+
+^<<v44-28-4,4>>^ Ao verem a cobra venenosa pendurada na sua mão, os nativos começaram a dizer uns aos outros: “Com certeza, este homem é um assassino; embora se tenha conseguido salvar do mar, a Justiça^&#42;1^ não lhe permitiu continuar vivo.”
+
+[NOTE]
+====
+. Em grego, Díke, provavelmente uma referência à deusa da justiça vingadora, ou à justiça em sentido abstrato.
+====
+
+[[v44-28-5]]
+
+^<<v44-28-5,5>>^ No entanto, ele sacudiu o animal para dentro do fogo e não sofreu nenhum mal.
+
+[[v44-28-6]]
+
+^<<v44-28-6,6>>^ No entanto, esperavam que ele ficasse inchado ou caísse morto de repente. Depois de esperarem durante muito tempo e verem que nada de mal lhe tinha acontecido, mudaram de ideias e começaram a dizer que ele era um deus.
+
+[[v44-28-7]]
+
+^<<v44-28-7,7>>^ Ali na vizinhança, havia terras que pertenciam ao homem principal da ilha, chamado Públio; ele, de modo hospitaleiro, recebeu-nos e hospedou-nos por três dias.
+
+[[v44-28-8]]
+
+^<<v44-28-8,8>>^ Aconteceu que o pai de Públio estava de cama, doente, com febre e disenteria. Então, Paulo foi vê-lo; orou, colocou as mãos sobre ele e curou-o.
+
+[[v44-28-9]]
+
+^<<v44-28-9,9>>^ Depois de isto acontecer, os outros doentes da ilha começaram a vir procurá-lo e também eram curados.
+
+[[v44-28-10]]
+
+^<<v44-28-10,10>>^ Além disso, eles honraram-nos com muitos presentes e, quando estávamos prestes a embarcar, deram-nos tudo aquilo de que necessitávamos.
+
+[[v44-28-11]]
+
+^<<v44-28-11,11>>^ Três meses depois, partimos num navio que tinha como figura de proa os “Filhos de Zeus”. O navio era de Alexandria e tinha passado o inverno na ilha.
+
+[[v44-28-12]]
+
+^<<v44-28-12,12>>^ Aportámos em Siracusa e permanecemos lá durante três dias.
+
+[[v44-28-13]]
+
+^<<v44-28-13,13>>^ De lá, seguimos viagem e chegámos a Régio. Um dia depois, começou a soprar um vento do sul, e chegámos a Putéoli no segundo dia.
+
+[[v44-28-14]]
+
+^<<v44-28-14,14>>^ Encontrámos lá alguns irmãos, que insistiram para que ficássemos com eles durante sete dias. E assim fomos para Roma.
+
+[[v44-28-15]]
+
+^<<v44-28-15,15>>^ Quando os irmãos de lá ouviram as notícias sobre nós, foram até à Praça de Ápio e às Três Tavernas para se encontrarem connosco. Ao vê-los, Paulo agradeceu a Deus e sentiu-se encorajado.
+
+[[v44-28-16]]
+
+^<<v44-28-16,16>>^ Quando finalmente entrámos em Roma, permitiu-se que Paulo morasse sozinho, com um soldado a vigiá-lo.
+
+[[v44-28-17]]
+
+^<<v44-28-17,17>>^ Três dias depois, ele convocou os homens mais importantes dos judeus. Quando se reuniram, disse-lhes: “Homens, irmãos, embora eu não tivesse feito nada contra o povo ou contra os costumes dos nossos antepassados, fui preso em Jerusalém e entregue às mãos dos romanos.
+
+[[v44-28-18]]
+
+^<<v44-28-18,18>>^ Depois de me interrogarem, quiseram soltar-me, pois não havia nenhum motivo para eu ser condenado à morte.
+
+[[v44-28-19]]
+
+^<<v44-28-19,19>>^ No entanto, como os judeus se opuseram, fui obrigado a apelar para César, mas não porque tivesse qualquer acusação a levantar contra a minha nação.
+
+[[v44-28-20]]
+
+^<<v44-28-20,20>>^ Foi por isso que pedi para vos ver e falar convosco, pois é por causa da esperança de Israel que estou preso com esta corrente.”
+
+[[v44-28-21]]
+
+^<<v44-28-21,21>>^ Eles disseram-lhe: “Nós não recebemos cartas da Judeia a teu respeito, e nenhum dos irmãos que de lá vieram nos relatou ou disse algo de mal sobre ti.
+
+[[v44-28-22]]
+
+^<<v44-28-22,22>>^ Mas achamos correto ouvir-te dizer o que pensas, porque, na verdade, o que sabemos desta seita é aquilo que se diz contra ela em todo o lado.”
+
+[[v44-28-23]]
+
+^<<v44-28-23,23>>^ Assim, combinaram um dia para se encontrarem com ele e foram num grupo ainda maior ao lugar onde estava a morar. E, desde a manhã até à noite, ele deu-lhes explicações por meio de um testemunho cabal sobre o Reino de Deus, tentando persuadi-los a respeito de Jesus com base na Lei de Moisés e nos Profetas.
+
+[[v44-28-24]]
+
+^<<v44-28-24,24>>^ Alguns acreditaram nas coisas que ele dizia; outros recusavam-se a acreditar.
+
+[[v44-28-25]]
+
+^<<v44-28-25,25>>^ Assim, como houve desacordo entre eles, começaram a ir-se embora, e Paulo fez este único comentário:
+“O espírito santo falou apropriadamente aos vossos antepassados, por meio de Isaías, o profeta:
+
+[[v44-28-26]]
+
+^<<v44-28-26,26>>^ ‘Vai a este povo e diz: “Vocês realmente ouvirão, mas de modo algum entenderão; e realmente olharão, mas de modo algum verão.
+
+[[v44-28-27]]
+
+^<<v44-28-27,27>>^ Pois o coração deste povo ficou insensível, eles taparam os ouvidos e fecharam os olhos, para que nunca vissem com os olhos, nem ouvissem com os ouvidos, nem entendessem com o coração e dessem meia-volta, e eu os curasse.”’
+
+[[v44-28-28]]
+
+^<<v44-28-28,28>>^ Portanto, saibam que esta salvação por Deus foi enviada às nações, e elas certamente a escutarão.”
+
+[[v44-28-29]]
+
+^<<v44-28-29,29>>^ ^&#42;1^——
+
+[NOTE]
+====
+. Veja o Ap. A3.
+====
+
+[[v44-28-30]]
+
+^<<v44-28-30,30>>^ Assim, ele permaneceu ali durante dois anos inteiros, na casa que arrendou, e recebia bondosamente todos os que o iam ver,
+
+[[v44-28-31]]
+
+^<<v44-28-31,31>>^ pregando-lhes o Reino de Deus e ensinando a respeito do Senhor Jesus Cristo com toda a coragem,^&#42;1^ sem nenhum impedimento.
+
+[NOTE]
+====
+. Ou: “liberdade no falar”.
+====
+
+'''
+
+xref:044-atos/044-atos-027.adoc#v44-27-0[&#60; Capítulo Anterior] | <<v44-28-0,Topo>> | xref:045-romanos/045-romanos-001.adoc#v45-1-0[Próximo Capítulo &#62;]

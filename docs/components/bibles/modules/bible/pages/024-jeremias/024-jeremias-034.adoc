@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v24-34-0]]
+=== Jeremias, 34
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v24-34-1]]
+
+^<<v24-34-1,1>>^ Quando Nabucodonosor,^&#42;1^ rei de Babilónia, todo o seu exército, todos os reinos da terra que estavam sob o seu domínio e todos os povos lutavam contra Jerusalém e contra todas as cidades ao seu redor, Jeremias recebeu de Jeová a seguinte palavra:
+
+[NOTE]
+====
+. Lit.: “Nabucodorosor”, grafia variante.
+====
+
+[[v24-34-2]]
+
+^<<v24-34-2,2>>^ “Assim diz Jeová, o Deus de Israel: ‘Vai falar com Zedequias, rei de Judá, e diz-lhe: “Assim diz Jeová: ‘Vou entregar esta cidade nas mãos do rei de Babilónia, e ele vai queimá-la com fogo.
+
+[[v24-34-3]]
+
+^<<v24-34-3,3>>^ Não escaparás das suas mãos, pois, sem falta, serás capturado e entregue a ele. Olharás nos olhos do rei de Babilónia, e ele falará contigo, face a face; depois, irás para Babilónia.’
+
+[[v24-34-4]]
+
+^<<v24-34-4,4>>^ No entanto, ouça a palavra de Jeová, ó Zedequias, rei de Judá: ‘Assim diz Jeová a respeito do rei: “Não morrerás pela espada.
+
+[[v24-34-5]]
+
+^<<v24-34-5,5>>^ Morrerás em paz e hão de fazer-te uma queima fúnebre, assim como fizeram para os teus antepassados, os reis que viveram antes de ti. E as pessoas hão de lamentar-te, dizendo: ‘Ai! Meu senhor!’ Pois ‘fui eu que disse estas palavras’, diz Jeová.”’”’”
+
+[[v24-34-6]]
+
+^<<v24-34-6,6>>^ Então, o profeta Jeremias disse todas estas palavras a Zedequias, rei de Judá, em Jerusalém,
+
+[[v24-34-7]]
+
+^<<v24-34-7,7>>^ enquanto os exércitos do rei de Babilónia lutavam contra Jerusalém e contra todas as restantes cidades de Judá, isto é, Laquis e Azeca, pois estas eram as únicas cidades fortificadas que restavam das cidades de Judá.
+
+[[v24-34-8]]
+
+^<<v24-34-8,8>>^ Jeremias recebeu a palavra de Jeová depois de o rei Zedequias ter feito um pacto com todo o povo em Jerusalém para que proclamassem liberdade;
+
+[[v24-34-9]]
+
+^<<v24-34-9,9>>^ todos deviam libertar os seus escravos hebreus, tanto homens como mulheres, para que ninguém mantivesse um irmão judeu como seu escravo.
+
+[[v24-34-10]]
+
+^<<v24-34-10,10>>^ E todos os príncipes e todo o povo obedeceram. Eles entraram no pacto em que todos libertariam os seus escravos e as suas escravas e não continuariam a mantê-los como escravos. Eles obedeceram e libertaram-nos.
+
+[[v24-34-11]]
+
+^<<v24-34-11,11>>^ Mas, depois, trouxeram de volta os escravos e as escravas que tinham libertado, e submeteram-nos novamente à escravidão.
+
+[[v24-34-12]]
+
+^<<v24-34-12,12>>^ Por isso, Jeremias recebeu de Jeová a seguinte palavra da parte de Jeová:
+
+[[v24-34-13]]
+
+^<<v24-34-13,13>>^ “Assim diz Jeová, o Deus de Israel: ‘Eu fiz um pacto com os vossos antepassados no dia em que os tirei da terra do Egito, a terra da escravidão,^&#42;1^ dizendo:
+
+[NOTE]
+====
+. Lit.: “casa dos escravos”.
+====
+
+[[v24-34-14]]
+
+^<<v24-34-14,14>>^ “Ao fim de sete anos, cada um deve libertar o seu irmão hebreu que lhe foi vendido e que o serviu por seis anos; deves libertá-lo.” Contudo, os vossos antepassados não me deram ouvidos nem prestaram atenção.^&#42;1^
+
+[NOTE]
+====
+. Ou: “nem inclinaram o seu ouvido”.
+====
+
+[[v24-34-15]]
+
+^<<v24-34-15,15>>^ Há pouco tempo,^&#42;1^ vocês voltaram atrás e fizeram o que é certo aos meus olhos, por proclamarem liberdade ao vosso próximo. Fizeram um pacto diante de mim, na casa que leva o meu nome.
+
+[NOTE]
+====
+. Lit.: “Hoje”.
+====
+
+[[v24-34-16]]
+
+^<<v24-34-16,16>>^ Porém, depois, voltaram atrás novamente e profanaram o meu nome, trazendo os vossos escravos e as vossas escravas que tinham libertado segundo o desejo^&#42;1^ deles, e submeteram-nos novamente à escravidão.’
+
+[NOTE]
+====
+. Ou: “a alma”.
+====
+
+[[v24-34-17]]
+
+^<<v24-34-17,17>>^ “Portanto, assim diz Jeová: ‘Vocês não me obedeceram ao proclamarem liberdade, cada um ao seu irmão e ao seu próximo. Por isso, agora, proclamo-vos liberdade’, diz Jeová, ‘liberdade para morrer pela espada, pela peste^&#42;1^ e pela fome, e farei de vocês um motivo de terror para todos os reinos da terra.
+
+[NOTE]
+====
+. Ou: “doença”.
+====
+
+[[v24-34-18]]
+
+^<<v24-34-18,18>>^ E é isto que acontecerá com os homens que violaram o meu pacto, por não cumprirem as palavras do pacto que fizeram diante de mim quando cortaram o bezerro em dois e passaram entre as duas partes do animal,
+
+[[v24-34-19]]
+
+^<<v24-34-19,19>>^ a saber, os príncipes de Judá, os príncipes de Jerusalém, os oficiais da corte, os sacerdotes e todo o povo desta terra, que passaram entre as duas partes do bezerro:
+
+[[v24-34-20]]
+
+^<<v24-34-20,20>>^ vou entregá-los aos seus inimigos e aos que procuram tirar-lhes a vida,^&#42;1^ e os seus corpos vão tornar-se alimento para as aves dos céus e para os animais da terra.
+
+[NOTE]
+====
+. Ou: “procuram a sua alma”.
+====
+
+[[v24-34-21]]
+
+^<<v24-34-21,21>>^ E entregarei Zedequias, rei de Judá, e os seus príncipes nas mãos dos seus inimigos, nas mãos dos que procuram tirar-lhes a vida^&#42;1^ e nas mãos dos exércitos do rei de Babilónia, que estão a retirar o cerco que vos fizeram.’
+
+[NOTE]
+====
+. Ou: “procuram a sua alma”.
+====
+
+[[v24-34-22]]
+
+^<<v24-34-22,22>>^ “‘Eu vou dar a ordem’, diz Jeová, ‘e trazê-los de volta a esta cidade, e eles vão lutar contra ela, conquistá-la e queimá-la com fogo; deixarei as cidades de Judá desoladas, sem nenhum habitante’.”
+
+'''
+
+xref:024-jeremias/024-jeremias-033.adoc#v24-33-0[&#60; Capítulo Anterior] | <<v24-34-0,Topo>> | xref:024-jeremias/024-jeremias-035.adoc#v24-35-0[Próximo Capítulo &#62;]

@@ -1,0 +1,178 @@
+include::./index.adoc[]
+
+[[v1-17-0]]
+=== Génesis, 17
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-17-1]]
+
+^<<v1-17-1,1>>^ Quando Abrão tinha 99 anos, Jeová apareceu a Abrão e disse-lhe: “Eu sou o Deus Todo-Poderoso. Anda diante de mim e mostra-te íntegro.^&#42;1^
+
+[NOTE]
+====
+. Ou: “irrepreensível”.
+====
+
+[[v1-17-2]]
+
+^<<v1-17-2,2>>^ Estabelecerei o meu pacto entre mim e ti e irei multiplicar-te muitíssimo.”
+
+[[v1-17-3]]
+
+^<<v1-17-3,3>>^ Em vista disso, Abrão prostrou-se com o rosto por terra, e Deus continuou a dizer-lhe:
+
+[[v1-17-4]]
+
+^<<v1-17-4,4>>^ “Vê, o meu pacto é contigo, e tu certamente te tornarás pai de muitas nações.
+
+[[v1-17-5]]
+
+^<<v1-17-5,5>>^ O teu nome já não será Abrão;^&#42;1^ o teu nome será Abraão,^&#42;2^ pois farei de ti pai de muitas nações.
+
+[NOTE]
+====
+. Que significa “pai é enaltecido (exaltado)”.
+. Que significa “pai de uma multidão; pai de muitos”.
+====
+
+[[v1-17-6]]
+
+^<<v1-17-6,6>>^ Farei com que os teus filhos sejam muito numerosos e farei com que te tornes nações, e reis virão de ti.
+
+[[v1-17-7]]
+
+^<<v1-17-7,7>>^ “Guardarei o pacto que fiz entre mim e ti e com a tua descendência,^&#42;1^ por todas as suas gerações, como pacto eterno, a fim de ser Deus para ti e para a tua descendência.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “semente”.
+. Lit.: “semente”.
+====
+
+[[v1-17-8]]
+
+^<<v1-17-8,8>>^ Darei a ti e à tua descendência^&#42;1^ a terra em que viveste como estrangeiro — toda a terra de Canaã — como propriedade permanente, e serei o seu Deus.”
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v1-17-9]]
+
+^<<v1-17-9,9>>^ Deus disse ainda a Abraão: “Quanto a ti, deves guardar o meu pacto, tu e a tua descendência,^&#42;1^ por todas as suas gerações.
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v1-17-10]]
+
+^<<v1-17-10,10>>^ Este é o meu pacto, entre mim e vocês, pacto que tu e a tua descendência^&#42;1^ guardarão: todos os do sexo masculino no vosso meio devem ser circuncidados.
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v1-17-11]]
+
+^<<v1-17-11,11>>^ Circuncidem o vosso prepúcio,^&#42;1^ e isso servirá de sinal do pacto entre mim e vocês.
+
+[NOTE]
+====
+. Lit.: “a carne do prepúcio”.
+====
+
+[[v1-17-12]]
+
+^<<v1-17-12,12>>^ Por todas as vossas gerações, todos os meninos no vosso meio devem ser circuncidados aos oito dias de idade, todos os nascidos em casa e todos aqueles que não forem da vossa descendência^&#42;1^ e forem comprados a um estrangeiro.
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v1-17-13]]
+
+^<<v1-17-13,13>>^ Todos os homens nascidos na tua casa e todos os homens comprados com o teu dinheiro devem ser circuncidados; e o meu pacto, marcado na vossa carne, será um pacto permanente.
+
+[[v1-17-14]]
+
+^<<v1-17-14,14>>^ Se algum homem^&#42;1^ incircunciso não circuncidar o seu prepúcio, ele deve ser eliminado^&#42;2^ do povo.^&#42;3^ Violou o meu pacto.”
+
+[NOTE]
+====
+. Lit.: “macho”.
+. Ou: “essa alma deve ser eliminada”.
+. Isto é, deve ser morto.
+====
+
+[[v1-17-15]]
+
+^<<v1-17-15,15>>^ Então, Deus disse a Abraão: “Quanto a Sarai,^&#42;1^ tua esposa, não lhe chames Sarai, porque o seu nome será Sara.^&#42;2^
+
+[NOTE]
+====
+. Que possivelmente significa “contenciosa”.
+. Que significa “princesa”.
+====
+
+[[v1-17-16]]
+
+^<<v1-17-16,16>>^ Irei abençoá-la e também te darei um filho por meio dela; irei abençoá-la, e ela irá tornar-se nações; reis de povos virão dela.”
+
+[[v1-17-17]]
+
+^<<v1-17-17,17>>^ Em vista disso, Abraão prostrou-se com o rosto por terra, e começou a rir-se e a dizer no coração: “Será que um homem de 100 anos de idade se tornará pai de um filho, e terá Sara, uma mulher de 90 anos de idade, um filho?”
+
+[[v1-17-18]]
+
+^<<v1-17-18,18>>^ Então, Abraão disse ao verdadeiro Deus: “Quem me dera que Ismael tivesse o teu favor!”
+
+[[v1-17-19]]
+
+^<<v1-17-19,19>>^ Com isto, Deus disse: “Sara, tua esposa, certamente te dará um filho; dá-lhe o nome de Isaque.^&#42;1^ Estabelecerei com ele o meu pacto como pacto eterno para a sua descendência.^&#42;2^
+
+[NOTE]
+====
+. Que significa “riso”.
+. Lit.: “semente”.
+====
+
+[[v1-17-20]]
+
+^<<v1-17-20,20>>^ Mas, no que diz respeito a Ismael, eu ouvi-te. Vê, vou abençoar Ismael e dar-lhe filhos, e vou multiplicá-lo muitíssimo. Ele produzirá 12 maiorais, e vou fazer com que se torne uma grande nação.
+
+[[v1-17-21]]
+
+^<<v1-17-21,21>>^ No entanto, estabelecerei o meu pacto com Isaque, o filho que Sara te dará nesta mesma altura, no ano que vem.”
+
+[[v1-17-22]]
+
+^<<v1-17-22,22>>^ Quando Deus acabou de falar com ele, subiu de diante de Abraão.
+
+[[v1-17-23]]
+
+^<<v1-17-23,23>>^ Abraão tomou então Ismael, seu filho, todos os homens nascidos na sua casa e todos os que ele tinha comprado com dinheiro, todos os do sexo masculino da casa de Abraão, e circuncidou o prepúcio deles naquele mesmo dia, assim como Deus lhe tinha dito.
+
+[[v1-17-24]]
+
+^<<v1-17-24,24>>^ Abraão tinha 99 anos de idade quando o seu prepúcio foi circuncidado.
+
+[[v1-17-25]]
+
+^<<v1-17-25,25>>^ E Ismael, seu filho, tinha 13 anos de idade quando o seu prepúcio foi circuncidado.
+
+[[v1-17-26]]
+
+^<<v1-17-26,26>>^ Naquele mesmo dia, Abraão foi circuncidado, e também Ismael, seu filho.
+
+[[v1-17-27]]
+
+^<<v1-17-27,27>>^ Todos os homens da sua casa — todos os nascidos em casa e todos os comprados a um estrangeiro — também foram circuncidados com ele.
+
+'''
+
+xref:001-genesis/001-genesis-016.adoc#v1-16-0[&#60; Capítulo Anterior] | <<v1-17-0,Topo>> | xref:001-genesis/001-genesis-018.adoc#v1-18-0[Próximo Capítulo &#62;]

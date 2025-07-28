@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v30-9-0]]
+=== Amós, 9
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v30-9-1]]
+
+^<<v30-9-1,1>>^ Vi Jeová sobre o altar, e ele disse: “Atinge o topo das colunas, e as bases^&#42;1^ tremerão. Quebra-os no topo, e eu matarei com a espada o que restar do povo. Ninguém conseguirá fugir, e ninguém conseguirá escapar.
+
+[NOTE]
+====
+. Ou: “soleiras”.
+====
+
+[[v30-9-2]]
+
+^<<v30-9-2,2>>^ Se cavarem até à Sepultura,^&#42;1^
+A minha mão vai tirá-los de lá;
+E, se subirem aos céus,
+De lá os farei descer.
+
+[NOTE]
+====
+. Ou: “ao Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v30-9-3]]
+
+^<<v30-9-3,3>>^ E, se eles se esconderem no cume do Carmelo,
+Irei procurá-los até os encontrar e apanhar.
+Se eles se esconderem dos meus olhos no fundo do mar,
+Ali ordenarei à serpente que os morda.
+
+[[v30-9-4]]
+
+^<<v30-9-4,4>>^ Se forem levados ao cativeiro pelos seus inimigos,
+Ali darei ordens à espada, e ela irá matá-los;
+Fixarei neles os meus olhos para o mal, e não para o bem.
+
+[[v30-9-5]]
+
+^<<v30-9-5,5>>^ Pois o Soberano Senhor, Jeová dos exércitos, é aquele que toca nesta terra^&#42;1^
+De modo que ela se derrete, e todos os seus habitantes ficarão de luto;
+E toda ela subirá como o Nilo
+E baixará como o Nilo do Egito.
+
+[NOTE]
+====
+. Ou: “na terra”.
+====
+
+[[v30-9-6]]
+
+^<<v30-9-6,6>>^ ‘Aquele que constrói a sua escada nos céus
+E estabelece a sua construção^&#42;1^ acima da terra;
+Aquele que convoca as águas do mar
+Para derramá-las na superfície da terra
+— Jeová é o seu nome.’
+
+[NOTE]
+====
+. Ou: “abóbada; cúpula”.
+====
+
+[[v30-9-7]]
+
+^<<v30-9-7,7>>^ ‘Não são vocês para mim como os filhos dos cuchitas, ó povo de Israel?’, diz Jeová.
+‘Por acaso, não tirei Israel da terra do Egito,
+Os filisteus de Creta, e a Síria de Quir?’
+
+[[v30-9-8]]
+
+^<<v30-9-8,8>>^ ‘Vejam! Os olhos do Soberano Senhor Jeová estão sobre o reino pecador,
+E ele irá exterminá-lo da face da terra.
+Porém, não destruirei completamente a casa de Jacó’, diz Jeová.
+
+[[v30-9-9]]
+
+^<<v30-9-9,9>>^ ‘Pois vejam! Eu vou dar a ordem,
+E vou sacudir a casa de Israel no meio de todas as nações,
+Assim como se sacode a peneira
+E não há uma pedrinha que caia ao chão.
+
+[[v30-9-10]]
+
+^<<v30-9-10,10>>^ Todos os pecadores do meu povo morrerão pela espada,
+Os que dizem: “A calamidade não chegará perto de nós nem nos atingirá.”’
+
+[[v30-9-11]]
+
+^<<v30-9-11,11>>^ ‘Nesse dia, levantarei a tenda^&#42;1^ de David, que está caída;
+Repararei as brechas^&#42;2^
+E restaurarei as suas ruínas;
+Vou reconstruí-la tal como era antigamente,
+
+[NOTE]
+====
+. Ou: “barraca; cabana”.
+. Ou: “brechas deles”.
+====
+
+[[v30-9-12]]
+
+^<<v30-9-12,12>>^ A fim de que tomem posse do que restar de Edom
+E de todas as nações sobre as quais se invocou o meu nome’, diz Jeová, aquele que faz estas coisas.
+
+[[v30-9-13]]
+
+^<<v30-9-13,13>>^ ‘Vejam! Virão dias’, diz Jeová,
+‘Em que o lavrador alcançará o ceifeiro,
+E o pisador de uvas, o semeador;
+Vinho novo^&#42;1^ gotejará dos montes
+E fluirá de todas as colinas.^&#42;2^
+
+[NOTE]
+====
+. Ou: “Vinho doce”.
+. Lit.: “E todas as colinas se derreterão”.
+====
+
+[[v30-9-14]]
+
+^<<v30-9-14,14>>^ Trarei o meu povo Israel do cativeiro,
+E eles hão de reconstruir as cidades desoladas e habitá-las;
+Plantarão vinhas e beberão o seu vinho,
+Plantarão pomares e comerão o seu fruto.’
+
+[[v30-9-15]]
+
+^<<v30-9-15,15>>^ ‘Vou plantá-los na sua terra,
+E eles nunca mais serão desarraigados
+Da terra que lhes dei’, diz Jeová, teu Deus.”
+
+'''
+
+xref:030-amos/030-amos-008.adoc#v30-8-0[&#60; Capítulo Anterior] | <<v30-9-0,Topo>> | xref:031-obadias/031-obadias-001.adoc#v31-1-0[Próximo Capítulo &#62;]

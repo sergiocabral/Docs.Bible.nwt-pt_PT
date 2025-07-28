@@ -1,0 +1,183 @@
+include::./index.adoc[]
+
+[[v43-9-0]]
+=== João, 9
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v43-9-1]]
+
+^<<v43-9-1,1>>^ Quando ia a passar, viu um homem que era cego de nascença.
+
+[[v43-9-2]]
+
+^<<v43-9-2,2>>^ Então, os seus discípulos perguntaram-lhe: “Rabi, quem pecou, este homem ou os seus pais, para ele ter nascido cego?”
+
+[[v43-9-3]]
+
+^<<v43-9-3,3>>^ Jesus respondeu: “Nem este homem pecou, nem os seus pais, mas é para que se mostrem as obras de Deus no seu caso.
+
+[[v43-9-4]]
+
+^<<v43-9-4,4>>^ Temos de fazer as obras d’Aquele que me enviou enquanto é dia; vem aí a noite, quando ninguém poderá trabalhar.
+
+[[v43-9-5]]
+
+^<<v43-9-5,5>>^ Enquanto eu estou no mundo, sou a luz do mundo.”
+
+[[v43-9-6]]
+
+^<<v43-9-6,6>>^ Depois de dizer isto, cuspiu no chão, fez lama com a saliva e aplicou a lama nos olhos do homem;
+
+[[v43-9-7]]
+
+^<<v43-9-7,7>>^ e disse-lhe: “Vai e lava-te no reservatório de Siloé” (que é traduzido “enviado”). Assim, ele foi lavar-se e regressou a ver.
+
+[[v43-9-8]]
+
+^<<v43-9-8,8>>^ Então, os vizinhos e os que antes o viam a mendigar perguntavam: “Não é este o homem que ficava sentado a mendigar?”
+
+[[v43-9-9]]
+
+^<<v43-9-9,9>>^ Alguns diziam: “É ele.” Outros afirmavam: “Não é, mas é parecido com ele.” O homem dizia: “Sou eu mesmo.”
+
+[[v43-9-10]]
+
+^<<v43-9-10,10>>^ Assim, perguntaram-lhe: “Então, como é que os teus olhos foram abertos?”
+
+[[v43-9-11]]
+
+^<<v43-9-11,11>>^ Ele respondeu: “O homem chamado Jesus fez lama, aplicou-a nos meus olhos e disse-me: ‘Vai a Siloé e lava-te.’ Então, eu fui, lavei-me e comecei a ver.”
+
+[[v43-9-12]]
+
+^<<v43-9-12,12>>^ Em vista disso, eles perguntaram-lhe: “Onde é que está esse homem?” Ele respondeu: “Não sei.”
+
+[[v43-9-13]]
+
+^<<v43-9-13,13>>^ E eles levaram aos fariseus o homem que antes era cego.
+
+[[v43-9-14]]
+
+^<<v43-9-14,14>>^ A propósito, o dia em que Jesus fez a lama e lhe abriu os olhos era sábado.
+
+[[v43-9-15]]
+
+^<<v43-9-15,15>>^ Portanto, os fariseus também começaram a perguntar ao homem como é que ele tinha recebido visão. Ele respondeu-lhes: “Ele pôs lama nos meus olhos, eu lavei-me e agora consigo ver.”
+
+[[v43-9-16]]
+
+^<<v43-9-16,16>>^ Então, alguns dos fariseus disseram: “Esse homem não é de Deus, pois não guarda o sábado.” Outros disseram: “Como é que um homem que é pecador pode realizar sinais deste tipo?” Portanto, houve uma divisão entre eles.
+
+[[v43-9-17]]
+
+^<<v43-9-17,17>>^ E perguntaram novamente ao cego: “O que dizes a respeito dele, visto que foram os teus olhos que ele abriu?” O homem respondeu: “Ele é um profeta.”
+
+[[v43-9-18]]
+
+^<<v43-9-18,18>>^ No entanto, os judeus não acreditaram que ele tinha sido cego e que tinha recebido visão, até que chamaram os pais do homem que agora conseguia ver.
+
+[[v43-9-19]]
+
+^<<v43-9-19,19>>^ Perguntaram-lhes: “É este o vosso filho que dizem que nasceu cego? Como é que ele agora consegue ver?”
+
+[[v43-9-20]]
+
+^<<v43-9-20,20>>^ Os pais responderam: “Sabemos que este é o nosso filho e que ele nasceu cego.
+
+[[v43-9-21]]
+
+^<<v43-9-21,21>>^ Mas não sabemos como é que ele agora consegue ver, nem sabemos quem lhe abriu os olhos. Perguntem-lhe. Ele é maior de idade; pode falar por si mesmo.”
+
+[[v43-9-22]]
+
+^<<v43-9-22,22>>^ Os pais disseram isto porque estavam com medo dos judeus, pois os judeus já tinham chegado a um acordo para expulsar da sinagoga qualquer pessoa que o reconhecesse como Cristo.
+
+[[v43-9-23]]
+
+^<<v43-9-23,23>>^ Foi por isso que os pais dele disseram: “Ele é maior de idade. Perguntem-lhe.”
+
+[[v43-9-24]]
+
+^<<v43-9-24,24>>^ Portanto, chamaram pela segunda vez o homem que tinha sido cego e disseram-lhe: “Dá glória a Deus!^&#42;1^ Sabemos que esse homem é pecador.”
+
+[NOTE]
+====
+. Expressão usada para indicar que a pessoa está sob a obrigação de dizer a verdade.
+====
+
+[[v43-9-25]]
+
+^<<v43-9-25,25>>^ Ele disse: “Se ele é pecador, não sei. O que eu sei é que eu era cego e agora consigo ver.”
+
+[[v43-9-26]]
+
+^<<v43-9-26,26>>^ Então, disseram-lhe: “O que é que ele te fez? Como é que ele te abriu os olhos?”
+
+[[v43-9-27]]
+
+^<<v43-9-27,27>>^ Ele respondeu-lhes: “Eu já vos disse, mas não escutaram. Porque é que querem ouvir outra vez? Será que vocês também querem tornar-se discípulos dele?”
+
+[[v43-9-28]]
+
+^<<v43-9-28,28>>^ Em vista disso, disseram-lhe com desprezo: “Tu és discípulo daquele homem, mas nós somos discípulos de Moisés.
+
+[[v43-9-29]]
+
+^<<v43-9-29,29>>^ Sabemos que Deus falou a Moisés, mas, quanto a esse homem, não sabemos de onde vem.”
+
+[[v43-9-30]]
+
+^<<v43-9-30,30>>^ O homem respondeu-lhes: “Certamente isto é incrível! Não sabem de onde ele vem e, contudo, ele abriu os meus olhos.
+
+[[v43-9-31]]
+
+^<<v43-9-31,31>>^ Sabemos que Deus não escuta pecadores, mas, se alguém teme a Deus e faz a sua vontade, ele escuta essa pessoa.
+
+[[v43-9-32]]
+
+^<<v43-9-32,32>>^ Desde a antiguidade, nunca se ouviu dizer que alguém tenha aberto os olhos de um cego de nascença.
+
+[[v43-9-33]]
+
+^<<v43-9-33,33>>^ Se esse homem não fosse de Deus, não poderia fazer absolutamente nada.”
+
+[[v43-9-34]]
+
+^<<v43-9-34,34>>^ Eles responderam-lhe: “Nasceste inteiramente em pecado e mesmo assim estás a ensinar-nos?” Então eles expulsaram-no.
+
+[[v43-9-35]]
+
+^<<v43-9-35,35>>^ Jesus ouviu dizer que eles o tinham expulsado e, ao encontrá-lo, perguntou: “Tens fé no Filho do Homem?”
+
+[[v43-9-36]]
+
+^<<v43-9-36,36>>^ O homem respondeu: “Quem é ele, senhor, para que eu tenha fé nele?”
+
+[[v43-9-37]]
+
+^<<v43-9-37,37>>^ Jesus disse-lhe: “Tu já o viste e, na verdade, é ele quem está a falar contigo.”
+
+[[v43-9-38]]
+
+^<<v43-9-38,38>>^ O homem disse: “Eu tenho fé nele, Senhor!” E curvou-se diante dele.^&#42;1^
+
+[NOTE]
+====
+. Ou: “prestou-lhe homenagem”.
+====
+
+[[v43-9-39]]
+
+^<<v43-9-39,39>>^ Jesus disse então: “Vim ao mundo para um julgamento, para que os que não veem possam ver e para que os que veem se tornem cegos.”
+
+[[v43-9-40]]
+
+^<<v43-9-40,40>>^ Alguns fariseus que estavam com ele ouviram estas coisas e disseram-lhe: “Será que nós também somos cegos?”
+
+[[v43-9-41]]
+
+^<<v43-9-41,41>>^ Jesus disse-lhes: “Se fossem cegos, não seriam culpados de pecado. Mas, como dizem: ‘Nós vemos’, o vosso pecado permanece.”
+
+'''
+
+xref:043-joao/043-joao-008.adoc#v43-8-0[&#60; Capítulo Anterior] | <<v43-9-0,Topo>> | xref:043-joao/043-joao-010.adoc#v43-10-0[Próximo Capítulo &#62;]

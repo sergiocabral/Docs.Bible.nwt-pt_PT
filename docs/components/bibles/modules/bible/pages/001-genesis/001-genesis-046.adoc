@@ -1,0 +1,204 @@
+include::./index.adoc[]
+
+[[v1-46-0]]
+=== Génesis, 46
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-46-1]]
+
+^<<v1-46-1,1>>^ Assim, Israel partiu com tudo o que era seu.^&#42;1^ Quando chegou a Berseba, ofereceu sacrifícios ao Deus do seu pai, Isaque.
+
+[NOTE]
+====
+. Ou: “todos os que eram seus”.
+====
+
+[[v1-46-2]]
+
+^<<v1-46-2,2>>^ Deus falou então com Israel numa visão noturna, e disse: “Jacó, Jacó!” Ele respondeu: “Estou aqui!”
+
+[[v1-46-3]]
+
+^<<v1-46-3,3>>^ Ele disse: “Eu sou o verdadeiro Deus, o Deus do teu pai. Não tenhas medo de descer até ao Egito, pois ali farei de ti uma grande nação.
+
+[[v1-46-4]]
+
+^<<v1-46-4,4>>^ Eu mesmo descerei contigo até ao Egito e eu mesmo também te trarei de volta, e José é quem porá a mão sobre os teus olhos.”^&#42;1^
+
+[NOTE]
+====
+. Isto é, para os fechar por ocasião da morte de Jacó.
+====
+
+[[v1-46-5]]
+
+^<<v1-46-5,5>>^ Depois disso, Jacó partiu de Berseba, e os filhos de Israel transportaram Jacó, seu pai, e as crianças e as esposas deles nas carroças que o Faraó tinha enviado para os transportar.
+
+[[v1-46-6]]
+
+^<<v1-46-6,6>>^ Levaram consigo os rebanhos e os bens, que tinham acumulado na terra de Canaã. E assim Jacó entrou no Egito com toda a sua descendência.
+
+[[v1-46-7]]
+
+^<<v1-46-7,7>>^ Ele levou consigo para o Egito os seus filhos e os seus netos, as suas filhas e as suas netas, toda a sua descendência.
+
+[[v1-46-8]]
+
+^<<v1-46-8,8>>^ Estes são os nomes dos filhos de Israel, isto é, os filhos de Jacó, que foram para o Egito: o primogénito de Jacó foi Rúben.
+
+[[v1-46-9]]
+
+^<<v1-46-9,9>>^ Os filhos de Rúben foram Hanoque, Palu, Esrom e Carmi.
+
+[[v1-46-10]]
+
+^<<v1-46-10,10>>^ Os filhos de Simeão foram Jemuel, Jamim, Oade, Jaquim, Zoar e Saul, filho de uma cananeia.
+
+[[v1-46-11]]
+
+^<<v1-46-11,11>>^ Os filhos de Levi foram Gérson, Coate e Merari.
+
+[[v1-46-12]]
+
+^<<v1-46-12,12>>^ Os filhos de Judá foram Er, Onã, Selá, Peres e Zerá. No entanto, Er e Onã morreram na terra de Canaã.
+Os filhos de Peres foram Esrom e Hamul.
+
+[[v1-46-13]]
+
+^<<v1-46-13,13>>^ Os filhos de Issacar foram Tola, Puva, Iobe e Sinrom.
+
+[[v1-46-14]]
+
+^<<v1-46-14,14>>^ Os filhos de Zebulão foram Serede, Elom e Jaleel.
+
+[[v1-46-15]]
+
+^<<v1-46-15,15>>^ Estes foram os filhos de Lia, que ela deu a Jacó em Padã-Arã, além da sua filha Diná. Ao todo, os^&#42;1^ seus filhos e as suas filhas foram 33.
+
+[NOTE]
+====
+. Ou: “Todas as almas dos”.
+====
+
+[[v1-46-16]]
+
+^<<v1-46-16,16>>^ Os filhos de Gade foram Zifiom, Hagi, Suni, Esbom, Eri, Arodi e Areli.
+
+[[v1-46-17]]
+
+^<<v1-46-17,17>>^ Os filhos de Aser foram Imná, Isvá, Isvi e Berias, e a irmã deles era Sera.
+Os filhos de Berias foram Héber e Malquiel.
+
+[[v1-46-18]]
+
+^<<v1-46-18,18>>^ Estes foram os filhos de Zilpa, que Labão deu à sua filha Lia. Ela deu estes filhos a Jacó: 16 pessoas^&#42;1^ ao todo.
+
+[NOTE]
+====
+. Ou: “almas”.
+====
+
+[[v1-46-19]]
+
+^<<v1-46-19,19>>^ Os filhos de Raquel, esposa de Jacó, foram José e Benjamim.
+
+[[v1-46-20]]
+
+^<<v1-46-20,20>>^ Na terra do Egito, José tornou-se pai de Manassés e de Efraim, que lhe foram dados por Asenate, filha de Potífera, sacerdote de Om.^&#42;1^
+
+[NOTE]
+====
+. Isto é, Heliópolis.
+====
+
+[[v1-46-21]]
+
+^<<v1-46-21,21>>^ Os filhos de Benjamim foram Bela, Bequer, Asbel, Gera, Naamã, Eí, Rós, Mupim, Hupim e Arde.
+
+[[v1-46-22]]
+
+^<<v1-46-22,22>>^ Estes foram os filhos que Raquel deu a Jacó: 14 pessoas^&#42;1^ ao todo.
+
+[NOTE]
+====
+. Ou: “almas”.
+====
+
+[[v1-46-23]]
+
+^<<v1-46-23,23>>^ O filho^&#42;1^ de Dã foi Husim.
+
+[NOTE]
+====
+. Lit.: “Os filhos”.
+====
+
+[[v1-46-24]]
+
+^<<v1-46-24,24>>^ Os filhos de Naftali foram Jazeel, Guni, Jezer e Silém.
+
+[[v1-46-25]]
+
+^<<v1-46-25,25>>^ Estes foram os filhos de Bila, que Labão deu à sua filha Raquel. Ela deu estes filhos a Jacó: sete pessoas^&#42;1^ ao todo.
+
+[NOTE]
+====
+. Ou: “almas”.
+====
+
+[[v1-46-26]]
+
+^<<v1-46-26,26>>^ Todos os descendentes^&#42;1^ de Jacó que foram com ele para o Egito, sem contar com as esposas dos filhos de Jacó, foram 66.
+
+[NOTE]
+====
+. Ou: “Todas as almas que descenderam”.
+====
+
+[[v1-46-27]]
+
+^<<v1-46-27,27>>^ E os filhos de José que nasceram no Egito foram dois.^&#42;1^ Todas as pessoas^&#42;2^ da casa de Jacó que entraram no Egito foram 70.
+
+[NOTE]
+====
+. Ou: “duas almas”.
+. Ou: “almas”.
+====
+
+[[v1-46-28]]
+
+^<<v1-46-28,28>>^ Jacó enviou Judá à sua frente para dizer a José que ia a caminho de Gósen. Quando entraram na terra de Gósen,
+
+[[v1-46-29]]
+
+^<<v1-46-29,29>>^ José mandou preparar o seu carro e foi ao encontro de Israel, seu pai, em Gósen. Ao apresentar-se a ele, imediatamente o abraçou^&#42;1^ e chorou por muito tempo.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “lançou-se ao seu pescoço”.
+. Ou: “chorou ao seu pescoço vez após vez”.
+====
+
+[[v1-46-30]]
+
+^<<v1-46-30,30>>^ Então, Israel disse a José: “Agora estou pronto para morrer. Vi o teu rosto e sei que ainda estás vivo.”
+
+[[v1-46-31]]
+
+^<<v1-46-31,31>>^ José disse então aos seus irmãos e aos da casa do seu pai: “Vou voltar e dizer ao Faraó: ‘Os meus irmãos e os da casa do meu pai, que estavam na terra de Canaã, vieram ter comigo.
+
+[[v1-46-32]]
+
+^<<v1-46-32,32>>^ Os homens são pastores e criam rebanhos. Eles trouxeram os seus rebanhos, as suas manadas e tudo o que têm.’
+
+[[v1-46-33]]
+
+^<<v1-46-33,33>>^ Quando o Faraó vos chamar e perguntar: ‘Qual é o vosso trabalho?’,
+
+[[v1-46-34]]
+
+^<<v1-46-34,34>>^ digam: ‘Os seus servos criam rebanhos desde a juventude até agora, assim como os nossos antepassados’, para que possam morar na terra de Gósen, pois todos os pastores de ovelhas são detestáveis para os egípcios.”
+
+'''
+
+xref:001-genesis/001-genesis-045.adoc#v1-45-0[&#60; Capítulo Anterior] | <<v1-46-0,Topo>> | xref:001-genesis/001-genesis-047.adoc#v1-47-0[Próximo Capítulo &#62;]

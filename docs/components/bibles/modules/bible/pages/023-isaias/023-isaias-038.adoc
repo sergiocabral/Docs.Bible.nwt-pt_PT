@@ -1,0 +1,183 @@
+include::./index.adoc[]
+
+[[v23-38-0]]
+=== Isaías, 38
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v23-38-1]]
+
+^<<v23-38-1,1>>^ Naqueles dias, Ezequias ficou doente e estava à beira da morte. O profeta Isaías, filho de Amoz, foi ter com ele e disse: “Assim diz Jeová: ‘Dá instruções aos da tua casa, porque vais morrer; não te recuperarás.’”
+
+[[v23-38-2]]
+
+^<<v23-38-2,2>>^ Em vista disso, Ezequias virou a cara para a parede e começou a orar a Jeová:
+
+[[v23-38-3]]
+
+^<<v23-38-3,3>>^ “Imploro-te, ó Jeová, por favor, lembra-te de que tenho andado diante de ti fielmente e de pleno coração, e tenho feito o que é bom aos teus olhos.” E Ezequias começou a chorar muito.
+
+[[v23-38-4]]
+
+^<<v23-38-4,4>>^ Então, Isaías recebeu a seguinte palavra de Jeová:
+
+[[v23-38-5]]
+
+^<<v23-38-5,5>>^ “Volta e diz a Ezequias: ‘Assim diz Jeová, o Deus de David, teu antepassado: “Ouvi a tua oração; vi as tuas lágrimas. Por isso vou acrescentar 15 anos à tua vida,^&#42;1^
+
+[NOTE]
+====
+. Lit.: “aos teus dias”.
+====
+
+[[v23-38-6]]
+
+^<<v23-38-6,6>>^ e irei livrar-te, a ti e a esta cidade, das mãos do rei da Assíria, e vou defender esta cidade.
+
+[[v23-38-7]]
+
+^<<v23-38-7,7>>^ Este é o sinal de Jeová, para te mostrar que Jeová cumprirá a palavra que falou:
+
+[[v23-38-8]]
+
+^<<v23-38-8,8>>^ Farei com que a sombra que desceu a escadaria^&#42;1^ de Acaz recue dez degraus.”’” Assim, a sombra que já tinha descido na escadaria recuou dez degraus.
+
+[NOTE]
+====
+. Talvez essa escada fosse usada para contar o tempo, como num relógio de sol.
+====
+
+[[v23-38-9]]
+
+^<<v23-38-9,9>>^ Um escrito de Ezequias, rei de Judá, de quando ficou doente e se recuperou da sua doença:
+
+[[v23-38-10]]
+
+^<<v23-38-10,10>>^ Eu disse: “A meio da minha vida
+Tenho de passar pelos portões da Sepultura.^&#42;1^
+Serei privado do restante dos meus anos.”
+
+[NOTE]
+====
+. Ou: “do Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v23-38-11]]
+
+^<<v23-38-11,11>>^ Eu disse: “Não verei a Jah,^&#42;1^ sim, a Jah, na terra dos vivos.
+Não olharei mais para a humanidade
+Quando estiver entre os habitantes do lugar onde tudo acaba.
+
+[NOTE]
+====
+. “Jah” é uma forma reduzida do nome Jeová.
+====
+
+[[v23-38-12]]
+
+^<<v23-38-12,12>>^ A minha morada é como a tenda de um pastor
+Que foi desmontada e levada para longe de mim.
+Enrolei a minha vida como o tecelão enrola o pano;
+Ele corta-me como um tecido é separado do tear.^&#42;1^
+Desde o amanhecer até ao anoitecer estás a acabar comigo.
+
+[NOTE]
+====
+. Ou: “Ele corta-me da urdidura”.
+====
+
+[[v23-38-13]]
+
+^<<v23-38-13,13>>^ Tentei acalmar-me até à manhã.
+Igual a um leão, ele parte-me todos os ossos;
+Desde o amanhecer até ao anoitecer estás a acabar comigo.
+
+[[v23-38-14]]
+
+^<<v23-38-14,14>>^ Pio como o andorinhão ou como o tordo;^&#42;1^
+Arrulho como a pomba.
+Os meus olhos estão cansados de olhar para o alto:
+‘Ó Jeová, estou muito aflito;
+Ajuda-me!’^&#42;2^
+
+[NOTE]
+====
+. Ou, possivelmente: “grou”.
+. Lit.: “Sê a minha fiança”.
+====
+
+[[v23-38-15]]
+
+^<<v23-38-15,15>>^ O que posso dizer?
+Ele falou comigo e agiu.
+Andarei humildemente^&#42;1^ todos os meus anos,
+Por causa da minha amargura.^&#42;2^
+
+[NOTE]
+====
+. Ou: “solenemente”.
+. Ou: “da amargura da minha alma”.
+====
+
+[[v23-38-16]]
+
+^<<v23-38-16,16>>^ ‘Ó Jeová, é através destas coisas^&#42;1^ que todos os homens vivem,
+E o meu espírito vive através delas.
+Tu irás restaurar-me a saúde e preservar-me vivo.
+
+[NOTE]
+====
+. Isto é, as palavras e as ações de Deus.
+====
+
+[[v23-38-17]]
+
+^<<v23-38-17,17>>^ Vê! Em vez de paz tive muita amargura;
+Mas por causa do teu amor por mim^&#42;1^
+Poupaste-me da cova da destruição.
+Lançaste todos os meus pecados para trás de ti.^&#42;2^
+
+[NOTE]
+====
+. Ou: “pela minha alma”.
+. Ou: “Removeste todos os meus pecados da tua vista.”
+====
+
+[[v23-38-18]]
+
+^<<v23-38-18,18>>^ Pois a Sepultura^&#42;1^ não te pode glorificar,
+A morte não te pode louvar.
+Os que descem à cova não podem esperar pela tua fidelidade.
+
+[NOTE]
+====
+. Ou: “o Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v23-38-19]]
+
+^<<v23-38-19,19>>^ Os vivos, apenas os vivos, te podem louvar,
+Assim como faço neste dia.
+Um pai pode dar conhecimento aos seus filhos sobre a tua fidelidade.
+
+[[v23-38-20]]
+
+^<<v23-38-20,20>>^ Ó Jeová, salva-me;
+E tocaremos os meus cânticos em instrumentos de cordas
+Todos os dias da nossa vida, na casa de Jeová.’”
+
+[[v23-38-21]]
+
+^<<v23-38-21,21>>^ Então, Isaías disse: “Tragam uma pasta de figos secos^&#42;1^ e ponham-na sobre o furúnculo, para que ele se recupere.”
+
+[NOTE]
+====
+. Ou: “um bolo de figos secos prensados”.
+====
+
+[[v23-38-22]]
+
+^<<v23-38-22,22>>^ Ezequias tinha perguntado: “Qual é o sinal de que subirei à casa de Jeová?”
+
+'''
+
+xref:023-isaias/023-isaias-037.adoc#v23-37-0[&#60; Capítulo Anterior] | <<v23-38-0,Topo>> | xref:023-isaias/023-isaias-039.adoc#v23-39-0[Próximo Capítulo &#62;]

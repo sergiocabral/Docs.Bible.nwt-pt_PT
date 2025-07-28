@@ -1,0 +1,229 @@
+include::./index.adoc[]
+
+[[v9-20-0]]
+=== 1 Samuel, 20
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-20-1]]
+
+^<<v9-20-1,1>>^ Então, David fugiu de Naiote, em Ramá, encontrou-se com Jonatã e perguntou-lhe: “O que é que eu fiz? Qual foi o meu crime? Que pecado é que cometi contra o teu pai para ele me querer tirar a vida?”^&#42;1^
+
+[NOTE]
+====
+. Ou: “procurar a minha alma”.
+====
+
+[[v9-20-2]]
+
+^<<v9-20-2,2>>^ Jonatã respondeu: “Isso não acontecerá, de forma alguma! Tu não serás morto. O meu pai não te fará coisa alguma, grande ou pequena, sem antes me contar. Porque é que o meu pai me esconderia isso? Isso é impossível!”
+
+[[v9-20-3]]
+
+^<<v9-20-3,3>>^ David, porém, insistiu com um juramento e disse: “Com certeza, o teu pai sabe que eu achei favor aos teus olhos e deve ter dito: ‘É melhor que Jonatã não saiba, para que não fique magoado.’ No entanto, tão certo como Jeová vive e tão certo como tu vives,^&#42;1^ estou a um passo da morte!”
+
+[NOTE]
+====
+. Ou: “a tua alma vive”.
+====
+
+[[v9-20-4]]
+
+^<<v9-20-4,4>>^ Então, Jonatã disse a David: “Farei tudo o que tu disseres.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “a tua alma disser”.
+====
+
+[[v9-20-5]]
+
+^<<v9-20-5,5>>^ David disse a Jonatã: “Amanhã é lua nova, e o rei, com certeza, espera que eu me sente com ele para comer; mas deixa-me ir embora, e eu vou esconder-me no campo até depois de amanhã à noite.
+
+[[v9-20-6]]
+
+^<<v9-20-6,6>>^ Se o teu pai der pela minha falta, diz-lhe: ‘David implorou-me que eu lhe desse permissão para ir rapidamente a Belém, a sua cidade, para celebrar o sacrifício anual com toda a família.’
+
+[[v9-20-7]]
+
+^<<v9-20-7,7>>^ Se ele disser: ‘Está bem’, então, o teu servo estará seguro. Mas, se ficar zangado, saberás que ele realmente me quer fazer mal.
+
+[[v9-20-8]]
+
+^<<v9-20-8,8>>^ Mostra amor leal ao teu servo, pois fizeste um pacto com o teu servo perante Jeová. Contudo, se sou culpado de alguma coisa, que sejas tu próprio a matar-me. Porque é que haverias de me entregar ao teu pai?”
+
+[[v9-20-9]]
+
+^<<v9-20-9,9>>^ Jonatã disse: “Não digas uma coisa dessas! Se eu souber que o meu pai quer realmente fazer-te mal, eu aviso-te.”
+
+[[v9-20-10]]
+
+^<<v9-20-10,10>>^ Então, David disse a Jonatã: “Quem é que me vai informar se o teu pai responder de forma zangada?”
+
+[[v9-20-11]]
+
+^<<v9-20-11,11>>^ Jonatã disse a David: “Vem comigo, vamos ao campo.” Assim, os dois foram ao campo.
+
+[[v9-20-12]]
+
+^<<v9-20-12,12>>^ E Jonatã disse a David: “Que Jeová, o Deus de Israel, seja testemunha de que sondarei o meu pai por volta desta hora, amanhã ou depois de amanhã. Se as intenções dele para contigo^&#42;1^ forem boas, eu mando avisar-te.
+
+[NOTE]
+====
+. Lit.: “com David”.
+====
+
+[[v9-20-13]]
+
+^<<v9-20-13,13>>^ No entanto, se o meu pai te quiser fazer mal, que Jeová me castigue,^&#42;1^ e que o faça severamente, se eu não te informar e deixar que te vás embora em paz. Que Jeová esteja contigo, assim como esteve com o meu pai.
+
+[NOTE]
+====
+. Lit.: “que Jeová faça assim a Jonatã”.
+====
+
+[[v9-20-14]]
+
+^<<v9-20-14,14>>^ E que demonstres o amor leal de Jeová para comigo enquanto eu estiver vivo, e até mesmo quando eu morrer.
+
+[[v9-20-15]]
+
+^<<v9-20-15,15>>^ Nunca deixes de mostrar amor leal para com os da minha casa, mesmo quando Jeová eliminar todos os inimigos de David da face da terra.”
+
+[[v9-20-16]]
+
+^<<v9-20-16,16>>^ Então, Jonatã fez um pacto com a casa de David, dizendo: “Jeová exigirá punição para os inimigos de David.”
+
+[[v9-20-17]]
+
+^<<v9-20-17,17>>^ Assim, Jonatã fez com que David jurasse novamente, pelo amor que lhe tinha, pois amava-o como a si mesmo.^&#42;1^
+
+[NOTE]
+====
+. Ou: “à sua própria alma”.
+====
+
+[[v9-20-18]]
+
+^<<v9-20-18,18>>^ E Jonatã disse: “Amanhã é lua nova e a tua ausência será notada, pois o teu lugar estará vago.
+
+[[v9-20-19]]
+
+^<<v9-20-19,19>>^ Depois de amanhã, a tua ausência será ainda mais notada. Assim sendo, vem até este lugar onde te escondeste no outro dia^&#42;1^ e fica perto desta pedra.
+
+[NOTE]
+====
+. Lit.: “no dia de trabalho”.
+====
+
+[[v9-20-20]]
+
+^<<v9-20-20,20>>^ Atirarei, então, três flechas para um dos lados dela, como se estivesse a atirar ao alvo.
+
+[[v9-20-21]]
+
+^<<v9-20-21,21>>^ Quando eu enviar o ajudante, vou dizer-lhe: ‘Vai buscar as flechas.’ Se eu disser ao ajudante: ‘As flechas estão mais para este lado, apanha-as’, então, poderás voltar, pois, tão certo como Jeová vive, isso significará que está tudo bem contigo e que não corres perigo.
+
+[[v9-20-22]]
+
+^<<v9-20-22,22>>^ Porém, se eu disser ao jovem: ‘As flechas estão mais para o outro lado’, então, vai-te embora, porque Jeová estará a mandar-te embora.
+
+[[v9-20-23]]
+
+^<<v9-20-23,23>>^ Quanto à promessa que fizemos, que Jeová seja testemunha entre mim e ti para sempre.”
+
+[[v9-20-24]]
+
+^<<v9-20-24,24>>^ Então, David escondeu-se no campo. Quando chegou a lua nova, o rei sentou-se para tomar a refeição.
+
+[[v9-20-25]]
+
+^<<v9-20-25,25>>^ Como de costume, o rei sentou-se no seu lugar junto à parede. Jonatã estava sentado à sua frente, e Abner estava sentado ao lado de Saul, mas o lugar de David estava vago.
+
+[[v9-20-26]]
+
+^<<v9-20-26,26>>^ Saul não disse nada naquele dia, pois pensou: ‘Deve ter acontecido alguma coisa e ele não está puro. Sim, ele deve estar impuro.’
+
+[[v9-20-27]]
+
+^<<v9-20-27,27>>^ E no dia seguinte ao da lua nova, no segundo dia, o lugar de David continuava vago. Assim, Saul perguntou a Jonatã, seu filho: “Porque é que o filho de Jessé não veio comer nem ontem nem hoje?”
+
+[[v9-20-28]]
+
+^<<v9-20-28,28>>^ Jonatã disse então a Saul: “David implorou-me que eu lhe desse permissão para ir a Belém.
+
+[[v9-20-29]]
+
+^<<v9-20-29,29>>^ Ele disse: ‘Por favor, deixa-me ir, porque a minha família oferecerá um sacrifício na cidade e o meu irmão mandou chamar-me. Portanto, se eu tiver achado favor aos teus olhos, deixa-me ir ver os meus irmãos.’ Foi por isso que ele não veio à mesa do rei.”
+
+[[v9-20-30]]
+
+^<<v9-20-30,30>>^ Consequentemente, Saul enfureceu-se com Jonatã e disse-lhe: “Filho de uma mulher rebelde! Pensas que eu não sei que preferes ficar do lado do filho de Jessé, para a tua própria vergonha e para a vergonha da tua mãe?^&#42;1^
+
+[NOTE]
+====
+. Lit.: “para a vergonha da nudez da tua mãe”.
+====
+
+[[v9-20-31]]
+
+^<<v9-20-31,31>>^ Enquanto o filho de Jessé estiver vivo sobre a terra, nem tu nem o teu reino estarão seguros. E agora, ordena que alguém o vá buscar, pois ele tem de morrer.”^&#42;1^
+
+[NOTE]
+====
+. Lit.: “pois ele é um filho da morte”.
+====
+
+[[v9-20-32]]
+
+^<<v9-20-32,32>>^ No entanto, Jonatã disse a Saul, seu pai: “Porque é que ele deve ser morto? O que é que ele fez?”
+
+[[v9-20-33]]
+
+^<<v9-20-33,33>>^ Nisto, Saul arremessou a lança contra ele para matá-lo; então, Jonatã viu que o seu pai realmente queria matar David.
+
+[[v9-20-34]]
+
+^<<v9-20-34,34>>^ Jonatã, furioso, levantou-se imediatamente da mesa e não comeu nada no segundo dia depois da lua nova, porque ficou magoado no que dizia respeito a David e porque o seu próprio pai o tinha humilhado.
+
+[[v9-20-35]]
+
+^<<v9-20-35,35>>^ Na manhã seguinte, Jonatã foi ao campo para se encontrar com David, acompanhado por um jovem ajudante.
+
+[[v9-20-36]]
+
+^<<v9-20-36,36>>^ Ele disse ao seu ajudante: “Vai a correr buscar as flechas que eu atirar.” O ajudante correu, e Jonatã atirou uma flecha para além dele.
+
+[[v9-20-37]]
+
+^<<v9-20-37,37>>^ Quando o ajudante chegou ao lugar onde estava a flecha que Jonatã tinha atirado, Jonatã gritou para o ajudante: “A flecha não está mais à frente?”
+
+[[v9-20-38]]
+
+^<<v9-20-38,38>>^ E Jonatã gritou para o ajudante: “Rápido, vai depressa! Não te demores!” Então, o ajudante pegou nas flechas e voltou ao seu senhor.
+
+[[v9-20-39]]
+
+^<<v9-20-39,39>>^ O ajudante não sabia de nada sobre o assunto; apenas Jonatã e David é que sabiam o que aquilo significava.
+
+[[v9-20-40]]
+
+^<<v9-20-40,40>>^ De seguida, Jonatã deu as suas armas ao ajudante e disse-lhe: “Vai, leva-as à cidade.”
+
+[[v9-20-41]]
+
+^<<v9-20-41,41>>^ Quando o ajudante se foi embora, David saiu de onde estava, ali perto, a sul, e curvou-se três vezes com o rosto por terra. Então, eles beijaram-se e choraram um pelo outro, mas David foi quem mais chorou.
+
+[[v9-20-42]]
+
+^<<v9-20-42,42>>^ Jonatã disse a David: “Vai em paz, visto que nós os dois jurámos em nome de Jeová, dizendo: ‘Que Jeová seja testemunha entre mim e ti, e entre os meus descendentes^&#42;1^ e os teus descendentes,^&#42;2^ para sempre.’”
+Depois, David foi-se embora e Jonatã voltou para a cidade.
+
+[NOTE]
+====
+. Lit.: “a minha semente”.
+. Lit.: “a tua semente”.
+====
+
+'''
+
+xref:009-1-samuel/009-1-samuel-019.adoc#v9-19-0[&#60; Capítulo Anterior] | <<v9-20-0,Topo>> | xref:009-1-samuel/009-1-samuel-021.adoc#v9-21-0[Próximo Capítulo &#62;]

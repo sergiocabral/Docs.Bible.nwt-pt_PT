@@ -1,0 +1,124 @@
+include::./index.adoc[]
+
+[[v50-3-0]]
+=== Filipenses, 3
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v50-3-1]]
+
+^<<v50-3-1,1>>^ Por fim, meus irmãos, continuem a alegrar-se no Senhor. Não me custa escrever-vos as mesmas coisas, e é para a vossa segurança.
+
+[[v50-3-2]]
+
+^<<v50-3-2,2>>^ Cuidado com os cães; cuidado com os que causam dano; cuidado com os que mutilam a carne.
+
+[[v50-3-3]]
+
+^<<v50-3-3,3>>^ Pois nós somos os que têm a verdadeira circuncisão, os que prestam serviço sagrado pelo espírito de Deus e se orgulham em Cristo Jesus, e os que não baseiam a sua confiança na carne,
+
+[[v50-3-4]]
+
+^<<v50-3-4,4>>^ apesar de eu, mais do que ninguém, ter motivos para confiar na carne.
+Se qualquer outro homem acha que tem motivos para confiar na carne, eu tenho muito mais:
+
+[[v50-3-5]]
+
+^<<v50-3-5,5>>^ circuncidado ao oitavo dia, da nação de Israel, da tribo de Benjamim, hebreu nascido de hebreus; com respeito à Lei, fariseu;
+
+[[v50-3-6]]
+
+^<<v50-3-6,6>>^ com respeito ao zelo, perseguidor da congregação; com respeito à justiça^&#42;1^ baseada na Lei, alguém que se mostrou irrepreensível.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v50-3-7]]
+
+^<<v50-3-7,7>>^ Contudo, as coisas que para mim eram ganho, considerei-as como perda^&#42;1^ por causa do Cristo.
+
+[NOTE]
+====
+. Ou, possivelmente: “voluntariamente abandonei”.
+====
+
+[[v50-3-8]]
+
+^<<v50-3-8,8>>^ Mais do que isso, considero realmente todas as coisas como perda, por causa do valor superior do conhecimento de Cristo Jesus, meu Senhor. Por sua causa aceitei a perda de todas as coisas e considero-as simplesmente como lixo,^&#42;1^ para ganhar Cristo
+
+[NOTE]
+====
+. Ou: “refugo”.
+====
+
+[[v50-3-9]]
+
+^<<v50-3-9,9>>^ e ser encontrado em união com ele, não por causa da minha própria justiça por seguir a Lei, mas por causa da justiça que vem por meio da fé em Cristo, a justiça que procede de Deus e se baseia na fé.
+
+[[v50-3-10]]
+
+^<<v50-3-10,10>>^ O que eu quero é conhecê-lo a ele e ao poder da sua ressurreição, e participar nos seus sofrimentos, submetendo-me a uma morte semelhante à dele,
+
+[[v50-3-11]]
+
+^<<v50-3-11,11>>^ para ver se, de alguma maneira, consigo alcançar a ressurreição dentre os mortos que ocorrerá mais cedo.
+
+[[v50-3-12]]
+
+^<<v50-3-12,12>>^ Não é que já o tenha recebido, ou que já me tenha tornado perfeito, mas empenho-me para ver se consigo obter aquilo para o qual Cristo Jesus me escolheu.
+
+[[v50-3-13]]
+
+^<<v50-3-13,13>>^ Irmãos, ainda não considero que já o tenha obtido; mas uma coisa é certa: esquecendo-me das coisas atrás e esticando-me para alcançar as coisas à frente,
+
+[[v50-3-14]]
+
+^<<v50-3-14,14>>^ empenho-me em alcançar o alvo, para receber o prémio da chamada para cima da parte de Deus, por meio de Cristo Jesus.
+
+[[v50-3-15]]
+
+^<<v50-3-15,15>>^ Então, que todos nós que somos maduros tenhamos esta atitude mental; e, se em algum sentido estiverem inclinados a pensar de outra maneira, Deus irá revelar-vos a atitude correta.
+
+[[v50-3-16]]
+
+^<<v50-3-16,16>>^ De qualquer modo, seja qual for o progresso que já fizemos, continuemos a andar^&#42;1^ neste mesmo rumo.
+
+[NOTE]
+====
+. Ou: “a andar ordeiramente”.
+====
+
+[[v50-3-17]]
+
+^<<v50-3-17,17>>^ Irmãos, tornem-se unidamente meus imitadores, e continuem a observar os que andam de acordo com o exemplo que nós vos demos.
+
+[[v50-3-18]]
+
+^<<v50-3-18,18>>^ Pois há muitos — eu mencionava-os muitas vezes, mas agora menciono-os também com choro — que andam como inimigos da estaca^&#42;1^ do Cristo.
+
+[NOTE]
+====
+. Ou: “estaca de tortura”. Veja o Glossário.
+====
+
+[[v50-3-19]]
+
+^<<v50-3-19,19>>^ O seu fim é a destruição, o seu deus é o ventre, orgulham-se do que se deveriam envergonhar e fixam a mente em coisas terrenas.
+
+[[v50-3-20]]
+
+^<<v50-3-20,20>>^ Mas a nossa cidadania está nos céus, de onde aguardamos ansiosamente um salvador, o Senhor Jesus Cristo,
+
+[[v50-3-21]]
+
+^<<v50-3-21,21>>^ que transformará o nosso corpo humilde para o tornar como o^&#42;1^ seu corpo glorioso por meio do seu grande poder, que o torna capaz de sujeitar todas as coisas a si mesmo.
+
+[NOTE]
+====
+. Lit.: “para ser conformado ao”.
+====
+
+'''
+
+xref:050-filipenses/050-filipenses-002.adoc#v50-2-0[&#60; Capítulo Anterior] | <<v50-3-0,Topo>> | xref:050-filipenses/050-filipenses-004.adoc#v50-4-0[Próximo Capítulo &#62;]

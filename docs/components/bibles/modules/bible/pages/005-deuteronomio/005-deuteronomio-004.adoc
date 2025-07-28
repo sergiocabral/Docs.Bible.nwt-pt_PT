@@ -1,0 +1,266 @@
+include::./index.adoc[]
+
+[[v5-4-0]]
+=== Deuteronómio, 4
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-4-1]]
+
+^<<v5-4-1,1>>^ “Agora, ó Israel, escuta os decretos e as decisões judiciais aos quais vos ensino a obedecer, para que vivam, e entrem na terra que Jeová, o Deus dos vossos antepassados, vos dá e tomem posse dela.
+
+[[v5-4-2]]
+
+^<<v5-4-2,2>>^ Não acrescentem nada às palavras que vos ordeno e não lhes tirem nada; guardem os mandamentos de Jeová, vosso Deus, que vos ordeno.
+
+[[v5-4-3]]
+
+^<<v5-4-3,3>>^ “Os vossos próprios olhos viram o que Jeová fez no caso de Baal de Peor; Jeová, vosso Deus, exterminou do vosso meio todos os homens que seguiam Baal de Peor.
+
+[[v5-4-4]]
+
+^<<v5-4-4,4>>^ Mas vocês que se apegam a Jeová, vosso Deus, hoje, estão todos vivos.
+
+[[v5-4-5]]
+
+^<<v5-4-5,5>>^ Vejam, ensinei-vos decretos e decisões judiciais, assim como Jeová, meu Deus, me ordenou, para que os cumpram na terra de que tomarão posse.
+
+[[v5-4-6]]
+
+^<<v5-4-6,6>>^ Devem segui-los cuidadosamente, porque isso demonstrará sabedoria e entendimento da vossa parte diante dos povos que ouvirão falar destes decretos, e eles dirão: ‘Esta grande nação é, sem dúvida, um povo sábio e entendido.’
+
+[[v5-4-7]]
+
+^<<v5-4-7,7>>^ Pois que grande nação tem deuses tão perto de si assim como Jeová, nosso Deus, está perto de nós sempre que o invocamos?
+
+[[v5-4-8]]
+
+^<<v5-4-8,8>>^ E que grande nação tem decretos justos e decisões judiciais semelhantes a toda esta Lei que hoje vos apresento?
+
+[[v5-4-9]]
+
+^<<v5-4-9,9>>^ “Apenas tem cuidado e presta bastante atenção a ti mesmo^&#42;1^ para não te esqueceres das coisas que os teus olhos viram e para que elas não se afastem do teu coração durante todos os dias da tua vida. Além disso, conta-as aos teus filhos e aos teus netos.
+
+[NOTE]
+====
+. Ou: “à tua alma”.
+====
+
+[[v5-4-10]]
+
+^<<v5-4-10,10>>^ No dia em que estavas diante de Jeová, teu Deus, em Horebe, Jeová disse-me: ‘Reúne o povo diante de mim para que ouçam as minhas palavras, a fim de que aprendam a temer-me todos os dias em que viverem sobre a terra e para que ensinem os seus filhos.’
+
+[[v5-4-11]]
+
+^<<v5-4-11,11>>^ “Por isso, vocês aproximaram-se e ficaram no sopé do monte, e o monte ardia em chamas que chegavam até aos céus;^&#42;1^ havia escuridão, nuvens e densas trevas.
+
+[NOTE]
+====
+. Lit.: “até ao coração dos céus”.
+====
+
+[[v5-4-12]]
+
+^<<v5-4-12,12>>^ E Jeová começou a falar convosco do meio do fogo. Vocês ouviram o som das palavras, mas não viram nenhuma forma — apenas ouviram uma voz.
+
+[[v5-4-13]]
+
+^<<v5-4-13,13>>^ E ele declarou-vos o seu pacto, que vos mandou cumprir, isto é, os Dez Mandamentos.^&#42;1^ Depois, escreveu-os em duas tábuas de pedra.
+
+[NOTE]
+====
+. Lit.: “as Dez Palavras”. Também conhecidos como o Decálogo.
+====
+
+[[v5-4-14]]
+
+^<<v5-4-14,14>>^ Naquela ocasião, Jeová ordenou-me que vos ensinasse decretos e decisões judiciais, para que lhes obedeçam na terra em que entrarão e da qual tomarão posse.
+
+[[v5-4-15]]
+
+^<<v5-4-15,15>>^ “Portanto, visto que não viram nenhuma forma no dia em que Jeová falou convosco em Horebe, do meio do fogo, prestem bastante atenção a vocês mesmos^&#42;1^
+
+[NOTE]
+====
+. Ou: “à vossa alma”.
+====
+
+[[v5-4-16]]
+
+^<<v5-4-16,16>>^ para não se corromperem, por fazerem para vocês uma imagem esculpida, seja com que forma for, a representação de um homem ou de uma mulher,
+
+[[v5-4-17]]
+
+^<<v5-4-17,17>>^ a representação de qualquer animal que há na terra, a representação de qualquer ave que voa no céu,
+
+[[v5-4-18]]
+
+^<<v5-4-18,18>>^ a representação de qualquer criatura que rasteja pelo chão ou a representação de qualquer peixe que há nas águas abaixo da terra.
+
+[[v5-4-19]]
+
+^<<v5-4-19,19>>^ E, quando levantares os olhos para os céus e vires o sol, a lua e as estrelas — todo o exército dos céus —, não te deixes seduzir nem te curves diante deles, nem os sirvas. Jeová, teu Deus, deu-os a todos os povos debaixo dos céus.
+
+[[v5-4-20]]
+
+^<<v5-4-20,20>>^ Mas foi a vocês que Jeová tomou e tirou do forno de fundição de ferro, do Egito, para que se tornassem o seu povo, a sua propriedade particular,^&#42;1^ assim como o são no dia de hoje.
+
+[NOTE]
+====
+. Ou: “herança”.
+====
+
+[[v5-4-21]]
+
+^<<v5-4-21,21>>^ “Jeová ficou zangado comigo por vossa causa e jurou que eu não atravessaria o Jordão, nem entraria na boa terra que Jeová, teu Deus, te dá como herança.
+
+[[v5-4-22]]
+
+^<<v5-4-22,22>>^ Pois vou morrer nesta terra; não atravessarei o Jordão, mas vocês irão atravessá-lo e tomarão posse da boa terra.
+
+[[v5-4-23]]
+
+^<<v5-4-23,23>>^ Tenham cuidado para não se esquecerem do pacto que Jeová, vosso Deus, fez convosco; e não façam nenhuma imagem esculpida, com a forma de alguma coisa que Jeová, vosso Deus, vos proibiu.
+
+[[v5-4-24]]
+
+^<<v5-4-24,24>>^ Pois Jeová, teu Deus, é um fogo consumidor, um Deus que exige devoção exclusiva.
+
+[[v5-4-25]]
+
+^<<v5-4-25,25>>^ “Se tiveres filhos e netos, e vocês tiverem morado muito tempo na terra e agirem de modo prejudicial, por fazerem uma imagem esculpida de qualquer tipo, por praticarem o que é mau aos olhos de Jeová, teu Deus, e o ofenderem,
+
+[[v5-4-26]]
+
+^<<v5-4-26,26>>^ tomo hoje os céus e a terra como testemunhas contra vocês de que certamente desaparecerão depressa da terra da qual tomarão posse ao atravessarem o Jordão. Não permanecerão muito tempo nela, mas serão completamente destruídos.
+
+[[v5-4-27]]
+
+^<<v5-4-27,27>>^ Jeová irá espalhar-vos entre os povos, e apenas alguns de vocês sobreviverão entre as nações às quais Jeová vos tiver conduzido.
+
+[[v5-4-28]]
+
+^<<v5-4-28,28>>^ Lá, terão de servir deuses de madeira e de pedra, feitos por mãos humanas, deuses que não podem ver, nem ouvir, nem comer, nem cheirar.
+
+[[v5-4-29]]
+
+^<<v5-4-29,29>>^ “Se, de lá, procurares a Jeová, teu Deus, se o buscares de todo o teu coração e de toda a tua alma,^&#42;1^ certamente o encontrarás.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v5-4-30]]
+
+^<<v5-4-30,30>>^ Nesse tempo, quando estiveres numa grande aflição e todas estas coisas te tiverem acontecido, então voltarás para Jeová, teu Deus, e escutarás a sua voz.
+
+[[v5-4-31]]
+
+^<<v5-4-31,31>>^ Pois Jeová, teu Deus, é um Deus misericordioso. Não te desamparará, nem te destruirá, nem se esquecerá do pacto que jurou aos teus antepassados.
+
+[[v5-4-32]]
+
+^<<v5-4-32,32>>^ “Agora, informa-te sobre os tempos antigos, antes do teu tempo, desde o dia em que Deus criou o homem na terra. Procura de uma extremidade dos céus à outra extremidade dos céus. Será que já aconteceu alguma coisa tão grandiosa? Será que já se ouviu alguma coisa igual a esta?
+
+[[v5-4-33]]
+
+^<<v5-4-33,33>>^ Será que outro povo já ouviu a voz de Deus falar do meio do fogo, assim como tu ouviste, e continuou a viver?
+
+[[v5-4-34]]
+
+^<<v5-4-34,34>>^ Ou será que Deus já tentou tirar para si uma nação do meio de outra nação, com julgamentos,^&#42;1^ sinais, milagres, guerra, mão poderosa, braço estendido e atos atemorizantes, assim como Jeová, vosso Deus, fez por vocês no Egito, diante dos teus próprios olhos?
+
+[NOTE]
+====
+. Ou: “provas”.
+====
+
+[[v5-4-35]]
+
+^<<v5-4-35,35>>^ Foi a vocês que estas coisas foram mostradas, para que soubessem que Jeová é o verdadeiro Deus; não há outro além dele.
+
+[[v5-4-36]]
+
+^<<v5-4-36,36>>^ Ele fez-te ouvir a sua voz desde os céus para te corrigir. E na terra fez-te ver o seu grande fogo, e ouviste as suas palavras do meio do fogo.
+
+[[v5-4-37]]
+
+^<<v5-4-37,37>>^ “Visto que ele amou os teus antepassados e escolheu a descendência^&#42;1^ deles, foste tirado do Egito por ele,^&#42;2^ pelo seu grande poder.
+
+[NOTE]
+====
+. Lit.: “semente”.
+. Ou: “à vista dele”.
+====
+
+[[v5-4-38]]
+
+^<<v5-4-38,38>>^ Ele expulsou de diante de ti nações maiores e mais fortes do que tu, para te fazer entrar na terra delas e dar-ta como herança, assim como no dia de hoje.
+
+[[v5-4-39]]
+
+^<<v5-4-39,39>>^ Portanto, hoje, fica a saber e guarda no coração que Jeová é o verdadeiro Deus nos céus, em cima, e na terra, em baixo. Não há outro.
+
+[[v5-4-40]]
+
+^<<v5-4-40,40>>^ Guarda os seus decretos e os seus mandamentos que hoje te ordeno, para que tudo te corra bem, a ti e aos teus filhos, e para que permaneças por muito tempo na terra que Jeová, teu Deus, te dá.”
+
+[[v5-4-41]]
+
+^<<v5-4-41,41>>^ Naquele tempo, Moisés separou três cidades do lado leste do Jordão.
+
+[[v5-4-42]]
+
+^<<v5-4-42,42>>^ Se um homicida sem querer matar o seu próximo, sem que antes o tenha odiado, deve fugir para uma destas cidades e viver.
+
+[[v5-4-43]]
+
+^<<v5-4-43,43>>^ As cidades são: Bezer, no deserto, no planalto,^&#42;1^ para os rubenitas; Ramote, em Gileade, para os gaditas; e Golã, em Basã, para os manassitas.
+
+[NOTE]
+====
+. Ou: “na achada”.
+====
+
+[[v5-4-44]]
+
+^<<v5-4-44,44>>^ Esta é a Lei que Moisés pôs diante do povo de Israel.
+
+[[v5-4-45]]
+
+^<<v5-4-45,45>>^ Estas são as advertências,^&#42;1^ os decretos e as decisões judiciais que Moisés deu aos israelitas depois de terem saído do Egito,
+
+[NOTE]
+====
+. Ou: “Estes são os lembretes”.
+====
+
+[[v5-4-46]]
+
+^<<v5-4-46,46>>^ na região do Jordão, no vale em frente a Bete-Peor, na terra de Síon, rei dos amorreus, que morava em Hésbon, a quem Moisés e os israelitas derrotaram depois de terem saído do Egito.
+
+[[v5-4-47]]
+
+^<<v5-4-47,47>>^ E tomaram posse da terra dele e da terra de Ogue, rei de Basã, os dois reis dos amorreus que ocupavam a região a leste do Jordão,
+
+[[v5-4-48]]
+
+^<<v5-4-48,48>>^ desde Aroer, que fica à beira do vale do Arnom,^&#42;1^ até ao monte Síon, isto é, Hermom,
+
+[NOTE]
+====
+. Ou: “uádi Arnom”.
+====
+
+[[v5-4-49]]
+
+^<<v5-4-49,49>>^ e todo o Arabá, na região a leste do Jordão, até ao mar do Arabá,^&#42;1^ no sopé das encostas do Pisga.
+
+[NOTE]
+====
+. Isto é, o mar Salgado, ou mar Morto.
+====
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-003.adoc#v5-3-0[&#60; Capítulo Anterior] | <<v5-4-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-005.adoc#v5-5-0[Próximo Capítulo &#62;]

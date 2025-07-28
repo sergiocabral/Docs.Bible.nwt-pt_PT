@@ -1,0 +1,210 @@
+include::./index.adoc[]
+
+[[v5-2-0]]
+=== Deuteronómio, 2
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-2-1]]
+
+^<<v5-2-1,1>>^ “Então, demos meia-volta e partimos para o deserto pelo caminho do mar Vermelho, assim como Jeová me ordenara, e viajámos por muitos dias, contornando a região montanhosa de Seir.
+
+[[v5-2-2]]
+
+^<<v5-2-2,2>>^ Por fim, Jeová disse-me:
+
+[[v5-2-3]]
+
+^<<v5-2-3,3>>^ ‘Já estão a contornar esta região montanhosa há tempo suficiente. Agora, vão para norte.
+
+[[v5-2-4]]
+
+^<<v5-2-4,4>>^ E dá a seguinte ordem ao povo: “Passem pela fronteira dos vossos irmãos, os descendentes de Esaú, que moram em Seir, e eles ficarão com medo de vocês. Tenham muito cuidado.
+
+[[v5-2-5]]
+
+^<<v5-2-5,5>>^ Não os ataquem,^&#42;1^ pois não vos darei nada da terra deles, nem mesmo um espaço para porem o pé, visto que dei a região montanhosa de Seir como propriedade a Esaú.
+
+[NOTE]
+====
+. Ou: “Não os provoquem”.
+====
+
+[[v5-2-6]]
+
+^<<v5-2-6,6>>^ Devem comprar-lhes a comida que comerão e pagar pela água que beberão.
+
+[[v5-2-7]]
+
+^<<v5-2-7,7>>^ Pois Jeová, teu Deus, tem-te abençoado em tudo o que tens feito. Ele conhece muito bem a tua jornada por este grande deserto. Jeová, teu Deus, esteve contigo estes 40 anos, e não te faltou nada.”’
+
+[[v5-2-8]]
+
+^<<v5-2-8,8>>^ Passámos assim pelos nossos irmãos, os descendentes de Esaú, que moram em Seir, evitando o caminho do Arabá, e evitando Elate e Eziom-Geber.
+“A seguir, mudámos de rumo e continuámos pelo caminho do deserto de Moabe.
+
+[[v5-2-9]]
+
+^<<v5-2-9,9>>^ Jeová disse-me então: ‘Não ataques nem guerreies contra Moabe, pois não te darei nada da sua terra como propriedade, visto que dei Ar como propriedade aos descendentes de Ló.
+
+[[v5-2-10]]
+
+^<<v5-2-10,10>>^ (Antigamente, moravam lá os emins, um povo forte, numeroso e alto como os anaquins.
+
+[[v5-2-11]]
+
+^<<v5-2-11,11>>^ Os refains também eram considerados iguais aos anaquins, e os moabitas chamavam-lhes emins.
+
+[[v5-2-12]]
+
+^<<v5-2-12,12>>^ Antigamente, os horeus moravam em Seir, mas os descendentes de Esaú desapossaram-nos, exterminaram-nos, e estabeleceram-se no lugar deles, assim como Israel fará com a terra que será sua propriedade, que Jeová certamente lhes dará.)
+
+[[v5-2-13]]
+
+^<<v5-2-13,13>>^ Agora, vão e atravessem o vale^&#42;1^ de Zerede.’ Então atravessámos o vale^&#42;2^ de Zerede.
+
+[NOTE]
+====
+. Ou: “uádi”.
+. Ou: “uádi”.
+====
+
+[[v5-2-14]]
+
+^<<v5-2-14,14>>^ Levámos 38 anos a andar desde Cades-Barneia até atravessarmos o vale^&#42;1^ de Zerede, até que toda a geração dos homens de guerra desapareceu do acampamento, assim como Jeová lhes tinha jurado.
+
+[NOTE]
+====
+. Ou: “uádi”.
+====
+
+[[v5-2-15]]
+
+^<<v5-2-15,15>>^ A mão de Jeová estava contra eles para os eliminar do acampamento, até que morreram.
+
+[[v5-2-16]]
+
+^<<v5-2-16,16>>^ “Assim que morreram todos os homens de guerra dentre o povo,
+
+[[v5-2-17]]
+
+^<<v5-2-17,17>>^ Jeová disse-me:
+
+[[v5-2-18]]
+
+^<<v5-2-18,18>>^ ‘Hoje, passarás pelo território de Moabe, isto é, por Ar.
+
+[[v5-2-19]]
+
+^<<v5-2-19,19>>^ Quando chegares perto dos amonitas, não os trates com hostilidade, nem os provoques, pois não te darei nada da terra dos amonitas como propriedade, visto que a dei como propriedade aos descendentes de Ló.
+
+[[v5-2-20]]
+
+^<<v5-2-20,20>>^ Aquela terra também era considerada a terra dos refains. (Antigamente, os refains moravam lá, e os amonitas chamavam-lhes zanzumins.
+
+[[v5-2-21]]
+
+^<<v5-2-21,21>>^ Eram um povo forte, numeroso e alto como os anaquins, mas Jeová exterminou-os diante dos amonitas, que os expulsaram e se estabeleceram no seu lugar.
+
+[[v5-2-22]]
+
+^<<v5-2-22,22>>^ Foi isso que ele fez pelos descendentes de Esaú, que agora moram em Seir, quando exterminou de diante deles os horeus, para que tomassem posse da sua terra e morassem no seu lugar até ao dia de hoje.
+
+[[v5-2-23]]
+
+^<<v5-2-23,23>>^ Quanto aos avins, moraram em povoados na região de Gaza até serem destruídos pelos caftorins, que saíram de Caftor.^&#42;1^ Os caftorins estabeleceram-se no lugar deles.)
+
+[NOTE]
+====
+. Isto é, Creta.
+====
+
+[[v5-2-24]]
+
+^<<v5-2-24,24>>^ “‘Preparem-se e atravessem o vale do Arnom.^&#42;1^ Vê, entreguei Síon, o amorreu, rei de Hésbon, nas tuas mãos. Portanto, começa a tomar posse da sua terra e guerreia contra ele.
+
+[NOTE]
+====
+. Ou: “uádi Arnom”.
+====
+
+[[v5-2-25]]
+
+^<<v5-2-25,25>>^ Nesse dia, começarei a fazer com que todos os povos debaixo dos céus que ouvirem falar a teu respeito tenham pavor e medo de ti. Eles ficarão agitados e tremerão^&#42;1^ por tua causa.’
+
+[NOTE]
+====
+. Ou: “terão dores como as de parto”.
+====
+
+[[v5-2-26]]
+
+^<<v5-2-26,26>>^ “Enviei então, desde o deserto de Quedemote, mensageiros a Síon, rei de Hésbon, com as seguintes palavras de paz:
+
+[[v5-2-27]]
+
+^<<v5-2-27,27>>^ ‘Deixe-me passar pela sua terra. Permanecerei na estrada e não me desviarei nem para a direita nem para a esquerda.
+
+[[v5-2-28]]
+
+^<<v5-2-28,28>>^ Só comerei e beberei o alimento e a água que me vender. Deixe-me apenas passar a pé
+
+[[v5-2-29]]
+
+^<<v5-2-29,29>>^ — foi isso que os descendentes de Esaú que moram em Seir e os moabitas que moram em Ar fizeram — até eu atravessar o Jordão e entrar na terra que Jeová, nosso Deus, nos dá.’
+
+[[v5-2-30]]
+
+^<<v5-2-30,30>>^ Mas Síon, rei de Hésbon, não nos permitiu passar, porque Jeová, nosso Deus,^&#42;1^ deixou o espírito dele ficar obstinado e o seu coração endurecido, para o entregar nas nossas mãos,^&#42;2^ assim como se vê hoje.
+
+[NOTE]
+====
+. Lit.: “o vosso Deus”.
+. Ou: “nas vossas mãos”.
+====
+
+[[v5-2-31]]
+
+^<<v5-2-31,31>>^ “Então, Jeová disse-me: ‘Vê, já comecei a entregar-te Síon e a sua terra. Começa a tomar posse da terra dele.’
+
+[[v5-2-32]]
+
+^<<v5-2-32,32>>^ Quando Síon veio ao nosso encontro com todo o seu exército, para lutar contra nós em Jaaz,
+
+[[v5-2-33]]
+
+^<<v5-2-33,33>>^ Jeová, nosso Deus, entregou-o a nós, e, assim, derrotámo-lo a ele, aos seus filhos e a todo o seu exército.
+
+[[v5-2-34]]
+
+^<<v5-2-34,34>>^ Capturámos todas as suas cidades naquela ocasião e entregámos todas as cidades à destruição,^&#42;1^ incluindo homens, mulheres e crianças. Não deixámos nenhum sobrevivente.
+
+[NOTE]
+====
+. Ou: “devotámos . . . à destruição”. Veja o Glossário.
+====
+
+[[v5-2-35]]
+
+^<<v5-2-35,35>>^ Ficámos apenas com o gado e com o despojo das cidades que capturámos.
+
+[[v5-2-36]]
+
+^<<v5-2-36,36>>^ Não houve nenhuma cidade que fosse demasiado forte para nós, desde Aroer, que fica à beira do vale do Arnom^&#42;1^ (incluindo a cidade que há no vale), até Gileade. Todas elas nos foram entregues por Jeová, nosso Deus.
+
+[NOTE]
+====
+. Ou: “uádi Arnom”.
+====
+
+[[v5-2-37]]
+
+^<<v5-2-37,37>>^ No entanto, vocês não se aproximaram da terra dos amonitas, isto é, toda a beira do vale^&#42;1^ do Jaboque e as cidades da região montanhosa, nem de nenhum outro lugar que Jeová, nosso Deus, tinha proibido.
+
+[NOTE]
+====
+. Ou: “uádi”.
+====
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-001.adoc#v5-1-0[&#60; Capítulo Anterior] | <<v5-2-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-003.adoc#v5-3-0[Próximo Capítulo &#62;]

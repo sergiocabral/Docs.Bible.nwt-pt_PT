@@ -1,0 +1,220 @@
+include::./index.adoc[]
+
+[[v18-41-0]]
+=== Jó, 41
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-41-1]]
+
+^<<v18-41-1,1>>^ “Por acaso, podes apanhar o Leviatã^&#42;1^ com um anzol
+Ou amarrar a sua língua com uma corda?
+
+[NOTE]
+====
+. Possivelmente, o crocodilo.
+====
+
+[[v18-41-2]]
+
+^<<v18-41-2,2>>^ Podes passar-lhe uma corda^&#42;1^ pelas narinas
+Ou furar-lhe as mandíbulas com um gancho?^&#42;2^
+
+[NOTE]
+====
+. Lit.: “um junco”.
+. Lit.: “espinho”.
+====
+
+[[v18-41-3]]
+
+^<<v18-41-3,3>>^ Será que ele te fará muitas súplicas,
+Ou irá falar contigo com ternura?
+
+[[v18-41-4]]
+
+^<<v18-41-4,4>>^ Fará um pacto contigo
+Para que o tornes teu escravo para toda a vida?
+
+[[v18-41-5]]
+
+^<<v18-41-5,5>>^ Será que brincarás com ele como se fosse um pássaro
+Ou o prenderás com uma coleira para as tuas filhas?
+
+[[v18-41-6]]
+
+^<<v18-41-6,6>>^ Por acaso, os comerciantes irão negociá-lo?
+Será que o dividirão entre os mercadores?
+
+[[v18-41-7]]
+
+^<<v18-41-7,7>>^ Por acaso, perfurarás a sua pele com muitos arpões
+Ou a sua cabeça com lanças de pesca?
+
+[[v18-41-8]]
+
+^<<v18-41-8,8>>^ Põe a mão sobre ele;
+Tu não te esquecerás da batalha e nunca o voltarás a fazer!
+
+[[v18-41-9]]
+
+^<<v18-41-9,9>>^ Qualquer esperança de o dominar é inútil.
+Só de o veres ficarias sem ação.^&#42;1^
+
+[NOTE]
+====
+. Ou: “serias derrubado”.
+====
+
+[[v18-41-10]]
+
+^<<v18-41-10,10>>^ Ninguém se atreve a provocá-lo.
+Portanto, quem me pode enfrentar?
+
+[[v18-41-11]]
+
+^<<v18-41-11,11>>^ Quem me deu alguma coisa primeiro para que eu lhe deva retribuir?
+Debaixo dos céus, tudo é meu.
+
+[[v18-41-12]]
+
+^<<v18-41-12,12>>^ Não deixarei de falar sobre os seus membros,
+Sobre a sua força e o seu corpo bem formado.
+
+[[v18-41-13]]
+
+^<<v18-41-13,13>>^ Quem já lhe tirou a couraça?
+Quem passará entre as suas mandíbulas?
+
+[[v18-41-14]]
+
+^<<v18-41-14,14>>^ Quem consegue abrir as portas da sua boca?^&#42;1^
+Os dentes à volta dela são assustadores.
+
+[NOTE]
+====
+. Lit.: “face”.
+====
+
+[[v18-41-15]]
+
+^<<v18-41-15,15>>^ Nas suas costas há filas de escamas,^&#42;1^
+Que estão bem coladas entre si.
+
+[NOTE]
+====
+. Ou, possivelmente: “O seu orgulho são as suas filas de escamas”.
+====
+
+[[v18-41-16]]
+
+^<<v18-41-16,16>>^ Cada uma se ajusta tão bem à outra
+Que nem mesmo o ar pode penetrar entre elas.
+
+[[v18-41-17]]
+
+^<<v18-41-17,17>>^ Estão presas entre si;
+Agarram-se umas às outras e não podem ser separadas.
+
+[[v18-41-18]]
+
+^<<v18-41-18,18>>^ Quando ele espirra, saem faíscas;
+Os seus olhos são como os raios do amanhecer.
+
+[[v18-41-19]]
+
+^<<v18-41-19,19>>^ Relâmpagos saem-lhe da boca;
+Dela escapam centelhas de fogo.
+
+[[v18-41-20]]
+
+^<<v18-41-20,20>>^ As suas narinas soltam fumo,
+Como uma fornalha alimentada com juncos.
+
+[[v18-41-21]]
+
+^<<v18-41-21,21>>^ O seu sopro incendeia brasas,
+E uma chama sai da sua boca.
+
+[[v18-41-22]]
+
+^<<v18-41-22,22>>^ O seu pescoço é muito forte,
+E o desespero espalha-se diante dele.
+
+[[v18-41-23]]
+
+^<<v18-41-23,23>>^ As dobras da sua pele^&#42;1^ estão bem ligadas umas às outras,
+São firmes, como se estivessem fundidas sobre ele, e não se movem.
+
+[NOTE]
+====
+. Lit.: “carne”.
+====
+
+[[v18-41-24]]
+
+^<<v18-41-24,24>>^ O seu coração é duro como pedra,
+Sim, duro como uma pedra inferior de moinho.
+
+[[v18-41-25]]
+
+^<<v18-41-25,25>>^ Quando ele se levanta, até os poderosos ficam com medo;
+Os seus movimentos bruscos causam espanto.
+
+[[v18-41-26]]
+
+^<<v18-41-26,26>>^ Nenhuma espada que o atingir prevalecerá;
+Nem a lança, nem o dardo, nem a ponta da flecha.
+
+[[v18-41-27]]
+
+^<<v18-41-27,27>>^ Para ele, o ferro é como palha;
+O cobre, como madeira podre.
+
+[[v18-41-28]]
+
+^<<v18-41-28,28>>^ Uma flecha não o faz fugir;
+Para ele, pedras lançadas com a funda^&#42;1^ são como palha.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v18-41-29]]
+
+^<<v18-41-29,29>>^ Um bastão é como palha para ele,
+E ele ri-se do barulho do dardo.
+
+[[v18-41-30]]
+
+^<<v18-41-30,30>>^ O seu ventre é como cacos pontiagudos,
+Ele passa sobre a lama como um trenó de debulha.
+
+[[v18-41-31]]
+
+^<<v18-41-31,31>>^ Faz as profundezas ferverem como um caldeirão;
+Agita o mar como se fosse um caldeirão com óleo.^&#42;1^
+
+[NOTE]
+====
+. Ou: “unguento”.
+====
+
+[[v18-41-32]]
+
+^<<v18-41-32,32>>^ Deixa um rasto luminoso por onde passa,
+Fazendo parecer que as águas profundas têm cabelos brancos.
+
+[[v18-41-33]]
+
+^<<v18-41-33,33>>^ Não há nada igual a ele na terra,
+Uma criatura feita para não ter medo.
+
+[[v18-41-34]]
+
+^<<v18-41-34,34>>^ Ele encara todos os seres orgulhosos.
+É rei sobre todos os majestosos animais selvagens.”
+
+'''
+
+xref:018-jo/018-jo-040.adoc#v18-40-0[&#60; Capítulo Anterior] | <<v18-41-0,Topo>> | xref:018-jo/018-jo-042.adoc#v18-42-0[Próximo Capítulo &#62;]

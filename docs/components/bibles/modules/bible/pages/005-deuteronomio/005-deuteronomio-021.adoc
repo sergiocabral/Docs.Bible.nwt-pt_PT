@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v5-21-0]]
+=== Deuteronómio, 21
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-21-1]]
+
+^<<v5-21-1,1>>^ “Se alguém for encontrado morto num campo da terra que Jeová, teu Deus, te dá como propriedade, e não se souber quem o matou,
+
+[[v5-21-2]]
+
+^<<v5-21-2,2>>^ os teus anciãos e juízes devem sair e medir a distância entre o cadáver e as cidades ao redor.
+
+[[v5-21-3]]
+
+^<<v5-21-3,3>>^ Então, os anciãos da cidade que estiver mais próxima do cadáver devem pegar numa novilha da manada, que nunca tenha sido usada para trabalhar e que nunca tenha puxado nada com um jugo,
+
+[[v5-21-4]]
+
+^<<v5-21-4,4>>^ e os anciãos daquela cidade devem levar a novilha para baixo, para um vale^&#42;1^ em que corra água, que não tenha sido lavrado nem semeado, e devem partir a nuca da novilha ali no vale.
+
+[NOTE]
+====
+. Ou: “uádi”.
+====
+
+[[v5-21-5]]
+
+^<<v5-21-5,5>>^ “E os sacerdotes levíticos irão aproximar-se, porque Jeová, teu Deus, os escolheu para o servirem,^&#42;1^ para proferirem bênçãos em nome de Jeová. Eles dirão como devem ser resolvidos todos os casos que envolvam violência.
+
+[NOTE]
+====
+. Ou: “lhe ministrarem”.
+====
+
+[[v5-21-6]]
+
+^<<v5-21-6,6>>^ Então, todos os anciãos da cidade que estiver mais próxima do cadáver devem lavar as mãos por cima da novilha à qual partiram a nuca no vale
+
+[[v5-21-7]]
+
+^<<v5-21-7,7>>^ e devem dizer: ‘As nossas mãos não derramaram este sangue, e os nossos olhos não o viram ser derramado.
+
+[[v5-21-8]]
+
+^<<v5-21-8,8>>^ Não condenes o teu povo Israel, que resgataste, ó Jeová, e não deixes que a culpa pelo sangue inocente permaneça entre o teu povo Israel.’ Assim, eles não terão culpa de sangue.
+
+[[v5-21-9]]
+
+^<<v5-21-9,9>>^ Desta maneira, eliminarás do teu meio a culpa pelo sangue inocente, por fazeres o que é certo aos olhos de Jeová.
+
+[[v5-21-10]]
+
+^<<v5-21-10,10>>^ “Se fores à guerra contra os teus inimigos, e Jeová, teu Deus, os derrotar por ti, e se tu os levares cativos
+
+[[v5-21-11]]
+
+^<<v5-21-11,11>>^ e vires entre os cativos uma mulher bonita, pela qual te sintas atraído e a quiseres tomar como esposa,
+
+[[v5-21-12]]
+
+^<<v5-21-12,12>>^ então, podes trazê-la para casa. E ela deve rapar a cabeça, cortar as unhas,
+
+[[v5-21-13]]
+
+^<<v5-21-13,13>>^ tirar a roupa de cativeiro e morar na tua casa. Chorará pelo seu pai e pela sua mãe um mês inteiro, e, depois, poderás ter relações com ela. Irás tornar-te o seu marido, e ela irá tornar-se a tua esposa.
+
+[[v5-21-14]]
+
+^<<v5-21-14,14>>^ Mas, se ela não te agradar, deves deixá-la ir para onde ela quiser.^&#42;1^ Mas não a podes vender por dinheiro nem tratá-la cruelmente, visto que a humilhaste.
+
+[NOTE]
+====
+. Ou: “conforme a alma dela”.
+====
+
+[[v5-21-15]]
+
+^<<v5-21-15,15>>^ “Se um homem tiver duas esposas e amar uma mais do que a outra,^&#42;1^ e as duas lhe tiverem dado filhos, e o filho primogénito for da menos amada,
+
+[NOTE]
+====
+. Lit.: “duas esposas, uma amada e uma odiada”.
+====
+
+[[v5-21-16]]
+
+^<<v5-21-16,16>>^ então, no dia em que o homem der a sua herança aos filhos, não lhe será permitido tratar como primogénito o filho da mais amada em prejuízo do filho da menos amada, que, de facto, é o primogénito.
+
+[[v5-21-17]]
+
+^<<v5-21-17,17>>^ Ele deve reconhecer como primogénito o filho da menos amada, por lhe dar uma porção dupla de tudo o que tiver, pois este é o primeiro fruto da sua faculdade reprodutiva. O direito de primogénito pertence-lhe.
+
+[[v5-21-18]]
+
+^<<v5-21-18,18>>^ “Se um homem tiver um filho obstinado e rebelde, que não obedece nem ao pai nem à mãe, e eles tentaram corrigi-lo, mas ele recusa-se a ouvi-los,
+
+[[v5-21-19]]
+
+^<<v5-21-19,19>>^ o seu pai e a sua mãe devem agarrá-lo e levá-lo para fora aos anciãos, no portão da cidade,
+
+[[v5-21-20]]
+
+^<<v5-21-20,20>>^ e dizer aos anciãos da cidade: ‘Este nosso filho é obstinado e rebelde; recusa-se a obedecer-nos. É um glutão e um beberrão.’
+
+[[v5-21-21]]
+
+^<<v5-21-21,21>>^ Então, todos os homens da cidade devem apedrejá-lo até à morte. Assim, elimina o mal do teu meio; e todo o Israel ouvirá falar disso e ficará com medo.
+
+[[v5-21-22]]
+
+^<<v5-21-22,22>>^ “Se um homem cometer um pecado que mereça a sentença de morte e for morto, e o pendurares num madeiro,
+
+[[v5-21-23]]
+
+^<<v5-21-23,23>>^ o seu cadáver não deve ficar toda a noite no madeiro. Deves certificar-te de o enterrar nesse dia, pois quem é pendurado num madeiro é amaldiçoado por Deus. Não deves tornar impura a terra que Jeová, teu Deus, te dá como herança.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-020.adoc#v5-20-0[&#60; Capítulo Anterior] | <<v5-21-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-022.adoc#v5-22-0[Próximo Capítulo &#62;]

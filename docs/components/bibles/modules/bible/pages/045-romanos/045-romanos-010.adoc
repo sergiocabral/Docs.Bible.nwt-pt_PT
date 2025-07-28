@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v45-10-0]]
+=== Romanos, 10
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v45-10-1]]
+
+^<<v45-10-1,1>>^ Irmãos, o que realmente desejo de coração e suplico a Deus por eles é que sejam salvos.
+
+[[v45-10-2]]
+
+^<<v45-10-2,2>>^ Pois dou testemunho de que eles têm zelo por Deus, mas não segundo o conhecimento exato.
+
+[[v45-10-3]]
+
+^<<v45-10-3,3>>^ Pois, por não conhecerem a justiça de Deus, mas procurarem estabelecer a sua própria, não se sujeitaram à justiça de Deus.
+
+[[v45-10-4]]
+
+^<<v45-10-4,4>>^ Porque Cristo é o fim da Lei, para que todo aquele que exercer fé possa alcançar a justiça.
+
+[[v45-10-5]]
+
+^<<v45-10-5,5>>^ Pois Moisés escreve sobre a justiça que vem por meio da Lei: “O homem que fizer estas coisas viverá por meio delas.”
+
+[[v45-10-6]]
+
+^<<v45-10-6,6>>^ Mas a justiça resultante da fé diz: “Não digas no teu coração: ‘Quem é que subirá aos céus?’ isto é, para fazer Cristo descer;
+
+[[v45-10-7]]
+
+^<<v45-10-7,7>>^ ou: ‘Quem é que descerá ao abismo?’ isto é, para fazer Cristo subir dentre os mortos.”
+
+[[v45-10-8]]
+
+^<<v45-10-8,8>>^ Mas o que dizem as Escrituras? “A palavra está perto de ti, na tua própria boca e no teu próprio coração”; isto é, “a palavra” da fé, que estamos a pregar.
+
+[[v45-10-9]]
+
+^<<v45-10-9,9>>^ Pois, se declarares publicamente com a tua boca que Jesus é Senhor, e no teu coração tiveres fé em que Deus o levantou dentre os mortos, serás salvo.
+
+[[v45-10-10]]
+
+^<<v45-10-10,10>>^ Porque com o coração se exerce fé visando a justiça e com a boca se faz declaração pública visando a salvação.
+
+[[v45-10-11]]
+
+^<<v45-10-11,11>>^ Pois certa passagem das Escrituras diz: “Ninguém que basear nele a sua fé ficará dececionado.”
+
+[[v45-10-12]]
+
+^<<v45-10-12,12>>^ Pois não há distinção entre judeu e grego; o mesmo Senhor está sobre todos e é rico^&#42;1^ para com todos os que o invocam.
+
+[NOTE]
+====
+. Ou: “generoso”.
+====
+
+[[v45-10-13]]
+
+^<<v45-10-13,13>>^ Pois “todo aquele que invocar o nome de Jeová^&#42;1^ será salvo”.
+
+[NOTE]
+====
+. Veja o Ap. A5.
+====
+
+[[v45-10-14]]
+
+^<<v45-10-14,14>>^ Mas como é que o invocarão se não depositaram fé nele? E como é que depositarão fé naquele de quem não ouviram falar? E como é que ouvirão se não houver quem pregue?
+
+[[v45-10-15]]
+
+^<<v45-10-15,15>>^ Por sua vez, como é que pregarão, a menos que tenham sido enviados? Assim como está escrito: “Quão lindos são os pés daqueles que declaram boas novas de coisas boas!”
+
+[[v45-10-16]]
+
+^<<v45-10-16,16>>^ No entanto, nem todos obedeceram às boas novas. Pois Isaías diz: “Jeová,^&#42;1^ quem é que depositou fé no que falámos?”^&#42;2^
+
+[NOTE]
+====
+. Veja o Ap. A5.
+. Ou: “no nosso relato”. Lit.: “na coisa ouvida de nós”.
+====
+
+[[v45-10-17]]
+
+^<<v45-10-17,17>>^ Portanto, a fé segue-se ao que se ouve. E o que se ouve vem por meio da palavra a respeito de Cristo.
+
+[[v45-10-18]]
+
+^<<v45-10-18,18>>^ Mas eu pergunto: Será que ficaram sem ouvir? Ora, de facto, “o som deles saiu por toda a terra; e a sua mensagem, até aos confins da terra habitada”.
+
+[[v45-10-19]]
+
+^<<v45-10-19,19>>^ Novamente pergunto: Será que Israel não compreendeu? Primeiro, Moisés diz: “Vou provocar-vos ciúme através daquilo que não é uma nação; vou incitar-vos à ira violenta através de uma nação insensata.”
+
+[[v45-10-20]]
+
+^<<v45-10-20,20>>^ E Isaías ousa dizer: “Fui encontrado por aqueles que não me procuravam; tornei-me conhecido pelos que não perguntavam por mim.”
+
+[[v45-10-21]]
+
+^<<v45-10-21,21>>^ Mas ele diz a respeito de Israel: “O dia inteiro estendi as mãos a um povo desobediente e obstinado.”
+
+'''
+
+xref:045-romanos/045-romanos-009.adoc#v45-9-0[&#60; Capítulo Anterior] | <<v45-10-0,Topo>> | xref:045-romanos/045-romanos-011.adoc#v45-11-0[Próximo Capítulo &#62;]

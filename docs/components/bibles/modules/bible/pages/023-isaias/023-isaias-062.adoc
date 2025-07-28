@@ -1,0 +1,94 @@
+include::./index.adoc[]
+
+[[v23-62-0]]
+=== Isaías, 62
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v23-62-1]]
+
+^<<v23-62-1,1>>^ Por causa de Sião, não ficarei calado;
+E, por causa de Jerusalém, não descansarei,
+Até que a sua justiça brilhe como uma forte luz,
+E a sua salvação ilumine como uma tocha.
+
+[[v23-62-2]]
+
+^<<v23-62-2,2>>^ “As nações verão a tua justiça, ó mulher,
+E todos os reis verão a tua glória.
+E serás chamada por um novo nome,
+Que a boca de Jeová determinará.
+
+[[v23-62-3]]
+
+^<<v23-62-3,3>>^ Irás tornar-te uma coroa bela nas mãos de Jeová,
+Um turbante régio na palma da mão do teu Deus.
+
+[[v23-62-4]]
+
+^<<v23-62-4,4>>^ Nunca mais serás chamada mulher abandonada,
+E a tua terra nunca mais será chamada desolada.
+Mas tu serás chamada Meu Prazer Está Nela,
+E a tua terra será chamada Mulher Casada.
+Porque Jeová terá prazer em ti,
+E a tua terra será como uma mulher casada.
+
+[[v23-62-5]]
+
+^<<v23-62-5,5>>^ Pois, assim como um jovem se casa com uma virgem,
+Os teus filhos irão casar-se contigo.
+O teu Deus irá alegrar-se contigo
+Assim como um noivo se alegra com a noiva.
+
+[[v23-62-6]]
+
+^<<v23-62-6,6>>^ Designei vigias sobre as tuas muralhas, ó Jerusalém.
+Eles nunca se devem calar, nem de dia nem de noite.
+Vocês que falam sobre Jeová,
+Não descansem,
+
+[[v23-62-7]]
+
+^<<v23-62-7,7>>^ Não lhe deem descanso até ele estabelecer firmemente Jerusalém,
+Sim, até que faça dela um motivo de louvor na terra.”
+
+[[v23-62-8]]
+
+^<<v23-62-8,8>>^ Jeová fez um juramento com a sua mão direita, com o seu braço forte:
+“Nunca mais darei os teus cereais para alimentar os teus inimigos,
+E os estrangeiros nunca mais beberão o vinho novo pelo qual trabalhaste arduamente.
+
+[[v23-62-9]]
+
+^<<v23-62-9,9>>^ Mas os que colhem os cereais hão de comê-los e louvar a Jeová;
+E os que colhem as uvas beberão o vinho novo nos meus santos pátios.”
+
+[[v23-62-10]]
+
+^<<v23-62-10,10>>^ Passem, passem pelos portões!
+Preparem^&#42;1^ o caminho para o povo.
+Construam, construam a estrada.
+Removam as pedras.
+Ergam um sinal^&#42;2^ para os povos.
+
+[NOTE]
+====
+. Ou: “Desobstruam”.
+. Ou: “poste de sinal”.
+====
+
+[[v23-62-11]]
+
+^<<v23-62-11,11>>^ Vejam! Jeová proclamou até aos confins da terra:
+“Digam à filha de Sião:
+‘A tua salvação está a chegar.
+A recompensa que ele dá está com ele,
+E diante dele está o salário que ele paga.’”
+
+[[v23-62-12]]
+
+^<<v23-62-12,12>>^ Serão chamados povo santo, os resgatados por Jeová,
+E tu serás chamada Procurada, Cidade Que Não Foi Abandonada.
+
+'''
+
+xref:023-isaias/023-isaias-061.adoc#v23-61-0[&#60; Capítulo Anterior] | <<v23-62-0,Topo>> | xref:023-isaias/023-isaias-063.adoc#v23-63-0[Próximo Capítulo &#62;]

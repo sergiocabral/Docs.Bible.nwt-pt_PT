@@ -1,0 +1,72 @@
+include::./index.adoc[]
+
+[[v9-27-0]]
+=== 1 Samuel, 27
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-27-1]]
+
+^<<v9-27-1,1>>^ No entanto, David disse no seu coração: “Um dia, Saul vai matar-me. O melhor que posso fazer é fugir para a terra dos filisteus; então, Saul vai desistir de andar à minha procura em todo o território de Israel, e eu hei de escapar-lhe.”
+
+[[v9-27-2]]
+
+^<<v9-27-2,2>>^ Portanto, David e os 600 homens que estavam com ele foram a Aquis, filho de Maoque, rei de Gate.
+
+[[v9-27-3]]
+
+^<<v9-27-3,3>>^ David e os seus homens, cada um com a sua família, ficaram com Aquis em Gate. David levou as suas duas esposas, Ainoã, de Jezreel, e Abigail, a carmelita, viúva de Nabal.
+
+[[v9-27-4]]
+
+^<<v9-27-4,4>>^ Quando Saul foi informado de que David tinha fugido para Gate, deixou de procurá-lo.
+
+[[v9-27-5]]
+
+^<<v9-27-5,5>>^ David disse então a Aquis: “Se eu tiver achado favor aos seus olhos, dê-me um lugar para morar num dos povoados da zona rural. Porque deveria o seu servo morar com o senhor na cidade real?”
+
+[[v9-27-6]]
+
+^<<v9-27-6,6>>^ Portanto, naquele dia, Aquis deu-lhe Ziclague. É por isso que Ziclague pertence aos reis de Judá até hoje.
+
+[[v9-27-7]]
+
+^<<v9-27-7,7>>^ O tempo^&#42;1^ que David morou na zona rural dos filisteus foi de um ano e quatro meses.
+
+[NOTE]
+====
+. Lit.: “número de dias”.
+====
+
+[[v9-27-8]]
+
+^<<v9-27-8,8>>^ David e os seus homens atacavam os gesuritas, os girzitas e os amalequitas, pois habitavam a região que se estendia desde Telão até Sur, descendo até à terra do Egito.
+
+[[v9-27-9]]
+
+^<<v9-27-9,9>>^ Quando atacava a região, David não preservava com vida nenhum homem ou mulher. Saqueava ovelhas, bois, jumentos, camelos e roupas; depois, retornava a Aquis.
+
+[[v9-27-10]]
+
+^<<v9-27-10,10>>^ E quando Aquis lhe perguntava: “O que é que atacaste hoje?” David respondia-lhe: “O sul^&#42;1^ de Judá”, ou “O sul do território dos jerameelitas”, ou “O sul do território dos queneus”.
+
+[NOTE]
+====
+. Ou: “O Neguebe”.
+====
+
+[[v9-27-11]]
+
+^<<v9-27-11,11>>^ David não poupava homens nem mulheres, para que não fossem levados a Gate, pois dizia: “Eles poderão denunciar-nos, por contarem o que eu fiz.” (Foi isso que ele fez durante todo o tempo em que morou na zona rural dos filisteus.)
+
+[[v9-27-12]]
+
+^<<v9-27-12,12>>^ Assim, Aquis acreditava em David e pensava: ‘Sem dúvida, ele passou a ser odiado pelo^&#42;1^ seu povo, Israel; agora, ele será sempre meu servo.’
+
+[NOTE]
+====
+. Ou: “ele tornou-se um mau cheiro entre o”.
+====
+
+'''
+
+xref:009-1-samuel/009-1-samuel-026.adoc#v9-26-0[&#60; Capítulo Anterior] | <<v9-27-0,Topo>> | xref:009-1-samuel/009-1-samuel-028.adoc#v9-28-0[Próximo Capítulo &#62;]

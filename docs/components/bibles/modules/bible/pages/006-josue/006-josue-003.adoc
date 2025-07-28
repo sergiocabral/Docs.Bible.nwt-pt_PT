@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v6-3-0]]
+=== Josué, 3
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v6-3-1]]
+
+^<<v6-3-1,1>>^ Então, Josué levantou-se de manhã cedo, e ele e todos os israelitas^&#42;1^ partiram de Sitim e chegaram ao Jordão. Passaram lá a noite antes de o atravessarem.
+
+[NOTE]
+====
+. Lit.: “filhos de Israel”.
+====
+
+[[v6-3-2]]
+
+^<<v6-3-2,2>>^ Três dias depois, os oficiais percorreram o acampamento
+
+[[v6-3-3]]
+
+^<<v6-3-3,3>>^ e ordenaram ao povo: “Assim que virem a Arca do Pacto de Jeová, vosso Deus, ser carregada pelos sacerdotes levíticos, devem partir de onde estão e segui-la.
+
+[[v6-3-4]]
+
+^<<v6-3-4,4>>^ Mas mantenham dela uma distância de cerca de 2000 côvados;^&#42;1^ não se aproximem mais do que isso! Assim, saberão que caminho seguir, pois nunca passaram por esse caminho antes.”
+
+[NOTE]
+====
+. Cerca de 890 m. Veja o Ap. B14.
+====
+
+[[v6-3-5]]
+
+^<<v6-3-5,5>>^ Então, Josué disse ao povo: “Santifiquem-se, pois amanhã Jeová fará coisas maravilhosas no vosso meio.”
+
+[[v6-3-6]]
+
+^<<v6-3-6,6>>^ A seguir, Josué disse aos sacerdotes: “Peguem na Arca do Pacto e vão à frente do povo.” Assim, eles pegaram na Arca do Pacto e foram à frente do povo.
+
+[[v6-3-7]]
+
+^<<v6-3-7,7>>^ Jeová disse então a Josué: “A partir de hoje irei enaltecer-te aos olhos de todo o Israel, para que saibam que estarei contigo assim como estive com Moisés.
+
+[[v6-3-8]]
+
+^<<v6-3-8,8>>^ Deves dar esta ordem aos sacerdotes que carregam a Arca do Pacto: ‘Quando chegarem à beira do rio Jordão, devem ficar parados nas águas do Jordão.’”
+
+[[v6-3-9]]
+
+^<<v6-3-9,9>>^ E Josué disse aos israelitas: “Venham e escutem as palavras de Jeová, vosso Deus.”
+
+[[v6-3-10]]
+
+^<<v6-3-10,10>>^ Então, Josué disse: “Por meio disto saberão que há um Deus vivente no vosso meio, e que ele, sem falta, expulsará da vossa frente os cananeus, os hititas, os heveus, os perizeus, os girgaseus, os amorreus e os jebuseus.
+
+[[v6-3-11]]
+
+^<<v6-3-11,11>>^ Vejam! A Arca do Pacto do Senhor de toda a terra está a passar à vossa frente, para dentro do Jordão.
+
+[[v6-3-12]]
+
+^<<v6-3-12,12>>^ Agora, escolham 12 homens das tribos de Israel, um homem de cada tribo.
+
+[[v6-3-13]]
+
+^<<v6-3-13,13>>^ Assim que os pés dos sacerdotes que carregam a Arca de Jeová, o Senhor de toda a terra, tocarem^&#42;1^ nas águas do Jordão, as águas do Jordão, que vêm de cima, serão interrompidas e ficarão paradas como uma barragem.”^&#42;2^
+
+[NOTE]
+====
+. Lit.: “repousarem”.
+. Ou: “muralha”.
+====
+
+[[v6-3-14]]
+
+^<<v6-3-14,14>>^ Portanto, quando o povo partiu das suas tendas, pouco antes de atravessar o Jordão, os sacerdotes que carregavam a Arca do Pacto foram à frente do povo.
+
+[[v6-3-15]]
+
+^<<v6-3-15,15>>^ Assim que os que carregavam a Arca chegaram ao Jordão, e os sacerdotes que carregavam a Arca colocaram os pés na borda da água (pois o Jordão transborda e inunda as suas margens durante todos os dias da colheita),
+
+[[v6-3-16]]
+
+^<<v6-3-16,16>>^ as águas que vinham de cima ficaram paradas. Elevaram-se como uma barragem,^&#42;1^ muito longe dali, em Adão, cidade próxima de Zaretã, ao passo que as águas que desciam, na direção do mar do Arabá, o mar Salgado,^&#42;2^ se escoaram. As águas foram interrompidas, e o povo atravessou perto de Jericó.
+
+[NOTE]
+====
+. Ou: “muralha”.
+. Isto é, o mar Morto.
+====
+
+[[v6-3-17]]
+
+^<<v6-3-17,17>>^ Enquanto os sacerdotes que carregavam a Arca do Pacto de Jeová ficaram parados em terra seca no meio do Jordão, todo o Israel atravessava em terra seca, até que a nação inteira acabou de atravessar o Jordão.
+
+'''
+
+xref:006-josue/006-josue-002.adoc#v6-2-0[&#60; Capítulo Anterior] | <<v6-3-0,Topo>> | xref:006-josue/006-josue-004.adoc#v6-4-0[Próximo Capítulo &#62;]

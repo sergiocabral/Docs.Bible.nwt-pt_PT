@@ -1,0 +1,94 @@
+include::./index.adoc[]
+
+[[v19-97-0]]
+=== Salmos, 97
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-97-1]]
+
+^<<v19-97-1,1>>^ Jeová tornou-se Rei!
+Alegre-se a terra.
+Alegrem-se as muitas ilhas.
+
+[[v19-97-2]]
+
+^<<v19-97-2,2>>^ Há nuvens e densas trevas ao seu redor;
+A retidão e a justiça são a base do seu trono.
+
+[[v19-97-3]]
+
+^<<v19-97-3,3>>^ Um fogo avança à sua frente
+E consome os seus adversários por todos os lados.
+
+[[v19-97-4]]
+
+^<<v19-97-4,4>>^ Os seus raios iluminam o mundo;
+Ao vê-los, a terra treme.
+
+[[v19-97-5]]
+
+^<<v19-97-5,5>>^ Os montes derretem-se como cera diante de Jeová,
+Diante do Senhor de toda a terra.
+
+[[v19-97-6]]
+
+^<<v19-97-6,6>>^ Os céus proclamam a Sua justiça,
+E todos os povos veem a Sua glória.
+
+[[v19-97-7]]
+
+^<<v19-97-7,7>>^ Sejam envergonhados todos os que servem uma imagem esculpida,
+Aqueles que se gabam dos seus deuses sem valor.
+Curvem-se diante dele,^&#42;1^ todos os deuses.
+
+[NOTE]
+====
+. Ou: “Adorem-no”.
+====
+
+[[v19-97-8]]
+
+^<<v19-97-8,8>>^ Sião ouve e alegra-se;
+As cidades^&#42;1^ de Judá estão alegres
+Por causa dos teus julgamentos, ó Jeová.
+
+[NOTE]
+====
+. Lit.: “filhas”.
+====
+
+[[v19-97-9]]
+
+^<<v19-97-9,9>>^ Pois tu, ó Jeová, és o Altíssimo sobre toda a terra;
+Estás numa posição elevada, muito acima de todos os outros deuses.
+
+[[v19-97-10]]
+
+^<<v19-97-10,10>>^ Vocês, os que amam a Jeová, odeiem o que é mau.
+Ele guarda a vida^&#42;1^ dos que lhe são leais;
+Livra-os da mão^&#42;2^ dos maus.
+
+[NOTE]
+====
+. Ou: “alma”.
+. Ou: “do poder”.
+====
+
+[[v19-97-11]]
+
+^<<v19-97-11,11>>^ A luz brilha para o justo,
+E a alegria para os que são retos de coração.
+
+[[v19-97-12]]
+
+^<<v19-97-12,12>>^ Alegrem-se em Jeová, ó justos,
+E deem graças ao seu santo nome.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “à recordação da sua santidade”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-096.adoc#v19-96-0[&#60; Capítulo Anterior] | <<v19-97-0,Topo>> | xref:019-salmo/019-salmo-098.adoc#v19-98-0[Próximo Capítulo &#62;]

@@ -1,0 +1,76 @@
+include::./index.adoc[]
+
+[[v66-8-0]]
+=== Apocalipse, 8
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v66-8-1]]
+
+^<<v66-8-1,1>>^ Quando ele abriu o sétimo selo, houve um silêncio no céu por cerca de meia hora.
+
+[[v66-8-2]]
+
+^<<v66-8-2,2>>^ Vi então os sete anjos que estão de pé diante de Deus, e foram-lhes dadas sete trombetas.
+
+[[v66-8-3]]
+
+^<<v66-8-3,3>>^ Chegou outro anjo, que segurava um incensário^&#42;1^ de ouro, e parou junto ao altar. Foi-lhe dada uma grande quantidade de incenso para oferecer, juntamente com as orações de todos os santos, sobre o altar de ouro que estava diante do trono.
+
+[NOTE]
+====
+. Ou: “queimador”.
+====
+
+[[v66-8-4]]
+
+^<<v66-8-4,4>>^ Da mão do anjo, subiu perante Deus o fumo do incenso, com as orações dos santos.
+
+[[v66-8-5]]
+
+^<<v66-8-5,5>>^ No entanto, o anjo pegou imediatamente no incensário, encheu-o de fogo do altar e lançou-o para a terra. Então, houve trovões, vozes, relâmpagos e um terramoto.
+
+[[v66-8-6]]
+
+^<<v66-8-6,6>>^ E os sete anjos que tinham as sete trombetas prepararam-se para tocá-las.
+
+[[v66-8-7]]
+
+^<<v66-8-7,7>>^ O primeiro tocou a sua trombeta. E houve granizo e fogo misturados com sangue, que foram lançados para a terra; um terço da terra foi queimado, um terço das árvores foi queimado, e toda a vegetação verde foi queimada.
+
+[[v66-8-8]]
+
+^<<v66-8-8,8>>^ O segundo anjo tocou a sua trombeta. E algo semelhante a um grande monte em chamas foi lançado ao mar. Um terço do mar transformou-se em sangue,
+
+[[v66-8-9]]
+
+^<<v66-8-9,9>>^ um terço das criaturas viventes^&#42;1^ que havia no mar morreu, e um terço dos navios foi destroçado.
+
+[NOTE]
+====
+. Ou: “criaturas que têm almas”.
+====
+
+[[v66-8-10]]
+
+^<<v66-8-10,10>>^ O terceiro anjo tocou a sua trombeta. E caiu do céu uma grande estrela, que ardia como uma tocha;^&#42;1^ caiu sobre um terço dos rios e sobre as fontes de água.
+
+[NOTE]
+====
+. Ou: “lâmpada”.
+====
+
+[[v66-8-11]]
+
+^<<v66-8-11,11>>^ O nome da estrela é Absinto. Um terço das águas transformou-se em absinto, e muitas pessoas morreram por causa das águas, porque se tornaram amargas.
+
+[[v66-8-12]]
+
+^<<v66-8-12,12>>^ O quarto anjo tocou a sua trombeta. E foi atingido um terço do sol, um terço da lua e um terço das estrelas, a fim de que um terço deles ficasse escuro e um terço do dia não tivesse luz, e o mesmo acontecesse com a noite.
+
+[[v66-8-13]]
+
+^<<v66-8-13,13>>^ Vi e ouvi uma águia que voava pelo meio do céu dizer em voz alta: “Ai, ai, ai dos que moram na terra, por causa dos restantes toques de trombeta, que os três anjos estão prestes a tocar!”
+
+'''
+
+xref:066-apocalipse/066-apocalipse-007.adoc#v66-7-0[&#60; Capítulo Anterior] | <<v66-8-0,Topo>> | xref:066-apocalipse/066-apocalipse-009.adoc#v66-9-0[Próximo Capítulo &#62;]

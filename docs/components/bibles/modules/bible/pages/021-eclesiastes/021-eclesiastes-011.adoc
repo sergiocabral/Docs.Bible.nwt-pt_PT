@@ -1,0 +1,74 @@
+include::./index.adoc[]
+
+[[v21-11-0]]
+=== Eclesiastes, 11
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v21-11-1]]
+
+^<<v21-11-1,1>>^ Lança^&#42;1^ o teu pão sobre as águas, porque, depois de muitos dias, vais encontrá-lo novamente.
+
+[NOTE]
+====
+. Ou: “Envia”.
+====
+
+[[v21-11-2]]
+
+^<<v21-11-2,2>>^ Reparte o que é teu com sete ou até mesmo com oito, pois não sabes que desastre^&#42;1^ pode ocorrer na terra.
+
+[NOTE]
+====
+. Ou: “calamidade”.
+====
+
+[[v21-11-3]]
+
+^<<v21-11-3,3>>^ Se as nuvens estiverem carregadas, despejarão chuva sobre a terra; e, se uma árvore cair, seja para o sul, seja para o norte, onde a árvore cair, aí ficará.
+
+[[v21-11-4]]
+
+^<<v21-11-4,4>>^ Quem observa o vento não semeará, e quem olha para as nuvens não colherá.
+
+[[v21-11-5]]
+
+^<<v21-11-5,5>>^ Assim como não sabes como o espírito age nos ossos da criança no ventre^&#42;1^ da mulher grávida, assim também desconheces o trabalho do verdadeiro Deus, que faz todas as coisas.
+
+[NOTE]
+====
+. Lit.: “ossos no ventre”.
+====
+
+[[v21-11-6]]
+
+^<<v21-11-6,6>>^ Semeia de manhã a tua semente e não dês descanso às tuas mãos até ao anoitecer; pois não sabes qual é a que dará bons resultados, se será uma ou outra, ou se ambas serão boas.
+
+[[v21-11-7]]
+
+^<<v21-11-7,7>>^ Doce é a luz, e, para os olhos, é agradável ver o sol.
+
+[[v21-11-8]]
+
+^<<v21-11-8,8>>^ Portanto, se um homem viver muitos anos, que ele os aproveite a todos. Contudo, ele deve lembrar-se de que os dias de escuridão talvez sejam muitos; tudo o que está para vir é vaidade.
+
+[[v21-11-9]]
+
+^<<v21-11-9,9>>^ Alegra-te, jovem, enquanto ainda és jovem, e que o teu coração seja feliz nos dias da tua juventude. Segue os caminhos do teu coração e vai para onde os teus olhos te levarem. No entanto, fica a saber que o verdadeiro Deus vai levar-te a julgamento^&#42;1^ por todas estas coisas.
+
+[NOTE]
+====
+. Ou: “fazer-te prestar contas”.
+====
+
+[[v21-11-10]]
+
+^<<v21-11-10,10>>^ Portanto, retira as preocupações do teu coração e afasta as coisas prejudiciais do teu corpo,^&#42;1^ pois a juventude e a flor da vida são vaidade.
+
+[NOTE]
+====
+. Lit.: “da tua carne”.
+====
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-010.adoc#v21-10-0[&#60; Capítulo Anterior] | <<v21-11-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-012.adoc#v21-12-0[Próximo Capítulo &#62;]

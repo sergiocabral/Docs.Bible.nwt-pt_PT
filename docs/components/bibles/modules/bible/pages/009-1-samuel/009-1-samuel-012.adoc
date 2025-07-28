@@ -1,0 +1,140 @@
+include::./index.adoc[]
+
+[[v9-12-0]]
+=== 1 Samuel, 12
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-12-1]]
+
+^<<v9-12-1,1>>^ Por fim, Samuel disse a todo o Israel: “Fiz^&#42;1^ tudo o que me pediram e designei-vos um rei.
+
+[NOTE]
+====
+. Lit.: “Escutei a vossa voz com respeito a”.
+====
+
+[[v9-12-2]]
+
+^<<v9-12-2,2>>^ Agora, aqui está o rei que vos guiará!^&#42;1^ Quanto a mim, já estou velho e de cabelos brancos, e os meus filhos estão aqui convosco. Guiei-vos desde a minha juventude até hoje.
+
+[NOTE]
+====
+. Ou: “que andará à vossa frente”.
+====
+
+[[v9-12-3]]
+
+^<<v9-12-3,3>>^ Aqui estou. Testemunhem contra mim diante de Jeová e do seu ungido: A quem é que eu tirei um touro ou um jumento? A quem é que eu defraudei ou oprimi? Será que aceitei algum suborno para fazer vista grossa ao que alguém fez? Se o fiz, vou restituir-vos tudo.”
+
+[[v9-12-4]]
+
+^<<v9-12-4,4>>^ Eles disseram: “O senhor não nos defraudou nem nos oprimiu, e nunca aceitou nada das mãos de ninguém.”
+
+[[v9-12-5]]
+
+^<<v9-12-5,5>>^ Assim, ele disse-lhes: “Hoje, Jeová testemunha contra vocês, e, hoje, o seu ungido é testemunha de que não me podem acusar de nada.”^&#42;1^ A isso, disseram: “Sim, ele é testemunha.”
+
+[NOTE]
+====
+. Lit.: “não encontraram nada na minha mão”.
+====
+
+[[v9-12-6]]
+
+^<<v9-12-6,6>>^ Portanto, Samuel disse ao povo: “Jeová, aquele que usou Moisés e Arão e que tirou os vossos antepassados da terra do Egito, é testemunha.
+
+[[v9-12-7]]
+
+^<<v9-12-7,7>>^ Agora, fiquem onde estão e eu vou julgar-vos perante Jeová, levando em conta todos os atos justos que Jeová fez a vosso favor e a favor dos vossos antepassados.
+
+[[v9-12-8]]
+
+^<<v9-12-8,8>>^ “Depois de Jacó ter entrado no Egito e de os vossos antepassados terem clamado a Jeová por socorro, Jeová enviou Moisés e Arão para que tirassem os vossos antepassados do Egito e os fizessem viver neste lugar.
+
+[[v9-12-9]]
+
+^<<v9-12-9,9>>^ No entanto, eles esqueceram-se de Jeová, seu Deus, e ele entregou-os^&#42;1^ nas mãos de Sísera, chefe do exército de Hazor, nas mãos dos filisteus e nas mãos do rei de Moabe, os quais lutaram contra eles.
+
+[NOTE]
+====
+. Lit.: “vendeu-os”.
+====
+
+[[v9-12-10]]
+
+^<<v9-12-10,10>>^ E clamaram a Jeová por socorro, dizendo: ‘Pecámos, pois abandonámos a Jeová para adorar os baalins e as imagens de Astorete. Agora, livra-nos das mãos dos nossos inimigos para que te sirvamos.’
+
+[[v9-12-11]]
+
+^<<v9-12-11,11>>^ Por conseguinte, Jeová enviou Jerubaal, Bedã, Jefté e Samuel, e livrou-vos das mãos dos inimigos à vossa volta, para que pudessem viver em segurança.
+
+[[v9-12-12]]
+
+^<<v9-12-12,12>>^ Quando viram que Naás, o rei dos amonitas, veio contra vocês, persistiram em dizer-me: ‘Não importa! Estamos decididos a ter um rei sobre nós’, embora Jeová, vosso Deus, seja o vosso Rei.
+
+[[v9-12-13]]
+
+^<<v9-12-13,13>>^ Agora, aqui está o rei que escolheram, aquele que pediram. Vejam! Jeová designou-vos um rei.
+
+[[v9-12-14]]
+
+^<<v9-12-14,14>>^ Se temerem a Jeová e se o servirem, se obedecerem à sua voz e não se rebelarem contra a ordem de Jeová, e, se tanto vocês como o rei que vos governa seguirem a Jeová, vosso Deus, muito bem.
+
+[[v9-12-15]]
+
+^<<v9-12-15,15>>^ Mas, caso não obedeçam à voz de Jeová e se rebelem contra a ordem de Jeová, a mão de Jeová estará contra vocês e contra os vossos pais.
+
+[[v9-12-16]]
+
+^<<v9-12-16,16>>^ Agora, fiquem onde estão e vejam a coisa extraordinária que Jeová fará diante dos vossos olhos.
+
+[[v9-12-17]]
+
+^<<v9-12-17,17>>^ Não estamos na época da colheita do trigo? Clamarei a Jeová para que mande trovões e chuva; então, saberão e reconhecerão que fizeram um grande mal aos olhos de Jeová ao pedir um rei.”
+
+[[v9-12-18]]
+
+^<<v9-12-18,18>>^ A seguir, Samuel clamou a Jeová, e Jeová mandou trovões e chuva naquele dia, de modo que todo o povo ficou com muito medo de Jeová e de Samuel.
+
+[[v9-12-19]]
+
+^<<v9-12-19,19>>^ E todo o povo disse a Samuel: “Ore a Jeová, seu Deus, pelos seus servos, pois não queremos morrer, dado que acrescentámos a todos os nossos pecados o mal de pedir um rei.”
+
+[[v9-12-20]]
+
+^<<v9-12-20,20>>^ Assim, Samuel disse ao povo: “Não tenham medo. Realmente, vocês cometeram este grande mal, mas, agora, não deixem de seguir a Jeová. Sirvam a Jeová de todo o coração.
+
+[[v9-12-21]]
+
+^<<v9-12-21,21>>^ Não se desviem para seguir coisas vãs,^&#42;1^ que não são de nenhum proveito e que não podem salvar, porque são vãs.^&#42;2^
+
+[NOTE]
+====
+. Ou: “irrealidades”.
+. Ou: “irrealidades”.
+====
+
+[[v9-12-22]]
+
+^<<v9-12-22,22>>^ Jeová não abandonará o seu povo, por causa do seu grande nome, pois Jeová decidiu que vocês fossem o seu povo.
+
+[[v9-12-23]]
+
+^<<v9-12-23,23>>^ Quanto a mim, é impensável pecar contra Jeová por deixar de orar por vocês. E continuarei a instruir-vos no caminho bom e correto.
+
+[[v9-12-24]]
+
+^<<v9-12-24,24>>^ Só vos peço que temam a Jeová e que o sirvam fielmente,^&#42;1^ de todo o coração; lembrem-se das coisas grandiosas que ele fez por vocês.
+
+[NOTE]
+====
+. Ou: “em verdade”.
+====
+
+[[v9-12-25]]
+
+^<<v9-12-25,25>>^ Porém, se fizerem obstinadamente o que é mau, serão destruídos, tanto vocês como o vosso rei.”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-011.adoc#v9-11-0[&#60; Capítulo Anterior] | <<v9-12-0,Topo>> | xref:009-1-samuel/009-1-samuel-013.adoc#v9-13-0[Próximo Capítulo &#62;]

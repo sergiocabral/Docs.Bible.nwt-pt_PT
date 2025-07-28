@@ -1,0 +1,158 @@
+include::./index.adoc[]
+
+[[v35-1-0]]
+=== Habacuque, 1
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v35-1-1]]
+
+^<<v35-1-1,1>>^ Proclamação que o profeta Habacuque^&#42;1^ recebeu numa visão:
+
+[NOTE]
+====
+. Que possivelmente significa “forte abraço”.
+====
+
+[[v35-1-2]]
+
+^<<v35-1-2,2>>^ Até quando, ó Jeová, clamarei por ajuda, mas tu não ouvirás?
+Até quando clamarei a ti para me salvares da violência, mas tu não agirás?^&#42;1^
+
+[NOTE]
+====
+. Ou: “não salvarás”.
+====
+
+[[v35-1-3]]
+
+^<<v35-1-3,3>>^ Porque é que me fazes ver a maldade?
+E porque é que toleras a opressão?
+Porque há destruição e violência diante de mim?
+E porque é que há tantas lutas e conflitos?
+
+[[v35-1-4]]
+
+^<<v35-1-4,4>>^ Por isso, a lei não tem força,
+E nunca se faz justiça.
+Pois os maus cercam os justos;
+É por isso que a justiça sai pervertida.
+
+[[v35-1-5]]
+
+^<<v35-1-5,5>>^ “Olhem para as nações e prestem atenção!
+Observem, espantados, e fiquem admirados.
+Pois, nos vossos dias, acontecerá algo
+Em que não acreditarão, mesmo que alguém vos conte.
+
+[[v35-1-6]]
+
+^<<v35-1-6,6>>^ Pois vou trazer os caldeus,
+Nação cruel e impetuosa.
+Eles invadem vastas regiões da terra
+Para se apoderarem de casas que não são suas.
+
+[[v35-1-7]]
+
+^<<v35-1-7,7>>^ Eles causam terror e medo.
+Estabelecem a sua própria justiça e autoridade.^&#42;1^
+
+[NOTE]
+====
+. Ou: “dignidade”.
+====
+
+[[v35-1-8]]
+
+^<<v35-1-8,8>>^ Os seus cavalos são mais velozes do que os leopardos,
+E mais ferozes do que os lobos durante a noite.
+Os seus cavalos de guerra avançam a galope;
+Os seus cavalos vêm de longe.
+Atacam como a águia quando mergulha sobre a presa.
+
+[[v35-1-9]]
+
+^<<v35-1-9,9>>^ Todos eles vêm prontos para a violência.
+Os seus rostos reunidos são como o vento leste,
+Ajuntam cativos como grãos de areia.
+
+[[v35-1-10]]
+
+^<<v35-1-10,10>>^ Eles fazem pouco de reis
+E ridicularizam governantes.
+Eles riem-se de todas as fortalezas;
+Fazem uma rampa de terra e conquistam-nas.
+
+[[v35-1-11]]
+
+^<<v35-1-11,11>>^ Então, eles avançam como o vento e seguem em frente,
+Mas irão tornar-se culpados,
+Porque atribuem o seu poder ao seu deus.”^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “Porque o seu poder é o seu deus”.
+====
+
+[[v35-1-12]]
+
+^<<v35-1-12,12>>^ Por acaso, não existes desde a eternidade, ó Jeová?
+Ó meu Deus, meu Santo, tu não morres.^&#42;1^
+Ó Jeová, tu designaste-os para executar julgamento;
+Minha Rocha, estabeleceste-os para trazeres punição.^&#42;2^
+
+[NOTE]
+====
+. Ou, possivelmente: “nós não morreremos”.
+. Ou: “repreensão”.
+====
+
+[[v35-1-13]]
+
+^<<v35-1-13,13>>^ Os teus olhos são demasiado puros para verem o que é mau;
+Não podes tolerar a maldade.
+Então, porque é que toleras os traiçoeiros
+E permaneces calado enquanto os maus devoram os que são mais justos do que eles?
+
+[[v35-1-14]]
+
+^<<v35-1-14,14>>^ Porque é que fazes com que o homem seja como os peixes do mar,
+Como os animais rasteiros, que não têm governante?
+
+[[v35-1-15]]
+
+^<<v35-1-15,15>>^ Ele^&#42;1^ pesca-os a todos com um anzol.
+Leva-os com a sua rede de arrasto
+E apanha-os na sua rede de pesca.
+É por isso que se alegra tanto.
+
+[NOTE]
+====
+. Isto é, o inimigo caldeu.
+====
+
+[[v35-1-16]]
+
+^<<v35-1-16,16>>^ É por isso que ele oferece sacrifícios à sua rede de arrasto
+E faz sacrifícios^&#42;1^ à sua rede de pesca;
+Pois, graças a elas, a sua porção é suculenta,^&#42;2^
+E o seu alimento é da melhor qualidade.
+
+[NOTE]
+====
+. Ou: “fumo sacrificial”.
+. Lit.: “bem azeitada”.
+====
+
+[[v35-1-17]]
+
+^<<v35-1-17,17>>^ Portanto, será que ele continuará a esvaziar a sua rede de arrasto?^&#42;1^
+Será que continuará a matar nações, sem compaixão?
+
+[NOTE]
+====
+. Ou, possivelmente: “a puxar da sua espada”.
+====
+
+'''
+
+xref:034-naum/034-naum-003.adoc#v34-3-0[&#60; Capítulo Anterior] | <<v35-1-0,Topo>> | xref:035-habacuque/035-habacuque-002.adoc#v35-2-0[Próximo Capítulo &#62;]

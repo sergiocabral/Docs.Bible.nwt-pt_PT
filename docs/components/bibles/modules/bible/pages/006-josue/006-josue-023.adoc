@@ -1,0 +1,111 @@
+include::./index.adoc[]
+
+[[v6-23-0]]
+=== Josué, 23
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v6-23-1]]
+
+^<<v6-23-1,1>>^ Muito tempo depois de Jeová ter dado descanso a Israel de todos os inimigos ao seu redor, quando Josué já era idoso, de idade muito avançada,
+
+[[v6-23-2]]
+
+^<<v6-23-2,2>>^ Josué convocou todo o Israel, os anciãos, os cabeças, os juízes e os oficiais, e disse-lhes: “Eu envelheci, já sou de idade muito avançada.
+
+[[v6-23-3]]
+
+^<<v6-23-3,3>>^ E vocês mesmos viram tudo o que Jeová, vosso Deus, fez a todas estas nações por vossa causa, porque foi Jeová, vosso Deus, quem lutou por vocês.
+
+[[v6-23-4]]
+
+^<<v6-23-4,4>>^ Vejam, designei-vos por sortes,^&#42;1^ como herança para as vossas tribos, a terra das nações que ainda restam e a terra de todas as nações que destruí, desde o Jordão até ao Grande Mar,^&#42;2^ no lado oeste.^&#42;3^
+
+[NOTE]
+====
+. Ou: “distribuí-vos”.
+. Isto é, o Mediterrâneo.
+. Ou: “na direção do pôr do sol”.
+====
+
+[[v6-23-5]]
+
+^<<v6-23-5,5>>^ E foi Jeová, vosso Deus, quem as expulsou da vossa frente. Ele mandou-as embora^&#42;1^ por vossa causa, e vocês tomaram posse da terra delas, assim como Jeová, vosso Deus, vos prometeu.
+
+[NOTE]
+====
+. Ou: “desapossou-as”.
+====
+
+[[v6-23-6]]
+
+^<<v6-23-6,6>>^ “Agora, sejam muito corajosos para obedecer e cumprir tudo o que está escrito no livro da Lei de Moisés, por nunca se desviarem dele nem para a direita nem para a esquerda,
+
+[[v6-23-7]]
+
+^<<v6-23-7,7>>^ por nunca se misturarem com estas nações que restam no vosso meio. Nem sequer mencionem o nome dos seus deuses nem jurem por eles, e nunca os sirvam nem se curvem diante deles.
+
+[[v6-23-8]]
+
+^<<v6-23-8,8>>^ Mas apeguem-se a Jeová, vosso Deus, assim como fizeram até ao dia de hoje.
+
+[[v6-23-9]]
+
+^<<v6-23-9,9>>^ Pois Jeová expulsará da vossa frente nações grandes e fortes; até ao dia de hoje, nem um único homem vos pôde resistir.
+
+[[v6-23-10]]
+
+^<<v6-23-10,10>>^ Um só homem dos vossos perseguirá mil, porque Jeová, vosso Deus, está a lutar por vocês, assim como vos prometeu.
+
+[[v6-23-11]]
+
+^<<v6-23-11,11>>^ Por isso, mantenham-se sempre alertas,^&#42;1^ por amarem a Jeová, vosso Deus.
+
+[NOTE]
+====
+. Ou: “Por isso, vigiem cuidadosamente as vossas almas”.
+====
+
+[[v6-23-12]]
+
+^<<v6-23-12,12>>^ “Mas, se se desviarem e se apegarem às nações que restam no vosso meio, e formarem alianças matrimoniais^&#42;1^ com elas e se misturarem com elas, e elas convosco,
+
+[NOTE]
+====
+. Ou: “realizarem casamentos mistos”.
+====
+
+[[v6-23-13]]
+
+^<<v6-23-13,13>>^ estejam certos de que Jeová, vosso Deus, não continuará a expulsar^&#42;1^ estas nações por vossa causa. Elas serão uma armadilha e um laço, um açoite nas vossas costas e espinhos nos vossos olhos, até que vocês tenham desaparecido desta boa terra que Jeová, vosso Deus, vos deu.
+
+[NOTE]
+====
+. Ou: “desapossar”.
+====
+
+[[v6-23-14]]
+
+^<<v6-23-14,14>>^ “Vejam, estou prestes a morrer,^&#42;1^ e sabem muito bem, de todo o vosso coração e de toda a vossa alma,^&#42;2^ que não falhou nem sequer uma palavra de todas as boas promessas que Jeová, vosso Deus, vos fez. Todas se cumpriram para convosco. Nem sequer uma delas falhou.
+
+[NOTE]
+====
+. Lit.: “estou a ir hoje no caminho de toda a terra”.
+. Veja o Glossário.
+====
+
+[[v6-23-15]]
+
+^<<v6-23-15,15>>^ Mas, assim como se cumpriram todas as boas promessas que Jeová, vosso Deus, vos fez, assim Jeová trará sobre vocês todas as calamidades que prometeu^&#42;1^ e irá exterminar-vos desta boa terra que Jeová, vosso Deus, vos deu.
+
+[NOTE]
+====
+. Ou: “todas as maldições”.
+====
+
+[[v6-23-16]]
+
+^<<v6-23-16,16>>^ Se violarem o pacto de Jeová, vosso Deus, que ele vos ordenou que guardassem, e se servirem outros deuses e se curvarem diante deles, então a ira de Jeová irá acender-se contra vocês, e logo desaparecerão da boa terra que ele vos deu.”
+
+'''
+
+xref:006-josue/006-josue-022.adoc#v6-22-0[&#60; Capítulo Anterior] | <<v6-23-0,Topo>> | xref:006-josue/006-josue-024.adoc#v6-24-0[Próximo Capítulo &#62;]

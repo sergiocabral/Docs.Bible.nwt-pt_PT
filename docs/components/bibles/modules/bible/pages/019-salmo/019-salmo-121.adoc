@@ -1,0 +1,66 @@
+include::./index.adoc[]
+
+[[v19-121-0]]
+=== Salmos, 121
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Cântico das Subidas._
+
+[[v19-121-1]]
+
+^<<v19-121-1,1>>^ Levanto os meus olhos para os montes.
+De onde é que virá a minha ajuda?
+
+[[v19-121-2]]
+
+^<<v19-121-2,2>>^ A minha ajuda vem de Jeová,
+Aquele que fez o céu e a terra.
+
+[[v19-121-3]]
+
+^<<v19-121-3,3>>^ Ele nunca permitirá que o teu pé escorregue.^&#42;1^
+Aquele que te guarda nunca ficará sonolento.
+
+[NOTE]
+====
+. Ou: “cambaleie”.
+====
+
+[[v19-121-4]]
+
+^<<v19-121-4,4>>^ Sim, aquele que guarda Israel
+Nunca ficará sonolento nem adormecerá.
+
+[[v19-121-5]]
+
+^<<v19-121-5,5>>^ Jeová guarda-te.
+Jeová é uma sombra protetora à tua direita.
+
+[[v19-121-6]]
+
+^<<v19-121-6,6>>^ De dia, o sol não te atingirá,
+Nem a lua, de noite.
+
+[[v19-121-7]]
+
+^<<v19-121-7,7>>^ Jeová vai guardar-te de todo o mal.
+Ele guardará a tua vida.^&#42;1^
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v19-121-8]]
+
+^<<v19-121-8,8>>^ Jeová vai guardar-te em tudo o que fizeres,^&#42;1^
+Agora e para sempre.
+
+[NOTE]
+====
+. Lit.: “guardar a tua saída e a tua entrada”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-120.adoc#v19-120-0[&#60; Capítulo Anterior] | <<v19-121-0,Topo>> | xref:019-salmo/019-salmo-122.adoc#v19-122-0[Próximo Capítulo &#62;]

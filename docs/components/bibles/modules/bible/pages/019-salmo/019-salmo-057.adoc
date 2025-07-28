@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v19-57-0]]
+=== Salmos, 57
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; com a melodia de Não Destruas. De David. Mictão.^&#42;1^ Quando ele fugiu de Saul para dentro da caverna._
+
+[[v19-57-1]]
+
+^<<v19-57-1,1>>^ Mostra-me favor, ó Deus, mostra-me favor,
+Pois eu refugio-me^&#42;1^ em ti;
+Refugio-me na sombra das tuas asas até que passem as dificuldades.
+
+[NOTE]
+====
+. Ou: “a minha alma refugia-se”.
+====
+
+[[v19-57-2]]
+
+^<<v19-57-2,2>>^ Clamo a Deus, o Altíssimo,
+Ao verdadeiro Deus, que lhes põe um fim por minha causa.
+
+[[v19-57-3]]
+
+^<<v19-57-3,3>>^ Ele há de enviar ajuda desde o céu e salvar-me.
+Ele frustrará aquele que me persegue. (Selá)
+Deus enviará o seu amor leal e a sua fidelidade.
+
+[[v19-57-4]]
+
+^<<v19-57-4,4>>^ Estou rodeado^&#42;1^ de leões,
+Tenho de me deitar entre homens que querem devorar-me;
+Os seus dentes são lanças e flechas,
+E a sua língua é uma espada afiada.
+
+[NOTE]
+====
+. Ou: “A minha alma está rodeada”.
+====
+
+[[v19-57-5]]
+
+^<<v19-57-5,5>>^ Que sejas exaltado acima dos céus, ó Deus;
+Que a tua glória esteja sobre toda a terra.
+
+[[v19-57-6]]
+
+^<<v19-57-6,6>>^ Eles prepararam uma rede como armadilha para os meus pés;
+Estou encurvado^&#42;1^ de tanta aflição.
+Cavaram um buraco diante de mim,
+Mas eles próprios caíram lá dentro. (Selá)
+
+[NOTE]
+====
+. Ou: “A minha alma está encurvada”.
+====
+
+[[v19-57-7]]
+
+^<<v19-57-7,7>>^ O meu coração está firme, ó Deus,
+O meu coração está firme.
+Vou tocar e cantar louvores.
+
+[[v19-57-8]]
+
+^<<v19-57-8,8>>^ Desperta, ó meu inteiro ser.^&#42;1^
+Desperta, ó instrumento de cordas; também tu, ó harpa.
+Vou despertar a aurora.
+
+[NOTE]
+====
+. Lit.: “minha glória”.
+====
+
+[[v19-57-9]]
+
+^<<v19-57-9,9>>^ Vou louvar-te entre os povos, ó Jeová;
+Vou cantar-te louvores^&#42;1^ entre as nações.
+
+[NOTE]
+====
+. Ou: “Vou fazer-te música”.
+====
+
+[[v19-57-10]]
+
+^<<v19-57-10,10>>^ Pois o teu amor leal é grande, alcança os céus,
+E a tua fidelidade atinge as nuvens.
+
+[[v19-57-11]]
+
+^<<v19-57-11,11>>^ Que sejas exaltado acima dos céus, ó Deus;
+Que a tua glória esteja sobre toda a terra.
+
+'''
+
+xref:019-salmo/019-salmo-056.adoc#v19-56-0[&#60; Capítulo Anterior] | <<v19-57-0,Topo>> | xref:019-salmo/019-salmo-058.adoc#v19-58-0[Próximo Capítulo &#62;]

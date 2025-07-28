@@ -1,0 +1,186 @@
+include::./index.adoc[]
+
+[[v44-17-0]]
+=== Atos, 17
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v44-17-1]]
+
+^<<v44-17-1,1>>^ Então, viajaram, passando por Anfípolis e Apolónia, e chegaram a Tessalónica, onde havia uma sinagoga dos judeus.
+
+[[v44-17-2]]
+
+^<<v44-17-2,2>>^ Paulo, segundo o seu costume, entrou e foi falar com eles, e raciocinou com eles por três sábados, usando as Escrituras:
+
+[[v44-17-3]]
+
+^<<v44-17-3,3>>^ explicava e provava, com base no que estava escrito, que era necessário que o Cristo sofresse e fosse levantado dentre os mortos. Ele dizia: “Este é o Cristo, este Jesus, que eu vos estou a proclamar.”
+
+[[v44-17-4]]
+
+^<<v44-17-4,4>>^ Em resultado disso, alguns deles tornaram-se crentes e juntaram-se a Paulo e Silas, e uma grande multidão de gregos que adoravam a Deus fez o mesmo, bem como um bom número de mulheres de destaque.
+
+[[v44-17-5]]
+
+^<<v44-17-5,5>>^ No entanto, os judeus ficaram com ciúmes. Por conseguinte, reuniram alguns homens maus que vadiavam na praça, formaram uma turba e provocaram um tumulto na cidade. Invadiram a casa de Jasão, à procura de Paulo e Silas, para trazê-los para fora, à turba.
+
+[[v44-17-6]]
+
+^<<v44-17-6,6>>^ Como não os encontraram, arrastaram Jasão e alguns irmãos até às autoridades da cidade, gritando: “Aqueles homens que têm causado alvoroço na^&#42;1^ terra habitada também estão aqui,
+
+[NOTE]
+====
+. Ou: “têm subvertido a”.
+====
+
+[[v44-17-7]]
+
+^<<v44-17-7,7>>^ e Jasão recebeu-os como hóspedes. Todos estes homens agem contra os decretos de César, dizendo que há outro rei, Jesus.”
+
+[[v44-17-8]]
+
+^<<v44-17-8,8>>^ Ao ouvirem estas coisas, a multidão e as autoridades da cidade ficaram agitadas.
+
+[[v44-17-9]]
+
+^<<v44-17-9,9>>^ Então, depois de receberem de Jasão e dos outros a fiança estipulada, deixaram-nos ir.
+
+[[v44-17-10]]
+
+^<<v44-17-10,10>>^ Assim que anoiteceu, os irmãos enviaram Paulo e Silas para Bereia. Quando lá chegaram, entraram na sinagoga dos judeus.
+
+[[v44-17-11]]
+
+^<<v44-17-11,11>>^ Estes tinham uma mentalidade mais nobre do que os de Tessalónica, pois aceitaram a palavra com vivo interesse, e examinavam cuidadosamente as Escrituras, todos os dias, para ver se tudo o que tinham ouvido era realmente assim.
+
+[[v44-17-12]]
+
+^<<v44-17-12,12>>^ Portanto, muitos deles tornaram-se crentes, bem como um bom número de mulheres gregas de alta posição e também alguns homens.
+
+[[v44-17-13]]
+
+^<<v44-17-13,13>>^ Porém, quando os judeus de Tessalónica souberam que Paulo estava a proclamar a palavra de Deus também em Bereia, foram para lá a fim de provocar e agitar as multidões.
+
+[[v44-17-14]]
+
+^<<v44-17-14,14>>^ Então, os irmãos mandaram Paulo imediatamente embora, para o mar; mas Silas e Timóteo ficaram por ali.
+
+[[v44-17-15]]
+
+^<<v44-17-15,15>>^ Os que acompanhavam Paulo, no entanto, levaram-no até Atenas e depois partiram, incumbidos de transmitir instruções para que Silas e Timóteo fossem ao encontro de Paulo o mais rapidamente possível.
+
+[[v44-17-16]]
+
+^<<v44-17-16,16>>^ Enquanto esperava por eles em Atenas, Paulo ficou profundamente irritado^&#42;1^ ao ver que a cidade estava cheia de ídolos.
+
+[NOTE]
+====
+. Ou: “o seu espírito ficou indignado dentro dele”.
+====
+
+[[v44-17-17]]
+
+^<<v44-17-17,17>>^ Assim, começou a raciocinar na sinagoga com os judeus e com as outras pessoas que adoravam a Deus, bem como na praça principal,^&#42;1^ todos os dias, com os que lá estivessem.
+
+[NOTE]
+====
+. Área aberta usada como centro de compras e vendas e como local de reuniões públicas.
+====
+
+[[v44-17-18]]
+
+^<<v44-17-18,18>>^ Todavia, alguns filósofos, tanto epicureus como estoicos, começaram a discutir com ele. Uns diziam: “O que é que este tagarela está a querer dizer?” Outros: “Ele parece ser um pregador de divindades estrangeiras.” Diziam isto porque ele declarava as boas novas sobre Jesus e a ressurreição.
+
+[[v44-17-19]]
+
+^<<v44-17-19,19>>^ Assim, agarraram-no e levaram-no ao Areópago, dizendo: “Podemos saber qual é este novo ensinamento de que falas?
+
+[[v44-17-20]]
+
+^<<v44-17-20,20>>^ Porque estás a apresentar algumas coisas que nos soam estranhas e queremos saber o que significam.”
+
+[[v44-17-21]]
+
+^<<v44-17-21,21>>^ De facto, todos os atenienses e também os estrangeiros que estavam lá a morar^&#42;1^ não usavam o seu tempo livre com outra coisa a não ser contar ou ouvir novidades.
+
+[NOTE]
+====
+. Ou: “de visita”.
+====
+
+[[v44-17-22]]
+
+^<<v44-17-22,22>>^ Então, Paulo levantou-se no meio do Areópago e disse:
+“Homens de Atenas, vejo que em todas as coisas parecem ter mais temor às divindades^&#42;1^ do que os outros.
+
+[NOTE]
+====
+. Ou: “parecem ser mais religiosos”.
+====
+
+[[v44-17-23]]
+
+^<<v44-17-23,23>>^ Por exemplo, ao passar e observar cuidadosamente os vossos objetos de adoração,^&#42;1^ encontrei até mesmo um altar com a inscrição: ‘A um Deus Desconhecido’. Pois bem, esse que vocês adoram sem conhecer é precisamente aquele que eu vos estou a proclamar.
+
+[NOTE]
+====
+. Ou: “veneração”.
+====
+
+[[v44-17-24]]
+
+^<<v44-17-24,24>>^ O Deus que fez o mundo e tudo o que nele há, sendo Ele Senhor do céu e da terra, não mora em templos feitos por mãos humanas,
+
+[[v44-17-25]]
+
+^<<v44-17-25,25>>^ nem precisa de ser servido por mãos humanas, como se lhe faltasse algo, porque ele mesmo dá a todos vida, fôlego e todas as coisas.
+
+[[v44-17-26]]
+
+^<<v44-17-26,26>>^ E ele fez de um só homem todas as nações dos homens, para morarem na face de toda a terra, e fixou os tempos determinados e estabeleceu os limites da habitação dos homens,
+
+[[v44-17-27]]
+
+^<<v44-17-27,27>>^ de modo que buscassem a Deus, que tateassem à sua procura e realmente o encontrassem, embora, na verdade, ele não esteja longe de cada um de nós.
+
+[[v44-17-28]]
+
+^<<v44-17-28,28>>^ Pois por meio dele temos vida, movemo-nos e existimos, como disseram alguns dos vossos poetas: ‘Pois nós também somos filhos^&#42;1^ dele.’
+
+[NOTE]
+====
+. Ou: “descendência”.
+====
+
+[[v44-17-29]]
+
+^<<v44-17-29,29>>^ “Portanto, visto que somos filhos^&#42;1^ de Deus, não devemos pensar que o Ser Divino é semelhante a ouro, prata ou pedra, como algo esculpido pela arte e imaginação do homem.
+
+[NOTE]
+====
+. Ou: “descendência”.
+====
+
+[[v44-17-30]]
+
+^<<v44-17-30,30>>^ É verdade que Deus não levou em conta os tempos de tal ignorância; mas agora ele está a dizer a todos, em toda a parte, que se arrependam.
+
+[[v44-17-31]]
+
+^<<v44-17-31,31>>^ Porque ele determinou um dia em que vai julgar a terra habitada com justiça, por meio de um homem a quem designou. E ele deu garantia disso a todos os homens por ressuscitá-lo dentre os mortos.”
+
+[[v44-17-32]]
+
+^<<v44-17-32,32>>^ Quando ouviram falar em ressurreição dos mortos, alguns começaram a gozar, enquanto outros diziam: “Voltaremos a ouvir-te falar sobre isto.”
+
+[[v44-17-33]]
+
+^<<v44-17-33,33>>^ Assim, Paulo retirou-se,
+
+[[v44-17-34]]
+
+^<<v44-17-34,34>>^ mas alguns juntaram-se a ele e tornaram-se crentes. Entre eles, estava Dionísio, que era juiz do tribunal do Areópago, uma mulher chamada Dâmaris, além de outros.
+
+'''
+
+xref:044-atos/044-atos-016.adoc#v44-16-0[&#60; Capítulo Anterior] | <<v44-17-0,Topo>> | xref:044-atos/044-atos-018.adoc#v44-18-0[Próximo Capítulo &#62;]

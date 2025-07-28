@@ -1,0 +1,68 @@
+include::./index.adoc[]
+
+[[v19-122-0]]
+=== Salmos, 122
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Cântico das Subidas. De David._
+
+[[v19-122-1]]
+
+^<<v19-122-1,1>>^ Alegrei-me quando me disseram:
+“Vamos à casa de Jeová.”
+
+[[v19-122-2]]
+
+^<<v19-122-2,2>>^ E, agora, os nossos pés estão
+Dentro dos teus portões, ó Jerusalém.
+
+[[v19-122-3]]
+
+^<<v19-122-3,3>>^ Jerusalém foi construída como uma cidade
+Compacta e unida.
+
+[[v19-122-4]]
+
+^<<v19-122-4,4>>^ As tribos sobem até ela,
+As tribos de Jah,^&#42;1^
+Conforme a lei dada a Israel,
+Para dar graças ao nome de Jeová.
+
+[NOTE]
+====
+. “Jah” é uma forma reduzida do nome Jeová.
+====
+
+[[v19-122-5]]
+
+^<<v19-122-5,5>>^ Pois ali se estabeleceram tronos para julgamento,
+Tronos da casa de David.
+
+[[v19-122-6]]
+
+^<<v19-122-6,6>>^ Orem pela paz de Jerusalém.
+Ó cidade, os que te amam hão de viver em segurança.
+
+[[v19-122-7]]
+
+^<<v19-122-7,7>>^ Continue a haver paz dentro das tuas muralhas,^&#42;1^
+Segurança dentro das tuas torres fortificadas.
+
+[NOTE]
+====
+. Ou: “escarpas”.
+====
+
+[[v19-122-8]]
+
+^<<v19-122-8,8>>^ Pelos meus irmãos e companheiros, direi:
+“Haja paz no teu meio, ó cidade.”
+
+[[v19-122-9]]
+
+^<<v19-122-9,9>>^ Pela casa de Jeová, nosso Deus,
+Procurarei o teu bem.
+
+'''
+
+xref:019-salmo/019-salmo-121.adoc#v19-121-0[&#60; Capítulo Anterior] | <<v19-122-0,Topo>> | xref:019-salmo/019-salmo-123.adoc#v19-123-0[Próximo Capítulo &#62;]

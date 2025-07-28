@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v2-15-0]]
+=== Êxodo, 15
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-15-1]]
+
+^<<v2-15-1,1>>^ Naquela ocasião, Moisés e os israelitas cantaram este cântico a Jeová:
+“Vou cantar a Jeová, pois ele foi grandemente enaltecido.
+Lançou no mar o cavalo e o seu cavaleiro.
+
+[[v2-15-2]]
+
+^<<v2-15-2,2>>^ Jah^&#42;1^ é a minha força e o meu poder, visto que se tornou a minha salvação.
+Este é o meu Deus, e eu vou louvá-lo; o Deus do meu pai, e eu vou enaltecê-lo.
+
+[NOTE]
+====
+. “Jah” é uma forma reduzida do nome Jeová.
+====
+
+[[v2-15-3]]
+
+^<<v2-15-3,3>>^ Jeová é um poderoso guerreiro. Jeová é o seu nome.
+
+[[v2-15-4]]
+
+^<<v2-15-4,4>>^ Ele lançou no mar os carros de guerra do Faraó e o seu exército,
+E os seus melhores guerreiros afundaram-se no mar Vermelho.
+
+[[v2-15-5]]
+
+^<<v2-15-5,5>>^ As águas turbulentas cobriram-nos; eles afundaram-se como uma pedra nas profundezas.
+
+[[v2-15-6]]
+
+^<<v2-15-6,6>>^ A tua mão direita, ó Jeová, é grande em poder;
+A tua mão direita, ó Jeová, pode despedaçar o inimigo.
+
+[[v2-15-7]]
+
+^<<v2-15-7,7>>^ Na tua grande majestade, podes derrubar os que se levantam contra ti;
+Envias a tua ira ardente, ela consome-os como palha.
+
+[[v2-15-8]]
+
+^<<v2-15-8,8>>^ Pelo sopro das tuas narinas, amontoaram-se as águas;
+Águas volumosas ficaram represadas;
+As águas turbulentas solidificaram-se no coração do mar.
+
+[[v2-15-9]]
+
+^<<v2-15-9,9>>^ O inimigo disse: ‘Vou persegui-los e alcançá-los!
+Repartirei os despojos até ficar satisfeito!^&#42;1^
+Puxarei da minha espada! A minha mão irá subjugá-los!’
+
+[NOTE]
+====
+. Ou: “a minha alma ficar satisfeita”.
+====
+
+[[v2-15-10]]
+
+^<<v2-15-10,10>>^ Sopraste com o teu fôlego, o mar cobriu-os;
+Afundaram-se como chumbo em águas majestosas.
+
+[[v2-15-11]]
+
+^<<v2-15-11,11>>^ Quem entre os deuses é semelhante a ti, ó Jeová?
+Quem, como tu, se mostra supremo^&#42;1^ em santidade?
+Aquele a ser reverenciado com cânticos de louvor, aquele que faz maravilhas.
+
+[NOTE]
+====
+. Ou: “poderoso”.
+====
+
+[[v2-15-12]]
+
+^<<v2-15-12,12>>^ Estendeste a tua mão direita e a terra engoliu-os.
+
+[[v2-15-13]]
+
+^<<v2-15-13,13>>^ No teu amor leal, guiaste o povo que resgataste;
+Na tua força, irás conduzi-los ao teu santo lugar de morada.
+
+[[v2-15-14]]
+
+^<<v2-15-14,14>>^ Os povos ouvirão, eles tremerão;
+A angústia irá apoderar-se^&#42;1^ dos habitantes da Filístia.
+
+[NOTE]
+====
+. Lit.: “Dores de parto irão apoderar-se”.
+====
+
+[[v2-15-15]]
+
+^<<v2-15-15,15>>^ Nesse tempo, os chefes de tribo^&#42;1^ de Edom ficarão aterrorizados,
+E o tremor tomará conta dos poderosos governantes^&#42;2^ de Moabe.
+Todos os habitantes de Canaã ficarão desanimados.
+
+[NOTE]
+====
+. Ou: “xeques”.
+. Ou: “dos déspotas”.
+====
+
+[[v2-15-16]]
+
+^<<v2-15-16,16>>^ Medo e pavor cairão sobre eles.
+Por causa da magnitude do teu braço, ficarão imóveis como pedra
+Até que o teu povo passe, ó Jeová,
+Até que passe o povo que produziste.
+
+[[v2-15-17]]
+
+^<<v2-15-17,17>>^ Irás levá-los e plantá-los no monte da tua herança,
+O lugar que preparaste para morar, ó Jeová,
+Um santuário, ó Jeová, que as tuas mãos estabeleceram.
+
+[[v2-15-18]]
+
+^<<v2-15-18,18>>^ Jeová reinará para todo o sempre.
+
+[[v2-15-19]]
+
+^<<v2-15-19,19>>^ Quando os cavalos, os carros de guerra e os cavaleiros do Faraó entraram no mar,
+Jeová fez as águas do mar retornar sobre eles,
+Mas o povo de Israel andou em terra seca pelo meio do mar.”
+
+[[v2-15-20]]
+
+^<<v2-15-20,20>>^ Então, Miriam, a profetisa, irmã de Arão, pegou numa pandeireta, e todas as mulheres a acompanharam, tocando pandeiretas e dançando.
+
+[[v2-15-21]]
+
+^<<v2-15-21,21>>^ Miriam cantava, respondendo aos homens:
+“Cantem a Jeová, pois ele foi grandemente enaltecido.
+Lançou ao mar o cavalo e o seu cavaleiro.”
+
+[[v2-15-22]]
+
+^<<v2-15-22,22>>^ Mais tarde, Moisés fez Israel partir do mar Vermelho; foram ao deserto de Sur e andaram por três dias no deserto, mas não encontraram água.
+
+[[v2-15-23]]
+
+^<<v2-15-23,23>>^ Chegaram a Mara,^&#42;1^ mas não puderam beber a água de Mara porque era amarga. Por isso, ele chamou Mara àquele lugar.
+
+[NOTE]
+====
+. Que significa “amargura”.
+====
+
+[[v2-15-24]]
+
+^<<v2-15-24,24>>^ Então, o povo começou a resmungar contra Moisés, dizendo: “O que é que vamos beber?”
+
+[[v2-15-25]]
+
+^<<v2-15-25,25>>^ Ele clamou a Jeová, e Jeová mostrou-lhe uma árvore. Quando Moisés a atirou à água, a água tornou-se doce.
+Lá, Ele estabeleceu-lhes um decreto e um precedente legal, e foi lá que os pôs à prova.
+
+[[v2-15-26]]
+
+^<<v2-15-26,26>>^ Ele disse: “Se escutares atentamente a voz de Jeová, teu Deus, fizeres o que é certo aos Seus olhos, prestares atenção aos Seus mandamentos e guardares todos os Seus decretos, não trarei sobre ti nenhuma das doenças que trouxe sobre os egípcios, pois eu, Jeová, sou quem te cura.”
+
+[[v2-15-27]]
+
+^<<v2-15-27,27>>^ Depois, chegaram a Elim, onde havia 12 fontes de água e 70 palmeiras. Então, acamparam lá, junto à água.
+
+'''
+
+xref:002-exodo/002-exodo-014.adoc#v2-14-0[&#60; Capítulo Anterior] | <<v2-15-0,Topo>> | xref:002-exodo/002-exodo-016.adoc#v2-16-0[Próximo Capítulo &#62;]

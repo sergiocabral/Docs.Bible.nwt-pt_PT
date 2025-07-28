@@ -1,0 +1,233 @@
+include::./index.adoc[]
+
+[[v23-49-0]]
+=== Isaías, 49
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v23-49-1]]
+
+^<<v23-49-1,1>>^ Escutem-me, ilhas,
+E prestem atenção, nações distantes.
+Jeová chamou-me antes de eu nascer.^&#42;1^
+Desde a altura em que eu estava no ventre da minha mãe, ele mencionou o meu nome.
+
+[NOTE]
+====
+. Lit.: “desde o ventre”.
+====
+
+[[v23-49-2]]
+
+^<<v23-49-2,2>>^ Fez da minha boca uma espada afiada;
+Protegeu-me na sombra da sua mão.
+Fez de mim uma flecha polida;
+Escondeu-me na sua aljava.
+
+[[v23-49-3]]
+
+^<<v23-49-3,3>>^ Disse-me: “Tu és o meu servo, ó Israel,
+Por meio de quem demonstrarei o meu esplendor.”
+
+[[v23-49-4]]
+
+^<<v23-49-4,4>>^ Mas eu disse: “Foi em vão que trabalhei arduamente.
+Gastei as minhas forças inutilmente, para nada.
+Mas eu sei que quem me julga é Jeová,^&#42;1^
+E a minha recompensa^&#42;2^ vem do meu Deus.”
+
+[NOTE]
+====
+. Ou: “que Jeová me fará justiça”.
+. Ou: “o meu salário”.
+====
+
+[[v23-49-5]]
+
+^<<v23-49-5,5>>^ E agora Jeová, aquele que me formou desde o ventre como seu servo,
+Diz-me para lhe trazer de volta Jacó,
+A fim de que Israel seja ajuntado a ele.
+Serei glorificado aos olhos de Jeová,
+E o meu Deus irá tornar-se a minha força.
+
+[[v23-49-6]]
+
+^<<v23-49-6,6>>^ E ele disse: “Não és apenas o meu servo
+Para reerguer as tribos de Jacó
+E trazer de volta os sobreviventes^&#42;1^ de Israel.
+Também te dei como luz para as nações,
+Para que a minha salvação chegue até aos confins da terra.”
+
+[NOTE]
+====
+. Ou: “preservados”.
+====
+
+[[v23-49-7]]
+
+^<<v23-49-7,7>>^ Assim diz Jeová, o Resgatador de Israel, o seu Santo, ao que é desprezado,^&#42;1^ ao que é detestado pela nação, ao servo de governantes:
+“Reis verão e hão de levantar-se,
+E príncipes hão de curvar-se
+Por causa de Jeová, que é fiel,
+O Santo de Israel, que te escolheu.”
+
+[NOTE]
+====
+. Ou: “desprezado na alma”.
+====
+
+[[v23-49-8]]
+
+^<<v23-49-8,8>>^ Assim diz Jeová:
+“Num tempo de mostrar favor,^&#42;1^ eu respondi-te,
+E num dia de salvação ajudei-te;
+Protegi-te para te dar como pacto para o povo,
+Para restaurar esta terra,
+Para que tomassem posse das suas heranças devastadas,
+
+[NOTE]
+====
+. Ou: “boa vontade”.
+====
+
+[[v23-49-9]]
+
+^<<v23-49-9,9>>^ Para dizer aos presos: ‘Saiam!’
+E aos que estão na escuridão: ‘Apareçam!’
+Eles encontrarão o que comer junto aos caminhos,
+Haverá pastagem para eles ao longo de todas as veredas batidas.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “as colinas áridas”.
+====
+
+[[v23-49-10]]
+
+^<<v23-49-10,10>>^ Não terão fome nem sede,
+Nem serão castigados pelo calor abrasador ou pelo sol.
+Porque Aquele que tem misericórdia deles os guiará
+E os conduzirá junto a fontes de água.
+
+[[v23-49-11]]
+
+^<<v23-49-11,11>>^ Vou transformar todos os meus montes em caminhos,
+E as minhas estradas serão elevadas.
+
+[[v23-49-12]]
+
+^<<v23-49-12,12>>^ Vê! Eles vêm de longe,
+Alguns do norte e do oeste,
+E outros da terra de Sinim!”
+
+[[v23-49-13]]
+
+^<<v23-49-13,13>>^ Gritem de alegria, ó céus, e alegra-te, ó terra.
+Que os montes fiquem animados com gritos de alegria.
+Porque Jeová consolou o seu povo
+E tem misericórdia dos atribulados.
+
+[[v23-49-14]]
+
+^<<v23-49-14,14>>^ Mas Sião dizia:
+“Jeová abandonou-me, Jeová esqueceu-se de mim.”
+
+[[v23-49-15]]
+
+^<<v23-49-15,15>>^ Pode uma mulher esquecer-se do seu bebé,
+E não sentir compaixão pelo filho do seu ventre?
+Mesmo que estas mulheres se esquecessem, eu nunca me esqueceria de ti.
+
+[[v23-49-16]]
+
+^<<v23-49-16,16>>^ Vê! Gravei-te na palma das minhas mãos!
+As tuas muralhas estão sempre diante de mim.
+
+[[v23-49-17]]
+
+^<<v23-49-17,17>>^ Os teus filhos voltam depressa.
+E os que te derrubaram e te devastaram ir-se-ão embora.
+
+[[v23-49-18]]
+
+^<<v23-49-18,18>>^ Levanta os olhos e olha ao redor.
+Todos eles se reúnem,
+Chegam a ti.
+“Tão certo como eu vivo”, diz Jeová,
+“Irás adornar-te de todos eles como se fossem enfeites
+E vestir-te com eles como uma noiva.
+
+[[v23-49-19]]
+
+^<<v23-49-19,19>>^ Embora os teus lugares estivessem devastados e desolados, e a tua terra estivesse em ruínas,
+Agora ela ficará muito apertada para os que moram nela,
+E os que te devoraram estarão longe.
+
+[[v23-49-20]]
+
+^<<v23-49-20,20>>^ Os filhos que nasceram durante o teu luto irão dizer-te:
+‘Este lugar é demasiado apertado para nós.
+Dá-nos mais espaço para morar.’
+
+[[v23-49-21]]
+
+^<<v23-49-21,21>>^ E dirás no teu coração:
+‘Quem me gerou estes filhos?
+Sou uma mulher que perdeu os filhos e estava estéril,
+Exilada e no cativeiro.
+Quem os criou?
+Fui deixada totalmente só.
+Então, de onde é que eles vieram?’”
+
+[[v23-49-22]]
+
+^<<v23-49-22,22>>^ Assim diz o Soberano Senhor Jeová:
+“Vê, levantarei a mão para as nações
+E erguerei o meu sinal^&#42;1^ para os povos.
+Eles trarão os teus filhos nos braços^&#42;2^
+E carregarão as tuas filhas aos ombros.
+
+[NOTE]
+====
+. Ou: “poste de sinal”.
+. Lit.: “ao colo”.
+====
+
+[[v23-49-23]]
+
+^<<v23-49-23,23>>^ Reis cuidarão de ti,
+E as suas princesas serão as tuas amas.
+Irão curvar-se diante de ti com o rosto por terra
+E lamberão o pó dos teus pés.
+E terás de saber que eu sou Jeová;
+Aqueles que esperam em mim não serão envergonhados.”
+
+[[v23-49-24]]
+
+^<<v23-49-24,24>>^ Será que se pode tirar do guerreiro os seus prisioneiros,
+Ou será que os cativos do tirano podem ser resgatados?
+
+[[v23-49-25]]
+
+^<<v23-49-25,25>>^ No entanto, assim diz Jeová:
+“Até mesmo os cativos do guerreiro lhe serão tirados,
+E os prisioneiros do tirano serão resgatados.
+Vou colocar-me em oposição aos que se opuserem a ti,
+E vou salvar os teus filhos.
+
+[[v23-49-26]]
+
+^<<v23-49-26,26>>^ Vou fazer com que aqueles que te maltratam comam a sua própria carne,
+E ficarão embriagados com o seu próprio sangue como que com vinho novo.^&#42;1^
+E todos terão^&#42;2^ de saber que eu sou Jeová,
+O teu Salvador e o teu Resgatador,
+O Poderoso de Jacó.”
+
+[NOTE]
+====
+. Ou: “vinho doce”.
+. Ou: “toda a carne terá”.
+====
+
+'''
+
+xref:023-isaias/023-isaias-048.adoc#v23-48-0[&#60; Capítulo Anterior] | <<v23-49-0,Topo>> | xref:023-isaias/023-isaias-050.adoc#v23-50-0[Próximo Capítulo &#62;]

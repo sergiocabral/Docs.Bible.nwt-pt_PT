@@ -1,0 +1,124 @@
+include::./index.adoc[]
+
+[[v50-4-0]]
+=== Filipenses, 4
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v50-4-1]]
+
+^<<v50-4-1,1>>^ Portanto, meus irmãos, a quem eu amo e de quem tenho saudades, minha alegria e coroa, mantenham-se assim firmes no Senhor, meus amados.
+
+[[v50-4-2]]
+
+^<<v50-4-2,2>>^ Exorto Evódia e exorto Síntique a terem a mesma mentalidade no Senhor.
+
+[[v50-4-3]]
+
+^<<v50-4-3,3>>^ E também te peço, como meu verdadeiro colaborador,^&#42;1^ que persistas em ajudar estas mulheres que se esforçaram^&#42;2^ lado a lado comigo pelas boas novas, com Clemente e também com os meus outros colaboradores, cujos nomes estão no livro da vida.
+
+[NOTE]
+====
+. Lit.: “genuíno companheiro de jugo”.
+. Ou: “que lutaram arduamente”.
+====
+
+[[v50-4-4]]
+
+^<<v50-4-4,4>>^ Alegrem-se sempre no Senhor. Novamente direi: Alegrem-se!
+
+[[v50-4-5]]
+
+^<<v50-4-5,5>>^ Que a vossa razoabilidade seja conhecida por todos os homens. O Senhor está perto.
+
+[[v50-4-6]]
+
+^<<v50-4-6,6>>^ Não fiquem ansiosos por coisa alguma, mas em tudo, por orações e súplicas, com agradecimentos, deem a conhecer os vossos pedidos a Deus;
+
+[[v50-4-7]]
+
+^<<v50-4-7,7>>^ e a paz de Deus, que está além de toda a compreensão,^&#42;1^ guardará o vosso coração e a vossa mente^&#42;2^ por meio de Cristo Jesus.
+
+[NOTE]
+====
+. Ou: “que supera todo o pensamento”.
+. Ou: “as vossas faculdades mentais; os vossos pensamentos”.
+====
+
+[[v50-4-8]]
+
+^<<v50-4-8,8>>^ Por fim, irmãos, tudo o que é verdadeiro, tudo o que é de séria preocupação, tudo o que é justo, tudo o que é casto,^&#42;1^ tudo o que é amável, tudo de que se fala bem, tudo o que é virtuoso e tudo o que é digno de louvor, continuem a considerar^&#42;2^ estas coisas.
+
+[NOTE]
+====
+. Ou: “puro”.
+. Ou: “pensar em; meditar em”.
+====
+
+[[v50-4-9]]
+
+^<<v50-4-9,9>>^ Pratiquem as coisas que aprenderam comigo, as que receberam e ouviram de mim, bem como as que me viram fazer, e o Deus de paz estará convosco.
+
+[[v50-4-10]]
+
+^<<v50-4-10,10>>^ Alegro-me muito no Senhor de que agora, finalmente, renovaram a vossa preocupação por mim. Embora se preocupassem comigo, faltava-vos a oportunidade de o demonstrarem.
+
+[[v50-4-11]]
+
+^<<v50-4-11,11>>^ Não digo isto por estar a passar necessidade, pois aprendi a ter contentamento^&#42;1^ em qualquer circunstância.
+
+[NOTE]
+====
+. Ou: “ser autossuficiente”.
+====
+
+[[v50-4-12]]
+
+^<<v50-4-12,12>>^ Eu sei viver com pouco e sei viver com muito. Em tudo e em todas as circunstâncias aprendi o segredo tanto de estar saciado como de ter fome, tanto de ter fartura como de passar necessidade.
+
+[[v50-4-13]]
+
+^<<v50-4-13,13>>^ Para todas as coisas tenho força graças àquele que me dá poder.
+
+[[v50-4-14]]
+
+^<<v50-4-14,14>>^ Contudo, fizeram bem em ajudar-me na minha aflição.
+
+[[v50-4-15]]
+
+^<<v50-4-15,15>>^ De facto, vocês, filipenses, também sabem que, depois de terem ouvido as boas novas pela primeira vez, quando parti da Macedónia, nenhuma congregação participou comigo na questão de dar e receber, a não ser vocês;
+
+[[v50-4-16]]
+
+^<<v50-4-16,16>>^ pois, enquanto estava em Tessalónica, vocês enviaram-me algo para as minhas necessidades não só uma vez, mas duas.
+
+[[v50-4-17]]
+
+^<<v50-4-17,17>>^ Não é que eu esteja à procura de receber presentes, mas procuro o fruto que resulta em mais crédito para a vossa conta.
+
+[[v50-4-18]]
+
+^<<v50-4-18,18>>^ No entanto, tenho tudo o que preciso, e até mais do que isso. Estou plenamente suprido, agora que recebi de Epafrodito o que me enviaram — um sacrifício aceitável, de aroma suave, agradável a Deus.
+
+[[v50-4-19]]
+
+^<<v50-4-19,19>>^ Por sua vez, o meu Deus há de suprir-vos plenamente todas as vossas necessidades segundo as Suas gloriosas riquezas, por meio de Cristo Jesus.
+
+[[v50-4-20]]
+
+^<<v50-4-20,20>>^ Ao nosso Deus e Pai seja dada a glória para todo o sempre. Amém.
+
+[[v50-4-21]]
+
+^<<v50-4-21,21>>^ Transmitam as minhas saudações a todos os santos em união com Cristo Jesus. Os irmãos que estão comigo mandam-vos saudações.
+
+[[v50-4-22]]
+
+^<<v50-4-22,22>>^ Todos os santos, mas especialmente os da casa de César, mandam-vos saudações.
+
+[[v50-4-23]]
+
+^<<v50-4-23,23>>^ Que a bondade imerecida do Senhor Jesus Cristo esteja com o espírito que mostram.
+
+'''
+
+xref:050-filipenses/050-filipenses-003.adoc#v50-3-0[&#60; Capítulo Anterior] | <<v50-4-0,Topo>> | xref:051-colossenses/051-colossenses-001.adoc#v51-1-0[Próximo Capítulo &#62;]

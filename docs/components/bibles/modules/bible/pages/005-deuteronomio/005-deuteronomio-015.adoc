@@ -1,0 +1,131 @@
+include::./index.adoc[]
+
+[[v5-15-0]]
+=== Deuteronómio, 15
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-15-1]]
+
+^<<v5-15-1,1>>^ “De sete em sete anos, deves conceder uma remissão de dívidas.
+
+[[v5-15-2]]
+
+^<<v5-15-2,2>>^ Esta remissão será da seguinte maneira: cada credor concederá a remissão da dívida em que o seu próximo tiver incorrido. Não deve exigir o pagamento do seu próximo nem do seu irmão, pois será proclamada uma remissão de dívidas perante Jeová.
+
+[[v5-15-3]]
+
+^<<v5-15-3,3>>^ Aos estrangeiros podes exigir o pagamento, mas deves renunciar ao que o teu irmão te deve.
+
+[[v5-15-4]]
+
+^<<v5-15-4,4>>^ No entanto, ninguém deve ficar pobre no teu meio, pois Jeová certamente te abençoará na terra que Jeová, teu Deus, te dá para possuíres como herança,
+
+[[v5-15-5]]
+
+^<<v5-15-5,5>>^ desde que obedeças fielmente à voz de Jeová, teu Deus, e guardes cuidadosamente todos estes mandamentos que hoje te dou.
+
+[[v5-15-6]]
+
+^<<v5-15-6,6>>^ Pois Jeová, teu Deus, irá abençoar-te assim como te prometeu, e emprestarás^&#42;1^ a muitas nações, mas não precisarás de pedir emprestado; e dominarás muitas nações, mas elas não te dominarão.
+
+[NOTE]
+====
+. Ou: “emprestarás mediante uma garantia”.
+====
+
+[[v5-15-7]]
+
+^<<v5-15-7,7>>^ “Se um dos teus irmãos ficar pobre no teu meio, numa das cidades da terra que Jeová, teu Deus, te dá, não endureças o coração, nem feches a mão ao teu irmão pobre.
+
+[[v5-15-8]]
+
+^<<v5-15-8,8>>^ Mas deves abrir-lhe generosamente a mão e, sem falta, deves emprestar-lhe^&#42;1^ tudo o que ele precisar ou que lhe faltar.
+
+[NOTE]
+====
+. Ou: “emprestar mediante uma garantia”.
+====
+
+[[v5-15-9]]
+
+^<<v5-15-9,9>>^ Tem cuidado para não nutrires este pensamento mau no teu coração: ‘O sétimo ano, o ano da remissão, está perto’, e, por isso, deixares de ser generoso para com o teu irmão pobre e não lhe dares nada. Se ele clamar a Jeová contra ti, será um pecado da tua parte.
+
+[[v5-15-10]]
+
+^<<v5-15-10,10>>^ Deves dar-lhe generosamente; não lhe deves^&#42;1^ dar de má vontade, pois é por isso que Jeová, teu Deus, abençoará todos os teus trabalhos e tudo o que realizares.
+
+[NOTE]
+====
+. Lit.: “o teu coração não lhe deve”.
+====
+
+[[v5-15-11]]
+
+^<<v5-15-11,11>>^ Haverá sempre pobres nesta terra. É por isso que te ordeno: ‘Deves abrir generosamente a mão ao teu irmão necessitado e pobre na tua terra.’
+
+[[v5-15-12]]
+
+^<<v5-15-12,12>>^ “Se um dos teus irmãos, um hebreu ou uma hebreia, te for vendido e te tiver servido durante seis anos, então, no sétimo ano, deves libertá-lo.
+
+[[v5-15-13]]
+
+^<<v5-15-13,13>>^ E, quando o libertares, não o deixes ir embora de mãos vazias.
+
+[[v5-15-14]]
+
+^<<v5-15-14,14>>^ Deves dar-lhe generosamente algo do teu rebanho, da tua eira e do teu lagar de azeite e vinho. Deves dar-lhe na mesma medida em que Jeová, teu Deus, te tiver abençoado.
+
+[[v5-15-15]]
+
+^<<v5-15-15,15>>^ Lembra-te de que te tornaste escravo na terra do Egito e que Jeová, teu Deus, te resgatou. É por isso que hoje te dou esta ordem.
+
+[[v5-15-16]]
+
+^<<v5-15-16,16>>^ “Mas, se ele te disser: ‘Não te quero deixar!’, porque te ama, a ti e aos da tua casa, e se sente feliz contigo,
+
+[[v5-15-17]]
+
+^<<v5-15-17,17>>^ então, deves pegar numa sovela^&#42;1^ e furar-lhe a orelha contra a porta, e ele irá tornar-se teu escravo por toda a vida. Deves fazer o mesmo com a tua escrava.
+
+[NOTE]
+====
+. Instrumento usado para fazer pequenos furos.
+====
+
+[[v5-15-18]]
+
+^<<v5-15-18,18>>^ Não te sintas prejudicado quando o libertares e ele te deixar, pois o serviço que te prestou durante seis anos valeu o dobro do serviço de um trabalhador contratado, e Jeová, teu Deus, abençoou-te em tudo o que foi feito.
+
+[[v5-15-19]]
+
+^<<v5-15-19,19>>^ “Deves santificar para Jeová, teu Deus, todo o primogénito macho da tua manada e do teu rebanho. Não faças nenhum trabalho com o primogénito da tua manada,^&#42;1^ nem tosquies o primogénito do teu rebanho.
+
+[NOTE]
+====
+. Lit.: “do teu touro”.
+====
+
+[[v5-15-20]]
+
+^<<v5-15-20,20>>^ Tu e os da tua casa devem comê-lo perante Jeová, teu Deus, ano após ano, no lugar que Jeová escolher.
+
+[[v5-15-21]]
+
+^<<v5-15-21,21>>^ Mas, se tiver um defeito — se for coxo, cego ou tiver qualquer outro defeito grave —, não o sacrifiques a Jeová, teu Deus.
+
+[[v5-15-22]]
+
+^<<v5-15-22,22>>^ Deves comê-lo dentro das tuas cidades;^&#42;1^ tanto a pessoa impura como a pura o podem comer, assim como se comeria uma gazela ou um veado.
+
+[NOTE]
+====
+. Ou: “dos teus portões”.
+====
+
+[[v5-15-23]]
+
+^<<v5-15-23,23>>^ Mas não comas o sangue; deves derramá-lo na terra como se fosse água.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-014.adoc#v5-14-0[&#60; Capítulo Anterior] | <<v5-15-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-016.adoc#v5-16-0[Próximo Capítulo &#62;]

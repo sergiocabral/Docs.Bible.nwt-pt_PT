@@ -1,0 +1,88 @@
+include::./index.adoc[]
+
+[[v4-12-0]]
+=== Números, 12
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-12-1]]
+
+^<<v4-12-1,1>>^ Miriam e Arão começaram então a falar contra Moisés por causa da esposa cuchita com quem se tinha casado, pois ele tinha tomado uma esposa cuchita.
+
+[[v4-12-2]]
+
+^<<v4-12-2,2>>^ Eles diziam: “Será que Jeová só falou por meio de Moisés? Não falou também por meio de nós?” E Jeová estava a ouvir.
+
+[[v4-12-3]]
+
+^<<v4-12-3,3>>^ Ora, Moisés era de longe o mais manso de todos os homens^&#42;1^ à face da terra.
+
+[NOTE]
+====
+. Ou: “era muito humilde (de temperamento brando), mais do que qualquer outro homem”.
+====
+
+[[v4-12-4]]
+
+^<<v4-12-4,4>>^ De repente, Jeová disse a Moisés, a Arão e a Miriam: “Saiam, vão os três para a tenda de reunião.” Portanto, os três foram.
+
+[[v4-12-5]]
+
+^<<v4-12-5,5>>^ E Jeová desceu na coluna de nuvem, ficou à entrada da tenda e chamou Arão e Miriam. Ambos se aproximaram.
+
+[[v4-12-6]]
+
+^<<v4-12-6,6>>^ Então, ele disse: “Ouçam as minhas palavras, por favor. Se houvesse um profeta de Jeová entre vocês, eu dar-me-ia a conhecer a ele numa visão e falaria com ele num sonho.
+
+[[v4-12-7]]
+
+^<<v4-12-7,7>>^ Mas com o meu servo Moisés é diferente! Foi-lhe confiada toda a minha casa.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “Em toda a minha casa, ele está a mostrar-se fiel.”
+====
+
+[[v4-12-8]]
+
+^<<v4-12-8,8>>^ Falo com ele face a face,^&#42;1^ abertamente, não por enigmas; e ele vê a aparência de Jeová. Então, porque é que não temeram falar contra o meu servo, contra Moisés?”
+
+[NOTE]
+====
+. Lit.: “boca a boca”.
+====
+
+[[v4-12-9]]
+
+^<<v4-12-9,9>>^ Portanto, a ira de Jeová acendeu-se contra eles, e ele deixou-os.
+
+[[v4-12-10]]
+
+^<<v4-12-10,10>>^ A nuvem retirou-se de cima da tenda, e, no mesmo instante, Miriam foi atingida com lepra branca como a neve. Quando Arão olhou para Miriam, viu que ela estava com lepra.
+
+[[v4-12-11]]
+
+^<<v4-12-11,11>>^ Arão disse imediatamente a Moisés: “Eu imploro-te, meu senhor! Por favor, não leves em conta este pecado! Agimos como tolos ao fazer isto.
+
+[[v4-12-12]]
+
+^<<v4-12-12,12>>^ Por favor, não a deixes continuar como alguém que já nasceu morto e com metade da sua carne consumida!”
+
+[[v4-12-13]]
+
+^<<v4-12-13,13>>^ E Moisés começou a clamar a Jeová: “Ó Deus, por favor! Cura-a, por favor!”
+
+[[v4-12-14]]
+
+^<<v4-12-14,14>>^ Jeová disse a Moisés: “Se o pai dela lhe cuspisse no rosto, não ficaria ela humilhada por sete dias? Que seja posta em isolamento por sete dias fora do acampamento; depois, pode ser trazida de volta.”
+
+[[v4-12-15]]
+
+^<<v4-12-15,15>>^ Assim, Miriam foi posta em isolamento por sete dias fora do acampamento, e o povo não partiu enquanto não trouxeram Miriam de volta.
+
+[[v4-12-16]]
+
+^<<v4-12-16,16>>^ Então, o povo partiu de Hazerote e acampou no deserto de Parã.
+
+'''
+
+xref:004-numeros/004-numeros-011.adoc#v4-11-0[&#60; Capítulo Anterior] | <<v4-12-0,Topo>> | xref:004-numeros/004-numeros-013.adoc#v4-13-0[Próximo Capítulo &#62;]

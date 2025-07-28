@@ -1,0 +1,175 @@
+include::./index.adoc[]
+
+[[v10-14-0]]
+=== 2 Samuel, 14
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v10-14-1]]
+
+^<<v10-14-1,1>>^ Joabe, filho de Zeruia, soube que o rei estava com saudades de Absalão.
+
+[[v10-14-2]]
+
+^<<v10-14-2,2>>^ Assim, Joabe mandou trazer uma mulher astuta de Tecoa e disse-lhe: “Por favor, finge que estás de luto; veste-te com roupas de luto e não ponhas óleo perfumado no corpo. Age como uma mulher que chora por um morto há muito tempo.
+
+[[v10-14-3]]
+
+^<<v10-14-3,3>>^ Depois, vai até ao rei e diz-lhe o que eu te vou dizer.” Assim, Joabe pôs-lhe as palavras na boca.^&#42;1^
+
+[NOTE]
+====
+. Ou: “disse-lhe o que ela devia dizer”.
+====
+
+[[v10-14-4]]
+
+^<<v10-14-4,4>>^ A mulher de Tecoa compareceu perante o rei, prostrou-se, lançando-se com o rosto por terra, e disse-lhe: “Ajude-me, ó rei!”
+
+[[v10-14-5]]
+
+^<<v10-14-5,5>>^ O rei perguntou-lhe: “Qual é o problema?” Ela respondeu: “Sou viúva; o meu marido morreu
+
+[[v10-14-6]]
+
+^<<v10-14-6,6>>^ e deixou a sua serva com dois filhos. Eles lutaram no campo e não havia ninguém que os separasse. Um deles golpeou o outro e matou-o.
+
+[[v10-14-7]]
+
+^<<v10-14-7,7>>^ Agora, toda a família ficou contra a sua serva, e dizem: ‘Entrega-nos aquele que matou o seu irmão. Nós vamos matá-lo para que ele pague pela vida^&#42;1^ do seu irmão, a quem matou, mesmo que isso signifique eliminar o herdeiro!’ Eles querem apagar a última brasa que me restou,^&#42;2^ e querem deixar o meu marido sem nome e sem nenhum sobrevivente^&#42;3^ à face da terra.”
+
+[NOTE]
+====
+. Ou: “alma”.
+. Isto é, a última esperança de ter descendentes.
+. Lit.: “restante”.
+====
+
+[[v10-14-8]]
+
+^<<v10-14-8,8>>^ O rei disse à mulher: “Vai para casa, e eu mandarei cuidar do teu caso.”
+
+[[v10-14-9]]
+
+^<<v10-14-9,9>>^ Então, a mulher de Tecoa disse ao rei: “Ó meu senhor, o rei, que a culpa recaia sobre mim e sobre a casa do meu pai, e que o rei e o seu trono sejam inocentes.”
+
+[[v10-14-10]]
+
+^<<v10-14-10,10>>^ O rei respondeu: “Se alguém voltar a falar contigo sobre isto, trá-lo até mim, e ele nunca mais te vai incomodar.”
+
+[[v10-14-11]]
+
+^<<v10-14-11,11>>^ No entanto, ela disse: “Por favor, ó rei, lembre-se de Jeová, seu Deus, para que o vingador do sangue não cause dano e mate o meu filho.” Ele respondeu: “Tão certo como Jeová vive, nenhum fio de cabelo do teu filho cairá ao chão.”
+
+[[v10-14-12]]
+
+^<<v10-14-12,12>>^ A mulher disse então: “Por favor, deixe a sua serva dizer mais uma coisa ao meu senhor, o rei.” Ele respondeu: “Fala!”
+
+[[v10-14-13]]
+
+^<<v10-14-13,13>>^ A mulher disse: “Assim sendo, porque é que pensou em fazer a mesma coisa contra o povo de Deus? Ao falar assim, o rei está a condenar-se a si mesmo, pois baniu o seu próprio filho e não o manda regressar.
+
+[[v10-14-14]]
+
+^<<v10-14-14,14>>^ Certamente, todos nós morreremos e seremos como águas derramadas no chão, que não podem ser recuperadas. Todavia, Deus não tiraria uma vida;^&#42;1^ e ele procura motivos para que aquele que foi banido não permaneça afastado dele.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v10-14-15]]
+
+^<<v10-14-15,15>>^ Vim aqui dizer isto ao rei, porque fiquei com medo do povo. A sua serva pensou: ‘Vou falar com o rei. Talvez o rei atenda o pedido da sua escrava.
+
+[[v10-14-16]]
+
+^<<v10-14-16,16>>^ O rei talvez me ouça e livre a sua escrava das mãos do homem que está a tentar eliminar-me a mim e ao meu único filho da herança que Deus nos deu.’
+
+[[v10-14-17]]
+
+^<<v10-14-17,17>>^ A sua serva também pensou: ‘Que a palavra do meu senhor, o rei, me tranquilize’, pois o meu senhor, o rei, é como um anjo do verdadeiro Deus, capaz de discernir entre o bem e o mal. Que Jeová, seu Deus, esteja consigo.”
+
+[[v10-14-18]]
+
+^<<v10-14-18,18>>^ Então, o rei disse à mulher: “Não me escondas nada daquilo que eu te vou perguntar.” A mulher disse-lhe: “Por favor, fale, meu senhor, o rei.”
+
+[[v10-14-19]]
+
+^<<v10-14-19,19>>^ Então, o rei perguntou: “Foi Joabe quem te mandou dizer tudo isto?” A mulher respondeu: “Tão certo como o senhor^&#42;1^ vive, ó rei, é exatamente como^&#42;2^ o senhor diz, pois foi o seu servo Joabe que me instruiu e colocou todas estas palavras na boca da sua serva.
+
+[NOTE]
+====
+. Ou: “a sua alma”.
+. Ou: “ninguém pode ir nem para a esquerda nem para a direita do que”.
+====
+
+[[v10-14-20]]
+
+^<<v10-14-20,20>>^ O seu servo Joabe fez isto para mudar a aparência das coisas, mas o meu senhor é sábio como um anjo do verdadeiro Deus, e sabe tudo o que está a acontecer no país.”
+
+[[v10-14-21]]
+
+^<<v10-14-21,21>>^ Depois, o rei disse a Joabe: “Está bem, vou fazer isso. Vai e traz o jovem Absalão.”
+
+[[v10-14-22]]
+
+^<<v10-14-22,22>>^ Nisto, Joabe prostrou-se, lançando-se com o rosto por terra, e louvou o rei. Joabe disse: “Hoje, o seu servo sabe que achou favor aos seus olhos, ó meu senhor, o rei, porque o rei atendeu o pedido do seu servo.”
+
+[[v10-14-23]]
+
+^<<v10-14-23,23>>^ Então, Joabe levantou-se, foi a Gesur e trouxe Absalão para Jerusalém.
+
+[[v10-14-24]]
+
+^<<v10-14-24,24>>^ No entanto, o rei disse: “Que ele volte para casa, mas não compareça perante mim.” Portanto, Absalão voltou para casa e não compareceu perante o rei.
+
+[[v10-14-25]]
+
+^<<v10-14-25,25>>^ Em todo o Israel, não havia homem que fosse tão elogiado pela sua beleza como Absalão. Da cabeça aos pés,^&#42;1^ não havia nele nenhum defeito.
+
+[NOTE]
+====
+. Ou: “Desde a sola dos pés até ao alto da cabeça”.
+====
+
+[[v10-14-26]]
+
+^<<v10-14-26,26>>^ Quando cortava o cabelo (ele tinha de fazer isso no final de cada ano, porque ficava muito pesado), este pesava 200 siclos,^&#42;1^ segundo o peso real de pedra.^&#42;2^
+
+[NOTE]
+====
+. Cerca de 2,3 kg. Veja o Ap. B14.
+. Esse pode ter sido um peso-padrão guardado no palácio real ou um siclo “real”, que era diferente do siclo comum.
+====
+
+[[v10-14-27]]
+
+^<<v10-14-27,27>>^ Absalão teve três filhos e uma filha. Ela chamava-se Tamar e era uma mulher muito bonita.
+
+[[v10-14-28]]
+
+^<<v10-14-28,28>>^ E Absalão morou em Jerusalém por dois anos inteiros, mas não compareceu perante o rei.
+
+[[v10-14-29]]
+
+^<<v10-14-29,29>>^ Portanto, Absalão mandou chamar Joabe, a fim de enviá-lo ao rei, mas ele não quis vir. Então, mandou chamá-lo novamente, pela segunda vez, mas, mesmo assim, ele não quis vir.
+
+[[v10-14-30]]
+
+^<<v10-14-30,30>>^ Por fim, Absalão disse aos seus servos: “O terreno de Joabe fica ao lado do meu, e ele tem lá uma plantação de cevada. Vão e peguem-lhe fogo.” Assim, os servos de Absalão pegaram fogo à plantação.
+
+[[v10-14-31]]
+
+^<<v10-14-31,31>>^ Em vista disso, Joabe foi à casa de Absalão e perguntou-lhe: “Porque é que os teus servos pegaram fogo à minha plantação?”
+
+[[v10-14-32]]
+
+^<<v10-14-32,32>>^ Absalão respondeu a Joabe: “Eu enviei-te a seguinte mensagem: ‘Vem e deixa-me enviar-te ao rei para lhe perguntares: “Porque é que voltei de Gesur? Seria melhor eu ter ficado lá. Agora, deixa-me ver o rei, e, se sou culpado de alguma coisa, que ele me mate.”’”
+
+[[v10-14-33]]
+
+^<<v10-14-33,33>>^ Assim, Joabe foi até ao rei e contou-lhe isso. Então, o rei chamou Absalão, que se apresentou ao rei e prostrou-se, lançando-se com o rosto por terra diante do rei. E o rei beijou Absalão.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-013.adoc#v10-13-0[&#60; Capítulo Anterior] | <<v10-14-0,Topo>> | xref:010-2-samuel/010-2-samuel-015.adoc#v10-15-0[Próximo Capítulo &#62;]

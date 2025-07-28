@@ -1,0 +1,156 @@
+include::./index.adoc[]
+
+[[v3-21-0]]
+=== Levítico, 21
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v3-21-1]]
+
+^<<v3-21-1,1>>^ Jeová disse a Moisés: “Diz aos sacerdotes, os filhos de Arão: ‘Nenhum sacerdote se deve tornar impuro por causa de uma pessoa morta^&#42;1^ dentre o seu povo.
+
+[NOTE]
+====
+. Ou: “uma alma”.
+====
+
+[[v3-21-2]]
+
+^<<v3-21-2,2>>^ Mas pode fazê-lo no caso de um parente consanguíneo próximo, como a sua mãe, o seu pai, o seu filho, a sua filha e o seu irmão.
+
+[[v3-21-3]]
+
+^<<v3-21-3,3>>^ E ele pode tornar-se impuro pela sua irmã, se ela for virgem, morar perto dele^&#42;1^ e ainda não se tiver casado.
+
+[NOTE]
+====
+. Lit.: “for próxima dele”.
+====
+
+[[v3-21-4]]
+
+^<<v3-21-4,4>>^ Ele não se pode tornar impuro, profanando-se pelo cadáver de uma mulher cujo marido faz parte do povo.
+
+[[v3-21-5]]
+
+^<<v3-21-5,5>>^ Eles não devem rapar a cabeça, nem rapar os lados da barba, nem fazer cortes no corpo.
+
+[[v3-21-6]]
+
+^<<v3-21-6,6>>^ Devem ser santos para o seu Deus e não devem profanar o nome do seu Deus, pois apresentam as ofertas feitas por fogo a Jeová, que são o pão^&#42;1^ do seu Deus; e eles devem ser santos.
+
+[NOTE]
+====
+. Ou: “alimento”, referindo-se aos sacrifícios.
+====
+
+[[v3-21-7]]
+
+^<<v3-21-7,7>>^ Não se devem casar com uma prostituta, nem com uma mulher que tenha sido desonrada, nem com uma mulher divorciada do seu marido, porque o sacerdote é santo para Deus.
+
+[[v3-21-8]]
+
+^<<v3-21-8,8>>^ Santifica-o, porque é ele quem apresenta o pão do teu Deus. Ele deve ser santo para vocês, porque eu, Jeová, que vos santifico, sou santo.
+
+[[v3-21-9]]
+
+^<<v3-21-9,9>>^ “‘Se a filha de um sacerdote se profanar por cometer prostituição, estará a profanar o seu pai. Deve ser queimada no fogo.
+
+[[v3-21-10]]
+
+^<<v3-21-10,10>>^ “‘O sumo sacerdote entre os seus irmãos, sobre cuja cabeça se derramou o óleo de unção e que foi ordenado^&#42;1^ para usar as vestes sacerdotais, não deve deixar o seu cabelo ficar descuidado nem rasgar as suas vestes.
+
+[NOTE]
+====
+. Lit.: “cuja mão foi enchida”.
+====
+
+[[v3-21-11]]
+
+^<<v3-21-11,11>>^ Ele não se deve aproximar de nenhum morto;^&#42;1^ não se deve tornar impuro nem mesmo pelo seu pai ou pela sua mãe.
+
+[NOTE]
+====
+. Ou: “uma alma morta”. Aqui, a palavra hebraica néfesh aparece juntamente com uma palavra hebraica que significa “morto”.
+====
+
+[[v3-21-12]]
+
+^<<v3-21-12,12>>^ Ele não deve sair do santuário nem profanar o santuário do seu Deus, pois o sinal de dedicação, o óleo de unção do seu Deus, está sobre ele. Eu sou Jeová.
+
+[[v3-21-13]]
+
+^<<v3-21-13,13>>^ “‘Deve tomar como esposa uma virgem.
+
+[[v3-21-14]]
+
+^<<v3-21-14,14>>^ Não se pode casar com uma viúva, nem com uma mulher divorciada, nem com uma mulher que tenha sido desonrada, nem com uma prostituta; mas deve tomar como esposa uma virgem do seu povo.
+
+[[v3-21-15]]
+
+^<<v3-21-15,15>>^ Não deve profanar a sua descendência^&#42;1^ entre o povo, pois eu sou Jeová, que o santifico.’”
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v3-21-16]]
+
+^<<v3-21-16,16>>^ Jeová continuou a dizer a Moisés:
+
+[[v3-21-17]]
+
+^<<v3-21-17,17>>^ “Diz a Arão: ‘Nenhum homem entre os teus descendentes,^&#42;1^ por todas as suas gerações, que tiver um defeito pode aproximar-se para apresentar o pão do seu Deus.
+
+[NOTE]
+====
+. Lit.: “da tua semente”.
+====
+
+[[v3-21-18]]
+
+^<<v3-21-18,18>>^ Se houver um homem que tem um defeito, ele não se pode aproximar: um homem cego, ou coxo, ou que tem o rosto desfigurado,^&#42;1^ ou que tem um membro demasiado comprido;
+
+[NOTE]
+====
+. Lit.: “ou com o seu nariz fendido”.
+====
+
+[[v3-21-19]]
+
+^<<v3-21-19,19>>^ um homem que tenha o pé ou a mão fraturados;
+
+[[v3-21-20]]
+
+^<<v3-21-20,20>>^ um corcunda ou um anão;^&#42;1^ ou um homem que tenha um defeito nos olhos, ou um eczema, ou uma infeção na pele,^&#42;2^ ou que tenha os testículos defeituosos.
+
+[NOTE]
+====
+. Ou, possivelmente: “um homem emaciado”.
+. Ou: “tinha favosa”.
+====
+
+[[v3-21-21]]
+
+^<<v3-21-21,21>>^ Nenhum homem entre os descendentes^&#42;1^ de Arão, o sacerdote, que tenha um defeito pode aproximar-se para apresentar as ofertas feitas por fogo a Jeová. Por ter um defeito, não se pode aproximar para apresentar o pão do seu Deus.
+
+[NOTE]
+====
+. Lit.: “a semente”.
+====
+
+[[v3-21-22]]
+
+^<<v3-21-22,22>>^ Pode comer o pão do seu Deus dentre as coisas santíssimas e dentre as coisas sagradas.
+
+[[v3-21-23]]
+
+^<<v3-21-23,23>>^ No entanto, ele não se pode aproximar da cortina nem se pode aproximar do altar, porque tem um defeito. Ele não deve profanar o meu santuário, pois eu sou Jeová, que os santifico.’”
+
+[[v3-21-24]]
+
+^<<v3-21-24,24>>^ Assim, Moisés falou a Arão e aos seus filhos, e a todos os israelitas.
+
+'''
+
+xref:003-levitico/003-levitico-020.adoc#v3-20-0[&#60; Capítulo Anterior] | <<v3-21-0,Topo>> | xref:003-levitico/003-levitico-022.adoc#v3-22-0[Próximo Capítulo &#62;]

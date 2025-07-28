@@ -1,0 +1,55 @@
+include::./index.adoc[]
+
+[[v9-29-0]]
+=== 1 Samuel, 29
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-29-1]]
+
+^<<v9-29-1,1>>^ Os filisteus reuniram todas as suas tropas em Afeque, enquanto os israelitas se acamparam junto à fonte em Jezreel.
+
+[[v9-29-2]]
+
+^<<v9-29-2,2>>^ Os governantes dos filisteus avançavam com os seus grupos de cem e de mil, e David e os seus homens marchavam atrás com Aquis.
+
+[[v9-29-3]]
+
+^<<v9-29-3,3>>^ No entanto, os príncipes dos filisteus disseram: “Porque é que estes hebreus estão aqui?” Aquis respondeu: “Este é David, servo de Saul, rei de Israel. Já está comigo há um ano ou mais, e não vi nada de mal nele, desde o dia em que desertou e passou para o meu lado até hoje.”
+
+[[v9-29-4]]
+
+^<<v9-29-4,4>>^ Porém, os príncipes dos filisteus ficaram indignados com ele e disseram-lhe: “Mande esse homem de volta para o lugar que lhe designou. Não o deixe ir connosco à batalha, para que não se vire contra nós durante o combate. Pois que melhor maneira teria ele de ganhar a aprovação do seu senhor do que com a cabeça dos nossos homens?
+
+[[v9-29-5]]
+
+^<<v9-29-5,5>>^ Não é este David aquele sobre quem cantavam nas danças, dizendo:
+‘Saul matou milhares,
+E David dezenas de milhares’?”
+
+[[v9-29-6]]
+
+^<<v9-29-6,6>>^ Portanto, Aquis chamou David e disse-lhe: “Tão certo como Jeová vive, és um homem justo, e estou contente por teres vindo com o meu exército à batalha, pois não vi nada de mal em ti, desde o dia em que chegaste até hoje. Os governantes, porém, não confiam em ti.
+
+[[v9-29-7]]
+
+^<<v9-29-7,7>>^ Por isso, volta em paz e não faças nada que desagrade os governantes dos filisteus.”
+
+[[v9-29-8]]
+
+^<<v9-29-8,8>>^ Todavia, David perguntou a Aquis: “Porquê? O que é que eu fiz? O que é que viu de errado no seu servo desde o dia em que me apresentei a si até hoje? Porque é que não posso ir e lutar contra os inimigos do meu senhor, o rei?”
+
+[[v9-29-9]]
+
+^<<v9-29-9,9>>^ Aquis respondeu: “Do meu ponto de vista, tu és bom como um anjo de Deus. Mas os príncipes dos filisteus disseram: ‘Não o leve connosco à batalha.’
+
+[[v9-29-10]]
+
+^<<v9-29-10,10>>^ Portanto, levantem-se amanhã bem cedo, tu e os servos do teu senhor que vieram contigo, e voltem logo que amanhecer.”
+
+[[v9-29-11]]
+
+^<<v9-29-11,11>>^ Então, David e os seus homens levantaram-se de manhã cedo para voltar à terra dos filisteus. E os filisteus subiram a Jezreel.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-028.adoc#v9-28-0[&#60; Capítulo Anterior] | <<v9-29-0,Topo>> | xref:009-1-samuel/009-1-samuel-030.adoc#v9-30-0[Próximo Capítulo &#62;]

@@ -1,0 +1,188 @@
+include::./index.adoc[]
+
+[[v40-14-0]]
+=== Mateus, 14
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v40-14-1]]
+
+^<<v40-14-1,1>>^ Naquela ocasião, Herodes, o governador distrital,^&#42;1^ ouviu relatos sobre Jesus
+
+[NOTE]
+====
+. Lit.: “o tetrarca”.
+====
+
+[[v40-14-2]]
+
+^<<v40-14-2,2>>^ e disse aos seus servos: “Este é João Batista. Ele foi levantado dentre os mortos, e é por isso que realiza estas obras poderosas.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “que operam nele estas obras poderosas”.
+====
+
+[[v40-14-3]]
+
+^<<v40-14-3,3>>^ Anteriormente, Herodes^&#42;1^ tinha prendido João e tinha-o amarrado e lançado na prisão, por causa de Herodias, esposa de Filipe, seu irmão;
+
+[NOTE]
+====
+. Isto é, Herodes Antipas. Veja o Glossário.
+====
+
+[[v40-14-4]]
+
+^<<v40-14-4,4>>^ porque João dizia-lhe: “Não lhe é permitido tê-la como esposa.”
+
+[[v40-14-5]]
+
+^<<v40-14-5,5>>^ No entanto, embora quisesse matá-lo, tinha medo da multidão, pois consideravam-no um profeta.
+
+[[v40-14-6]]
+
+^<<v40-14-6,6>>^ Porém, no aniversário de Herodes, a filha de Herodias dançou diante dos convidados e agradou tanto a Herodes
+
+[[v40-14-7]]
+
+^<<v40-14-7,7>>^ que ele prometeu com um juramento dar-lhe tudo o que ela pedisse.
+
+[[v40-14-8]]
+
+^<<v40-14-8,8>>^ Então, instigada pela mãe, ela disse: “Dê-me aqui numa bandeja a cabeça de João Batista.”
+
+[[v40-14-9]]
+
+^<<v40-14-9,9>>^ O rei, embora triste, ordenou que a cabeça lhe fosse entregue, por respeito aos seus juramentos e aos que estavam a comer^&#42;1^ com ele.
+
+[NOTE]
+====
+. Ou: “recostados à mesa”.
+====
+
+[[v40-14-10]]
+
+^<<v40-14-10,10>>^ Assim, mandou que João fosse decapitado na prisão.
+
+[[v40-14-11]]
+
+^<<v40-14-11,11>>^ A cabeça dele foi levada numa bandeja e entregue à jovem, e ela levou-a à sua mãe.
+
+[[v40-14-12]]
+
+^<<v40-14-12,12>>^ Mais tarde, os discípulos dele vieram, removeram o seu corpo e sepultaram-no; depois, foram contar a Jesus o que tinha ocorrido.
+
+[[v40-14-13]]
+
+^<<v40-14-13,13>>^ Ouvindo isso, Jesus partiu de barco para um lugar isolado, para ficar sozinho. No entanto, quando as multidões ficaram a saber disso, seguiram-no a pé desde as cidades.
+
+[[v40-14-14]]
+
+^<<v40-14-14,14>>^ Ao desembarcar, ele viu uma grande multidão; e teve pena deles e curou os doentes.
+
+[[v40-14-15]]
+
+^<<v40-14-15,15>>^ Contudo, ao cair a noite, os seus discípulos aproximaram-se dele e disseram: “O lugar é isolado e já é tarde. Dispensa as multidões, para que possam ir às aldeias comprar alimentos.”
+
+[[v40-14-16]]
+
+^<<v40-14-16,16>>^ No entanto, Jesus disse-lhes: “Eles não precisam de se ir embora; deem-lhes vocês algo para comer.”
+
+[[v40-14-17]]
+
+^<<v40-14-17,17>>^ Responderam-lhe: “Não temos nada aqui, a não ser cinco pães e dois peixes.”
+
+[[v40-14-18]]
+
+^<<v40-14-18,18>>^ Ele disse: “Tragam-nos aqui.”
+
+[[v40-14-19]]
+
+^<<v40-14-19,19>>^ E mandou que as multidões se sentassem na relva. Então, pegou nos cinco pães e nos dois peixes e, olhando para o céu, proferiu uma bênção. E, depois de partir os pães, deu-os aos discípulos, e os discípulos deram-nos às multidões.
+
+[[v40-14-20]]
+
+^<<v40-14-20,20>>^ Assim, todos comeram e ficaram satisfeitos; e recolheram os pedaços que sobraram, 12 cestos cheios.
+
+[[v40-14-21]]
+
+^<<v40-14-21,21>>^ Ora, os que comeram foram cerca de 5000 homens, além de mulheres e crianças.
+
+[[v40-14-22]]
+
+^<<v40-14-22,22>>^ Então, sem demora, ele mandou os discípulos entrarem no barco e partirem à sua frente, para a margem oposta, enquanto dispensava as multidões.
+
+[[v40-14-23]]
+
+^<<v40-14-23,23>>^ Depois de dispensar as multidões, ele subiu sozinho ao monte para orar. Quando anoiteceu, ele estava lá sozinho.
+
+[[v40-14-24]]
+
+^<<v40-14-24,24>>^ O barco já estava a muitas centenas de metros^&#42;1^ da terra, em grandes dificuldades por causa das ondas, porque o vento era contrário.
+
+[NOTE]
+====
+. Lit.: “muitos estádios”. Um estádio equivalia a 185 m.
+====
+
+[[v40-14-25]]
+
+^<<v40-14-25,25>>^ Porém, na quarta vigília da noite,^&#42;1^ ele foi ao encontro deles, andando sobre o mar.
+
+[NOTE]
+====
+. Isto é, desde aproximadamente as 3 h da madrugada até ao nascer do sol, por volta das 6 h da manhã.
+====
+
+[[v40-14-26]]
+
+^<<v40-14-26,26>>^ Quando o viram a andar sobre o mar, os discípulos ficaram assustados e disseram: “É uma aparição!” e gritaram com medo.
+
+[[v40-14-27]]
+
+^<<v40-14-27,27>>^ No entanto, Jesus disse-lhes imediatamente: “Coragem! Sou eu; não tenham medo.”
+
+[[v40-14-28]]
+
+^<<v40-14-28,28>>^ Pedro respondeu: “Se és tu, Senhor, ordena-me, que eu vá ao teu encontro por cima das águas.”
+
+[[v40-14-29]]
+
+^<<v40-14-29,29>>^ Ele disse: “Vem!” Pedro saiu então do barco e andou por cima das águas, em direção a Jesus.
+
+[[v40-14-30]]
+
+^<<v40-14-30,30>>^ Contudo, ao olhar para o vendaval, ficou com medo. Quando começou a afundar-se, gritou: “Senhor, salva-me!”
+
+[[v40-14-31]]
+
+^<<v40-14-31,31>>^ Estendendo imediatamente a mão, Jesus agarrou-o e disse-lhe: “Homem de pouca fé, porque é que cedeste à dúvida?”
+
+[[v40-14-32]]
+
+^<<v40-14-32,32>>^ Depois de terem entrado no barco, o vendaval parou.
+
+[[v40-14-33]]
+
+^<<v40-14-33,33>>^ Então, os que estavam no barco curvaram-se diante dele,^&#42;1^ dizendo: “Tu realmente és o Filho de Deus.”
+
+[NOTE]
+====
+. Ou: “prestaram-lhe homenagem”.
+====
+
+[[v40-14-34]]
+
+^<<v40-14-34,34>>^ E terminaram a travessia, desembarcando em Genesaré.
+
+[[v40-14-35]]
+
+^<<v40-14-35,35>>^ Quando o reconheceram, os homens daquele lugar mandaram avisar toda a região ao redor, e o povo levou até ele todos os que estavam doentes.
+
+[[v40-14-36]]
+
+^<<v40-14-36,36>>^ E suplicavam-lhe que os deixasse, pelo menos, tocar na borda da sua roupa, e todos os que tocaram nela ficaram completamente bons.
+
+'''
+
+xref:040-mateus/040-mateus-013.adoc#v40-13-0[&#60; Capítulo Anterior] | <<v40-14-0,Topo>> | xref:040-mateus/040-mateus-015.adoc#v40-15-0[Próximo Capítulo &#62;]

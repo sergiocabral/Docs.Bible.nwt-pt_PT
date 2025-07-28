@@ -1,0 +1,174 @@
+include::./index.adoc[]
+
+[[v4-18-0]]
+=== Números, 18
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v4-18-1]]
+
+^<<v4-18-1,1>>^ De seguida, Jeová disse a Arão: “Tu, os teus filhos e a tua casa paterna serão responsáveis por qualquer erro contra o santuário; e tu e os teus filhos serão responsáveis por qualquer erro contra o sacerdócio.
+
+[[v4-18-2]]
+
+^<<v4-18-2,2>>^ Chama também os teus irmãos da tribo de Levi, a tua tribo ancestral, para que se juntem a ti e te sirvam, tanto a ti como aos teus filhos, diante da tenda do Testemunho.
+
+[[v4-18-3]]
+
+^<<v4-18-3,3>>^ Eles devem cumprir as suas responsabilidades para contigo e para com toda a tenda. Contudo, não devem aproximar-se dos utensílios do lugar santo e do altar, para que nem eles nem vocês morram.
+
+[[v4-18-4]]
+
+^<<v4-18-4,4>>^ Eles vão juntar-se a ti e cumprir as responsabilidades deles para com a tenda de reunião e todo o serviço da tenda; e nenhuma pessoa não autorizada^&#42;1^ se pode aproximar de vocês.
+
+[NOTE]
+====
+. Lit.: “nenhum estranho”, isto é, um homem que não pertença à família de Arão.
+====
+
+[[v4-18-5]]
+
+^<<v4-18-5,5>>^ Vocês cumprirão as vossas responsabilidades para com o lugar santo e o altar, para que não haja mais indignação contra o povo de Israel.
+
+[[v4-18-6]]
+
+^<<v4-18-6,6>>^ Eu próprio separei os vossos irmãos, os levitas, dentre os israelitas como uma dádiva para vocês. Eles são os que foram dados a Jeová para cuidar do serviço da tenda de reunião.
+
+[[v4-18-7]]
+
+^<<v4-18-7,7>>^ Tu e os teus filhos são responsáveis pelos deveres sacerdotais relacionados com o altar e com o que há atrás da cortina, e devem prestar esse serviço. Eu dei-vos o serviço do sacerdócio como uma dádiva, e qualquer pessoa não autorizada^&#42;1^ que se aproxime deve ser morta.”
+
+[NOTE]
+====
+. Lit.: “e o estranho”, isto é, um homem que não pertença à família de Arão.
+====
+
+[[v4-18-8]]
+
+^<<v4-18-8,8>>^ Além disso, Jeová disse a Arão: “Eu próprio te encarreguei das contribuições que me foram feitas. Dei-te a ti e aos teus filhos, como porção permanente, uma parte de todas as coisas sagradas contribuídas pelos israelitas.
+
+[[v4-18-9]]
+
+^<<v4-18-9,9>>^ Isto é o que será teu dentre as ofertas santíssimas feitas por fogo: todas as ofertas que eles fizerem, incluindo as ofertas de cereais, as ofertas pelo pecado e as ofertas pela culpa que me trouxerem. É algo santíssimo para ti e para os teus filhos.
+
+[[v4-18-10]]
+
+^<<v4-18-10,10>>^ Deves comê-la num lugar santíssimo. Todos os homens podem comê-la. Será algo sagrado para ti.
+
+[[v4-18-11]]
+
+^<<v4-18-11,11>>^ Isto também te pertence: as dádivas que os israelitas apresentarem juntamente com todas as suas ofertas movidas. Estas foram dádivas minhas para ti, para os teus filhos e para as tuas filhas, como porção permanente. Todo aquele que estiver puro na tua casa pode comê-las.
+
+[[v4-18-12]]
+
+^<<v4-18-12,12>>^ “Dou-te as primícias que eles derem a Jeová: o melhor do azeite e o melhor do vinho novo e dos cereais.
+
+[[v4-18-13]]
+
+^<<v4-18-13,13>>^ Os primeiros frutos maduros de tudo o que houver na terra deles, que trouxerem a Jeová, passarão a pertencer-te. Todo aquele que estiver puro na tua casa poderá comê-los.
+
+[[v4-18-14]]
+
+^<<v4-18-14,14>>^ “Todas as coisas devotadas^&#42;1^ em Israel devem passar a pertencer-te.
+
+[NOTE]
+====
+. Isto é, tudo o que foi tornado sagrado para Deus por ter sido devotado a ele de maneira irrevogável e irredimível.
+====
+
+[[v4-18-15]]
+
+^<<v4-18-15,15>>^ “Todos os primogénitos de todos os seres vivos^&#42;1^ que eles apresentarem a Jeová, tanto de homens como de animais, devem tornar-se teus. No entanto, sem falta, deves remir o primogénito dos homens e o primogénito dos animais impuros.
+
+[NOTE]
+====
+. Lit.: “de toda a carne”.
+====
+
+[[v4-18-16]]
+
+^<<v4-18-16,16>>^ Deves remi-lo com o preço de redenção a partir de um mês de idade, pelo valor estabelecido de 5 siclos^&#42;1^ de prata, segundo o siclo-padrão do lugar santo,^&#42;2^ que é de 20 geras.^&#42;3^
+
+[NOTE]
+====
+. Um siclo equivalia a 11,4 g. Veja o Ap. B14.
+. Ou: “o siclo sagrado”.
+. Um gera equivalia a 0,57 g. Veja o Ap. B14.
+====
+
+[[v4-18-17]]
+
+^<<v4-18-17,17>>^ Só não deves remir o primogénito do touro, do cordeiro e do bode. São algo sagrado. Deves aspergir o sangue deles sobre o altar e queimar a gordura deles como oferta feita por fogo, de aroma agradável^&#42;1^ para Jeová.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v4-18-18]]
+
+^<<v4-18-18,18>>^ E a carne deles deve tornar-se tua. Ela deve tornar-se tua, assim como o peito apresentado como oferta movida e a perna direita.
+
+[[v4-18-19]]
+
+^<<v4-18-19,19>>^ Dou-te como porção permanente, a ti, aos teus filhos e às tuas filhas, todas as contribuições sagradas que os israelitas fizerem para Jeová. É um pacto de sal,^&#42;1^ permanente, feito por Jeová para ti e para a tua descendência.”
+
+[NOTE]
+====
+. Isto é, um pacto duradouro e imutável.
+====
+
+[[v4-18-20]]
+
+^<<v4-18-20,20>>^ Jeová disse a Arão: “Não terás herança na terra deles, e nenhuma porção de terra entre eles se tornará tua. Eu sou a tua porção e a tua herança no meio dos israelitas.
+
+[[v4-18-21]]
+
+^<<v4-18-21,21>>^ “Vê, dou como herança aos filhos de Levi todas as décimas partes em Israel, em troca do serviço que realizam, o serviço da tenda de reunião.
+
+[[v4-18-22]]
+
+^<<v4-18-22,22>>^ Ninguém do povo de Israel pode voltar a aproximar-se da tenda de reunião, senão incorrerá em pecado e morrerá.
+
+[[v4-18-23]]
+
+^<<v4-18-23,23>>^ Os próprios levitas devem realizar o serviço da tenda de reunião, e eles é que responderão pelos erros cometidos. Isto é um decreto permanente para todas as vossas gerações: eles não devem receber nenhuma herança entre os israelitas.
+
+[[v4-18-24]]
+
+^<<v4-18-24,24>>^ Pois dou como herança aos levitas as décimas partes que o povo de Israel der a Jeová como contribuição. Foi por isso que eu lhes disse: ‘Eles não devem receber nenhuma herança no meio dos israelitas.’”
+
+[[v4-18-25]]
+
+^<<v4-18-25,25>>^ Jeová disse então a Moisés:
+
+[[v4-18-26]]
+
+^<<v4-18-26,26>>^ “Deves dizer aos levitas: ‘Vocês receberão dos israelitas as décimas partes, que vos dou como herança, e deverão dar a décima parte dessas décimas partes como contribuição para Jeová.
+
+[[v4-18-27]]
+
+^<<v4-18-27,27>>^ E ela será considerada a vossa contribuição, como se fossem os cereais da vossa eira ou a abundante produção do vosso lagar de vinho ou de azeite.
+
+[[v4-18-28]]
+
+^<<v4-18-28,28>>^ Desse modo, vocês também darão uma contribuição a Jeová de todas as décimas partes que receberem dos israelitas. E dessas décimas partes devem dar a Arão, o sacerdote, a contribuição que pertence a Jeová.
+
+[[v4-18-29]]
+
+^<<v4-18-29,29>>^ Farão todo o tipo de contribuições para Jeová, como algo sagrado, da melhor parte de todas as dádivas que vos forem feitas.’
+
+[[v4-18-30]]
+
+^<<v4-18-30,30>>^ “Diz-lhes também: ‘Depois de vocês contribuírem o melhor delas, o que restar será considerado por vocês, levitas, como se fosse produtos da eira e produtos do lagar de vinho ou de azeite.
+
+[[v4-18-31]]
+
+^<<v4-18-31,31>>^ Vocês e os da vossa casa poderão comê-lo em qualquer lugar, porque é o salário pelo vosso serviço na tenda de reunião.
+
+[[v4-18-32]]
+
+^<<v4-18-32,32>>^ Se contribuírem o melhor delas, não incorrerão em pecado com respeito a isso; não profanem as coisas sagradas dos israelitas, senão morrerão.’”
+
+'''
+
+xref:004-numeros/004-numeros-017.adoc#v4-17-0[&#60; Capítulo Anterior] | <<v4-18-0,Topo>> | xref:004-numeros/004-numeros-019.adoc#v4-19-0[Próximo Capítulo &#62;]

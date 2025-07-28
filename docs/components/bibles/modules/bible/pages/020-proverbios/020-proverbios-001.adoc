@@ -1,0 +1,244 @@
+include::./index.adoc[]
+
+[[v20-1-0]]
+=== Provérbios, 1
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-1-1]]
+
+^<<v20-1-1,1>>^ Provérbios de Salomão, filho de David, rei de Israel:
+
+[[v20-1-2]]
+
+^<<v20-1-2,2>>^ Para aprender^&#42;1^ a sabedoria e a disciplina;
+Para entender as declarações profundas;
+
+[NOTE]
+====
+. Lit.: “Para conhecer”.
+====
+
+[[v20-1-3]]
+
+^<<v20-1-3,3>>^ Para obter a disciplina que dá entendimento,^&#42;1^
+Justiça, bom critério^&#42;2^ e retidão;^&#42;3^
+
+[NOTE]
+====
+. Ou: “perspicácia”.
+. Ou: “o que é justo”.
+. Ou: “imparcialidade”.
+====
+
+[[v20-1-4]]
+
+^<<v20-1-4,4>>^ Para dar prudência aos inexperientes;
+Para dar conhecimento e raciocínio aos jovens.
+
+[[v20-1-5]]
+
+^<<v20-1-5,5>>^ O sábio escuta e assimila mais instrução;
+O homem que tem entendimento obtém orientação perita^&#42;1^
+
+[NOTE]
+====
+. Ou: “instrução sábia”.
+====
+
+[[v20-1-6]]
+
+^<<v20-1-6,6>>^ Para entender provérbios e declarações intrigantes,^&#42;1^
+As palavras dos sábios e os seus enigmas.
+
+[NOTE]
+====
+. Ou: “parábolas”.
+====
+
+[[v20-1-7]]
+
+^<<v20-1-7,7>>^ O temor de^&#42;1^ Jeová é o princípio do conhecimento.
+Apenas os tolos desprezam a sabedoria e a disciplina.
+
+[NOTE]
+====
+. Ou: “A reverência por”.
+====
+
+[[v20-1-8]]
+
+^<<v20-1-8,8>>^ Escuta, meu filho, a disciplina do teu pai
+E não abandones a instrução^&#42;1^ da tua mãe.
+
+[NOTE]
+====
+. Ou: “lei”.
+====
+
+[[v20-1-9]]
+
+^<<v20-1-9,9>>^ Pois são uma linda coroa de flores para a tua cabeça
+E um belo adorno para o teu pescoço.
+
+[[v20-1-10]]
+
+^<<v20-1-10,10>>^ Meu filho, se pecadores te tentarem seduzir, não te deixes levar por eles.
+
+[[v20-1-11]]
+
+^<<v20-1-11,11>>^ Se disserem: “Anda connosco.
+Vamos armar uma emboscada para derramar sangue.
+Fiquemos escondidos à espera de vítimas inocentes, só para nos divertirmos.
+
+[[v20-1-12]]
+
+^<<v20-1-12,12>>^ Vamos devorá-los vivos, como faz a Sepultura,^&#42;1^
+Inteiros, como os que descem à cova.
+
+[NOTE]
+====
+. Ou: “o Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v20-1-13]]
+
+^<<v20-1-13,13>>^ Vamos tirar-lhes todos os seus preciosos tesouros;
+Encheremos as nossas casas com despojo.
+
+[[v20-1-14]]
+
+^<<v20-1-14,14>>^ Devias juntar-te a nós,^&#42;1^
+E todos repartiremos por igual o que roubarmos”,^&#42;2^
+
+[NOTE]
+====
+. Ou: “Lança a tua sorte connosco”.
+. Ou: “partilharemos a mesma bolsa”.
+====
+
+[[v20-1-15]]
+
+^<<v20-1-15,15>>^ Meu filho, não vás atrás deles.
+Mantém os teus pés longe do seu caminho,
+
+[[v20-1-16]]
+
+^<<v20-1-16,16>>^ Pois os seus pés correm para fazer o mal;
+Apressam-se para derramar sangue.
+
+[[v20-1-17]]
+
+^<<v20-1-17,17>>^ De certeza que é inútil estender uma rede quando o pássaro está a olhar.
+
+[[v20-1-18]]
+
+^<<v20-1-18,18>>^ É por isso que eles ficam de emboscada para derramar sangue;
+Ficam escondidos para tirar a vida^&#42;1^ a outros.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v20-1-19]]
+
+^<<v20-1-19,19>>^ Esses são os caminhos dos que procuram lucro desonesto,
+Que tirará a vida^&#42;1^ aos que o obtêm.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v20-1-20]]
+
+^<<v20-1-20,20>>^ A verdadeira sabedoria grita nas ruas.
+Ergue a sua voz nas praças.
+
+[[v20-1-21]]
+
+^<<v20-1-21,21>>^ Clama na esquina^&#42;1^ das ruas movimentadas.
+À entrada dos portões da cidade, ela diz:
+
+[NOTE]
+====
+. Lit.: “cabeça”.
+====
+
+[[v20-1-22]]
+
+^<<v20-1-22,22>>^ “Até quando, ó inexperientes, amarão a inexperiência?
+Até quando, ó ridicularizadores, terão prazer em ridicularizar?
+Até quando, ó tolos, odiarão o conhecimento?
+
+[[v20-1-23]]
+
+^<<v20-1-23,23>>^ Acatem a minha repreensão,^&#42;1^
+Então, derramarei o meu espírito em vosso benefício;
+Vou fazer-vos conhecer as minhas palavras.
+
+[NOTE]
+====
+. Ou: “Voltem atrás quando eu repreender”.
+====
+
+[[v20-1-24]]
+
+^<<v20-1-24,24>>^ Eu chamei, mas vocês negaram-se a ouvir;
+Estendi a mão, mas ninguém prestou atenção.
+
+[[v20-1-25]]
+
+^<<v20-1-25,25>>^ Vocês desconsideraram todos os meus conselhos
+E rejeitaram a minha repreensão;
+
+[[v20-1-26]]
+
+^<<v20-1-26,26>>^ Por isso, vou rir-me da vossa desgraça,
+Vou fazer troça quando acontecer aquilo que temem,
+
+[[v20-1-27]]
+
+^<<v20-1-27,27>>^ Quando aquilo que temem vier como uma tempestade,
+E a vossa desgraça chegar como um vendaval,
+Quando vos sobrevierem aflição e dificuldades.
+
+[[v20-1-28]]
+
+^<<v20-1-28,28>>^ Nesse tempo, eles irão chamar-me, mas eu não responderei;
+Procurarão ansiosamente por mim, mas não me encontrarão,
+
+[[v20-1-29]]
+
+^<<v20-1-29,29>>^ Porque odiaram o conhecimento
+E não quiseram temer a Jeová.
+
+[[v20-1-30]]
+
+^<<v20-1-30,30>>^ Não aceitaram os meus conselhos;
+Desconsideraram todas as minhas repreensões.
+
+[[v20-1-31]]
+
+^<<v20-1-31,31>>^ Portanto, sofrerão as consequências^&#42;1^ do seu proceder
+E ficarão empanturrados com os seus próprios planos.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “comerão do fruto”.
+. Ou: “as suas próprias tramas; os seus próprios conselhos”.
+====
+
+[[v20-1-32]]
+
+^<<v20-1-32,32>>^ Pois a rebeldia dos inexperientes irá matá-los,
+E a despreocupação dos tolos irá destruí-los.
+
+[[v20-1-33]]
+
+^<<v20-1-33,33>>^ Mas quem me escuta residirá em segurança
+E ficará tranquilo, sem temer nenhuma calamidade.”
+
+'''
+
+xref:019-salmo/019-salmo-150.adoc#v19-150-0[&#60; Capítulo Anterior] | <<v20-1-0,Topo>> | xref:020-proverbios/020-proverbios-002.adoc#v20-2-0[Próximo Capítulo &#62;]

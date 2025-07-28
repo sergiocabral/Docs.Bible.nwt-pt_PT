@@ -1,0 +1,276 @@
+include::./index.adoc[]
+
+[[v25-2-0]]
+=== Lamentações, 2
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_א &#91;álefe&#93;_
+
+[[v25-2-1]]
+
+^<<v25-2-1,1>>^ Como Jeová cobriu a filha de Sião com a nuvem da sua ira!
+Lançou a beleza de Israel do céu para a terra.
+Não se lembrou do apoio para os seus pés no dia da sua ira.
+
+_ב &#91;bete&#93;_
+
+[[v25-2-2]]
+
+^<<v25-2-2,2>>^ Jeová devorou todas as moradas de Jacó, sem compaixão.
+Na sua fúria, derrubou as fortificações da filha de Judá.
+Derrubou por terra e profanou o reino e os seus príncipes.
+
+_ג &#91;guímel&#93;_
+
+[[v25-2-3]]
+
+^<<v25-2-3,3>>^ No ardor da sua ira, ele acabou com todo o poder^&#42;1^ de Israel.
+Retirou a sua mão direita quando o inimigo se aproximou,
+E continuou a arder em Jacó como um fogo que consumia tudo ao seu redor.
+
+[NOTE]
+====
+. Lit.: “todo o chifre”.
+====
+
+_ד &#91;dálete&#93;_
+
+[[v25-2-4]]
+
+^<<v25-2-4,4>>^ Ele armou^&#42;1^ o seu arco como um inimigo; a sua mão direita está pronta para atacar como um adversário;
+Matou todos os que eram agradáveis aos olhos.
+E derramou o seu furor como um fogo na tenda da filha de Sião.
+
+[NOTE]
+====
+. Lit.: “pisou”.
+====
+
+_ה &#91;hê&#93;_
+
+[[v25-2-5]]
+
+^<<v25-2-5,5>>^ Jeová tornou-se como um inimigo;
+Ele devorou Israel.
+Devorou todas as suas torres;
+Destruiu todas as suas fortificações.
+E multiplicou o luto e a lamentação da filha de Judá.
+
+_ו &#91;vau&#93;_
+
+[[v25-2-6]]
+
+^<<v25-2-6,6>>^ Ele trata a sua tenda com violência, como se fosse uma cabana numa plantação.
+Ele acabou com^&#42;1^ a sua festividade.
+Jeová fez com que as festividades e os sábados fossem esquecidos em Sião.
+E, na sua ardente indignação, despreza o rei e o sacerdote.
+
+[NOTE]
+====
+. Ou: “destruiu”.
+====
+
+_ז &#91;zaine&#93;_
+
+[[v25-2-7]]
+
+^<<v25-2-7,7>>^ Jeová rejeitou o seu altar;
+Desprezou o seu santuário.
+Entregou as muralhas das suas torres fortificadas nas mãos do inimigo.
+Eles gritaram na casa de Jeová, como num dia de festividade.
+
+_ח &#91;hete&#93;_
+
+[[v25-2-8]]
+
+^<<v25-2-8,8>>^ Jeová decidiu destruir a muralha da filha de Sião.
+Estendeu a corda de medir.
+Não conteve a sua mão de causar destruição.^&#42;1^
+E fez com que a escarpa e a muralha ficassem de luto.
+Juntas, foram enfraquecidas.
+
+[NOTE]
+====
+. Lit.: “de engolir”.
+====
+
+_ט &#91;tete&#93;_
+
+[[v25-2-9]]
+
+^<<v25-2-9,9>>^ Os seus portões caíram por terra.
+Ele destruiu e destroçou as suas trancas.
+O seu rei e os seus príncipes estão exilados nas nações.
+Não há lei;^&#42;1^ nem sequer os seus profetas recebem qualquer visão da parte de Jeová.
+
+[NOTE]
+====
+. Ou: “instrução”.
+====
+
+_י &#91;iode&#93;_
+
+[[v25-2-10]]
+
+^<<v25-2-10,10>>^ Os anciãos da filha de Sião sentam-se no chão em silêncio.
+Atiram pó sobre a cabeça e vestem-se de serapilheira.^&#42;1^
+As moças^&#42;2^ de Jerusalém baixam a cabeça até ao chão.
+
+[NOTE]
+====
+. Veja o Glossário.
+. Lit.: “virgens”.
+====
+
+_כ &#91;cafe&#93;_
+
+[[v25-2-11]]
+
+^<<v25-2-11,11>>^ Os meus olhos estão cansados de tanto chorar.
+As minhas entranhas^&#42;1^ estão em alvoroço.
+O meu fígado derrama-se por terra por causa da ruína da filha^&#42;2^ do meu povo,
+Por causa das crianças e dos bebés que desmaiam nas praças da cidade.
+
+[NOTE]
+====
+. Lit.: “Os meus intestinos”.
+. Personificação poética que talvez expresse pena ou compaixão.
+====
+
+_ל &#91;lâmede&#93;_
+
+[[v25-2-12]]
+
+^<<v25-2-12,12>>^ Eles perguntam às suas mães: “Onde está a comida e a bebida?”,^&#42;1^
+Enquanto desmaiam como feridos nas praças da cidade,
+Enquanto a sua vida^&#42;2^ se desvanece nos braços das mães.
+
+[NOTE]
+====
+. Ou: “o cereal e o vinho”.
+. Ou: “alma”.
+====
+
+_מ &#91;meme&#93;_
+
+[[v25-2-13]]
+
+^<<v25-2-13,13>>^ O que posso usar como testemunho?^&#42;1^
+Ou a que posso assemelhar-te, ó filha de Jerusalém?
+A que posso comparar-te para te consolar, ó virgem filha de Sião?
+Pois a tua calamidade é tão grande como o mar. Quem é que te pode curar?
+
+[NOTE]
+====
+. Ou: “exemplo”.
+====
+
+_נ &#91;nune&#93;_
+
+[[v25-2-14]]
+
+^<<v25-2-14,14>>^ As visões que os teus profetas tiveram para ti eram falsas e vazias,
+E eles não expuseram o teu erro, o que teria evitado que fosses para o cativeiro,
+Mas continuaram a contar-te visões falsas e enganosas.
+
+_ס &#91;sâmeque&#93;_
+
+[[v25-2-15]]
+
+^<<v25-2-15,15>>^ Por tua causa, todos os que passam pela estrada batem palmas com desprezo.
+Assobiam, espantados, e abanam a cabeça por causa da filha de Jerusalém, dizendo:
+“Esta é que é a cidade da qual se dizia: ‘Ela é perfeita em beleza, a alegria de toda a terra’?”
+
+_פ &#91;pê&#93;_
+
+[[v25-2-16]]
+
+^<<v25-2-16,16>>^ Todos os teus inimigos abrem a boca contra ti.
+Assobiam, rangem os dentes e dizem: “Nós devorámo-la.
+Este é o dia pelo qual esperávamos! Ele chegou; estamos a vê-lo!”
+
+_ע &#91;aine&#93;_
+
+[[v25-2-17]]
+
+^<<v25-2-17,17>>^ Jeová fez o que pretendia; cumpriu a sua palavra,
+O que tinha ordenado há muito tempo.
+Derrubou sem compaixão.
+Deixou que o inimigo se alegrasse por tua causa; exaltou o poder^&#42;1^ dos teus adversários.
+
+[NOTE]
+====
+. Lit.: “chifre”.
+====
+
+_צ &#91;tsadê&#93;_
+
+[[v25-2-18]]
+
+^<<v25-2-18,18>>^ O coração do povo clama a Jeová, ó muralha da filha de Sião.
+Que as lágrimas corram como uma torrente, dia e noite.
+Não dês repouso a ti mesma, nem dês descanso aos teus olhos.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “à filha do teu olho”.
+====
+
+_ק &#91;cofe&#93;_
+
+[[v25-2-19]]
+
+^<<v25-2-19,19>>^ Levanta-te! Clama durante a noite, no começo das vigílias.
+Derrama o teu coração como água diante da face de Jeová.
+Levanta as mãos para ele, pela vida^&#42;1^ das tuas crianças
+Que desmaiam de fome em todas as esquinas.^&#42;2^
+
+[NOTE]
+====
+. Ou: “alma”.
+. Lit.: “na cabeça de todas as ruas”.
+====
+
+_ר &#91;rexe&#93;_
+
+[[v25-2-20]]
+
+^<<v25-2-20,20>>^ Vê, ó Jeová, e olha para quem trataste com tanta severidade.
+Será que as mulheres deviam comer os seus próprios filhos,^&#42;1^ as crianças saudáveis que elas deram à luz?^&#42;2^
+Ou será que os sacerdotes e os profetas deviam ser mortos no santuário de Jeová?
+
+[NOTE]
+====
+. Ou: “o seu próprio fruto”.
+. Ou: “as suas crianças bem formadas”.
+====
+
+_ש &#91;chim&#93;_
+
+[[v25-2-21]]
+
+^<<v25-2-21,21>>^ Jovens e idosos estão mortos, estendidos pelo chão das ruas.
+As minhas moças^&#42;1^ e os meus rapazes caíram pela espada.
+Tu mataste no dia da tua ira; tu mataste sem compaixão.
+
+[NOTE]
+====
+. Lit.: “virgens”.
+====
+
+_ת &#91;tau&#93;_
+
+[[v25-2-22]]
+
+^<<v25-2-22,22>>^ Tu convocas terrores de todas as direções, como para uma festividade.
+No dia do furor de Jeová, ninguém escapou nem sobreviveu;
+Quanto àqueles a quem dei à luz^&#42;1^ e criei, o meu inimigo aniquilou-os.
+
+[NOTE]
+====
+. Ou: “que produzi saudáveis”.
+====
+
+'''
+
+xref:025-lamentacoes/025-lamentacoes-001.adoc#v25-1-0[&#60; Capítulo Anterior] | <<v25-2-0,Topo>> | xref:025-lamentacoes/025-lamentacoes-003.adoc#v25-3-0[Próximo Capítulo &#62;]

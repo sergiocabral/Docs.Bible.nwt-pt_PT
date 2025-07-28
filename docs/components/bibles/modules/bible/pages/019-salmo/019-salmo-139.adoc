@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v19-139-0]]
+=== Salmos, 139
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Para o regente. De David. Salmo._
+
+[[v19-139-1]]
+
+^<<v19-139-1,1>>^ Ó Jeová, tu examinas-me e conheces-me.
+
+[[v19-139-2]]
+
+^<<v19-139-2,2>>^ Sabes quando me sento e quando me levanto.
+À distância, discernes os meus pensamentos.
+
+[[v19-139-3]]
+
+^<<v19-139-3,3>>^ Observas-me^&#42;1^ quando ando e quando me deito;
+Conheces bem todos os meus caminhos.
+
+[NOTE]
+====
+. Lit.: “Medes-me”.
+====
+
+[[v19-139-4]]
+
+^<<v19-139-4,4>>^ Mesmo antes de haver uma palavra na minha língua,
+Tu, ó Jeová, já a conheces bem.
+
+[[v19-139-5]]
+
+^<<v19-139-5,5>>^ Tu estás à minha volta, atrás de mim e à minha frente;
+E pões a tua mão sobre mim.
+
+[[v19-139-6]]
+
+^<<v19-139-6,6>>^ Tal conhecimento está para além da minha compreensão.^&#42;1^
+É tão elevado que não posso alcançá-lo.^&#42;2^
+
+[NOTE]
+====
+. Ou: “é maravilhoso demais para mim”.
+. Ou: “É insondável para mim”.
+====
+
+[[v19-139-7]]
+
+^<<v19-139-7,7>>^ Para onde iria eu, a fim de escapar do teu espírito,
+E para onde é que eu fugiria da tua face?
+
+[[v19-139-8]]
+
+^<<v19-139-8,8>>^ Se eu subisse ao céu, lá estarias tu;
+E, se eu me deitasse na Sepultura,^&#42;1^ até mesmo lá tu estarias!
+
+[NOTE]
+====
+. Ou: “no Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v19-139-9]]
+
+^<<v19-139-9,9>>^ Se eu voasse nas asas da aurora
+Para residir junto ao mar mais distante,
+
+[[v19-139-10]]
+
+^<<v19-139-10,10>>^ Até mesmo lá a tua mão iria guiar-me,
+E a tua mão direita iria segurar-me.
+
+[[v19-139-11]]
+
+^<<v19-139-11,11>>^ Se eu dissesse: “Certamente, a escuridão vai esconder-me!”
+Então, a noite ao meu redor iria tornar-se luz.
+
+[[v19-139-12]]
+
+^<<v19-139-12,12>>^ Nem a própria escuridão seria demasiado escura para ti,
+E a noite seria tão clara como o dia.
+Para ti, a escuridão é o mesmo que a luz.
+
+[[v19-139-13]]
+
+^<<v19-139-13,13>>^ Pois tu produziste os meus rins;
+Mantiveste-me abrigado^&#42;1^ no ventre da minha mãe.
+
+[NOTE]
+====
+. Ou, possivelmente: “Teceste-me”.
+====
+
+[[v19-139-14]]
+
+^<<v19-139-14,14>>^ Louvo-te porque fui feito maravilhosamente, de um modo espantoso.
+As tuas obras são maravilhosas,
+Sei^&#42;1^ disso muito bem.
+
+[NOTE]
+====
+. Ou: “A minha alma sabe”.
+====
+
+[[v19-139-15]]
+
+^<<v19-139-15,15>>^ Os meus ossos não estavam escondidos de ti
+Quando fui formado secretamente,
+Quando fui tecido nas profundezas da terra.
+
+[[v19-139-16]]
+
+^<<v19-139-16,16>>^ Os teus olhos viram-me até mesmo quando eu era um embrião;
+Todas as suas partes estavam escritas no teu livro,
+No que diz respeito aos dias em que foram formadas,
+Antes de qualquer uma delas existir.
+
+[[v19-139-17]]
+
+^<<v19-139-17,17>>^ Por isso, como são preciosos para mim os teus pensamentos!
+Ó Deus, como é grande a sua soma!
+
+[[v19-139-18]]
+
+^<<v19-139-18,18>>^ Se eu tentasse contá-los, seriam mais numerosos  do que os grãos de areia.
+Quando acordo, ainda estou contigo.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “ainda estaria a contá-los”.
+====
+
+[[v19-139-19]]
+
+^<<v19-139-19,19>>^ Ó Deus, se ao menos matasses os maus!
+Nesse caso, os homens violentos^&#42;1^ iriam afastar-se de mim,
+
+[NOTE]
+====
+. Ou: “culpados de sangue”.
+====
+
+[[v19-139-20]]
+
+^<<v19-139-20,20>>^ Aqueles que, com más intenções,^&#42;1^ dizem coisas contra ti;
+São teus adversários, que usam o teu nome em vão.
+
+[NOTE]
+====
+. Ou: “de acordo com as suas próprias ideias”.
+====
+
+[[v19-139-21]]
+
+^<<v19-139-21,21>>^ Por acaso, não odeio eu os que te odeiam, ó Jeová?
+Não sinto eu repugnância pelos que se revoltam contra ti?
+
+[[v19-139-22]]
+
+^<<v19-139-22,22>>^ Tudo o que sinto por eles é ódio;
+Tornaram-se verdadeiros inimigos para mim.
+
+[[v19-139-23]]
+
+^<<v19-139-23,23>>^ Examina-me, ó Deus, e conhece o meu coração.
+Sonda-me e conhece as minhas ansiedades.^&#42;1^
+
+[NOTE]
+====
+. Ou: “os meus pensamentos inquietantes”.
+====
+
+[[v19-139-24]]
+
+^<<v19-139-24,24>>^ Vê se há em mim alguma tendência prejudicial,
+E guia-me no caminho da eternidade.
+
+'''
+
+xref:019-salmo/019-salmo-138.adoc#v19-138-0[&#60; Capítulo Anterior] | <<v19-139-0,Topo>> | xref:019-salmo/019-salmo-140.adoc#v19-140-0[Próximo Capítulo &#62;]

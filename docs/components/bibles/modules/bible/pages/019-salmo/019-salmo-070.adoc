@@ -1,0 +1,47 @@
+include::./index.adoc[]
+
+[[v19-70-0]]
+=== Salmos, 70
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. De David, para servir de recordação.^&#42;1^_
+
+[[v19-70-1]]
+
+^<<v19-70-1,1>>^ Ó Deus, salva-me;
+Ó Jeová, vem depressa ajudar-me.
+
+[[v19-70-2]]
+
+^<<v19-70-2,2>>^ Que os que querem tirar-me a vida^&#42;1^
+Sejam envergonhados e desonrados.
+Que os que têm prazer na minha calamidade
+Batam em retirada, humilhados.
+
+[NOTE]
+====
+. Ou: “procuram a minha alma”.
+====
+
+[[v19-70-3]]
+
+^<<v19-70-3,3>>^ Sejam repelidos e cobertos de vergonha
+Os que gozam comigo, dizendo: “Ah! Ah!”
+
+[[v19-70-4]]
+
+^<<v19-70-4,4>>^ Mas que aqueles que te procuram
+Exultem e se alegrem em ti.
+Que os que amam os teus atos de salvação digam sempre:
+“Magnificado seja Deus!”
+
+[[v19-70-5]]
+
+^<<v19-70-5,5>>^ Mas eu estou desamparado e pobre.
+Ó Deus, age depressa em meu favor.
+Tu és o meu ajudador e o meu libertador;
+Ó Jeová, não demores.
+
+'''
+
+xref:019-salmo/019-salmo-069.adoc#v19-69-0[&#60; Capítulo Anterior] | <<v19-70-0,Topo>> | xref:019-salmo/019-salmo-071.adoc#v19-71-0[Próximo Capítulo &#62;]

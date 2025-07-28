@@ -1,0 +1,272 @@
+include::./index.adoc[]
+
+[[v29-2-0]]
+=== Joel, 2
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v29-2-1]]
+
+^<<v29-2-1,1>>^ “Toquem a buzina em Sião!
+Deem um grito de guerra no meu santo monte.
+Que todos os habitantes desta terra^&#42;1^ tremam,
+Pois o dia de Jeová está a chegar! Está próximo!
+
+[NOTE]
+====
+. Ou: “da terra”.
+====
+
+[[v29-2-2]]
+
+^<<v29-2-2,2>>^ É um dia de escuridão e de trevas,
+Um dia de nuvens e de densas trevas.
+É como a luz da aurora a espalhar-se sobre os montes.
+Há um povo numeroso e poderoso;
+Nunca existiu um povo como ele,
+E nunca mais haverá outro,
+Pelos anos de todas as gerações.
+
+[[v29-2-3]]
+
+^<<v29-2-3,3>>^ À sua frente, há um fogo que devora
+E, atrás dele, as chamas consomem.
+A terra à sua frente é como o jardim do Éden,
+Mas, atrás dele, é um deserto desolado,
+E nada pode escapar.
+
+[[v29-2-4]]
+
+^<<v29-2-4,4>>^ A sua aparência é como a aparência de cavalos,
+E eles correm como cavalos de guerra.
+
+[[v29-2-5]]
+
+^<<v29-2-5,5>>^ O seu som é como o de carros de guerra aos solavancos sobre o cume dos montes,
+Como os estalidos de um fogo ardente que consome a palha.
+São como um povo forte, posto em formação de batalha.
+
+[[v29-2-6]]
+
+^<<v29-2-6,6>>^ Por sua causa, os povos ficarão aflitos.
+Todos os rostos expressarão angústia.^&#42;1^
+
+[NOTE]
+====
+. Ou: “ficarão corados”.
+====
+
+[[v29-2-7]]
+
+^<<v29-2-7,7>>^ Eles atacam como guerreiros,
+Escalam a muralha como soldados,
+Cada um se mantém no seu próprio curso,
+E eles não se desviam do seu caminho.
+
+[[v29-2-8]]
+
+^<<v29-2-8,8>>^ Não se empurram uns aos outros;
+Cada homem avança no seu rumo.
+Se as armas^&#42;1^ fazem alguns cair,
+Os outros não desfazem a formação.
+
+[NOTE]
+====
+. Ou: “os projéteis”.
+====
+
+[[v29-2-9]]
+
+^<<v29-2-9,9>>^ Invadem a cidade, correm sobre a muralha.
+Sobem às casas, entram pelas janelas como ladrões.
+
+[[v29-2-10]]
+
+^<<v29-2-10,10>>^ Diante deles, a terra treme e os céus estremecem.
+O sol e a lua ficaram escuros,
+E as estrelas perderam o brilho.
+
+[[v29-2-11]]
+
+^<<v29-2-11,11>>^ Jeová levantará a sua voz perante o seu exército, pois o seu acampamento é muito numeroso.
+Pois aquele que cumpre a Sua palavra é forte;
+Pois o dia de Jeová é grande e muito atemorizante.
+Quem é que o poderá suportar?”
+
+[[v29-2-12]]
+
+^<<v29-2-12,12>>^ “Por isso, enquanto é tempo”, diz Jeová, “voltem para mim de todo o coração,
+Com jejum, choro e lamento.
+
+[[v29-2-13]]
+
+^<<v29-2-13,13>>^ Rasguem o coração, e não as vossas roupas,
+E voltem para Jeová, vosso Deus,
+Pois ele é compassivo^&#42;1^ e misericordioso, paciente^&#42;2^ e cheio de amor leal,
+E reconsiderará^&#42;3^ a calamidade.
+
+[NOTE]
+====
+. Ou: “benevolente”.
+. Ou: “vagaroso em irar-se”.
+. Ou: “lamentará”.
+====
+
+[[v29-2-14]]
+
+^<<v29-2-14,14>>^ Quem sabe se ele não voltará atrás e reconsiderará,^&#42;1^
+E deixará sobrar uma bênção,
+Uma oferta de cereais e uma oferta de bebida para Jeová, vosso Deus?
+
+[NOTE]
+====
+. Ou: “lamentará”.
+====
+
+[[v29-2-15]]
+
+^<<v29-2-15,15>>^ Toquem a buzina em Sião!
+Proclamem^&#42;1^ um jejum; convoquem uma assembleia solene.
+
+[NOTE]
+====
+. Lit.: “Santifiquem”.
+====
+
+[[v29-2-16]]
+
+^<<v29-2-16,16>>^ Reúnam o povo, santifiquem a congregação.
+Convoquem os homens idosos,^&#42;1^ reúnam as crianças e os bebés.
+Que o noivo saia do seu aposento interior, e a noiva da sua câmara nupcial.
+
+[NOTE]
+====
+. Ou: “os anciãos”.
+====
+
+[[v29-2-17]]
+
+^<<v29-2-17,17>>^ Entre o pórtico e o altar,
+Que chorem os sacerdotes, os servos de Jeová, e digam:
+‘Tem pena do teu povo, ó Jeová,
+Não faças da tua herança um alvo de gozo,
+Deixando que as nações os dominem.
+Por que motivo haveriam os povos de dizer: “Onde é que está o seu Deus?”’
+
+[[v29-2-18]]
+
+^<<v29-2-18,18>>^ Então, Jeová será zeloso para com a sua terra
+E terá compaixão do seu povo.
+
+[[v29-2-19]]
+
+^<<v29-2-19,19>>^ Jeová responderá ao seu povo:
+‘Vou enviar-vos cereal, vinho novo e azeite,
+E vocês ficarão plenamente satisfeitos;
+Não voltarei a fazer de vocês um alvo de insultos entre as nações.
+
+[[v29-2-20]]
+
+^<<v29-2-20,20>>^ Afastarei para longe de vocês aquele que vem do norte;
+Vou dispersá-lo por um deserto árido e desolado,
+Com a sua vanguarda^&#42;1^ voltada para o mar oriental^&#42;2^
+E a retaguarda para o mar ocidental.^&#42;3^
+O seu mau cheiro subirá,
+O seu fedor continuará a subir,
+Pois Ele fará coisas grandiosas.’
+
+[NOTE]
+====
+. Lit.: “face”.
+. Isto é, o mar Morto.
+. Isto é, o mar Mediterrâneo.
+====
+
+[[v29-2-21]]
+
+^<<v29-2-21,21>>^ Não tenhas medo, ó terra.
+Exulta e alegra-te, pois Jeová fará coisas grandiosas.
+
+[[v29-2-22]]
+
+^<<v29-2-22,22>>^ Não tenham medo, animais selvagens,
+Pois as pastagens do deserto^&#42;1^ ficarão verdes,
+E as árvores darão frutos;
+A figueira e a videira produzirão abundantemente.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v29-2-23]]
+
+^<<v29-2-23,23>>^ Exultem e alegrem-se em Jeová, vosso Deus, filhos de Sião;
+Pois ele vos dará a chuva do outono na medida certa
+E, sobre vocês, fará cair chuvas abundantes,
+A chuva do outono e a chuva da primavera, assim como antes.
+
+[[v29-2-24]]
+
+^<<v29-2-24,24>>^ As eiras ficarão cheias de cereais puros,
+E os lagares transbordarão de vinho novo e de azeite.
+
+[[v29-2-25]]
+
+^<<v29-2-25,25>>^ E vou compensar-vos pelos anos
+Que foram comidos pela nuvem de gafanhotos, pelo gafanhoto sem asas, pelo gafanhoto voraz e pelo gafanhoto devorador,
+O meu grande exército que enviei contra vocês.
+
+[[v29-2-26]]
+
+^<<v29-2-26,26>>^ Vocês certamente comerão até ficarem satisfeitos
+E hão de louvar o nome de Jeová, vosso Deus,
+Que fez maravilhas a vosso favor;
+O meu povo nunca mais será envergonhado.
+
+[[v29-2-27]]
+
+^<<v29-2-27,27>>^ E vocês terão de saber que eu estou no meio de Israel
+E que eu sou Jeová, vosso Deus — não há outro!
+O meu povo nunca mais será envergonhado.
+
+[[v29-2-28]]
+
+^<<v29-2-28,28>>^ Depois disso, derramarei o meu espírito sobre todo o tipo de pessoas,^&#42;1^
+E os vossos filhos e as vossas filhas profetizarão,
+Os vossos homens idosos terão sonhos,
+E os vossos jovens terão visões.
+
+[NOTE]
+====
+. Lit.: “carne”.
+====
+
+[[v29-2-29]]
+
+^<<v29-2-29,29>>^ E até mesmo sobre os meus escravos e as minhas escravas
+Derramarei o meu espírito nesses dias.
+
+[[v29-2-30]]
+
+^<<v29-2-30,30>>^ E realizarei milagres^&#42;1^ nos céus e na terra:
+Sangue, fogo e colunas de fumo.
+
+[NOTE]
+====
+. Ou: “portentos”.
+====
+
+[[v29-2-31]]
+
+^<<v29-2-31,31>>^ O sol será transformado em escuridão e a lua em sangue,
+Antes de chegar o grande e atemorizante dia de Jeová.
+
+[[v29-2-32]]
+
+^<<v29-2-32,32>>^ E todo aquele que invocar o nome de Jeová será salvo;
+Pois, no monte Sião e em Jerusalém, estarão os que escaparem, assim como Jeová disse,
+Os sobreviventes que Jeová chamar.”
+
+'''
+
+xref:029-joel/029-joel-001.adoc#v29-1-0[&#60; Capítulo Anterior] | <<v29-2-0,Topo>> | xref:029-joel/029-joel-003.adoc#v29-3-0[Próximo Capítulo &#62;]

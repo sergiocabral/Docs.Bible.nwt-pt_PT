@@ -1,0 +1,112 @@
+include::./index.adoc[]
+
+[[v5-26-0]]
+=== Deuteronómio, 26
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-26-1]]
+
+^<<v5-26-1,1>>^ “Quando por fim entrares na terra que Jeová, teu Deus, te dá como herança, e tiveres tomado posse dela e estiveres a morar nela,
+
+[[v5-26-2]]
+
+^<<v5-26-2,2>>^ deves pegar em algumas das primícias de todos os produtos^&#42;1^ da terra, que recolherás da terra que Jeová, teu Deus, te dá, deves colocá-las num cesto e ir ao lugar que Jeová, teu Deus, escolher para ali fazer residir o seu nome.
+
+[NOTE]
+====
+. Lit.: “frutos”.
+====
+
+[[v5-26-3]]
+
+^<<v5-26-3,3>>^ Deves dirigir-te ao sacerdote que estiver a servir nesses dias e dizer-lhe: ‘Declaro hoje a Jeová, teu Deus, que entrei na terra que Jeová nos deu, conforme jurou aos nossos antepassados.’
+
+[[v5-26-4]]
+
+^<<v5-26-4,4>>^ “Então, o sacerdote tirará o cesto da tua mão e irá colocá-lo diante do altar de Jeová, teu Deus.
+
+[[v5-26-5]]
+
+^<<v5-26-5,5>>^ E deves dizer perante Jeová, teu Deus: ‘O meu pai era um arameu errante;^&#42;1^ e ele desceu até ao Egito e residiu lá como estrangeiro, com uma família pequena. Mas lá, tornou-se uma nação grande, forte e numerosa.
+
+[NOTE]
+====
+. Ou, possivelmente: “que estava prestes a morrer”.
+====
+
+[[v5-26-6]]
+
+^<<v5-26-6,6>>^ E os egípcios maltratavam-nos, oprimiam-nos e impunham-nos uma dura escravidão.
+
+[[v5-26-7]]
+
+^<<v5-26-7,7>>^ Então, começámos a clamar a Jeová, o Deus dos nossos antepassados, e Jeová ouviu a nossa voz e olhou para a nossa aflição, para a nossa desgraça e para a nossa opressão.
+
+[[v5-26-8]]
+
+^<<v5-26-8,8>>^ Por fim, Jeová tirou-nos do Egito com mão poderosa e braço estendido, com atos atemorizantes, e com sinais e milagres.
+
+[[v5-26-9]]
+
+^<<v5-26-9,9>>^ Então, ele trouxe-nos a este lugar e deu-nos esta terra, uma terra que mana leite e mel.
+
+[[v5-26-10]]
+
+^<<v5-26-10,10>>^ Agora, eu trouxe as primícias dos produtos da terra que Jeová me deu.’
+“Então, deves colocar o cesto perante Jeová, teu Deus, e curvar-te diante de Jeová, teu Deus.
+
+[[v5-26-11]]
+
+^<<v5-26-11,11>>^ E tu, o levita e o residente estrangeiro que está no teu meio irão alegrar-se com todas as coisas boas que Jeová, teu Deus, te deu a ti e aos da tua casa.
+
+[[v5-26-12]]
+
+^<<v5-26-12,12>>^ “Quando terminares de separar um décimo de todos os teus produtos no terceiro ano, o ano do dízimo, irás dá-lo ao levita, ao residente estrangeiro, ao órfão^&#42;1^ e à viúva, e eles comerão dentro das tuas cidades^&#42;2^ até ficarem satisfeitos.
+
+[NOTE]
+====
+. Ou: “órfão de pai”.
+. Ou: “dos seus portões”.
+====
+
+[[v5-26-13]]
+
+^<<v5-26-13,13>>^ Então, dirás o seguinte perante Jeová, teu Deus: ‘Tirei da minha casa a porção sagrada e dei-a ao levita, ao residente estrangeiro, ao órfão e à viúva, assim como me ordenaste. Não violei nem negligenciei os teus mandamentos.
+
+[[v5-26-14]]
+
+^<<v5-26-14,14>>^ Não a comi enquanto estava de luto, nem toquei nela enquanto estava impuro, nem dei nada dela pelos mortos. Obedeci à voz de Jeová, meu Deus, e fiz tudo o que me ordenaste.
+
+[[v5-26-15]]
+
+^<<v5-26-15,15>>^ Agora, olha para baixo desde a tua santa morada, os céus, e abençoa o teu povo Israel e a terra que nos deste, assim como juraste aos nossos antepassados, a terra que mana leite e mel.’
+
+[[v5-26-16]]
+
+^<<v5-26-16,16>>^ “Hoje, Jeová, teu Deus, manda-te cumprir estes decretos e decisões judiciais. Deves obedecer-lhes e cumpri-los de todo o teu coração e de toda a tua alma.^&#42;1^
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v5-26-17]]
+
+^<<v5-26-17,17>>^ Hoje, obtiveste a declaração de Jeová de que ele será o teu Deus enquanto andares nos seus caminhos e observares os seus decretos, mandamentos e decisões judiciais, e enquanto escutares a sua voz.
+
+[[v5-26-18]]
+
+^<<v5-26-18,18>>^ E, hoje, Jeová obteve a tua declaração de que serás o seu povo, a sua propriedade especial,^&#42;1^ assim como ele te prometeu, de que obedecerás a todos os seus mandamentos;
+
+[NOTE]
+====
+. Ou: “estimada”.
+====
+
+[[v5-26-19]]
+
+^<<v5-26-19,19>>^ e disse que te exaltará acima de todas as outras nações que fez, assim como prometeu, dando-te louvor, fama e glória, enquanto fores um povo santo para Jeová, teu Deus.”
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-025.adoc#v5-25-0[&#60; Capítulo Anterior] | <<v5-26-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-027.adoc#v5-27-0[Próximo Capítulo &#62;]

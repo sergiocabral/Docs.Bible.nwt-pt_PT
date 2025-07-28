@@ -1,0 +1,189 @@
+include::./index.adoc[]
+
+[[v3-8-0]]
+=== Levítico, 8
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v3-8-1]]
+
+^<<v3-8-1,1>>^ Jeová continuou a dizer a Moisés:
+
+[[v3-8-2]]
+
+^<<v3-8-2,2>>^ “Traz Arão e os seus filhos, as vestes, o óleo de unção, o novilho da oferta pelo pecado, os dois carneiros e o cesto dos pães sem fermento,
+
+[[v3-8-3]]
+
+^<<v3-8-3,3>>^ e reúne toda a assembleia à entrada da tenda de reunião.”
+
+[[v3-8-4]]
+
+^<<v3-8-4,4>>^ Então, Moisés fez assim como Jeová lhe tinha ordenado e a assembleia reuniu-se à entrada da tenda de reunião.
+
+[[v3-8-5]]
+
+^<<v3-8-5,5>>^ Moisés disse à assembleia: “Isto foi o que Jeová ordenou que fizéssemos.”
+
+[[v3-8-6]]
+
+^<<v3-8-6,6>>^ Assim, Moisés fez Arão e os seus filhos aproximarem-se e lavou-os com água.
+
+[[v3-8-7]]
+
+^<<v3-8-7,7>>^ Em seguida, vestiu Arão com a veste comprida, colocou-lhe a faixa na cintura, vestiu-o com a túnica sem mangas, e por cima pôs o éfode, apertando-o firmemente com o cinto bordado^&#42;1^ do éfode.
+
+[NOTE]
+====
+. Ou: “a faixa para a cintura”.
+====
+
+[[v3-8-8]]
+
+^<<v3-8-8,8>>^ A seguir, colocou-lhe o peitoral e pôs o Urim e o Tumim no peitoral.
+
+[[v3-8-9]]
+
+^<<v3-8-9,9>>^ Depois, colocou-lhe o turbante na cabeça e, na parte da frente do turbante, a lâmina brilhante de ouro, o sinal sagrado de dedicação,^&#42;1^ assim como Jeová tinha ordenado a Moisés.
+
+[NOTE]
+====
+. Ou: “diadema sagrado”.
+====
+
+[[v3-8-10]]
+
+^<<v3-8-10,10>>^ Moisés pegou então no óleo de unção, ungiu o tabernáculo e tudo o que nele havia, e santificou-os.
+
+[[v3-8-11]]
+
+^<<v3-8-11,11>>^ Depois disso, aspergiu um pouco do óleo sete vezes sobre o altar e ungiu o altar e todos os seus utensílios e a bacia com o seu suporte, para os santificar.
+
+[[v3-8-12]]
+
+^<<v3-8-12,12>>^ Por fim, derramou um pouco do óleo de unção sobre a cabeça de Arão e ungiu-o para o santificar.
+
+[[v3-8-13]]
+
+^<<v3-8-13,13>>^ Em seguida, Moisés mandou os filhos de Arão aproximarem-se, pôs-lhes as vestes compridas e as faixas, e colocou-lhes^&#42;1^ a cobertura para a cabeça, assim como Jeová lhe tinha ordenado.
+
+[NOTE]
+====
+. Ou: “enrolou-lhes”.
+====
+
+[[v3-8-14]]
+
+^<<v3-8-14,14>>^ Então, trouxe o novilho da oferta pelo pecado e Arão e os seus filhos puseram as mãos sobre a cabeça do novilho da oferta pelo pecado.
+
+[[v3-8-15]]
+
+^<<v3-8-15,15>>^ Moisés abateu o novilho, molhou o dedo no sangue e pô-lo sobre todos os chifres do altar, purificando de pecado o altar. Contudo, derramou o restante do sangue na base do altar, a fim de o santificar para se fazer expiação sobre ele.
+
+[[v3-8-16]]
+
+^<<v3-8-16,16>>^ Depois disso, Moisés pegou em toda a gordura que envolve os intestinos, na membrana gordurosa do fígado e nos dois rins com a gordura que há sobre eles, e queimou-os no altar.
+
+[[v3-8-17]]
+
+^<<v3-8-17,17>>^ A seguir, fez com que o restante do novilho — o couro, a carne e o excremento — fosse queimado com fogo fora do acampamento, assim como Jeová lhe tinha ordenado.
+
+[[v3-8-18]]
+
+^<<v3-8-18,18>>^ Em seguida, trouxe o carneiro da oferta queimada, e Arão e os seus filhos puseram as mãos sobre a cabeça do carneiro.
+
+[[v3-8-19]]
+
+^<<v3-8-19,19>>^ Moisés abateu-o então e aspergiu o sangue em todos os lados do altar.
+
+[[v3-8-20]]
+
+^<<v3-8-20,20>>^ Ele cortou o carneiro em pedaços, e Moisés queimou a cabeça, os pedaços e a gordura.^&#42;1^
+
+[NOTE]
+====
+. Ou: “a gordura à volta dos rins”.
+====
+
+[[v3-8-21]]
+
+^<<v3-8-21,21>>^ Ele lavou os intestinos e as pernas^&#42;1^ do carneiro com água, e Moisés queimou o animal inteiro no altar. Foi uma oferta queimada de aroma agradável,^&#42;2^ uma oferta feita por fogo a Jeová, assim como Jeová tinha ordenado a Moisés.
+
+[NOTE]
+====
+. Isto é, a parte inferior das pernas.
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v3-8-22]]
+
+^<<v3-8-22,22>>^ Então, trouxe o segundo carneiro, o carneiro para a ordenação, e Arão e os seus filhos puseram as mãos sobre a cabeça do carneiro.
+
+[[v3-8-23]]
+
+^<<v3-8-23,23>>^ Moisés abateu-o, pegou num pouco do sangue e pô-lo na ponta da orelha direita de Arão, no polegar da mão direita e no dedo grande do pé direito.
+
+[[v3-8-24]]
+
+^<<v3-8-24,24>>^ A seguir, Moisés mandou os filhos de Arão aproximarem-se e, em cada um deles, pôs um pouco do sangue na ponta da orelha direita, no polegar da mão direita e no dedo grande do pé direito, mas o restante do sangue Moisés aspergiu em todos os lados do altar.
+
+[[v3-8-25]]
+
+^<<v3-8-25,25>>^ Depois, pegou na gordura, na cauda gorda, em toda a gordura que envolve os intestinos, na membrana gordurosa do fígado, nos dois rins com a gordura que há sobre eles e na perna direita.
+
+[[v3-8-26]]
+
+^<<v3-8-26,26>>^ E, do cesto dos pães sem fermento que estava perante Jeová, retirou um pão em forma de anel, sem fermento, um pão em forma de anel feito com azeite e um pão achatado. Então, colocou-os sobre os pedaços de gordura e sobre a perna direita.
+
+[[v3-8-27]]
+
+^<<v3-8-27,27>>^ Em seguida, pôs todas essas coisas nas mãos de Arão e nas mãos dos seus filhos, e começou a movê-las para a frente e para trás, como oferta movida perante Jeová.
+
+[[v3-8-28]]
+
+^<<v3-8-28,28>>^ Então, Moisés tirou-as das mãos deles e queimou tudo no altar, por cima da oferta queimada. Foi um sacrifício de ordenação, de aroma agradável,^&#42;1^ uma oferta feita por fogo a Jeová.
+
+[NOTE]
+====
+. Ou: “apaziguador; calmante”. Lit.: “repousante”.
+====
+
+[[v3-8-29]]
+
+^<<v3-8-29,29>>^ Depois, Moisés pegou no peito do carneiro e moveu-o para a frente e para trás como oferta movida perante Jeová. Essa parte do carneiro para a ordenação tornou-se a porção de Moisés, assim como Jeová lhe tinha ordenado.
+
+[[v3-8-30]]
+
+^<<v3-8-30,30>>^ E Moisés pegou num pouco do óleo de unção e num pouco do sangue que estava no altar, e aspergiu-os sobre Arão e as suas vestes e sobre os filhos de Arão, que estavam com ele, e as suas vestes. Assim, ele santificou Arão e as suas vestes, e os seus filhos  e as suas vestes.
+
+[[v3-8-31]]
+
+^<<v3-8-31,31>>^ Moisés disse então a Arão e aos seus filhos: “Cozinhem a carne à entrada da tenda de reunião e ali irão comê-la com os pães que estão no cesto da ordenação, assim como me foi ordenado: ‘Arão e os seus filhos irão comê-la.’
+
+[[v3-8-32]]
+
+^<<v3-8-32,32>>^ O que sobrar da carne e do pão, vocês queimarão com fogo.
+
+[[v3-8-33]]
+
+^<<v3-8-33,33>>^ Não se afastem da entrada da tenda de reunião durante sete dias, até se completarem os dias da vossa ordenação, porque levará sete dias para vos ordenar como sacerdotes.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “encher a vossa mão”.
+====
+
+[[v3-8-34]]
+
+^<<v3-8-34,34>>^ O que se fez hoje é o que Jeová ordenou que fizéssemos, para fazer expiação por vocês.
+
+[[v3-8-35]]
+
+^<<v3-8-35,35>>^ Ficarão à entrada da tenda de reunião dia e noite, durante sete dias, e cumprirão as vossas obrigações para com Jeová, para que não morram, pois assim me foi ordenado.”
+
+[[v3-8-36]]
+
+^<<v3-8-36,36>>^ E Arão e os seus filhos fizeram tudo o que Jeová tinha ordenado por meio de Moisés.
+
+'''
+
+xref:003-levitico/003-levitico-007.adoc#v3-7-0[&#60; Capítulo Anterior] | <<v3-8-0,Topo>> | xref:003-levitico/003-levitico-009.adoc#v3-9-0[Próximo Capítulo &#62;]

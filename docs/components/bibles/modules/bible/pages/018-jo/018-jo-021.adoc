@@ -1,0 +1,242 @@
+include::./index.adoc[]
+
+[[v18-21-0]]
+=== Jó, 21
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-21-1]]
+
+^<<v18-21-1,1>>^ Jó disse em resposta:
+
+[[v18-21-2]]
+
+^<<v18-21-2,2>>^ “Ouçam atentamente o que eu digo;
+Que esse seja o consolo que me dão.
+
+[[v18-21-3]]
+
+^<<v18-21-3,3>>^ Tenham paciência comigo, enquanto falo;
+Depois de eu falar, podem gozar comigo.
+
+[[v18-21-4]]
+
+^<<v18-21-4,4>>^ Será que me estou a queixar a um homem?
+Se estivesse, não perderia eu^&#42;1^ a paciência?
+
+[NOTE]
+====
+. Lit.: “o meu espírito”.
+====
+
+[[v18-21-5]]
+
+^<<v18-21-5,5>>^ Olhem para mim e fiquem espantados;
+Ponham a mão sobre a boca.
+
+[[v18-21-6]]
+
+^<<v18-21-6,6>>^ Quando penso nisso, fico perturbado,
+E todo o meu corpo treme.
+
+[[v18-21-7]]
+
+^<<v18-21-7,7>>^ Porque é que os maus continuam a viver,
+Envelhecem e ficam ricos?^&#42;1^
+
+[NOTE]
+====
+. Ou: “poderosos”.
+====
+
+[[v18-21-8]]
+
+^<<v18-21-8,8>>^ Os seus filhos estão sempre na sua presença,
+E chegam a ver os seus descendentes.
+
+[[v18-21-9]]
+
+^<<v18-21-9,9>>^ As suas casas estão seguras, eles estão livres do medo;
+E Deus não os pune com a sua vara.
+
+[[v18-21-10]]
+
+^<<v18-21-10,10>>^ Os seus touros procriam sem falhar;
+As suas vacas dão à luz e não abortam.
+
+[[v18-21-11]]
+
+^<<v18-21-11,11>>^ Os seus meninos correm lá fora como um rebanho,
+E os seus filhos pulam de alegria.
+
+[[v18-21-12]]
+
+^<<v18-21-12,12>>^ Cantam com o acompanhamento de pandeireta e harpa,
+E alegram-se ao som da flauta.^&#42;1^
+
+[NOTE]
+====
+. Ou: “do pífaro”.
+====
+
+[[v18-21-13]]
+
+^<<v18-21-13,13>>^ Passam os seus dias contentes
+E descem em paz^&#42;1^ à Sepultura.^&#42;2^
+
+[NOTE]
+====
+. Ou: “num instante”, isto é, sofrem uma morte rápida e sem dor.
+. Ou: “ao Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v18-21-14]]
+
+^<<v18-21-14,14>>^ Mas eles dizem ao verdadeiro Deus: ‘Deixa-nos em paz!
+Não queremos conhecer os teus caminhos.
+
+[[v18-21-15]]
+
+^<<v18-21-15,15>>^ Quem é o Todo-Poderoso, para que o sirvamos?
+Que vantagem teríamos em conhecê-lo?’
+
+[[v18-21-16]]
+
+^<<v18-21-16,16>>^ Mas sei que eles não têm controlo sobre a sua prosperidade.
+O pensamento^&#42;1^ dos maus está longe de mim.
+
+[NOTE]
+====
+. Ou: “O conselho; A trama”.
+====
+
+[[v18-21-17]]
+
+^<<v18-21-17,17>>^ Quantas vezes é apagada a lâmpada dos maus?
+Quantas vezes vem sobre eles a calamidade?
+Na Sua ira, quantas vezes Deus lhes traz destruição?
+
+[[v18-21-18]]
+
+^<<v18-21-18,18>>^ Será que se tornam como a palha diante do vento
+E como a pragana levada pelo vendaval?
+
+[[v18-21-19]]
+
+^<<v18-21-19,19>>^ Deus reservará a punição do homem para os seus filhos.
+Que Deus lhe retribua, para que ele mesmo sinta.
+
+[[v18-21-20]]
+
+^<<v18-21-20,20>>^ Que os seus próprios olhos vejam a sua ruína,
+E que ele beba do furor do Todo-Poderoso.
+
+[[v18-21-21]]
+
+^<<v18-21-21,21>>^ Pois o que lhe importa o que acontecerá com a sua família depois de ele morrer,
+Se o número dos seus meses for abreviado?^&#42;1^
+
+[NOTE]
+====
+. Ou: “cortado pela metade”.
+====
+
+[[v18-21-22]]
+
+^<<v18-21-22,22>>^ Pode alguém transmitir conhecimento a Deus,^&#42;1^
+Aquele que julga até mesmo os que estão em posição mais elevada?
+
+[NOTE]
+====
+. Ou: “ensinar algo a Deus”.
+====
+
+[[v18-21-23]]
+
+^<<v18-21-23,23>>^ Um homem morre em pleno vigor,
+Quando está completamente despreocupado e tranquilo,
+
+[[v18-21-24]]
+
+^<<v18-21-24,24>>^ Quando as suas coxas estão gordas,
+E os seus ossos estão fortes.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “o tutano dos seus ossos está húmido”.
+====
+
+[[v18-21-25]]
+
+^<<v18-21-25,25>>^ Contudo, outro morre cheio de amargura,^&#42;1^
+Sem nunca ter experimentado coisas boas.
+
+[NOTE]
+====
+. Ou: “com a alma amargurada”.
+====
+
+[[v18-21-26]]
+
+^<<v18-21-26,26>>^ Juntos irão deitar-se no pó,
+E ambos serão cobertos por vermes.
+
+[[v18-21-27]]
+
+^<<v18-21-27,27>>^ Eu sei muito bem o que vocês estão a pensar
+E o que estão a tramar para me prejudicar.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “para agir violentamente contra mim”.
+====
+
+[[v18-21-28]]
+
+^<<v18-21-28,28>>^ Vocês dizem: ‘Onde está a casa do homem proeminente,
+E onde está a tenda em que os maus moravam?’
+
+[[v18-21-29]]
+
+^<<v18-21-29,29>>^ Não perguntaram aos viajantes?
+Não consideraram com atenção as suas observações,^&#42;1^
+
+[NOTE]
+====
+. Lit.: “os seus sinais”.
+====
+
+[[v18-21-30]]
+
+^<<v18-21-30,30>>^ Que aquele que é mau é poupado no dia da calamidade
+E é salvo no dia da fúria?
+
+[[v18-21-31]]
+
+^<<v18-21-31,31>>^ Quem o repreenderá por causa do seu caminho,
+E quem lhe retribuirá pelo que ele fez?
+
+[[v18-21-32]]
+
+^<<v18-21-32,32>>^ Quando for levado para o cemitério,
+Manterão vigília sobre o seu túmulo.
+
+[[v18-21-33]]
+
+^<<v18-21-33,33>>^ Os torrões de terra do vale^&#42;1^ serão doces para ele;
+E toda a humanidade o segue,^&#42;2^
+Como inúmeros outros antes dele.
+
+[NOTE]
+====
+. Ou: “uádi”.
+. Lit.: “E ele arrastará toda a humanidade atrás dele”.
+====
+
+[[v18-21-34]]
+
+^<<v18-21-34,34>>^ Então, porque é que me dão um consolo inútil?
+As vossas respostas não passam de falsidade!”
+
+'''
+
+xref:018-jo/018-jo-020.adoc#v18-20-0[&#60; Capítulo Anterior] | <<v18-21-0,Topo>> | xref:018-jo/018-jo-022.adoc#v18-22-0[Próximo Capítulo &#62;]

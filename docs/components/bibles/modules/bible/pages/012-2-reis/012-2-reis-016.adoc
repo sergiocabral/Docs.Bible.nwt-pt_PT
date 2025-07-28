@@ -1,0 +1,114 @@
+include::./index.adoc[]
+
+[[v12-16-0]]
+=== 2 Reis, 16
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v12-16-1]]
+
+^<<v12-16-1,1>>^ No décimo sétimo ano de Peca, filho de Remalias, Acaz, filho de Jotão, rei de Judá, tornou-se rei.
+
+[[v12-16-2]]
+
+^<<v12-16-2,2>>^ Acaz tinha 20 anos de idade quando se tornou rei, e reinou durante 16 anos em Jerusalém. Ele não fez o que era certo aos olhos de Jeová, seu Deus, como David, seu antepassado, tinha feito.
+
+[[v12-16-3]]
+
+^<<v12-16-3,3>>^ Em vez disso, ele andou no caminho dos reis de Israel e até mesmo queimou o seu próprio filho no fogo,^&#42;1^ imitando as práticas detestáveis das nações que Jeová tinha expulsado de diante dos israelitas.
+
+[NOTE]
+====
+. Lit.: “fez o seu filho passar pelo fogo”.
+====
+
+[[v12-16-4]]
+
+^<<v12-16-4,4>>^ Além disso, oferecia sacrifícios e fazia fumo sacrificial nos altos sagrados, nas colinas e debaixo de todas as árvores frondosas.
+
+[[v12-16-5]]
+
+^<<v12-16-5,5>>^ Foi então que Rezim, rei da Síria, e Peca, filho de Remalias, rei de Israel, vieram guerrear contra Jerusalém. Eles cercaram Acaz, mas não conseguiram tomar a cidade.
+
+[[v12-16-6]]
+
+^<<v12-16-6,6>>^ Naquele tempo, Rezim, rei da Síria, restituiu Elate a Edom, expulsando depois os judeus^&#42;1^ de Elate. Os edomitas entraram em Elate, e continuam lá até ao dia de hoje.
+
+[NOTE]
+====
+. Ou: “os homens de Judá”.
+====
+
+[[v12-16-7]]
+
+^<<v12-16-7,7>>^ Portanto, Acaz enviou mensageiros a Tiglate-Pileser, rei da Assíria, para lhe dizer: “Sou teu servo e teu filho. Vem e salva-me das mãos do rei da Síria e das mãos do rei de Israel, que me estão a atacar.”
+
+[[v12-16-8]]
+
+^<<v12-16-8,8>>^ Acaz pegou na prata e no ouro que havia na casa de Jeová e no tesouro da casa^&#42;1^ do rei e enviou-os ao rei da Assíria como suborno.
+
+[NOTE]
+====
+. Ou: “do palácio”.
+====
+
+[[v12-16-9]]
+
+^<<v12-16-9,9>>^ O rei da Assíria atendeu ao seu pedido; ele subiu até Damasco e tomou-a, levou os seus habitantes para o exílio em Quir e matou Rezim.
+
+[[v12-16-10]]
+
+^<<v12-16-10,10>>^ Depois, o rei Acaz foi a Damasco encontrar-se com Tiglate-Pileser, rei da Assíria. Quando viu o altar que havia em Damasco, o rei Acaz enviou a Urias, o sacerdote, um projeto do altar, que mostrava como ele era e como tinha sido feito.
+
+[[v12-16-11]]
+
+^<<v12-16-11,11>>^ Urias, o sacerdote, construiu um altar de acordo com todas as orientações que o rei Acaz tinha enviado de Damasco. Urias, o sacerdote, terminou de construir o altar antes de o rei Acaz voltar de Damasco.
+
+[[v12-16-12]]
+
+^<<v12-16-12,12>>^ Quando o rei voltou de Damasco e viu o altar, aproximou-se do altar e fez ofertas nele.
+
+[[v12-16-13]]
+
+^<<v12-16-13,13>>^ E ele queimou^&#42;1^ no altar as suas ofertas queimadas e as suas ofertas de cereais; também derramou as suas ofertas de bebida e aspergiu no altar o sangue dos seus sacrifícios de participação em comum.
+
+[NOTE]
+====
+. Ou: “fez fumegar”.
+====
+
+[[v12-16-14]]
+
+^<<v12-16-14,14>>^ Então, ele tirou o altar de cobre que estava perante Jeová, na parte da frente da casa, entre o seu próprio altar e a casa de Jeová, e colocou-o no lado norte do seu próprio altar.
+
+[[v12-16-15]]
+
+^<<v12-16-15,15>>^ O rei Acaz ordenou a Urias, o sacerdote: “Queima no grande altar a oferta queimada da manhã e a oferta de cereais do anoitecer, também a oferta queimada do rei e a sua oferta de cereais, assim como as ofertas queimadas, as ofertas de cereais e as ofertas de bebida de todo o povo. Também deves aspergir no altar todo o sangue das ofertas queimadas e todo o sangue dos outros sacrifícios. Quanto ao altar de cobre, decidirei o que lhe vou fazer.”
+
+[[v12-16-16]]
+
+^<<v12-16-16,16>>^ E Urias, o sacerdote, fez tudo o que o rei Acaz tinha ordenado.
+
+[[v12-16-17]]
+
+^<<v12-16-17,17>>^ Além disso, o rei Acaz cortou em pedaços os painéis laterais dos carrinhos e retirou deles as bacias; também tirou o Mar de cima dos touros de cobre que o sustentavam e colocou-o num pavimento de pedra.
+
+[[v12-16-18]]
+
+^<<v12-16-18,18>>^ E, por causa do rei da Assíria, ele removeu da casa de Jeová a área coberta, que tinha sido construída na casa e era usada no sábado e também a entrada externa usada pelo rei.
+
+[[v12-16-19]]
+
+^<<v12-16-19,19>>^ Quanto aos outros acontecimentos da história de Acaz, o que ele fez, não estão escritos no livro da história da época dos reis de Judá?
+
+[[v12-16-20]]
+
+^<<v12-16-20,20>>^ Por fim, Acaz descansou com os seus antepassados e foi enterrado com os seus antepassados na Cidade de David; e Ezequias,^&#42;1^ seu filho, tornou-se rei no seu lugar.
+
+[NOTE]
+====
+. Que significa “Jeová fortalece”.
+====
+
+'''
+
+xref:012-2-reis/012-2-reis-015.adoc#v12-15-0[&#60; Capítulo Anterior] | <<v12-16-0,Topo>> | xref:012-2-reis/012-2-reis-017.adoc#v12-17-0[Próximo Capítulo &#62;]

@@ -1,0 +1,54 @@
+include::./index.adoc[]
+
+[[v2-11-0]]
+=== Êxodo, 11
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-11-1]]
+
+^<<v2-11-1,1>>^ Então, Jeová disse a Moisés: “Vou trazer mais uma praga sobre o Faraó e sobre o Egito. Depois, ele irá mandar-vos embora daqui. Quando ele vos mandar embora, irá expulsar-vos literalmente daqui.
+
+[[v2-11-2]]
+
+^<<v2-11-2,2>>^ Agora, diz ao povo que tanto os homens como as mulheres devem pedir artigos de prata e artigos de ouro aos seus vizinhos.”
+
+[[v2-11-3]]
+
+^<<v2-11-3,3>>^ E Jeová fez com que o povo fosse encarado favoravelmente pelos egípcios. Além disso, o próprio Moisés tinha-se tornado muito respeitado na terra do Egito, tanto entre os servos do Faraó como entre o povo.
+
+[[v2-11-4]]
+
+^<<v2-11-4,4>>^ Então, Moisés disse: “Assim disse Jeová: ‘Por volta da meia-noite, passarei pelo Egito,
+
+[[v2-11-5]]
+
+^<<v2-11-5,5>>^ e todos os primogénitos na terra do Egito morrerão, desde o primogénito do Faraó que está sentado no trono até ao primogénito da escrava que trabalha no moinho manual; morrerão também todos os primogénitos do gado.
+
+[[v2-11-6]]
+
+^<<v2-11-6,6>>^ Em toda a terra do Egito, haverá um grande clamor, como nunca houve nem jamais haverá.
+
+[[v2-11-7]]
+
+^<<v2-11-7,7>>^ No entanto, nem sequer um cão ladrará^&#42;1^ contra os israelitas, seja contra os homens, seja contra o seu gado, para que vocês saibam que Jeová pode fazer distinção entre os egípcios e os israelitas.’
+
+[NOTE]
+====
+. Lit.: “afiará a sua língua”.
+====
+
+[[v2-11-8]]
+
+^<<v2-11-8,8>>^ Todos os teus servos certamente virão até mim e se prostrarão diante de mim, dizendo: ‘Vai, tu e todo o povo que te segue.’ E, depois disso, eu sairei.” Com isto, retirou-se com grande ira da presença do Faraó.
+
+[[v2-11-9]]
+
+^<<v2-11-9,9>>^ Então, Jeová disse a Moisés: “O Faraó não vos escutará, para que os meus milagres se multipliquem na terra do Egito.”
+
+[[v2-11-10]]
+
+^<<v2-11-10,10>>^ Moisés e Arão realizaram todos estes milagres diante do Faraó, mas Jeová permitiu que o coração do Faraó ficasse endurecido, de modo que ele não deixou os israelitas partirem do país.
+
+'''
+
+xref:002-exodo/002-exodo-010.adoc#v2-10-0[&#60; Capítulo Anterior] | <<v2-11-0,Topo>> | xref:002-exodo/002-exodo-012.adoc#v2-12-0[Próximo Capítulo &#62;]

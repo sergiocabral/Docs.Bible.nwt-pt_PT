@@ -1,0 +1,107 @@
+include::./index.adoc[]
+
+[[v9-8-0]]
+=== 1 Samuel, 8
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-8-1]]
+
+^<<v9-8-1,1>>^ Quando Samuel ficou idoso, designou os seus filhos como juízes de Israel.
+
+[[v9-8-2]]
+
+^<<v9-8-2,2>>^ O nome do seu filho primogénito era Joel, e o nome do segundo, Abias; eles eram juízes em Berseba.
+
+[[v9-8-3]]
+
+^<<v9-8-3,3>>^ Contudo, os seus filhos não seguiam o seu exemplo; iam atrás de lucro desonesto, aceitavam subornos e pervertiam a justiça.
+
+[[v9-8-4]]
+
+^<<v9-8-4,4>>^ Com o tempo, reuniram-se todos os anciãos de Israel e foram até Samuel, em Ramá.
+
+[[v9-8-5]]
+
+^<<v9-8-5,5>>^ Eles disseram-lhe: “O senhor já está idoso, e os seus filhos não andam nos seus caminhos. Designe um rei que nos julgue, assim como acontece em todas as outras nações.”
+
+[[v9-8-6]]
+
+^<<v9-8-6,6>>^ No entanto, o facto de terem dito “Dê-nos um rei que nos julgue” desagradou a^&#42;1^ Samuel. Por conseguinte, ele orou a Jeová,
+
+[NOTE]
+====
+. Lit.: “foi mau aos olhos de”.
+====
+
+[[v9-8-7]]
+
+^<<v9-8-7,7>>^ e Jeová disse a Samuel: “Faz tudo o que o povo te pede, pois não foi a ti que rejeitaram, mas foi a mim que rejeitaram como rei.
+
+[[v9-8-8]]
+
+^<<v9-8-8,8>>^ Eles estão a fazer exatamente o que têm feito, desde o dia em que os tirei do Egito até hoje; abandonam-me sempre e servem outros deuses, e estão a fazer o mesmo contigo.
+
+[[v9-8-9]]
+
+^<<v9-8-9,9>>^ Agora, escuta o que eles dizem. Mas não deixes de adverti-los com toda a seriedade; explica-lhes o que o rei que os governar terá o direito de exigir.”
+
+[[v9-8-10]]
+
+^<<v9-8-10,10>>^ Portanto, Samuel transmitiu todas as palavras de Jeová ao povo que lhe pedia um rei.
+
+[[v9-8-11]]
+
+^<<v9-8-11,11>>^ Ele disse: “O rei que vos governar terá o direito de exigir o seguinte: ele tomará os vossos filhos para que sirvam nos seus carros de guerra e na sua cavalaria, e alguns terão de correr à frente dos seus carros.
+
+[[v9-8-12]]
+
+^<<v9-8-12,12>>^ E ele designará alguns como chefes de mil e chefes de cinquenta, e outros cultivarão as terras dele, farão as suas colheitas e fabricarão as suas armas de guerra e equipamentos para os seus carros.
+
+[[v9-8-13]]
+
+^<<v9-8-13,13>>^ Ele tomará as vossas filhas para que preparem perfumes,^&#42;1^ cozinhem e façam pão.
+
+[NOTE]
+====
+. Ou: “misturem óleos perfumados”.
+====
+
+[[v9-8-14]]
+
+^<<v9-8-14,14>>^ Há de apoderar-se do melhor dos vossos campos, vinhas e olivais e dá-los aos seus servos.
+
+[[v9-8-15]]
+
+^<<v9-8-15,15>>^ Ficará com uma décima parte dos vossos campos de cereais e vinhas e irá dá-la aos oficiais da corte e aos servos dele.
+
+[[v9-8-16]]
+
+^<<v9-8-16,16>>^ E há de apoderar-se dos vossos servos e servas, do vosso melhor gado e dos vossos jumentos, e usá-los no seu trabalho.
+
+[[v9-8-17]]
+
+^<<v9-8-17,17>>^ Ficará também com uma décima parte das vossas ovelhas; e vocês hão de tornar-se seus servos.
+
+[[v9-8-18]]
+
+^<<v9-8-18,18>>^ Chegará o dia em que clamarão por causa do rei que escolheram, mas Jeová não vos responderá.”
+
+[[v9-8-19]]
+
+^<<v9-8-19,19>>^ No entanto, o povo não deu ouvidos a Samuel e disse: “Não importa! Estamos decididos a ter um rei sobre nós.
+
+[[v9-8-20]]
+
+^<<v9-8-20,20>>^ Então, seremos iguais a todas as outras nações. O nosso rei vai julgar-nos, conduzir-nos e travar as nossas batalhas.”
+
+[[v9-8-21]]
+
+^<<v9-8-21,21>>^ Depois de ouvir todas as palavras do povo, Samuel repetiu-as aos ouvidos de Jeová.
+
+[[v9-8-22]]
+
+^<<v9-8-22,22>>^ Jeová disse a Samuel: “Escuta o povo e designa-lhes um rei.” Então, Samuel disse aos homens de Israel: “Que cada um volte para a sua cidade.”
+
+'''
+
+xref:009-1-samuel/009-1-samuel-007.adoc#v9-7-0[&#60; Capítulo Anterior] | <<v9-8-0,Topo>> | xref:009-1-samuel/009-1-samuel-009.adoc#v9-9-0[Próximo Capítulo &#62;]

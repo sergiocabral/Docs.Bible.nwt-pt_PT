@@ -1,0 +1,178 @@
+include::./index.adoc[]
+
+[[v10-7-0]]
+=== 2 Samuel, 7
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v10-7-1]]
+
+^<<v10-7-1,1>>^ Quando o rei já morava na sua casa^&#42;1^ e Jeová lhe tinha dado descanso de todos os inimigos ao seu redor,
+
+[NOTE]
+====
+. Ou: “no seu palácio”.
+====
+
+[[v10-7-2]]
+
+^<<v10-7-2,2>>^ o rei disse a Natã, o profeta: “Vê, moro numa casa de cedros, enquanto a Arca do verdadeiro Deus está numa tenda.”
+
+[[v10-7-3]]
+
+^<<v10-7-3,3>>^ Então, Natã disse ao rei: “Faça tudo o que o seu coração desejar, porque Jeová está consigo.”
+
+[[v10-7-4]]
+
+^<<v10-7-4,4>>^ Naquela mesma noite, Natã recebeu a seguinte palavra de Jeová:
+
+[[v10-7-5]]
+
+^<<v10-7-5,5>>^ “Vai e diz ao meu servo David: ‘Assim diz Jeová: “Porque é que deverias construir-me uma casa para eu morar?
+
+[[v10-7-6]]
+
+^<<v10-7-6,6>>^ Eu nunca morei numa casa desde o dia em que tirei o povo de Israel do Egito até hoje, mas tenho mudado^&#42;1^ de um lugar para o outro, numa tenda e num tabernáculo.
+
+[NOTE]
+====
+. Lit.: “andado”.
+====
+
+[[v10-7-7]]
+
+^<<v10-7-7,7>>^ Durante todo o tempo em que andei com todos os israelitas,^&#42;1^ será que alguma vez perguntei a um dos líderes das tribos de Israel a quem designei para pastorear o meu povo Israel: ‘Porque é que vocês não me construíram uma casa de cedros?’”’
+
+[NOTE]
+====
+. Lit.: “filhos de Israel”.
+====
+
+[[v10-7-8]]
+
+^<<v10-7-8,8>>^ Agora, diz o seguinte ao meu servo David: ‘Assim diz Jeová dos exércitos: “Tirei-te das pastagens, de trás do rebanho, para que te tornasses líder do meu povo Israel.
+
+[[v10-7-9]]
+
+^<<v10-7-9,9>>^ Estarei contigo por onde quer que andares e vou eliminar^&#42;1^ todos os teus inimigos de diante de ti. E farei um grande nome para ti, igual ao nome dos grandes homens da terra.
+
+[NOTE]
+====
+. Lit.: “decepar”.
+====
+
+[[v10-7-10]]
+
+^<<v10-7-10,10>>^ Vou designar um lugar para o meu povo Israel e estabelecê-lo lá. Eles viverão nesse lugar e não voltarão a ser perturbados; os maus não voltarão a oprimi-los como fizeram no passado,
+
+[[v10-7-11]]
+
+^<<v10-7-11,11>>^ desde o dia em que designei juízes sobre o meu povo Israel. Vou dar-te descanso de todos os teus inimigos.
+“‘“Além disso, Jeová diz-te que Jeová edificará uma casa^&#42;1^ para ti.
+
+[NOTE]
+====
+. Ou: “dinastia”.
+====
+
+[[v10-7-12]]
+
+^<<v10-7-12,12>>^ Quando chegar o fim dos teus dias e descansares com os teus antepassados, farei surgir o teu descendente,^&#42;1^ o teu próprio filho,^&#42;2^ e estabelecerei firmemente o seu reino.
+
+[NOTE]
+====
+. Lit.: “a tua semente”.
+. Lit.: “um que sairá das tuas partes internas”.
+====
+
+[[v10-7-13]]
+
+^<<v10-7-13,13>>^ Ele é quem construirá uma casa para o meu nome, e eu estabelecerei firmemente o trono do seu reino para sempre.
+
+[[v10-7-14]]
+
+^<<v10-7-14,14>>^ Eu vou tornar-me seu pai e ele vai tornar-se meu filho. Quando ele fizer o que é errado, vou puni-lo com a vara dos homens e com os golpes dos filhos dos homens.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “de Adão”.
+====
+
+[[v10-7-15]]
+
+^<<v10-7-15,15>>^ Não lhe retirarei o meu amor leal, assim como o retirei de Saul, a quem removi de diante de ti.
+
+[[v10-7-16]]
+
+^<<v10-7-16,16>>^ Quanto a ti, a tua casa e o teu reino estarão firmes diante de ti para sempre; o teu trono ficará firmemente estabelecido para sempre.”’”
+
+[[v10-7-17]]
+
+^<<v10-7-17,17>>^ Natã transmitiu a David todas estas palavras e toda esta visão.
+
+[[v10-7-18]]
+
+^<<v10-7-18,18>>^ Em vista disso, o rei David entrou e sentou-se diante de Jeová, e disse: “Quem sou eu, ó Soberano Senhor Jeová? E o que é a minha casa, para que me tenhas feito chegar até aqui?
+
+[[v10-7-19]]
+
+^<<v10-7-19,19>>^ Como se isso não bastasse, ó Soberano Senhor Jeová, também me dizes que a casa do teu servo permanecerá até um tempo distante no futuro; e isto é lei^&#42;1^ para toda a humanidade, ó Soberano Senhor Jeová.
+
+[NOTE]
+====
+. Ou: “instrução”.
+====
+
+[[v10-7-20]]
+
+^<<v10-7-20,20>>^ O que é que eu, o teu servo David, te posso dizer mais, visto que me conheces tão bem, ó Soberano Senhor Jeová?
+
+[[v10-7-21]]
+
+^<<v10-7-21,21>>^ Por causa da tua palavra e de acordo com o teu coração,^&#42;1^ fizeste todas estas grandes coisas e revelaste-as ao teu servo.
+
+[NOTE]
+====
+. Ou: “em harmonia com a tua vontade”.
+====
+
+[[v10-7-22]]
+
+^<<v10-7-22,22>>^ É por isso que tu és realmente grande, ó Soberano Senhor Jeová. Não há ninguém igual a ti, e não há Deus além de ti — tudo o que já ouvimos confirma isso.
+
+[[v10-7-23]]
+
+^<<v10-7-23,23>>^ Que outra nação na terra é como o teu povo Israel? Deus resgatou-os como seu povo, fazendo para si um nome por realizar coisas grandes e atemorizantes por eles. Expulsaste as nações e os seus deuses em benefício do teu povo, que resgataste para ti do Egito.
+
+[[v10-7-24]]
+
+^<<v10-7-24,24>>^ Estabeleceste o teu povo Israel como o teu próprio povo para sempre; e tu, ó Jeová, tornaste-te o seu Deus.
+
+[[v10-7-25]]
+
+^<<v10-7-25,25>>^ “Agora, ó Jeová Deus, cumpre para sempre a promessa que fizeste a respeito do teu servo e da sua casa, e que o faças assim como prometeste.
+
+[[v10-7-26]]
+
+^<<v10-7-26,26>>^ Que o teu nome seja enaltecido para sempre, para que as pessoas digam: ‘Jeová dos exércitos é Deus sobre Israel’, e que a casa do teu servo David seja firmemente estabelecida diante de ti.
+
+[[v10-7-27]]
+
+^<<v10-7-27,27>>^ Pois tu, Jeová dos exércitos, Deus de Israel, fizeste uma revelação ao teu servo, dizendo: ‘Vou edificar-te uma casa.’^&#42;1^ Por isso é que o teu servo teve a coragem de^&#42;2^ te fazer esta oração.
+
+[NOTE]
+====
+. Ou: “dinastia”.
+. Lit.: “achou o seu coração para”.
+====
+
+[[v10-7-28]]
+
+^<<v10-7-28,28>>^ Ó Soberano Senhor Jeová, tu és o verdadeiro Deus e as tuas palavras são verdade, e tu prometeste estas coisas boas ao teu servo.
+
+[[v10-7-29]]
+
+^<<v10-7-29,29>>^ Portanto, que seja do teu agrado abençoar a casa do teu servo e que ela permaneça para sempre diante de ti, pois tu o prometeste, ó Soberano Senhor Jeová, e que a casa do teu servo seja abençoada para sempre com a tua bênção.”
+
+'''
+
+xref:010-2-samuel/010-2-samuel-006.adoc#v10-6-0[&#60; Capítulo Anterior] | <<v10-7-0,Topo>> | xref:010-2-samuel/010-2-samuel-008.adoc#v10-8-0[Próximo Capítulo &#62;]

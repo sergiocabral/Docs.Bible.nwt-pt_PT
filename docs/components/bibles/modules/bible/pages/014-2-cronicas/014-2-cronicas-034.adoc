@@ -1,0 +1,207 @@
+include::./index.adoc[]
+
+[[v14-34-0]]
+=== 2 Crónicas, 34
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v14-34-1]]
+
+^<<v14-34-1,1>>^ Josias tinha oito anos de idade quando se tornou rei, e reinou durante 31 anos em Jerusalém.
+
+[[v14-34-2]]
+
+^<<v14-34-2,2>>^ Ele fez o que era certo aos olhos de Jeová e andou nos caminhos de David, seu antepassado. Não se desviou nem para a direita nem para a esquerda.
+
+[[v14-34-3]]
+
+^<<v14-34-3,3>>^ No oitavo ano do seu reinado, quando ainda era jovem, começou a procurar o Deus de David, seu antepassado; e no décimo segundo ano começou a purificar Judá e Jerusalém dos altos sagrados, dos postes sagrados,^&#42;1^ das imagens esculpidas e das estátuas de metal.^&#42;2^
+
+[NOTE]
+====
+. Veja o Glossário.
+. Ou: “estátuas fundidas”.
+====
+
+[[v14-34-4]]
+
+^<<v14-34-4,4>>^ Além disso, demoliram os altares dos baalins na sua presença, e ele derrubou os altares de incenso que ficavam por cima deles. Também destroçou os postes sagrados,^&#42;1^ as imagens esculpidas e as estátuas de metal.^&#42;2^ Reduziu-os a pó e espalhou o pó sobre as sepulturas dos que lhes costumavam oferecer sacrifícios.
+
+[NOTE]
+====
+. Veja o Glossário.
+. Ou: “estátuas fundidas”.
+====
+
+[[v14-34-5]]
+
+^<<v14-34-5,5>>^ E queimou os ossos dos sacerdotes nos seus altares. Assim purificou Judá e Jerusalém.
+
+[[v14-34-6]]
+
+^<<v14-34-6,6>>^ E nas cidades de Manassés, de Efraim e de Simeão, chegando até Naftali, nas ruínas ao redor delas,
+
+[[v14-34-7]]
+
+^<<v14-34-7,7>>^ ele demoliu os altares e esmiuçou os postes sagrados^&#42;1^ e as imagens esculpidas, reduzindo-os a pó. Também derrubou todos os altares de incenso em toda a terra de Israel, depois voltou para Jerusalém.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v14-34-8]]
+
+^<<v14-34-8,8>>^ No décimo oitavo ano do seu reinado, depois de ter purificado o país e o templo,^&#42;1^ Josias enviou Safã, filho de Azalias, Maaseias, chefe da cidade, e o cronista Joá, filho de Joacaz, para reparar a casa de Jeová, seu Deus.
+
+[NOTE]
+====
+. Lit.: “a casa”.
+====
+
+[[v14-34-9]]
+
+^<<v14-34-9,9>>^ Eles foram ter com Hilquias, o sumo sacerdote, e entregaram-lhe o dinheiro que tinha sido trazido à casa de Deus. Os levitas que serviam como porteiros tinham recolhido esse dinheiro de Manassés, de Efraim e de todos os outros de Israel, assim como de Judá, de Benjamim e dos habitantes de Jerusalém.
+
+[[v14-34-10]]
+
+^<<v14-34-10,10>>^ Então, o dinheiro foi entregue aos que supervisionavam a obra na casa de Jeová. E os trabalhadores na casa de Jeová usaram-no para restaurar e reparar a casa.
+
+[[v14-34-11]]
+
+^<<v14-34-11,11>>^ O dinheiro foi dado aos artesãos e aos construtores, para comprarem pedras talhadas e madeira para fazer travamentos e vigas para construir os edifícios que os reis de Judá tinham deixado cair em ruínas.
+
+[[v14-34-12]]
+
+^<<v14-34-12,12>>^ E os homens executaram fielmente o seu trabalho. Os levitas Jaate e Obadias, dos meraritas, e Zacarias e Mesulão, dos coatitas, foram designados para servir como supervisores deles. E todos os levitas, que eram músicos hábeis,
+
+[[v14-34-13]]
+
+^<<v14-34-13,13>>^ estavam encarregados dos trabalhadores comuns^&#42;1^ e eram supervisores de todos os que faziam os diversos tipos de serviço. Alguns dos levitas eram secretários, oficiais e porteiros.
+
+[NOTE]
+====
+. Ou: “dos carregadores”.
+====
+
+[[v14-34-14]]
+
+^<<v14-34-14,14>>^ Quando estavam a retirar o dinheiro que tinha sido levado para a casa de Jeová, Hilquias, o sacerdote, encontrou o livro da Lei de Jeová dada por meio^&#42;1^ de Moisés.
+
+[NOTE]
+====
+. Lit.: “pela mão”.
+====
+
+[[v14-34-15]]
+
+^<<v14-34-15,15>>^ Portanto, Hilquias disse a Safã, o secretário: “Encontrei o livro da Lei na casa de Jeová.” Com isso, Hilquias deu o livro a Safã.
+
+[[v14-34-16]]
+
+^<<v14-34-16,16>>^ E Safã levou o livro ao rei e disse-lhe: “Os teus servos estão a fazer tudo o que lhes foi designado.
+
+[[v14-34-17]]
+
+^<<v14-34-17,17>>^ Recolheram^&#42;1^ o dinheiro que havia na casa de Jeová e entregaram-no aos supervisores e aos que fazem a obra.”
+
+[NOTE]
+====
+. Lit.: “Despejaram”.
+====
+
+[[v14-34-18]]
+
+^<<v14-34-18,18>>^ Safã, o secretário, também disse ao rei: “Hilquias, o sacerdote, deu-me um livro.” E Safã começou a lê-lo perante o rei.
+
+[[v14-34-19]]
+
+^<<v14-34-19,19>>^ Assim que o rei ouviu as palavras da Lei, rasgou a sua roupa.
+
+[[v14-34-20]]
+
+^<<v14-34-20,20>>^ Em seguida, o rei deu a seguinte ordem a Hilquias, a Aicão, filho de Safã, a Abdom, filho de Mica, a Safã, o secretário, e a Asaías, servo do rei:
+
+[[v14-34-21]]
+
+^<<v14-34-21,21>>^ “Vão, consultem a Jeová por mim e pelos que ainda restam em Israel e em Judá a respeito das palavras do livro que foi encontrado; pois o furor de Jeová que será derramado contra nós é grande, visto que os nossos antepassados não cumpriram a palavra de Jeová nem fizeram tudo o que está escrito neste livro.”
+
+[[v14-34-22]]
+
+^<<v14-34-22,22>>^ Por conseguinte, Hilquias e aqueles que o rei tinha enviado foram ter com Hulda, a profetisa. Ela era esposa de Salum, que era o encarregado do vestiário e filho de Ticvá, filho de Harás. Ela morava em Jerusalém, na Cidade Nova,^&#42;1^ e ali falaram com ela.
+
+[NOTE]
+====
+. Ou: “no segundo bairro”.
+====
+
+[[v14-34-23]]
+
+^<<v14-34-23,23>>^ Ela disse-lhes: “Assim diz Jeová, o Deus de Israel: ‘Digam ao homem que vos enviou a mim:
+
+[[v14-34-24]]
+
+^<<v14-34-24,24>>^ “Assim diz Jeová: ‘Trarei sobre este lugar e os seus habitantes uma calamidade, todas as maldições que estão escritas no livro que foi lido diante do rei de Judá.
+
+[[v14-34-25]]
+
+^<<v14-34-25,25>>^ Visto que me abandonaram e queimam sacrifícios a outros deuses para me ofender com todos os trabalhos das suas mãos, o meu furor será derramado sobre este lugar e não se apagará.’”
+
+[[v14-34-26]]
+
+^<<v14-34-26,26>>^ Porém, devem dizer o seguinte ao rei de Judá, que vos mandou consultar a Jeová: “Assim diz Jeová, o Deus de Israel: ‘No que se refere às palavras que ouviste,
+
+[[v14-34-27]]
+
+^<<v14-34-27,27>>^ visto que o teu coração foi recetivo^&#42;1^ e te humilhaste perante Deus quando ouviste as suas palavras a respeito deste lugar e dos seus habitantes, e te humilhaste perante mim, rasgaste a tua roupa e choraste diante de mim, eu também te ouvi’, diz Jeová.
+
+[NOTE]
+====
+. Lit.: “mole”.
+====
+
+[[v14-34-28]]
+
+^<<v14-34-28,28>>^ ‘É por isso que eu te reunirei aos teus antepassados,^&#42;1^ e descansarás em paz na tua sepultura, de modo que os teus olhos não verão toda a calamidade que trarei sobre este lugar e sobre os seus habitantes.’”’”
+Então, eles levaram a resposta ao rei.
+
+[NOTE]
+====
+. Expressão poética que se refere à morte.
+====
+
+[[v14-34-29]]
+
+^<<v14-34-29,29>>^ Assim, o rei mandou convocar todos os anciãos de Judá e de Jerusalém.
+
+[[v14-34-30]]
+
+^<<v14-34-30,30>>^ Depois, o rei subiu à casa de Jeová com todos os homens de Judá, os habitantes de Jerusalém, os sacerdotes, os levitas e todo o povo — tanto o grande como o pequeno. Ele leu-lhes todas as palavras do livro do pacto que tinha sido encontrado na casa de Jeová.
+
+[[v14-34-31]]
+
+^<<v14-34-31,31>>^ O rei ficou de pé no seu lugar e fez um pacto^&#42;1^ perante Jeová, comprometendo-se a seguir a Jeová e a guardar os seus mandamentos, as suas advertências^&#42;2^ e os seus decretos, de todo o coração e de toda a alma,^&#42;3^ por cumprir as palavras do pacto escritas no livro.
+
+[NOTE]
+====
+. Ou: “renovou o pacto”.
+. Ou: “os seus lembretes”.
+. Veja o Glossário.
+====
+
+[[v14-34-32]]
+
+^<<v14-34-32,32>>^ Além disso, fez com que todos os que estavam em Jerusalém e em Benjamim concordassem com o pacto. E os habitantes de Jerusalém agiram de acordo com o pacto de Deus, o Deus dos seus antepassados.
+
+[[v14-34-33]]
+
+^<<v14-34-33,33>>^ Em seguida, Josias removeu todas as coisas^&#42;1^ detestáveis de todas as terras dos israelitas e fez com que todos em Israel servissem a Jeová, seu Deus. Enquanto ele viveu,^&#42;2^ não deixaram de seguir a Jeová, o Deus dos seus antepassados.
+
+[NOTE]
+====
+. Ou: “todos os ídolos”.
+. Lit.: “Todos os seus dias”.
+====
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-033.adoc#v14-33-0[&#60; Capítulo Anterior] | <<v14-34-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-035.adoc#v14-35-0[Próximo Capítulo &#62;]

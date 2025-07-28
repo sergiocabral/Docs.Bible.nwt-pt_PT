@@ -1,0 +1,219 @@
+include::./index.adoc[]
+
+[[v2-23-0]]
+=== Êxodo, 23
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-23-1]]
+
+^<<v2-23-1,1>>^ “Não espalhes^&#42;1^ uma notícia falsa. Não cooperes com uma pessoa má, por dares um testemunho mal-intencionado.
+
+[NOTE]
+====
+. Lit.: “levantes”.
+====
+
+[[v2-23-2]]
+
+^<<v2-23-2,2>>^ Não vás atrás da multidão para fazer o mal e, ao prestares depoimento, não pervertas a justiça para apoiar a multidão.^&#42;1^
+
+[NOTE]
+====
+. Ou: “não deves perverter a justiça com um depoimento que é popular”.
+====
+
+[[v2-23-3]]
+
+^<<v2-23-3,3>>^ Sê imparcial na causa que envolve uma pessoa pobre.
+
+[[v2-23-4]]
+
+^<<v2-23-4,4>>^ “Se encontrares perdido o touro ou o jumento do teu inimigo, leva-o de volta até ele.
+
+[[v2-23-5]]
+
+^<<v2-23-5,5>>^ Se vires o jumento de alguém que te odeia caído sob a carga, não te vás embora sem prestar ajuda. Ajuda o dono a soltar o animal.
+
+[[v2-23-6]]
+
+^<<v2-23-6,6>>^ “Não pervertas a justiça na causa do pobre que vive no teu meio.
+
+[[v2-23-7]]
+
+^<<v2-23-7,7>>^ “Não te envolvas em acusações falsas,^&#42;1^ e não mates o inocente e o justo, pois não vou declarar justo quem fizer o mal.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “palavra falsa”.
+. Ou: “não vou absolver aquele que é mau”.
+====
+
+[[v2-23-8]]
+
+^<<v2-23-8,8>>^ “Não aceites suborno, pois o suborno cega os sábios^&#42;1^ e pode distorcer as palavras dos justos.
+
+[NOTE]
+====
+. Ou: “perspicazes”.
+====
+
+[[v2-23-9]]
+
+^<<v2-23-9,9>>^ “Não oprimas o residente estrangeiro. Vocês sabem o que é ser um estrangeiro,^&#42;1^ porque foram residentes estrangeiros na terra do Egito.
+
+[NOTE]
+====
+. Ou: “conhecem a vida (alma) de um estrangeiro”.
+====
+
+[[v2-23-10]]
+
+^<<v2-23-10,10>>^ “Semeia a tua terra e recolhe os seus produtos por seis anos.
+
+[[v2-23-11]]
+
+^<<v2-23-11,11>>^ No sétimo ano, porém, não deves cultivá-la; deves deixá-la descansar.^&#42;1^ Assim os pobres do teu povo comerão o que a terra produzir, e o que for deixado por eles será comido pelos animais selvagens. Isto é o que deves fazer com a tua vinha e com o teu olival.
+
+[NOTE]
+====
+. Ou: “em pousio”.
+====
+
+[[v2-23-12]]
+
+^<<v2-23-12,12>>^ “Deves fazer o teu trabalho por seis dias; mas no sétimo dia não deves fazer nenhum trabalho, para que o teu touro e o teu jumento descansem, e o filho da tua escrava e o residente estrangeiro se revigorem.
+
+[[v2-23-13]]
+
+^<<v2-23-13,13>>^ “Tenham o cuidado de fazer tudo o que vos disse. Não mencionem o nome de outros deuses; não se ouça o seu nome dos vossos lábios.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “da vossa boca”.
+====
+
+[[v2-23-14]]
+
+^<<v2-23-14,14>>^ “Todos os anos, deves celebrar três festividades em minha honra.
+
+[[v2-23-15]]
+
+^<<v2-23-15,15>>^ Celebrarás a Festividade dos Pães sem Fermento. Por sete dias comerás pães sem fermento, assim como te ordenei, na época determinada do mês de abibe,^&#42;1^ pois foi nesse mês que saíste do Egito. Ninguém deve comparecer perante mim de mãos vazias.
+
+[NOTE]
+====
+. Veja o Ap. B15.
+====
+
+[[v2-23-16]]
+
+^<<v2-23-16,16>>^ Celebra também a Festividade da Colheita^&#42;1^ dos primeiros frutos maduros do teu trabalho, daquilo que semeias no campo; e celebra a Festividade do Recolhimento^&#42;2^ no fim do ano, quando recolheres dos campos o fruto do teu trabalho.
+
+[NOTE]
+====
+. Também conhecida como Festividade das Semanas, ou Pentecostes.
+. Também conhecida como Festividade das Barracas (Tendas).
+====
+
+[[v2-23-17]]
+
+^<<v2-23-17,17>>^ Três vezes por ano, todos os homens^&#42;1^ devem comparecer perante Jeová, o verdadeiro Senhor.
+
+[NOTE]
+====
+. Ou: “indivíduos do sexo masculino”.
+====
+
+[[v2-23-18]]
+
+^<<v2-23-18,18>>^ “Não ofereças o sangue do meu sacrifício com algo que tenha fermento. E os sacrifícios de gordura oferecidos nas minhas festividades não devem ser guardados da noite para o dia.
+
+[[v2-23-19]]
+
+^<<v2-23-19,19>>^ “Deves levar à casa de Jeová, teu Deus, o melhor dos primeiros frutos maduros da tua terra.
+“Não cozinhes o cabrito no leite da própria mãe.
+
+[[v2-23-20]]
+
+^<<v2-23-20,20>>^ “Enviarei um anjo à tua frente para proteger-te pelo caminho e para fazer-te entrar no lugar que preparei.
+
+[[v2-23-21]]
+
+^<<v2-23-21,21>>^ Presta-lhe atenção e obedece à sua voz. Não te rebeles contra ele, porque ele não perdoará as vossas transgressões, pois o meu nome está nele.
+
+[[v2-23-22]]
+
+^<<v2-23-22,22>>^ Contudo, se obedeceres fielmente à sua voz e fizeres tudo o que eu disser, irei tratar os teus inimigos com hostilidade e opor-me aos que se opuserem a ti.
+
+[[v2-23-23]]
+
+^<<v2-23-23,23>>^ Pois o meu anjo irá à tua frente e levar-te-á aos amorreus, aos hititas, aos perizeus, aos cananeus, aos heveus e aos jebuseus, e eu irei eliminá-los.
+
+[[v2-23-24]]
+
+^<<v2-23-24,24>>^ Não te curves diante dos deuses dessas nações nem os sirvas,^&#42;1^ e não imites as suas práticas. Pelo contrário, destrói-os e destroça as suas colunas sagradas.
+
+[NOTE]
+====
+. Ou: “nem sejas induzido a servi-los”.
+====
+
+[[v2-23-25]]
+
+^<<v2-23-25,25>>^ Sirvam a Jeová, vosso Deus, e ele abençoará o vosso pão e a vossa água. Removerei as doenças do vosso meio.
+
+[[v2-23-26]]
+
+^<<v2-23-26,26>>^ Na tua terra, as mulheres não sofrerão aborto nem serão estéreis, e eu irei dar-te uma vida longa.^&#42;1^
+
+[NOTE]
+====
+. Ou: “tornarei pleno o número dos teus dias”.
+====
+
+[[v2-23-27]]
+
+^<<v2-23-27,27>>^ “Enviarei à tua frente o medo que há de mim, e lançarei em confusão todos os povos que enfrentares, e farei com que todos os teus inimigos sejam derrotados e fujam de ti.^&#42;1^
+
+[NOTE]
+====
+. Ou: “farei com que todos os teus inimigos te virem as costas”.
+====
+
+[[v2-23-28]]
+
+^<<v2-23-28,28>>^ Enviarei à tua frente o sentimento de desânimo,^&#42;1^ e este expulsará os heveus, os cananeus e os hititas de diante de ti.
+
+[NOTE]
+====
+. Ou, possivelmente: “pânico; pavor”.
+====
+
+[[v2-23-29]]
+
+^<<v2-23-29,29>>^ Não os expulsarei de diante de ti num só ano, para que a terra não fique desolada, e os animais selvagens não se multipliquem e te ataquem.
+
+[[v2-23-30]]
+
+^<<v2-23-30,30>>^ Vou expulsá-los de diante de ti aos poucos, até que te tornes numeroso e tomes posse da terra.
+
+[[v2-23-31]]
+
+^<<v2-23-31,31>>^ “Vou estabelecer os limites do teu território desde o mar Vermelho até ao mar dos filisteus, e desde o deserto até ao rio Eufrates;^&#42;1^ pois vou entregar os habitantes daquela terra nas tuas mãos e expulsá-los de diante de ti.
+
+[NOTE]
+====
+. Lit.: “ao Rio”.
+====
+
+[[v2-23-32]]
+
+^<<v2-23-32,32>>^ Não faças um pacto com eles nem com os seus deuses.
+
+[[v2-23-33]]
+
+^<<v2-23-33,33>>^ Eles não devem morar na tua terra, para que não te façam pecar contra mim. Servirias os seus deuses, o que certamente seria um laço para ti.”
+
+'''
+
+xref:002-exodo/002-exodo-022.adoc#v2-22-0[&#60; Capítulo Anterior] | <<v2-23-0,Topo>> | xref:002-exodo/002-exodo-024.adoc#v2-24-0[Próximo Capítulo &#62;]

@@ -1,0 +1,106 @@
+include::./index.adoc[]
+
+[[v5-8-0]]
+=== Deuteronómio, 8
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-8-1]]
+
+^<<v5-8-1,1>>^ “Vocês devem ter o cuidado de cumprir cada mandamento que hoje te dou, a fim de continuarem a viver, multiplicarem-se, entrarem na terra a respeito da qual Jeová jurou aos vossos antepassados e tomarem posse dela.
+
+[[v5-8-2]]
+
+^<<v5-8-2,2>>^ Lembra-te do longo caminho pelo qual Jeová, teu Deus, te fez andar estes 40 anos no deserto, para te tornar humilde e pôr-te à prova, para saber o que havia no teu coração, se guardarias ou não os seus mandamentos.
+
+[[v5-8-3]]
+
+^<<v5-8-3,3>>^ Ele ensinou-te a ser humilde e deixou-te passar fome, e alimentou-te com o maná, que não conhecias, nem os teus pais conheciam, para que soubesses que o homem não vive somente de pão, mas de toda a expressão da boca de Jeová.
+
+[[v5-8-4]]
+
+^<<v5-8-4,4>>^ A roupa que usavas não se gastou, e os teus pés não ficaram inchados nestes 40 anos.
+
+[[v5-8-5]]
+
+^<<v5-8-5,5>>^ Tu bem sabes no teu coração que Jeová, teu Deus, te corrigia assim como um homem corrige o seu filho.
+
+[[v5-8-6]]
+
+^<<v5-8-6,6>>^ “Assim, guarda os mandamentos de Jeová, teu Deus, andando nos seus caminhos e temendo-o.
+
+[[v5-8-7]]
+
+^<<v5-8-7,7>>^ Pois Jeová, teu Deus, faz-te entrar numa terra boa, uma terra de correntes de água,^&#42;1^ de fontes e de nascentes^&#42;2^ que fluem nos vales^&#42;3^ e na região montanhosa,
+
+[NOTE]
+====
+. Ou: “uádis de água”.
+. Ou: “fontes de águas profundas”.
+. Lit.: “na planície do vale”.
+====
+
+[[v5-8-8]]
+
+^<<v5-8-8,8>>^ uma terra de trigo e cevada, de videiras, figueiras e romãzeiras, uma terra de azeite e mel,
+
+[[v5-8-9]]
+
+^<<v5-8-9,9>>^ uma terra onde haverá muita comida, onde nada te faltará, uma terra onde as pedras contêm ferro e de cujas montanhas extrairás cobre.
+
+[[v5-8-10]]
+
+^<<v5-8-10,10>>^ “Quando tiveres comido e estiveres satisfeito, terás de louvar a Jeová, teu Deus, pela boa terra que te deu.
+
+[[v5-8-11]]
+
+^<<v5-8-11,11>>^ Tem cuidado para não te esqueceres de Jeová, teu Deus, por deixares de guardar os seus mandamentos, as suas decisões judiciais e os seus decretos que hoje te ordeno.
+
+[[v5-8-12]]
+
+^<<v5-8-12,12>>^ Quando comeres e ficares satisfeito, construíres casas boas e morares nelas,
+
+[[v5-8-13]]
+
+^<<v5-8-13,13>>^ quando os teus bois e as tuas ovelhas se multiplicarem, a tua prata e o teu ouro aumentarem, e tiveres muitas coisas,
+
+[[v5-8-14]]
+
+^<<v5-8-14,14>>^ não deixes que o teu coração fique orgulhoso e te faça esquecer de Jeová, teu Deus, que te tirou da terra do Egito, a terra da escravidão,^&#42;1^
+
+[NOTE]
+====
+. Lit.: “casa dos escravos”.
+====
+
+[[v5-8-15]]
+
+^<<v5-8-15,15>>^ e que te guiou pelo grande e assustador deserto de serpentes venenosas e de escorpiões, uma terra árida, sem água. Ele fez sair água do rochedo^&#42;1^ para ti
+
+[NOTE]
+====
+. Ou: “da rocha da pederneira”.
+====
+
+[[v5-8-16]]
+
+^<<v5-8-16,16>>^ e alimentou-te no deserto com maná, que os teus pais não conheciam, para te ensinar a ser humilde e para te pôr à prova, visando o teu bem no futuro.
+
+[[v5-8-17]]
+
+^<<v5-8-17,17>>^ Se disseres no teu coração: ‘Foi o meu próprio poder e a força das minhas mãos que me produziram estas riquezas’,
+
+[[v5-8-18]]
+
+^<<v5-8-18,18>>^ lembra-te de que é Jeová, teu Deus, que te dá o poder para produzires riquezas, a fim de cumprir o pacto que jurou aos teus antepassados, assim como se vê hoje.
+
+[[v5-8-19]]
+
+^<<v5-8-19,19>>^ “Se um dia te esqueceres de Jeová, teu Deus, e seguires outros deuses, servindo-os e curvando-te diante deles, aviso-vos hoje de que certamente morrerão.
+
+[[v5-8-20]]
+
+^<<v5-8-20,20>>^ Por não escutarem a voz de Jeová, vosso Deus, morrerão assim como as nações que Jeová está a destruir à vossa frente.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-007.adoc#v5-7-0[&#60; Capítulo Anterior] | <<v5-8-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-009.adoc#v5-9-0[Próximo Capítulo &#62;]

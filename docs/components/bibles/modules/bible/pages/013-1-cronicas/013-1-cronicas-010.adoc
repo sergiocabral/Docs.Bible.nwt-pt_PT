@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v13-10-0]]
+=== 1 Crónicas, 10
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v13-10-1]]
+
+^<<v13-10-1,1>>^ Os filisteus estavam a lutar contra Israel. Os homens de Israel fugiram dos filisteus, e muitos foram mortos no monte Gilboa.
+
+[[v13-10-2]]
+
+^<<v13-10-2,2>>^ Os filisteus perseguiram Saul e os seus filhos a uma curta distância, e os filisteus mataram Jonatã, Abinadabe e Malquisua, filhos de Saul.
+
+[[v13-10-3]]
+
+^<<v13-10-3,3>>^ A luta contra Saul intensificou-se, os arqueiros encontraram-no, e ele foi ferido pelos arqueiros.
+
+[[v13-10-4]]
+
+^<<v13-10-4,4>>^ Nisto, Saul disse ao seu escudeiro: “Puxa da espada e mata-me, para que estes incircuncisos não me tratem com crueldade.”^&#42;1^ O seu escudeiro, contudo, não quis fazer isso, porque estava com muito medo. Então, Saul pegou na espada e lançou-se sobre ela.
+
+[NOTE]
+====
+. Ou: “maldade”.
+====
+
+[[v13-10-5]]
+
+^<<v13-10-5,5>>^ Ao ver que Saul estava morto, o escudeiro também se lançou sobre a sua espada e morreu.
+
+[[v13-10-6]]
+
+^<<v13-10-6,6>>^ Assim, Saul e os seus três filhos morreram, e todos os da sua casa morreram na mesma ocasião.
+
+[[v13-10-7]]
+
+^<<v13-10-7,7>>^ Quando todos os israelitas que estavam no vale^&#42;1^ viram que o exército tinha^&#42;2^ fugido e que Saul e os seus filhos tinham morrido, abandonaram as suas cidades e fugiram. Depois disso, vieram os filisteus e ocuparam-nas.
+
+[NOTE]
+====
+. Ou: “na planície”.
+. Ou: “todos tinham”.
+====
+
+[[v13-10-8]]
+
+^<<v13-10-8,8>>^ No dia seguinte, quando os filisteus foram recolher o despojo dos cadáveres, encontraram Saul e os seus filhos mortos no monte Gilboa.
+
+[[v13-10-9]]
+
+^<<v13-10-9,9>>^ Então, despiram Saul, deceparam-lhe a cabeça e pegaram na sua armadura, e enviaram mensageiros por toda a terra dos filisteus para espalhar a notícia aos seus ídolos e ao povo.
+
+[[v13-10-10]]
+
+^<<v13-10-10,10>>^ Então, puseram a armadura dele na casa^&#42;1^ do deus deles e penduraram a sua cabeça na casa de Dagom.
+
+[NOTE]
+====
+. Ou: “no templo”.
+====
+
+[[v13-10-11]]
+
+^<<v13-10-11,11>>^ Quando todos os habitantes de Jabes, em Gileade, souberam de tudo o que os filisteus tinham feito a Saul,
+
+[[v13-10-12]]
+
+^<<v13-10-12,12>>^ todos os guerreiros pegaram no corpo de Saul e nos corpos dos seus filhos e levaram-nos para Jabes. Eles enterraram os ossos debaixo da árvore grande em Jabes e jejuaram por sete dias.
+
+[[v13-10-13]]
+
+^<<v13-10-13,13>>^ Assim, Saul morreu por causa da sua infidelidade a Jeová, por não ter obedecido à palavra de Jeová; também por ter consultado uma médium espírita
+
+[[v13-10-14]]
+
+^<<v13-10-14,14>>^ em vez de consultar a Jeová. Por isso, Ele entregou-o à morte e transferiu o reinado para David, filho de Jessé.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-009.adoc#v13-9-0[&#60; Capítulo Anterior] | <<v13-10-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-011.adoc#v13-11-0[Próximo Capítulo &#62;]

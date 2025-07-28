@@ -1,0 +1,177 @@
+include::./index.adoc[]
+
+[[v1-9-0]]
+=== Génesis, 9
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-9-1]]
+
+^<<v1-9-1,1>>^ Deus abençoou Noé e os seus filhos, e disse-lhes: “Tenham filhos, tornem-se muitos e encham a terra.
+
+[[v1-9-2]]
+
+^<<v1-9-2,2>>^ Vocês continuarão a ser motivo de medo e de terror para todas as criaturas vivas da terra e para todas as criaturas voadoras dos céus, para tudo o que se move sobre o solo e para todos os peixes do mar. Agora, eles estão entregues às vossas mãos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “à vossa autoridade”.
+====
+
+[[v1-9-3]]
+
+^<<v1-9-3,3>>^ Todo o animal que se move e que está vivo pode servir-vos de alimento. Assim como vos dei a vegetação verde, dou-vos todos eles.
+
+[[v1-9-4]]
+
+^<<v1-9-4,4>>^ Só não comam a carne de um animal com a sua vida^&#42;1^ — o seu sangue.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v1-9-5]]
+
+^<<v1-9-5,5>>^ Além disso, exigirei uma prestação de contas pelo vosso sangue, a vossa vida.^&#42;1^ Exigirei de cada animal uma prestação de contas; e exigirei de cada homem uma prestação de contas pela vida do seu irmão.
+
+[NOTE]
+====
+. Ou: “o sangue da vossa alma”.
+====
+
+[[v1-9-6]]
+
+^<<v1-9-6,6>>^ Quem derramar o sangue do homem, pelo homem será derramado o seu próprio sangue, pois Deus fez o homem à sua imagem.
+
+[[v1-9-7]]
+
+^<<v1-9-7,7>>^ Quanto a vocês, tenham filhos e tornem-se muitos; multipliquem-se abundantemente na terra e tornem-se numerosos.”
+
+[[v1-9-8]]
+
+^<<v1-9-8,8>>^ Então, Deus disse a Noé e aos seus filhos, que estavam com ele:
+
+[[v1-9-9]]
+
+^<<v1-9-9,9>>^ “Agora estabeleço o meu pacto convosco e com a vossa descendência,
+
+[[v1-9-10]]
+
+^<<v1-9-10,10>>^ e com todas as criaturas^&#42;1^ vivas que estão convosco, as aves, os animais e todas as criaturas vivas da terra que estão convosco, todos os que saíram da arca — todas as criaturas vivas da terra.
+
+[NOTE]
+====
+. Ou: “almas”.
+====
+
+[[v1-9-11]]
+
+^<<v1-9-11,11>>^ Sim, estabeleço o meu pacto convosco: nunca mais serão destruídos todos os seres vivos^&#42;1^ pelas águas de um dilúvio, e nunca mais um dilúvio arruinará a terra.”
+
+[NOTE]
+====
+. Lit.: “será decepada toda a carne”.
+====
+
+[[v1-9-12]]
+
+^<<v1-9-12,12>>^ E Deus acrescentou: “Este é o sinal do pacto entre mim e vocês e todas as criaturas^&#42;1^ vivas que estão convosco, por todas as gerações futuras.
+
+[NOTE]
+====
+. Ou: “almas”.
+====
+
+[[v1-9-13]]
+
+^<<v1-9-13,13>>^ Ponho o meu arco-íris na nuvem, e ele servirá de sinal do pacto entre mim e a terra.
+
+[[v1-9-14]]
+
+^<<v1-9-14,14>>^ Quando trouxer nuvens sobre a terra, o arco-íris certamente aparecerá nas nuvens.
+
+[[v1-9-15]]
+
+^<<v1-9-15,15>>^ E certamente me lembrarei do meu pacto, que fiz convosco e com todas as criaturas vivas de todos os tipos;^&#42;1^ e as águas nunca mais se tornarão um dilúvio para destruir todas as criaturas.^&#42;2^
+
+[NOTE]
+====
+. Ou: “toda a alma viva de toda a carne”.
+. Lit.: “a carne”.
+====
+
+[[v1-9-16]]
+
+^<<v1-9-16,16>>^ E o arco-íris aparecerá nas nuvens, e certamente o verei e lembrar-me-ei do pacto eterno entre Deus e todas as criaturas vivas de todos os tipos^&#42;1^ que há sobre a terra.”
+
+[NOTE]
+====
+. Ou: “toda a alma vivente de toda a carne”.
+====
+
+[[v1-9-17]]
+
+^<<v1-9-17,17>>^ Deus repetiu a Noé: “Este é o sinal do pacto que estabeleço com todas as criaturas^&#42;1^ que há sobre a terra.”
+
+[NOTE]
+====
+. Lit.: “toda a carne”.
+====
+
+[[v1-9-18]]
+
+^<<v1-9-18,18>>^ Os filhos de Noé, que saíram da arca, foram Sem, Cã e Jafé. Mais tarde, Cã tornou-se pai de Canaã.
+
+[[v1-9-19]]
+
+^<<v1-9-19,19>>^ Estes três foram os filhos de Noé, e a partir deles toda a terra foi povoada.
+
+[[v1-9-20]]
+
+^<<v1-9-20,20>>^ Noé começou a cultivar o solo e plantou uma vinha.
+
+[[v1-9-21]]
+
+^<<v1-9-21,21>>^ Quando bebeu o vinho, ficou embriagado e despiu-se dentro da sua tenda.
+
+[[v1-9-22]]
+
+^<<v1-9-22,22>>^ Cã, pai de Canaã, viu a nudez do pai e contou-o aos seus dois irmãos, que estavam do lado de fora.
+
+[[v1-9-23]]
+
+^<<v1-9-23,23>>^ Sem e Jafé pegaram então numa capa, puseram-na sobre os ombros e entraram de costas. Assim, cobriram a nudez do pai com os rostos virados, e não viram a nudez do pai.
+
+[[v1-9-24]]
+
+^<<v1-9-24,24>>^ Quando Noé acordou do sono provocado pelo vinho e soube o que o filho mais novo lhe tinha feito,
+
+[[v1-9-25]]
+
+^<<v1-9-25,25>>^ disse:
+“Maldito seja Canaã.
+Torne-se ele o menor entre os escravos dos seus irmãos.”
+
+[[v1-9-26]]
+
+^<<v1-9-26,26>>^ E acrescentou:
+“Louvado seja Jeová, o Deus de Sem,
+E torne-se Canaã escravo de Sem.
+
+[[v1-9-27]]
+
+^<<v1-9-27,27>>^ Conceda Deus amplo território a Jafé,
+E resida ele nas tendas de Sem.
+Torne-se Canaã escravo dele também.”
+
+[[v1-9-28]]
+
+^<<v1-9-28,28>>^ Depois do dilúvio, Noé viveu mais 350 anos.
+
+[[v1-9-29]]
+
+^<<v1-9-29,29>>^ Assim, todos os dias de Noé somaram 950 anos, e ele morreu.
+
+'''
+
+xref:001-genesis/001-genesis-008.adoc#v1-8-0[&#60; Capítulo Anterior] | <<v1-9-0,Topo>> | xref:001-genesis/001-genesis-010.adoc#v1-10-0[Próximo Capítulo &#62;]

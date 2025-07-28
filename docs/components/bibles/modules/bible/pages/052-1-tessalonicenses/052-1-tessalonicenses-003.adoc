@@ -1,0 +1,88 @@
+include::./index.adoc[]
+
+[[v52-3-0]]
+=== 1 Tessalonicenses, 3
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v52-3-1]]
+
+^<<v52-3-1,1>>^ Portanto, quando já não podíamos suportar mais, achámos melhor ficar sozinhos em Atenas
+
+[[v52-3-2]]
+
+^<<v52-3-2,2>>^ e enviar-vos Timóteo, nosso irmão e ministro^&#42;1^ de Deus na proclamação das boas novas a respeito do Cristo, a fim de vos firmar^&#42;2^ e consolar no que se refere à vossa fé,
+
+[NOTE]
+====
+. Ou, possivelmente: “colaborador”.
+. Ou: “fortalecer”.
+====
+
+[[v52-3-3]]
+
+^<<v52-3-3,3>>^ para que ninguém fosse abalado^&#42;1^ por causa destas tribulações. Pois, como sabem, não podemos evitar sofrer tais coisas.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “balançasse”.
+. Ou: “nós estamos designados para isso”.
+====
+
+[[v52-3-4]]
+
+^<<v52-3-4,4>>^ Quando estávamos convosco, costumávamos avisar-vos de que sofreríamos tribulação, e isso é o que tem acontecido, como sabem.
+
+[[v52-3-5]]
+
+^<<v52-3-5,5>>^ Foi por isso que, quando eu já não aguentava mais, enviei-o para saber da vossa fidelidade, pois eu temia que o Tentador vos tivesse tentado de alguma maneira, e o nosso trabalho árduo tivesse sido em vão.
+
+[[v52-3-6]]
+
+^<<v52-3-6,6>>^ Mas Timóteo acaba de chegar daí e deu-nos boas notícias a respeito da vossa fidelidade e amor, e disse que continuam sempre a lembrar-se de nós com carinho e que desejam muito ver-nos, assim como nós também desejamos ver-vos.
+
+[[v52-3-7]]
+
+^<<v52-3-7,7>>^ É por isso, irmãos, que em toda a nossa aflição^&#42;1^ e tribulação fomos consolados por vossa causa e por causa da fidelidade que demonstram.
+
+[NOTE]
+====
+. Lit.: “necessidade”.
+====
+
+[[v52-3-8]]
+
+^<<v52-3-8,8>>^ Pois, se vocês se mantêm firmes no Senhor, nós ficamos reanimados.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “nós vivemos”.
+====
+
+[[v52-3-9]]
+
+^<<v52-3-9,9>>^ Como é que podemos agradecer a Deus por vocês e pela grande alegria que sentimos perante o nosso Deus por vossa causa?
+
+[[v52-3-10]]
+
+^<<v52-3-10,10>>^ Noite e dia, fazemos súplicas com o maior fervor possível para vos ver pessoalmente^&#42;1^ e para completar o que falta na vossa fé.
+
+[NOTE]
+====
+. Lit.: “ver o vosso rosto”.
+====
+
+[[v52-3-11]]
+
+^<<v52-3-11,11>>^ Que o próprio Deus, nosso Pai, e o nosso Senhor Jesus abram caminho para irmos ter convosco.
+
+[[v52-3-12]]
+
+^<<v52-3-12,12>>^ Além disso, que o Senhor vos faça aumentar, sim, transbordar em amor uns pelos outros e por todos, tal como nós transbordamos em amor para convosco;
+
+[[v52-3-13]]
+
+^<<v52-3-13,13>>^ assim, ele tornará o vosso coração firme, irrepreensível em santidade perante o nosso Deus e Pai, durante a presença do nosso Senhor Jesus com todos os seus santos.
+
+'''
+
+xref:052-1-tessalonicenses/052-1-tessalonicenses-002.adoc#v52-2-0[&#60; Capítulo Anterior] | <<v52-3-0,Topo>> | xref:052-1-tessalonicenses/052-1-tessalonicenses-004.adoc#v52-4-0[Próximo Capítulo &#62;]

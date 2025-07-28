@@ -1,0 +1,192 @@
+include::./index.adoc[]
+
+[[v41-7-0]]
+=== Marcos, 7
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v41-7-1]]
+
+^<<v41-7-1,1>>^ Então, os fariseus e alguns dos escribas que tinham chegado de Jerusalém reuniram-se à volta dele.
+
+[[v41-7-2]]
+
+^<<v41-7-2,2>>^ E eles viram alguns dos discípulos dele tomar a refeição com as mãos impuras, isto é, sem as lavar.^&#42;1^
+
+[NOTE]
+====
+. Isto é, não purificadas cerimonialmente.
+====
+
+[[v41-7-3]]
+
+^<<v41-7-3,3>>^ (Pois os fariseus e todos os judeus não comem sem lavar as mãos até aos cotovelos, apegando-se à tradição dos homens dos tempos antigos,
+
+[[v41-7-4]]
+
+^<<v41-7-4,4>>^ e, ao voltarem do mercado, não comem sem se lavar. Há muitas outras tradições que eles receberam e às quais se apegam, tais como batismo de copos, de jarros e de vasilhas de cobre.)
+
+[[v41-7-5]]
+
+^<<v41-7-5,5>>^ Então, esses fariseus e escribas perguntaram-lhe: “Porque é que os teus discípulos não seguem a tradição dos homens dos tempos antigos, mas tomam a refeição com as mãos impuras?”
+
+[[v41-7-6]]
+
+^<<v41-7-6,6>>^ Ele disse-lhes: “Isaías profetizou apropriadamente a vosso respeito, hipócritas, como está escrito: ‘Este povo honra-me com os lábios, mas o seu coração está muito longe de mim.
+
+[[v41-7-7]]
+
+^<<v41-7-7,7>>^ É em vão que continuam a adorar-me, pois ensinam as regras de homens como doutrinas.’
+
+[[v41-7-8]]
+
+^<<v41-7-8,8>>^ Vocês abandonam o mandamento de Deus e apegam-se à tradição de homens.”
+
+[[v41-7-9]]
+
+^<<v41-7-9,9>>^ Ele disse-lhes ainda: “Sabem muito bem como pôr de lado o mandamento de Deus, a fim de manterem a vossa tradição.
+
+[[v41-7-10]]
+
+^<<v41-7-10,10>>^ Por exemplo, Moisés disse: ‘Honra o teu pai e a tua mãe’ e ‘Quem amaldiçoar^&#42;1^ o seu pai ou a sua mãe seja morto’.
+
+[NOTE]
+====
+. Ou: “injuriar; insultar”.
+====
+
+[[v41-7-11]]
+
+^<<v41-7-11,11>>^ Mas vocês dizem: ‘Se um homem diz ao seu pai ou à sua mãe: “Tudo o que eu tenho que te poderia beneficiar é corbã (isto é, uma dádiva dedicada a Deus)”’,
+
+[[v41-7-12]]
+
+^<<v41-7-12,12>>^ vocês já não o deixam fazer nem uma única coisa para o seu pai ou para a sua mãe.
+
+[[v41-7-13]]
+
+^<<v41-7-13,13>>^ Assim, vocês invalidam a palavra de Deus pela tradição que transmitiram. E fazem muitas coisas como esta.”
+
+[[v41-7-14]]
+
+^<<v41-7-14,14>>^ E, chamando novamente a multidão, disse-lhes: “Escutem-me, todos vocês, e compreendam o significado do que eu digo.
+
+[[v41-7-15]]
+
+^<<v41-7-15,15>>^ Não há nada fora de um homem que, ao entrar nele, o possa tornar impuro; mas as coisas que saem do homem são as que o tornam impuro.”
+
+[[v41-7-16]]
+
+^<<v41-7-16,16>>^ ^&#42;1^——
+
+[NOTE]
+====
+. Veja o Ap. A3.
+====
+
+[[v41-7-17]]
+
+^<<v41-7-17,17>>^ Quando se afastou da multidão e entrou numa casa, os discípulos fizeram-lhe perguntas acerca da ilustração.
+
+[[v41-7-18]]
+
+^<<v41-7-18,18>>^ Assim, perguntou-lhes: “Vocês também estão sem entendimento, como eles? Não percebem que nada de fora que entre num homem pode torná-lo impuro,
+
+[[v41-7-19]]
+
+^<<v41-7-19,19>>^ visto que entra, não no seu coração, mas no seu estômago, e sai para o esgoto?” Assim, declarou puros todos os alimentos.
+
+[[v41-7-20]]
+
+^<<v41-7-20,20>>^ Além disso, ele disse: “O que sai do homem é o que o torna impuro.
+
+[[v41-7-21]]
+
+^<<v41-7-21,21>>^ Pois, de dentro, do coração dos homens, saem raciocínios prejudiciais: imoralidade sexual,^&#42;1^ roubos, assassinatos,
+
+[NOTE]
+====
+. Aqui a palavra grega porneía ocorre no plural. Veja o Glossário.
+====
+
+[[v41-7-22]]
+
+^<<v41-7-22,22>>^ adultérios, ganância, atos de maldade, engano, conduta insolente,^&#42;1^ olho invejoso, blasfémia, arrogância e insensatez.
+
+[NOTE]
+====
+. Ou: “conduta desavergonhada”. Em grego, asélgeia. Veja o Glossário.
+====
+
+[[v41-7-23]]
+
+^<<v41-7-23,23>>^ Todas estas coisas más saem de dentro e tornam o homem impuro.”
+
+[[v41-7-24]]
+
+^<<v41-7-24,24>>^ Ele levantou-se e foi para a região de Tiro e Sídon. Ali, entrou numa casa e não queria que ninguém soubesse, mas não conseguiu passar despercebido.
+
+[[v41-7-25]]
+
+^<<v41-7-25,25>>^ Logo a seguir, uma mulher cuja filhinha tinha um espírito impuro ouviu falar dele e foi até lá, e prostrou-se aos seus pés.
+
+[[v41-7-26]]
+
+^<<v41-7-26,26>>^ A mulher era grega, de nacionalidade siro-fenícia,^&#42;1^ e ela pedia-lhe com insistência que expulsasse da sua filha o demónio.
+
+[NOTE]
+====
+. Ou: “siro-fenícia de nascimento”.
+====
+
+[[v41-7-27]]
+
+^<<v41-7-27,27>>^ Mas ele disse-lhe: “Deixa primeiro os filhos ficarem satisfeitos, pois não é correto tirar o pão dos filhos e dá-lo aos cachorrinhos.”
+
+[[v41-7-28]]
+
+^<<v41-7-28,28>>^ Ela, porém, respondeu-lhe: “Sim, senhor; no entanto, até os cachorrinhos debaixo da mesa comem as migalhas que as criancinhas deixam cair.”
+
+[[v41-7-29]]
+
+^<<v41-7-29,29>>^ Com isso, ele disse-lhe: “Por causa da tua resposta, vai; o demónio saiu da tua filha.”
+
+[[v41-7-30]]
+
+^<<v41-7-30,30>>^ Assim, ela foi para casa e encontrou a menina deitada na cama, e o demónio tinha-a deixado.
+
+[[v41-7-31]]
+
+^<<v41-7-31,31>>^ Quando Jesus voltou da região de Tiro, passou por Sídon e foi para o mar da Galileia, atravessando a região de Decápolis.^&#42;1^
+
+[NOTE]
+====
+. Ou: “a região das Dez Cidades”.
+====
+
+[[v41-7-32]]
+
+^<<v41-7-32,32>>^ Ali, levaram-lhe um surdo que tinha um impedimento na fala e suplicaram-lhe que pusesse a mão sobre ele.
+
+[[v41-7-33]]
+
+^<<v41-7-33,33>>^ E ele levou-o à parte, para longe da multidão. Então, pôs os dedos nos ouvidos do homem e, depois de cuspir, tocou-lhe na língua.
+
+[[v41-7-34]]
+
+^<<v41-7-34,34>>^ Olhando para o céu, suspirou profundamente e disse-lhe: “Efatá”, isto é: “Abre-te.”
+
+[[v41-7-35]]
+
+^<<v41-7-35,35>>^ Com isso, os ouvidos do homem abriram-se  e o impedimento na fala foi removido, e ele começou a falar normalmente.
+
+[[v41-7-36]]
+
+^<<v41-7-36,36>>^ Então, ordenou-lhes que não contassem isso a ninguém, mas, quanto mais ordenava, mais proclamavam o acontecido.
+
+[[v41-7-37]]
+
+^<<v41-7-37,37>>^ De facto, estavam extremamente admirados e diziam: “Ele faz bem todas as coisas. Até faz os surdos ouvir e os mudos falar.”
+
+'''
+
+xref:041-marcos/041-marcos-006.adoc#v41-6-0[&#60; Capítulo Anterior] | <<v41-7-0,Topo>> | xref:041-marcos/041-marcos-008.adoc#v41-8-0[Próximo Capítulo &#62;]

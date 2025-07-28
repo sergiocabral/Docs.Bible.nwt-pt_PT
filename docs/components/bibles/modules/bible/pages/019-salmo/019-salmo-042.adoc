@@ -1,0 +1,118 @@
+include::./index.adoc[]
+
+[[v19-42-0]]
+=== Salmos, 42
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_SEGUNDO LIVRO_
+
+_(Salmos 42-72)_
+
+_Ao regente. Masquil.^&#42;1^ Dos filhos de Corá._
+
+[[v19-42-1]]
+
+^<<v19-42-1,1>>^ Como uma corça que anseia por correntes de água,
+Eu anseio^&#42;1^ por ti, ó Deus.
+
+[NOTE]
+====
+. Ou: “A minha alma anseia”.
+====
+
+[[v19-42-2]]
+
+^<<v19-42-2,2>>^ Estou sedento^&#42;1^ de Deus, do Deus vivente.
+Quando é que poderei ir e comparecer perante Deus?
+
+[NOTE]
+====
+. Ou: “A minha alma está sedenta”.
+====
+
+[[v19-42-3]]
+
+^<<v19-42-3,3>>^ As minhas lágrimas são o meu alimento, dia e noite;
+As pessoas gozam comigo o dia inteiro, perguntando: “Onde é que está o teu Deus?”
+
+[[v19-42-4]]
+
+^<<v19-42-4,4>>^ Lembro-me destas coisas e derramo a minha alma,^&#42;1^
+Pois eu costumava andar com a multidão;
+Eu caminhava solenemente^&#42;2^ à frente deles até à casa de Deus,
+Entre gritos de alegria e agradecimento,
+De uma multidão que celebra uma festividade.
+
+[NOTE]
+====
+. Veja o Glossário.
+. Ou: “vagarosamente”.
+====
+
+[[v19-42-5]]
+
+^<<v19-42-5,5>>^ Porque é que eu estou em desespero?^&#42;1^
+Porque é que estou tão agitado?
+Esperarei em Deus,
+Porque ainda vou louvá-lo como o meu Grandioso Salvador.
+
+[NOTE]
+====
+. Ou: “a minha alma se desespera”.
+====
+
+[[v19-42-6]]
+
+^<<v19-42-6,6>>^ Ó meu Deus, estou^&#42;1^ em desespero.
+Por isso é que me lembro de ti,
+Na terra do Jordão e nos cumes do Hermom,
+No monte Mizar.^&#42;2^
+
+[NOTE]
+====
+. Ou: “a minha alma está”.
+. Ou: “pequeno monte”.
+====
+
+[[v19-42-7]]
+
+^<<v19-42-7,7>>^ Águas profundas chamam águas profundas,
+Ao som das tuas cascatas.
+Todas as tuas ondas turbulentas me dominaram.
+
+[[v19-42-8]]
+
+^<<v19-42-8,8>>^ De dia, Jeová irá conceder-me o seu amor leal,
+E, de noite, a sua canção estará comigo: uma oração ao Deus da minha vida.
+
+[[v19-42-9]]
+
+^<<v19-42-9,9>>^ Vou dizer a Deus, o meu rochedo:
+“Porque é que te esqueceste de mim?
+Porque haveria eu de andar triste por causa da opressão do meu inimigo?”
+
+[[v19-42-10]]
+
+^<<v19-42-10,10>>^ Com ódio assassino,^&#42;1^ os meus inimigos insultam-me;
+Gozam comigo o dia inteiro, perguntando: “Onde é que está o teu Deus?”
+
+[NOTE]
+====
+. Ou, possivelmente: “Como que esmagando os meus ossos”.
+====
+
+[[v19-42-11]]
+
+^<<v19-42-11,11>>^ Porque é que estou em desespero?^&#42;1^
+Porque é que estou tão agitado?
+Esperarei em Deus,
+Porque ainda vou louvá-lo como o meu Grandioso Salvador e o meu Deus.
+
+[NOTE]
+====
+. Ou: “a minha alma se desespera”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-041.adoc#v19-41-0[&#60; Capítulo Anterior] | <<v19-42-0,Topo>> | xref:019-salmo/019-salmo-043.adoc#v19-43-0[Próximo Capítulo &#62;]

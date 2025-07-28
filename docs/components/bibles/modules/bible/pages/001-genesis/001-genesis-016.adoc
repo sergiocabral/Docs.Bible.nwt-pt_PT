@@ -1,0 +1,99 @@
+include::./index.adoc[]
+
+[[v1-16-0]]
+=== Génesis, 16
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v1-16-1]]
+
+^<<v1-16-1,1>>^ Sarai, esposa de Abrão, não lhe tinha dado filhos, mas ela tinha uma serva egípcia que se chamava Agar.
+
+[[v1-16-2]]
+
+^<<v1-16-2,2>>^ Portanto, Sarai disse a Abrão: “Escuta, por favor: Jeová impediu-me de ter filhos. Por favor, tem relações com a minha serva. Talvez eu possa ter filhos por meio dela.” E Abrão ouviu Sarai.
+
+[[v1-16-3]]
+
+^<<v1-16-3,3>>^ Depois de Abrão ter morado dez anos na terra de Canaã, Sarai, esposa de Abrão, deu Agar, sua serva egípcia, a Abrão, seu marido, como sua esposa.
+
+[[v1-16-4]]
+
+^<<v1-16-4,4>>^ Então ele teve relações com Agar e ela ficou grávida. Quando ela percebeu que estava grávida, começou a desprezar a sua senhora.
+
+[[v1-16-5]]
+
+^<<v1-16-5,5>>^ Sarai disse então a Abrão: “O mal que estou a sofrer é culpa tua. Fui eu que coloquei a minha serva nos teus braços,^&#42;1^ mas quando ela percebeu que estava grávida começou a desprezar-me. Que Jeová seja o juiz entre mim e ti!”
+
+[NOTE]
+====
+. Lit.: “no teu seio”.
+====
+
+[[v1-16-6]]
+
+^<<v1-16-6,6>>^ Portanto, Abrão disse a Sarai: “Vê, a tua serva está debaixo da tua autoridade. Faz com ela o que achares melhor.” Então, Sarai começou a humilhá-la, e Agar fugiu dela.
+
+[[v1-16-7]]
+
+^<<v1-16-7,7>>^ Mais tarde, o anjo de Jeová encontrou-a junto de uma fonte de água no deserto, a fonte no caminho de Sur.
+
+[[v1-16-8]]
+
+^<<v1-16-8,8>>^ E ele perguntou-lhe: “Agar, serva de Sarai, de onde vens e para onde vais?” Ela respondeu: “Estou a fugir de Sarai, minha senhora.”
+
+[[v1-16-9]]
+
+^<<v1-16-9,9>>^ Então o anjo de Jeová disse-lhe: “Volta para a tua senhora e sujeita-te a ela.”
+
+[[v1-16-10]]
+
+^<<v1-16-10,10>>^ O anjo de Jeová disse ainda: “Multiplicarei muitíssimo a tua descendência,^&#42;1^ e será tão numerosa que não poderá ser contada.”
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v1-16-11]]
+
+^<<v1-16-11,11>>^ O anjo de Jeová acrescentou: “Escuta, tu estás grávida e terás um filho. Dá-lhe o nome de Ismael,^&#42;1^ pois Jeová ouviu a tua aflição.
+
+[NOTE]
+====
+. Que significa “Deus ouve”.
+====
+
+[[v1-16-12]]
+
+^<<v1-16-12,12>>^ Ele irá tornar-se como um jumento selvagem.^&#42;1^ A sua mão será contra todos, e a mão de todos será contra ele; e ele morará em frente de todos os seus irmãos.”^&#42;2^
+
+[NOTE]
+====
+. Ou: “um onagro”, um tipo de jumento selvagem, embora alguns entendam que se refere a uma zebra. Provavelmente, refere-se a um espírito independente.
+. Ou, possivelmente: “e ele viverá em hostilidade contra todos os seus irmãos”.
+====
+
+[[v1-16-13]]
+
+^<<v1-16-13,13>>^ Ela invocou então o nome de Jeová, que lhe falava, e ela disse: “Tu és um Deus que vê”, pois ela tinha dito: “Será que eu realmente vi aqui aquele que me vê?”
+
+[[v1-16-14]]
+
+^<<v1-16-14,14>>^ Foi por isso que se chamou ao poço Beer-Laai-Roi.^&#42;1^ (Fica entre Cades e Berede.)
+
+[NOTE]
+====
+. Que significa “poço do Vivente que me vê”.
+====
+
+[[v1-16-15]]
+
+^<<v1-16-15,15>>^ Então, Agar deu um filho a Abrão, e Abrão chamou Ismael ao filho que Agar lhe deu.
+
+[[v1-16-16]]
+
+^<<v1-16-16,16>>^ Abrão tinha 86 anos de idade quando Agar lhe deu Ismael.
+
+'''
+
+xref:001-genesis/001-genesis-015.adoc#v1-15-0[&#60; Capítulo Anterior] | <<v1-16-0,Topo>> | xref:001-genesis/001-genesis-017.adoc#v1-17-0[Próximo Capítulo &#62;]

@@ -1,0 +1,92 @@
+include::./index.adoc[]
+
+[[v40-3-0]]
+=== Mateus, 3
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v40-3-1]]
+
+^<<v40-3-1,1>>^ Naqueles dias, João Batista foi pregar no deserto^&#42;1^ da Judeia,
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v40-3-2]]
+
+^<<v40-3-2,2>>^ dizendo: “Arrependam-se, pois o Reino dos céus está próximo.”
+
+[[v40-3-3]]
+
+^<<v40-3-3,3>>^ De facto, este é aquele de quem se falou por meio de Isaías, o profeta, com estas palavras: “A voz de alguém clama no deserto: ‘Preparem o caminho para Jeová!^&#42;1^ Endireitem as suas estradas.’”
+
+[NOTE]
+====
+. Veja o Ap. A5.
+====
+
+[[v40-3-4]]
+
+^<<v40-3-4,4>>^ João usava roupa de pelo de camelo e um cinto de couro na cintura. O seu alimento eram gafanhotos e mel silvestre.
+
+[[v40-3-5]]
+
+^<<v40-3-5,5>>^ E o povo de Jerusalém, de toda a Judeia e de toda a região à volta do Jordão, ia ao seu encontro,
+
+[[v40-3-6]]
+
+^<<v40-3-6,6>>^ e eles eram batizados^&#42;1^ por ele no rio Jordão, confessando abertamente os seus pecados.
+
+[NOTE]
+====
+. Ou: “mergulhados; imersos”.
+====
+
+[[v40-3-7]]
+
+^<<v40-3-7,7>>^ Quando viu muitos fariseus e saduceus a aproximarem-se do local do batismo, ele disse-lhes: “Descendência de víboras, quem vos disse que podem fugir da ira que virá?
+
+[[v40-3-8]]
+
+^<<v40-3-8,8>>^ Portanto, produzam fruto próprio do arrependimento.
+
+[[v40-3-9]]
+
+^<<v40-3-9,9>>^ Não se atrevam a dizer para convosco: ‘Temos Abraão como pai.’ Pois digo-vos que, destas pedras, Deus pode fazer surgir filhos a Abraão.
+
+[[v40-3-10]]
+
+^<<v40-3-10,10>>^ O machado já está posto à raiz das árvores. Portanto, toda a árvore que não produz bons frutos será cortada e lançada no fogo.
+
+[[v40-3-11]]
+
+^<<v40-3-11,11>>^ Eu batizo-vos com água, por causa do vosso arrependimento, mas aquele que vem depois de mim é mais forte do que eu, e não sou digno de tirar as suas sandálias. Ele vai batizar-vos com espírito santo e com fogo.
+
+[[v40-3-12]]
+
+^<<v40-3-12,12>>^ Ele tem na mão a sua pá para separar o trigo da palha e limpará completamente a sua eira; e ajuntará o seu trigo no celeiro, mas queimará a palha num fogo que não pode ser apagado.”
+
+[[v40-3-13]]
+
+^<<v40-3-13,13>>^ Jesus foi então da Galileia ao Jordão, ao encontro de João, a fim de ser batizado por ele.
+
+[[v40-3-14]]
+
+^<<v40-3-14,14>>^ Este, porém, tentou impedi-lo, dizendo: “Eu é que preciso de ser batizado por ti, e tu é que vens até mim?”
+
+[[v40-3-15]]
+
+^<<v40-3-15,15>>^ Em resposta, Jesus disse-lhe: “Deixa que assim seja por agora, pois é apropriado que, desta maneira, cumpramos tudo o que é justo.” Então, João parou de impedi-lo.
+
+[[v40-3-16]]
+
+^<<v40-3-16,16>>^ Depois de ser batizado, Jesus saiu imediatamente da água e, naquele momento, abriram-se os céus, e ele viu o espírito de Deus descer como pomba e vir sobre ele.
+
+[[v40-3-17]]
+
+^<<v40-3-17,17>>^ Também, uma voz vinda dos céus disse: “Este é o meu Filho, o amado, a quem eu aprovo.”
+
+'''
+
+xref:040-mateus/040-mateus-002.adoc#v40-2-0[&#60; Capítulo Anterior] | <<v40-3-0,Topo>> | xref:040-mateus/040-mateus-004.adoc#v40-4-0[Próximo Capítulo &#62;]

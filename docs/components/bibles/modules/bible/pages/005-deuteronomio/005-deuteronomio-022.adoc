@@ -1,0 +1,159 @@
+include::./index.adoc[]
+
+[[v5-22-0]]
+=== Deuteronómio, 22
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-22-1]]
+
+^<<v5-22-1,1>>^ “Se vires a ovelha ou o touro do teu irmão perdidos, não finjas que não os viste. Sem falta, deves levar o animal de volta ao teu irmão.
+
+[[v5-22-2]]
+
+^<<v5-22-2,2>>^ Mas, se o teu irmão não morar perto de ti, ou se tu não o conheceres, deves levar o animal para casa, e este ficará contigo até que o teu irmão o procure. Então, deves devolver-lho.
+
+[[v5-22-3]]
+
+^<<v5-22-3,3>>^ É isso que deves fazer com o jumento, com a roupa e com qualquer objeto que o teu irmão tiver perdido e que tu tiveres encontrado. Não faças de conta que não os viste.
+
+[[v5-22-4]]
+
+^<<v5-22-4,4>>^ “Se vires o jumento ou o touro do teu irmão cair na estrada, não finjas que não os viste. Sem falta, deves ajudá-lo a levantar o animal.
+
+[[v5-22-5]]
+
+^<<v5-22-5,5>>^ “Uma mulher não deve vestir roupa de homem, nem um homem deve usar roupa de mulher. Pois todo aquele que faz isso é detestável para Jeová, teu Deus.
+
+[[v5-22-6]]
+
+^<<v5-22-6,6>>^ “Se encontrares na estrada um ninho de pássaro com filhotes ou ovos, numa árvore ou no chão, e a mãe estiver sobre os filhotes ou sobre os ovos, não leves a mãe juntamente com os filhotes.
+
+[[v5-22-7]]
+
+^<<v5-22-7,7>>^ Deixa a mãe ir-se embora, mas podes ficar com os filhotes para ti. Fá-lo para que tudo te corra bem e para que vivas por muito tempo.
+
+[[v5-22-8]]
+
+^<<v5-22-8,8>>^ “Se construíres uma casa nova, também deves fazer um parapeito para o teu terraço, a fim de que a culpa de sangue não recaia sobre os da tua casa, se alguém cair dali abaixo.
+
+[[v5-22-9]]
+
+^<<v5-22-9,9>>^ “Não semeies na tua vinha dois tipos de semente. Senão, tudo o que for produzido pelo que semeares e o produto da vinha serão confiscados para o santuário.
+
+[[v5-22-10]]
+
+^<<v5-22-10,10>>^ “Não lavres com um touro e um jumento no mesmo jugo.
+
+[[v5-22-11]]
+
+^<<v5-22-11,11>>^ “Não uses roupa feita de lã e linho misturados.
+
+[[v5-22-12]]
+
+^<<v5-22-12,12>>^ “Deves fazer borlas nos quatro cantos do teu manto.
+
+[[v5-22-13]]
+
+^<<v5-22-13,13>>^ “Se um homem tomar uma esposa e tiver relações com ela, mas depois passar a odiá-la,^&#42;1^
+
+[NOTE]
+====
+. Ou: “mas depois a rejeitar”.
+====
+
+[[v5-22-14]]
+
+^<<v5-22-14,14>>^ e se ele a acusar de má conduta e a difamar, dizendo: ‘Tomei esta mulher como esposa, mas, quando tive relações com ela, não encontrei provas de que era virgem’,
+
+[[v5-22-15]]
+
+^<<v5-22-15,15>>^ então, o pai e a mãe da jovem devem apresentar a prova da virgindade da jovem aos anciãos no portão da cidade.
+
+[[v5-22-16]]
+
+^<<v5-22-16,16>>^ O pai da jovem deve dizer aos anciãos: ‘Dei a minha filha a este homem como esposa, mas ele odeia-a^&#42;1^
+
+[NOTE]
+====
+. Ou: “rejeita-a”.
+====
+
+[[v5-22-17]]
+
+^<<v5-22-17,17>>^ e acusa-a de má conduta, dizendo: “Não encontrei na sua filha provas de que era virgem.” Aqui está a prova da virgindade da minha filha.’ Então, eles estenderão o lençol diante dos anciãos da cidade.
+
+[[v5-22-18]]
+
+^<<v5-22-18,18>>^ Os anciãos da cidade agarrarão o homem e irão discipliná-lo.
+
+[[v5-22-19]]
+
+^<<v5-22-19,19>>^ Irão aplicar-lhe uma multa de cem siclos^&#42;1^ de prata e dá-los ao pai da jovem, porque o homem difamou uma virgem em Israel, e ela continuará a ser sua esposa. Não lhe será permitido divorciar-se dela enquanto ele viver.
+
+[NOTE]
+====
+. Um siclo equivalia a 11,4 g. Veja o Veja Ap. B14.
+====
+
+[[v5-22-20]]
+
+^<<v5-22-20,20>>^ “Mas, se a acusação for verdadeira e não houver provas de que a jovem era virgem,
+
+[[v5-22-21]]
+
+^<<v5-22-21,21>>^ então, devem levar a jovem para fora, à entrada da casa do seu pai, e os homens da cidade devem apedrejá-la até à morte, porque ela praticou um ato vergonhoso em Israel ao cometer imoralidade sexual^&#42;1^ na casa do seu pai. Assim, elimina o mal do teu meio.
+
+[NOTE]
+====
+. Ou: “prostituição”.
+====
+
+[[v5-22-22]]
+
+^<<v5-22-22,22>>^ “Se um homem for encontrado deitado com uma mulher que é esposa de outro homem, ambos devem morrer juntos, tanto o homem que se deitou com a mulher, como a mulher. Assim, elimina o mal de Israel.
+
+[[v5-22-23]]
+
+^<<v5-22-23,23>>^ “Se uma virgem estiver noiva de um homem, e outro homem a encontrar na cidade e se deitar com ela,
+
+[[v5-22-24]]
+
+^<<v5-22-24,24>>^ então, vocês devem levar ambos para fora, ao portão daquela cidade, e apedrejá-los até à morte; a jovem, por não ter gritado na cidade, e o homem, por ter humilhado a esposa do seu próximo. Assim, elimina o mal do teu meio.
+
+[[v5-22-25]]
+
+^<<v5-22-25,25>>^ “Mas, se o homem encontrou no campo a jovem que estava noiva, e dominou-a e deitou-se com ela, então, apenas o homem que se deitou com ela deve morrer;
+
+[[v5-22-26]]
+
+^<<v5-22-26,26>>^ não faças nada à jovem. A jovem não cometeu um pecado que mereça a morte. Este caso é igual ao de um homem que ataca o próximo e o assassina.^&#42;1^
+
+[NOTE]
+====
+. Ou: “e o assassina, uma alma”.
+====
+
+[[v5-22-27]]
+
+^<<v5-22-27,27>>^ Pois encontrou-a no campo, e a jovem que estava noiva gritou, mas não havia ninguém para a socorrer.
+
+[[v5-22-28]]
+
+^<<v5-22-28,28>>^ “Se um homem encontrar uma virgem que não está noiva, e a agarrar e se deitar com ela, e eles forem descobertos,
+
+[[v5-22-29]]
+
+^<<v5-22-29,29>>^ então, o homem que se deitou com ela dará 50 siclos de prata ao pai da jovem, e ela irá tornar-se sua esposa. Visto que ele a humilhou, não lhe será permitido divorciar-se dela enquanto ele viver.
+
+[[v5-22-30]]
+
+^<<v5-22-30,30>>^ “Nenhum homem deve tomar a esposa do seu pai, para que não desonre o seu pai.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “não remova a saia do seu pai”.
+====
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-021.adoc#v5-21-0[&#60; Capítulo Anterior] | <<v5-22-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-023.adoc#v5-23-0[Próximo Capítulo &#62;]

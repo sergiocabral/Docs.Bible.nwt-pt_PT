@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v26-46-0]]
+=== Ezequiel, 46
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v26-46-1]]
+
+^<<v26-46-1,1>>^ “Assim diz o Soberano Senhor Jeová: ‘O portão do pátio interno que dá para o leste deve ficar fechado nos seis dias de trabalho, mas, no dia de sábado e no dia da lua nova, deve ser aberto.
+
+[[v26-46-2]]
+
+^<<v26-46-2,2>>^ O maioral entrará pelo pórtico do portão e ficará junto da ombreira do portão. Os sacerdotes oferecerão a oferta queimada e os sacrifícios de participação em comum que ele trouxer, e ele irá curvar-se no limiar do portão e então sairá. Contudo, o portão não deve ser fechado até ao anoitecer.
+
+[[v26-46-3]]
+
+^<<v26-46-3,3>>^ O povo da terra também se curvará perante Jeová à entrada daquele portão, nos sábados e nas luas novas.
+
+[[v26-46-4]]
+
+^<<v26-46-4,4>>^ “‘A oferta queimada que o maioral apresentará a Jeová no dia de sábado deve consistir em seis cordeiros e num carneiro sadios.
+
+[[v26-46-5]]
+
+^<<v26-46-5,5>>^ A oferta de cereais será de uma efa^&#42;1^ para o carneiro e, para os cordeiros, tanto quanto ele puder dar, além de um him^&#42;2^ de azeite com cada efa.
+
+[NOTE]
+====
+. Veja o Ap. B14.
+. Veja o Ap. B14.
+====
+
+[[v26-46-6]]
+
+^<<v26-46-6,6>>^ No dia da lua nova, a oferta consistirá num novilho sadio da manada, em seis cordeiros e num carneiro; todos devem ser sadios.
+
+[[v26-46-7]]
+
+^<<v26-46-7,7>>^ Ele deve oferecer uma oferta de cereais de uma efa para o novilho, uma efa para o carneiro e, para os cordeiros, tanto quanto estiver ao seu alcance. E ele deve oferecer um him de azeite com cada efa.
+
+[[v26-46-8]]
+
+^<<v26-46-8,8>>^ “‘Quando o maioral entrar, deve entrar pelo pórtico do portão, e deve sair pelo mesmo caminho.
+
+[[v26-46-9]]
+
+^<<v26-46-9,9>>^ E, quando o povo da terra entrar perante Jeová nas festividades, quem entrar para adorar pelo portão norte deve sair pelo portão sul, e quem entrar pelo portão sul deve sair pelo portão norte. Ninguém deve voltar pelo mesmo portão pelo qual entrou, pois todos devem sair pelo portão oposto.
+
+[[v26-46-10]]
+
+^<<v26-46-10,10>>^ Quanto ao maioral que está no meio deles, deve entrar quando eles entrarem e sair quando eles saírem.
+
+[[v26-46-11]]
+
+^<<v26-46-11,11>>^ Nas festividades e nas épocas festivas, a oferta de cereais deve ser de uma efa para o novilho, uma efa para o carneiro e, para os cordeiros, tanto quanto ele puder dar, além de um him de azeite com cada efa.
+
+[[v26-46-12]]
+
+^<<v26-46-12,12>>^ “‘Se o maioral providenciar uma oferta queimada ou sacrifícios de participação em comum como oferta voluntária para Jeová, o portão que dá para o leste ser-lhe-á aberto, e ele providenciará a sua oferta queimada e os seus sacrifícios de participação em comum assim como o faz no dia de sábado. Depois de ele sair, o portão deverá ser fechado.
+
+[[v26-46-13]]
+
+^<<v26-46-13,13>>^ “‘Todos os dias, deves providenciar um cordeiro sadio no primeiro ano de vida, como oferta queimada a Jeová. Deves fazer isto manhã após manhã.
+
+[[v26-46-14]]
+
+^<<v26-46-14,14>>^ E com ele, deves providenciar todas as manhãs um sexto de uma efa de farinha fina como oferta de cereais e também um terço de um him de azeite para aspergir sobre ela, como oferta de cereais a ser feita regularmente a Jeová. É um decreto permanente.
+
+[[v26-46-15]]
+
+^<<v26-46-15,15>>^ O cordeiro, a oferta de cereais e o azeite serão providenciados todas as manhãs, como oferta queimada regular.’
+
+[[v26-46-16]]
+
+^<<v26-46-16,16>>^ “Assim diz o Soberano Senhor Jeová: ‘Se o maioral der um presente a cada um dos seus filhos como herança, esse irá tornar-se propriedade dos seus filhos. Será a sua propriedade por herança.
+
+[[v26-46-17]]
+
+^<<v26-46-17,17>>^ No entanto, se ele der parte da sua herança como presente a um dos seus servos, essa será dele até ao ano da liberdade, e então retornará ao maioral. Apenas a herança dada aos seus filhos é que será deles permanentemente.
+
+[[v26-46-18]]
+
+^<<v26-46-18,18>>^ O maioral não deve tirar nenhuma herança ao povo, forçando-os a sair das suas propriedades. É apenas da sua propriedade que ele deve dar uma herança aos seus filhos, para que ninguém dentre o meu povo seja tirado da sua propriedade.’”
+
+[[v26-46-19]]
+
+^<<v26-46-19,19>>^ Então, ele levou-me pela entrada que ficava ao lado do portão que dava acesso aos refeitórios sagrados^&#42;1^ dos sacerdotes, que davam para o norte, e eu vi ali um lugar na parte do fundo, a oeste.
+
+[NOTE]
+====
+. Ou: “às salas sagradas”.
+====
+
+[[v26-46-20]]
+
+^<<v26-46-20,20>>^ Ele disse-me: “Este é o lugar onde os sacerdotes cozinharão a oferta pela culpa e a oferta pelo pecado, e onde assarão a oferta de cereais, de modo que não levarão nada para fora, para o pátio externo, o que transmitiria santidade ao^&#42;1^ povo.”
+
+[NOTE]
+====
+. Ou: “santificaria o”.
+====
+
+[[v26-46-21]]
+
+^<<v26-46-21,21>>^ Ele levou-me para fora, para o pátio externo, e fez-me passar pelos quatro cantos do pátio, e eu vi outro pátio em cada canto do pátio externo.
+
+[[v26-46-22]]
+
+^<<v26-46-22,22>>^ Nos quatro cantos do pátio, havia pátios menores que mediam 40 côvados^&#42;1^ de comprimento e 30 côvados de largura. Os quatro tinham o mesmo tamanho.^&#42;2^
+
+[NOTE]
+====
+. Isto é, côvados longos. Veja o Ap. B14.
+. Ou: “Os quatro e as suas estruturas de esquina tinham o mesmo tamanho.”
+====
+
+[[v26-46-23]]
+
+^<<v26-46-23,23>>^ Havia bancadas^&#42;1^ nos quatro, a toda a volta, e por baixo das bancadas havia lugares para cozinhar as ofertas.
+
+[NOTE]
+====
+. Ou: “filas”.
+====
+
+[[v26-46-24]]
+
+^<<v26-46-24,24>>^ Então, ele disse-me: “Estes são os lugares^&#42;1^ onde os que servem no templo cozinham os sacrifícios do povo.”
+
+[NOTE]
+====
+. Ou: “Estas são as casas”.
+====
+
+'''
+
+xref:026-ezequiel/026-ezequiel-045.adoc#v26-45-0[&#60; Capítulo Anterior] | <<v26-46-0,Topo>> | xref:026-ezequiel/026-ezequiel-047.adoc#v26-47-0[Próximo Capítulo &#62;]

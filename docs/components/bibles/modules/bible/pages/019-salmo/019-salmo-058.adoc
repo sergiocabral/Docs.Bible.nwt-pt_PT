@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v19-58-0]]
+=== Salmos, 58
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; com a melodia de Não Destruas. De David. Mictão.^&#42;1^_
+
+[[v19-58-1]]
+
+^<<v19-58-1,1>>^ Será que podem falar de justiça, quando ficam em silêncio?
+Será que podem julgar com retidão, ó filhos dos homens?
+
+[[v19-58-2]]
+
+^<<v19-58-2,2>>^ Em vez disso, planeiam a injustiça no coração,
+E as vossas mãos distribuem violência pelo país.
+
+[[v19-58-3]]
+
+^<<v19-58-3,3>>^ Os maus desviam-se^&#42;1^ desde o nascimento;^&#42;2^
+São rebeldes e mentirosos desde o ventre.
+
+[NOTE]
+====
+. Ou: “são corruptos”.
+. Lit.: “desde o ventre”.
+====
+
+[[v19-58-4]]
+
+^<<v19-58-4,4>>^ O seu veneno é como o veneno de serpentes;
+São surdos como a naja que tapa os ouvidos.
+
+[[v19-58-5]]
+
+^<<v19-58-5,5>>^ Ela não ouvirá a voz dos encantadores,
+Mesmo que façam os mais hábeis encantamentos.
+
+[[v19-58-6]]
+
+^<<v19-58-6,6>>^ Ó Deus, parte-lhes os dentes da boca!
+Despedaça a mandíbula desses leões,^&#42;1^ ó Jeová!
+
+[NOTE]
+====
+. Ou: “leões novos jubados”.
+====
+
+[[v19-58-7]]
+
+^<<v19-58-7,7>>^ Que eles desapareçam como águas que se escoam;
+Que Ele arme o arco e os faça cair pelas suas flechas.
+
+[[v19-58-8]]
+
+^<<v19-58-8,8>>^ Que eles sejam como uma lesma que se derrete pelo caminho,
+Como uma criança que nasce morta, que nunca verá o sol.
+
+[[v19-58-9]]
+
+^<<v19-58-9,9>>^ Antes que as vossas panelas sintam o calor dos espinheiros,
+Ele levará os ramos verdes e os que estão em chamas, como num vendaval.
+
+[[v19-58-10]]
+
+^<<v19-58-10,10>>^ O justo vai alegrar-se por ter visto a vingança;
+Os seus pés serão banhados no sangue dos maus.
+
+[[v19-58-11]]
+
+^<<v19-58-11,11>>^ Então, os homens dirão: “Certamente, há uma recompensa para o justo.
+Há realmente um Deus que faz justiça na terra.”
+
+'''
+
+xref:019-salmo/019-salmo-057.adoc#v19-57-0[&#60; Capítulo Anterior] | <<v19-58-0,Topo>> | xref:019-salmo/019-salmo-059.adoc#v19-59-0[Próximo Capítulo &#62;]

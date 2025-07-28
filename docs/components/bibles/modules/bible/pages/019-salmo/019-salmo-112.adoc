@@ -1,0 +1,182 @@
+include::./index.adoc[]
+
+[[v19-112-0]]
+=== Salmos, 112
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-112-1]]
+
+^<<v19-112-1,1>>^ Louvem a Jah!^&#42;1^
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+_א &#91;álefe&#93;_
+
+Feliz o homem que teme a Jeová,
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+_ב &#91;bete&#93;_
+
+Que tem grande prazer nos Seus mandamentos.
+
+[NOTE]
+====
+. Ou: “Aleluia!” “Jah” é uma forma reduzida do nome Jeová.
+====
+
+_ג &#91;guímel&#93;_
+
+[[v19-112-2]]
+
+^<<v19-112-2,2>>^ Os seus descendentes serão poderosos na terra,
+
+_ד &#91;dálete&#93;_
+
+E a descendência dos que são retos será abençoada.
+
+_ה &#91;hê&#93;_
+
+[[v19-112-3]]
+
+^<<v19-112-3,3>>^ Na sua casa, há abundância e riquezas,
+
+_ו &#91;vau&#93;_
+
+E a sua justiça permanece para sempre.
+
+_ז &#91;zaine&#93;_
+
+[[v19-112-4]]
+
+^<<v19-112-4,4>>^ Para os que são retos, ele brilha como luz na escuridão.
+
+[NOTE]
+====
+. Ou: “benevolente”.
+====
+
+_ח &#91;hete&#93;_
+
+Ele é compassivo,^&#42;1^ misericordioso e justo.
+
+[NOTE]
+====
+. Ou: “benevolente”.
+====
+
+_ט &#91;tete&#93;_
+
+[[v19-112-5]]
+
+^<<v19-112-5,5>>^ Feliz é o homem que empresta generosamente.^&#42;1^
+
+[NOTE]
+====
+. Ou: “de modo benevolente”.
+====
+
+_י &#91;iode&#93;_
+
+Ele cuida dos seus assuntos com justiça.
+
+[NOTE]
+====
+. Ou: “de modo benevolente”.
+====
+
+_כ &#91;cafe&#93;_
+
+[[v19-112-6]]
+
+^<<v19-112-6,6>>^ Nunca será abalado.
+
+_ל &#91;lâmede&#93;_
+
+O justo será lembrado para sempre.
+
+_מ &#91;meme&#93;_
+
+[[v19-112-7]]
+
+^<<v19-112-7,7>>^ Não terá medo de más notícias.
+
+_נ &#91;nune&#93;_
+
+O seu coração é firme, confia em Jeová.
+
+_ס &#91;sâmeque&#93;_
+
+[[v19-112-8]]
+
+^<<v19-112-8,8>>^ O seu coração é inabalável;^&#42;1^ ele não tem medo.
+
+[NOTE]
+====
+. Ou: “resoluto; firme”.
+====
+
+_ע &#91;aine&#93;_
+
+No final, ele olhará triunfantemente para os seus adversários.
+
+[NOTE]
+====
+. Ou: “resoluto; firme”.
+====
+
+_פ &#91;pê&#93;_
+
+[[v19-112-9]]
+
+^<<v19-112-9,9>>^ Ele distribui amplamente;^&#42;1^ dá aos pobres.
+
+[NOTE]
+====
+. Ou: “generosamente”.
+. Lit.: “chifre”.
+====
+
+_צ &#91;tsadê&#93;_
+
+A sua justiça permanece para sempre.
+
+[NOTE]
+====
+. Ou: “generosamente”.
+. Lit.: “chifre”.
+====
+
+_ק &#91;cofe&#93;_
+
+O seu poder^&#42;1^ aumentará em glória.
+
+[NOTE]
+====
+. Ou: “generosamente”.
+. Lit.: “chifre”.
+====
+
+_ר &#91;rexe&#93;_
+
+[[v19-112-10]]
+
+^<<v19-112-10,10>>^ Aquele que é mau verá isso e ficará transtornado.
+
+_ש &#91;chim&#93;_
+
+Rangerá os dentes e desaparecerá.
+
+_ת &#91;tau&#93;_
+
+Os desejos dos maus serão reduzidos a nada.
+
+'''
+
+xref:019-salmo/019-salmo-111.adoc#v19-111-0[&#60; Capítulo Anterior] | <<v19-112-0,Topo>> | xref:019-salmo/019-salmo-113.adoc#v19-113-0[Próximo Capítulo &#62;]

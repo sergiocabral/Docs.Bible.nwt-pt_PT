@@ -1,0 +1,100 @@
+include::./index.adoc[]
+
+[[v5-25-0]]
+=== Deuteronómio, 25
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-25-1]]
+
+^<<v5-25-1,1>>^ “Quando surgir uma disputa entre dois homens, eles poderão apresentar-se perante os juízes; eles irão julgá-los e ao justo declararão inocente, e àquele que é mau declararão culpado.
+
+[[v5-25-2]]
+
+^<<v5-25-2,2>>^ Se o culpado merecer ser golpeado, o juiz fará com que ele se deite de bruços, e ele será golpeado na sua presença. O número de golpes deve corresponder à maldade da sua ação.
+
+[[v5-25-3]]
+
+^<<v5-25-3,3>>^ Ele pode golpeá-lo com até 40 golpes, não mais do que isso. Se ele continuasse a golpeá-lo com mais golpes, o teu irmão seria humilhado diante de ti.
+
+[[v5-25-4]]
+
+^<<v5-25-4,4>>^ “Não ponhas um açaime no touro enquanto este debulha o grão.
+
+[[v5-25-5]]
+
+^<<v5-25-5,5>>^ “Se irmãos morarem juntos e um deles morrer sem deixar um filho, a esposa do que morreu não se deve casar com alguém de fora da família. O seu cunhado deve ir ter com ela, tomá-la como esposa e realizar com ela o casamento de cunhado.
+
+[[v5-25-6]]
+
+^<<v5-25-6,6>>^ O primogénito que ela der à luz dará continuidade ao nome do irmão falecido, para que o seu nome não seja apagado de Israel.
+
+[[v5-25-7]]
+
+^<<v5-25-7,7>>^ “Se o homem não se quiser casar com a viúva do seu irmão, então, a viúva deve ir ter com os anciãos no portão da cidade e dizer: ‘O irmão do meu marido negou-se a preservar o nome do seu irmão em Israel. Não quis realizar comigo o casamento de cunhado.’
+
+[[v5-25-8]]
+
+^<<v5-25-8,8>>^ Os anciãos da cidade dele devem chamá-lo e falar com ele. Se ele insistir e disser: ‘Não me quero casar com ela’,
+
+[[v5-25-9]]
+
+^<<v5-25-9,9>>^ então, a viúva deve aproximar-se dele diante dos anciãos, tirar-lhe a sandália do pé, cuspir-lhe no rosto e dizer: ‘Assim se deve fazer ao homem que não edificar a família do seu irmão.’
+
+[[v5-25-10]]
+
+^<<v5-25-10,10>>^ Depois disso, o nome da família dele^&#42;1^ será conhecido em Israel como ‘A casa daquele a quem se tirou a sandália’.
+
+[NOTE]
+====
+. Ou: “o nome da casa dele”. Lit.: “o nome dele”.
+====
+
+[[v5-25-11]]
+
+^<<v5-25-11,11>>^ “Se dois homens começarem a lutar entre si e a esposa de um deles se envolver na luta para proteger o seu marido daquele que o agride, e ela estender a mão e o agarrar pelas partes íntimas,
+
+[[v5-25-12]]
+
+^<<v5-25-12,12>>^ deves amputar a mão dela. Tu não deves^&#42;1^ ter dó.
+
+[NOTE]
+====
+. Lit.: “O teu olho não deve”.
+====
+
+[[v5-25-13]]
+
+^<<v5-25-13,13>>^ “Não tenhas na tua bolsa dois pesos de pedra diferentes, um grande e um pequeno.
+
+[[v5-25-14]]
+
+^<<v5-25-14,14>>^ Não deves ter em casa dois recipientes de medida diferentes,^&#42;1^ um grande e um pequeno.
+
+[NOTE]
+====
+. Lit.: “em tua casa uma efa e uma efa”. Veja o Ap. B14.
+====
+
+[[v5-25-15]]
+
+^<<v5-25-15,15>>^ Deves ter sempre um peso exato e justo e uma medida exata e justa, para que vivas por muito tempo na terra que Jeová, teu Deus, te dá.
+
+[[v5-25-16]]
+
+^<<v5-25-16,16>>^ Pois toda a pessoa injusta, que faz estas coisas, é detestável para Jeová, teu Deus.
+
+[[v5-25-17]]
+
+^<<v5-25-17,17>>^ “Lembra-te do que Amaleque te fez no caminho, quando vocês saíam do Egito.
+
+[[v5-25-18]]
+
+^<<v5-25-18,18>>^ Ele alcançou-te pelo caminho e atacou todos os que ficavam para trás, quando estavas cansado e exausto. Ele não temeu a Deus.
+
+[[v5-25-19]]
+
+^<<v5-25-19,19>>^ Quando Jeová, teu Deus, te tiver dado descanso de todos os inimigos ao teu redor, na terra que Jeová, teu Deus, te dá como herança para que tomes posse dela, deves apagar a lembrança de Amaleque de debaixo dos céus. Não te esqueças.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-024.adoc#v5-24-0[&#60; Capítulo Anterior] | <<v5-25-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-026.adoc#v5-26-0[Próximo Capítulo &#62;]

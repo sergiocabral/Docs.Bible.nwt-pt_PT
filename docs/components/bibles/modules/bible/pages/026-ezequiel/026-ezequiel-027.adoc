@@ -1,0 +1,218 @@
+include::./index.adoc[]
+
+[[v26-27-0]]
+=== Ezequiel, 27
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v26-27-1]]
+
+^<<v26-27-1,1>>^ Recebi novamente a palavra de Jeová:
+
+[[v26-27-2]]
+
+^<<v26-27-2,2>>^ “Filho do homem, canta uma lamentação a respeito de Tiro.
+
+[[v26-27-3]]
+
+^<<v26-27-3,3>>^ Diz a Tiro:
+‘Tu que moras nas entradas do mar,
+Mercadora para os povos de muitas ilhas,
+Assim diz o Soberano Senhor Jeová:
+“Ó Tiro, tu mesma disseste: ‘Sou perfeita em beleza.’
+
+[[v26-27-4]]
+
+^<<v26-27-4,4>>^ Os teus territórios estão no coração do mar,
+E os teus construtores aperfeiçoaram a tua beleza.
+
+[[v26-27-5]]
+
+^<<v26-27-5,5>>^ Fizeram todas as tuas tábuas com juníperos de Senir,
+E usaram um cedro do Líbano para te fazer um mastro.
+
+[[v26-27-6]]
+
+^<<v26-27-6,6>>^ Fizeram os teus remos com carvalhos de Basã,
+E a tua proa era de cipreste incrustado de marfim das ilhas de Quitim.
+
+[[v26-27-7]]
+
+^<<v26-27-7,7>>^ Linho colorido do Egito servia de tecido para a tua vela,
+E os toldos do teu convés eram de linha azul e de lã roxa, das ilhas de Elisá.
+
+[[v26-27-8]]
+
+^<<v26-27-8,8>>^ Os habitantes de Sídon e de Arvade eram os teus remadores.
+Os teus homens hábeis, ó Tiro, eram os teus marinheiros.
+
+[[v26-27-9]]
+
+^<<v26-27-9,9>>^ Os homens experientes^&#42;1^ e hábeis de Gebal vedavam as tuas frestas.
+Todos os navios do mar e os seus marinheiros vinham até ti para negociar mercadorias.
+
+[NOTE]
+====
+. Lit.: “idosos”.
+====
+
+[[v26-27-10]]
+
+^<<v26-27-10,10>>^ Homens da Pérsia, de Lude e de Pute estavam no teu exército, eram teus homens de guerra.
+Penduravam os seus escudos e capacetes em ti, e traziam-te esplendor.
+
+[[v26-27-11]]
+
+^<<v26-27-11,11>>^ Os homens de Arvade que serviam no teu exército estavam colocados em toda a extensão das tuas muralhas,
+E homens valentes guarneciam as tuas torres.
+Penduravam escudos redondos ao redor das tuas muralhas
+E aperfeiçoavam a tua beleza.
+
+[[v26-27-12]]
+
+^<<v26-27-12,12>>^ “‘“Társis negociava contigo por causa da tua riqueza abundante. Trocavam prata, ferro, estanho e chumbo pelos teus produtos.
+
+[[v26-27-13]]
+
+^<<v26-27-13,13>>^ Javã, Tubal e Meseque negociavam contigo, trocando escravos e objetos de cobre pelas tuas mercadorias.
+
+[[v26-27-14]]
+
+^<<v26-27-14,14>>^ A casa de Togarma trocava cavalos de carga, cavalos de guerra e mulas pelos teus produtos.
+
+[[v26-27-15]]
+
+^<<v26-27-15,15>>^ O povo de Dedã negociava contigo. Empregavas mercadores em muitas ilhas; eles davam-te marfim e ébano como tributo.
+
+[[v26-27-16]]
+
+^<<v26-27-16,16>>^ Edom negociava contigo por causa da abundância dos teus produtos. Eles davam turquesas, lã roxa, bordados coloridos, tecidos finos, corais e rubis em troca dos teus produtos.
+
+[[v26-27-17]]
+
+^<<v26-27-17,17>>^ “‘“Judá e a terra de Israel negociavam contigo, dando trigo de Minite, alimentos seletos, mel, azeite e bálsamo em troca dos teus produtos.
+
+[[v26-27-18]]
+
+^<<v26-27-18,18>>^ “‘“Damasco negociava contigo por causa da abundância dos teus produtos e de toda a tua riqueza, dando em troca vinho de Helbom e lã de Zaar.^&#42;1^
+
+[NOTE]
+====
+. Ou: “lã cinza-avermelhada”.
+====
+
+[[v26-27-19]]
+
+^<<v26-27-19,19>>^ Vedã e Javã de Uzal davam ferro forjado, cássia^&#42;1^ e cálamo^&#42;2^ em troca dos teus produtos.
+
+[NOTE]
+====
+. Árvore da mesma família da canela.
+. Uma cana aromática.
+====
+
+[[v26-27-20]]
+
+^<<v26-27-20,20>>^ Dedã negociava contigo mantas para selas^&#42;1^ de cavalgadura.
+
+[NOTE]
+====
+. Ou: “roupas de tecido”.
+====
+
+[[v26-27-21]]
+
+^<<v26-27-21,21>>^ Empregavas os árabes e todos os maiorais de Quedar, que eram mercadores de cordeiros, carneiros e bodes.
+
+[[v26-27-22]]
+
+^<<v26-27-22,22>>^ Os mercadores de Sabá e de Raamá negociavam contigo; eles davam os melhores de todo o tipo de perfumes, pedras preciosas e ouro em troca dos teus produtos.
+
+[[v26-27-23]]
+
+^<<v26-27-23,23>>^ Harã, Cané, Éden, os mercadores de Sabá, Assur e Quilmade negociavam contigo.
+
+[[v26-27-24]]
+
+^<<v26-27-24,24>>^ No teu mercado, eles negociavam belas roupas, mantos feitos de tecido azul e bordados coloridos, e tapetes multicoloridos, tudo firmemente amarrado com cordas.
+
+[[v26-27-25]]
+
+^<<v26-27-25,25>>^ Os navios de Társis eram as caravanas que transportavam as tuas mercadorias,
+De modo que tu ficaste lotada e muito carregada^&#42;1^ no coração do alto-mar.
+
+[NOTE]
+====
+. Ou, possivelmente: “e gloriosa”.
+====
+
+[[v26-27-26]]
+
+^<<v26-27-26,26>>^ Os teus remadores levaram-te para mares revoltos;
+O vento leste destroçou-te no coração do alto-mar.
+
+[[v26-27-27]]
+
+^<<v26-27-27,27>>^ A tua riqueza, os teus produtos, as tuas mercadorias, os teus marujos e os teus marinheiros,
+Os homens que vedavam as tuas frestas, os teus mercadores e todos os homens de guerra
+— Toda a multidão^&#42;1^ dentro de ti —,
+Todos eles irão afundar-se no coração do alto-mar no dia da tua queda.
+
+[NOTE]
+====
+. Lit.: “congregação”.
+====
+
+[[v26-27-28]]
+
+^<<v26-27-28,28>>^ Quando os teus marinheiros clamarem, os litorais tremerão.
+
+[[v26-27-29]]
+
+^<<v26-27-29,29>>^ Todos os remadores, marujos e marinheiros
+Descerão dos navios e ficarão em terra.
+
+[[v26-27-30]]
+
+^<<v26-27-30,30>>^ Levantarão a voz e clamarão amargamente por tua causa,
+Ao passo que atirarão pó sobre a cabeça e irão revolver-se em cinzas.
+
+[[v26-27-31]]
+
+^<<v26-27-31,31>>^ Raparão a cabeça, irão vestir-se de serapilheira;^&#42;1^
+Chorarão amargamente^&#42;2^ por ti, com grande lamentação.
+
+[NOTE]
+====
+. Veja o Glossário.
+. Ou: “com amargura de alma”.
+====
+
+[[v26-27-32]]
+
+^<<v26-27-32,32>>^ Na sua lamentação, cantarão um cântico fúnebre a teu respeito, dizendo:
+‘Quem é como Tiro, que agora está em silêncio no meio do mar?
+
+[[v26-27-33]]
+
+^<<v26-27-33,33>>^ Quando os teus produtos vinham do alto-mar, saciavas muitos povos.
+A tua abundante riqueza e as tuas mercadorias enriqueciam os reis da terra.
+
+[[v26-27-34]]
+
+^<<v26-27-34,34>>^ Agora, foste destroçada no alto-mar, nas águas profundas,
+E todas as tuas mercadorias e todo o teu povo afundaram-se contigo.
+
+[[v26-27-35]]
+
+^<<v26-27-35,35>>^ Todos os habitantes das ilhas olharão para ti espantados,
+E os seus reis tremerão de pavor — os seus rostos estarão transtornados.
+
+[[v26-27-36]]
+
+^<<v26-27-36,36>>^ Os mercadores das nações assobiarão por causa do que aconteceu contigo.
+O teu fim será repentino e terrível,
+E deixarás de existir para sempre.’”’”
+
+'''
+
+xref:026-ezequiel/026-ezequiel-026.adoc#v26-26-0[&#60; Capítulo Anterior] | <<v26-27-0,Topo>> | xref:026-ezequiel/026-ezequiel-028.adoc#v26-28-0[Próximo Capítulo &#62;]

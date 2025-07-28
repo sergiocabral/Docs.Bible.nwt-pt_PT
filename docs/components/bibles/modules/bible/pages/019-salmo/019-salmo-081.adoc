@@ -1,0 +1,122 @@
+include::./index.adoc[]
+
+[[v19-81-0]]
+=== Salmos, 81
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente; sobre gitite.^&#42;1^ De Asafe._
+
+[[v19-81-1]]
+
+^<<v19-81-1,1>>^ Gritem de alegria a Deus, a nossa força.
+Aclamem triunfantemente ao Deus de Jacó.
+
+[[v19-81-2]]
+
+^<<v19-81-2,2>>^ Comecem a música e peguem na pandeireta,
+Na melodiosa harpa e no instrumento de cordas.
+
+[[v19-81-3]]
+
+^<<v19-81-3,3>>^ Toquem a buzina na lua nova,
+Na lua cheia, no dia da nossa festividade.
+
+[[v19-81-4]]
+
+^<<v19-81-4,4>>^ Pois é um decreto para Israel,
+Uma decisão do Deus de Jacó,
+
+[[v19-81-5]]
+
+^<<v19-81-5,5>>^ Que ele estabeleceu como testemunho^&#42;1^ a José
+Quando saiu contra a terra do Egito.
+Ouvi uma voz^&#42;2^ que não reconheci:
+
+[NOTE]
+====
+. Ou: “advertência”.
+. Ou: “um idioma”.
+====
+
+[[v19-81-6]]
+
+^<<v19-81-6,6>>^ “Eu tirei o fardo dos seus ombros,
+As suas mãos ficaram livres do cesto de carga.
+
+[[v19-81-7]]
+
+^<<v19-81-7,7>>^ Chamaste-me na tua aflição, e eu livrei-te;
+Eu respondi-te da nuvem carregada.^&#42;1^
+Pus-te à prova junto às águas de Meribá.^&#42;2^ (Selá)
+
+[NOTE]
+====
+. Lit.: “no esconderijo do trovão”.
+. Que significa “discussão”.
+====
+
+[[v19-81-8]]
+
+^<<v19-81-8,8>>^ Ouve, meu povo, e eu vou testemunhar contra ti.
+Ó Israel, se ao menos me desses ouvidos!
+
+[[v19-81-9]]
+
+^<<v19-81-9,9>>^ No teu meio, não deve haver nenhum deus estranho,
+E não te deves curvar perante um deus estrangeiro.
+
+[[v19-81-10]]
+
+^<<v19-81-10,10>>^ Eu, Jeová, sou o teu Deus,
+Aquele que te tirou da terra do Egito.
+Abre bem a tua boca, e eu vou enchê-la de alimento.
+
+[[v19-81-11]]
+
+^<<v19-81-11,11>>^ Contudo, o meu povo não escutou a minha voz;
+Israel recusava-se a obedecer-me.
+
+[[v19-81-12]]
+
+^<<v19-81-12,12>>^ Por isso, deixei-os seguir o seu coração obstinado;
+Eles faziam o que achavam ser certo.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “Eles andavam nos seus conselhos”.
+====
+
+[[v19-81-13]]
+
+^<<v19-81-13,13>>^ Se ao menos o meu povo me desse ouvidos,
+Se ao menos Israel andasse nos meus caminhos!
+
+[[v19-81-14]]
+
+^<<v19-81-14,14>>^ Eu subjugaria rapidamente os seus inimigos;
+Eu voltaria a minha mão contra os seus adversários.
+
+[[v19-81-15]]
+
+^<<v19-81-15,15>>^ Os que odeiam a Jeová hão de encolher-se de temor na sua presença,
+E o seu fim^&#42;1^ será eterno.
+
+[NOTE]
+====
+. Lit.: “tempo”.
+====
+
+[[v19-81-16]]
+
+^<<v19-81-16,16>>^ Porém, ele vai alimentar-te^&#42;1^ com o melhor^&#42;2^ trigo
+E saciar-te com o mel da rocha.”
+
+[NOTE]
+====
+. Lit.: “alimentá-lo”, isto é, o povo de Deus.
+. Lit.: “a gordura do”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-080.adoc#v19-80-0[&#60; Capítulo Anterior] | <<v19-81-0,Topo>> | xref:019-salmo/019-salmo-082.adoc#v19-82-0[Próximo Capítulo &#62;]

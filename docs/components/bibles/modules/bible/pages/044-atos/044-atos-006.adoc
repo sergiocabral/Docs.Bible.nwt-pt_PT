@@ -1,0 +1,84 @@
+include::./index.adoc[]
+
+[[v44-6-0]]
+=== Atos, 6
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v44-6-1]]
+
+^<<v44-6-1,1>>^ Naqueles dias, ao aumentar o número de discípulos, os judeus que falavam grego começaram a reclamar contra os judeus que falavam hebraico, porque as suas viúvas estavam a ser deixadas de lado na distribuição diária.
+
+[[v44-6-2]]
+
+^<<v44-6-2,2>>^ Por conseguinte, os Doze reuniram a multidão dos discípulos e disseram: “Não é correto^&#42;1^ que deixemos a palavra de Deus para servir alimento às mesas.
+
+[NOTE]
+====
+. Lit.: “agradável”.
+====
+
+[[v44-6-3]]
+
+^<<v44-6-3,3>>^ Portanto, irmãos, escolham dentre vocês sete homens de boa reputação,^&#42;1^ cheios de espírito e de sabedoria, e nós iremos designá-los para esta tarefa necessária.
+
+[NOTE]
+====
+. Ou: “sete homens de quem se fala bem”.
+====
+
+[[v44-6-4]]
+
+^<<v44-6-4,4>>^ Porém, nós próprios iremos dedicar-nos à oração e ao ministério da palavra.”
+
+[[v44-6-5]]
+
+^<<v44-6-5,5>>^ O que eles disseram agradou a toda a multidão, e escolheram Estêvão, homem cheio de fé e de espírito santo, e também Filipe, Prócoro, Nicanor, Timão, Pármenas e Nicolau, prosélito de Antioquia.
+
+[[v44-6-6]]
+
+^<<v44-6-6,6>>^ Eles levaram-nos aos apóstolos, que, depois de orar, lhes impuseram as mãos.
+
+[[v44-6-7]]
+
+^<<v44-6-7,7>>^ Assim, a palavra de Deus continuava a espalhar-se, e o número de discípulos multiplicava-se muito em Jerusalém. E uma grande multidão de sacerdotes tornou-se obediente à fé.
+
+[[v44-6-8]]
+
+^<<v44-6-8,8>>^ Estêvão, cheio de favor divino e de poder, realizava grandes sinais e milagres^&#42;1^ entre o povo.
+
+[NOTE]
+====
+. Ou: “portentos”.
+====
+
+[[v44-6-9]]
+
+^<<v44-6-9,9>>^ No entanto, alguns homens da chamada Sinagoga dos Libertos, juntamente com alguns cireneus e alexandrinos, bem como alguns da Cilícia e da Ásia, vieram para discutir com Estêvão.
+
+[[v44-6-10]]
+
+^<<v44-6-10,10>>^ Contudo, não puderam resistir à sabedoria e ao espírito com que ele falava.
+
+[[v44-6-11]]
+
+^<<v44-6-11,11>>^ Então, persuadiram secretamente alguns homens a dizer: “Nós ouvimo-lo a dizer blasfémias contra Moisés e contra Deus.”
+
+[[v44-6-12]]
+
+^<<v44-6-12,12>>^ E eles atiçaram o povo, os anciãos e os escribas; e, numa investida, agarraram-no e levaram-no ao Sinédrio.
+
+[[v44-6-13]]
+
+^<<v44-6-13,13>>^ Apresentaram então testemunhas falsas, que disseram: “Este homem não para de falar contra este lugar santo e contra a Lei.
+
+[[v44-6-14]]
+
+^<<v44-6-14,14>>^ Por exemplo, nós ouvimo-lo a dizer que este Jesus, o Nazareno, derrubará este lugar e mudará os costumes que Moisés nos transmitiu.”
+
+[[v44-6-15]]
+
+^<<v44-6-15,15>>^ E, quando todos os que estavam sentados no Sinédrio olharam fixamente para ele, viram que o seu rosto era como o rosto de um anjo.
+
+'''
+
+xref:044-atos/044-atos-005.adoc#v44-5-0[&#60; Capítulo Anterior] | <<v44-6-0,Topo>> | xref:044-atos/044-atos-007.adoc#v44-7-0[Próximo Capítulo &#62;]

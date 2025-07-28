@@ -1,0 +1,119 @@
+include::./index.adoc[]
+
+[[v24-37-0]]
+=== Jeremias, 37
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v24-37-1]]
+
+^<<v24-37-1,1>>^ O rei Zedequias, filho de Josias, começou a reinar no lugar de Conias,^&#42;1^ filho de Jeoiaquim, pois Nabucodonosor,^&#42;2^ rei de Babilónia, fez dele rei na terra de Judá.
+
+[NOTE]
+====
+. Também chamado Joaquim e Jeconias.
+. Lit.: “Nabucodorosor”, grafia variante.
+====
+
+[[v24-37-2]]
+
+^<<v24-37-2,2>>^ Porém, nem ele, nem os seus servos, nem o povo da terra escutaram as palavras que Jeová transmitiu por meio do profeta Jeremias.
+
+[[v24-37-3]]
+
+^<<v24-37-3,3>>^ O rei Zedequias enviou Jeucal, filho de Selemias, e Sofonias, filho de Maaseias, o sacerdote, ao profeta Jeremias, para dizer-lhe: “Por favor, ora por nós a Jeová, nosso Deus.”
+
+[[v24-37-4]]
+
+^<<v24-37-4,4>>^ Jeremias andava livremente entre o povo, pois ainda não o tinham posto na prisão.
+
+[[v24-37-5]]
+
+^<<v24-37-5,5>>^ Entretanto, o exército do Faraó tinha saído do Egito. Quando os caldeus que cercavam Jerusalém ouviram a notícia, retiraram-se de Jerusalém.
+
+[[v24-37-6]]
+
+^<<v24-37-6,6>>^ Então, o profeta Jeremias recebeu a seguinte palavra de Jeová:
+
+[[v24-37-7]]
+
+^<<v24-37-7,7>>^ “Assim diz Jeová, o Deus de Israel: ‘Devem dizer o seguinte ao rei de Judá, que vos enviou para me consultarem: “O exército do Faraó, que vem a caminho para vos ajudar, voltará à sua própria terra, o Egito.
+
+[[v24-37-8]]
+
+^<<v24-37-8,8>>^ E os caldeus voltarão e lutarão contra esta cidade; irão apoderar-se dela e queimá-la com fogo.”
+
+[[v24-37-9]]
+
+^<<v24-37-9,9>>^ Assim diz Jeová: “Não se iludam,^&#42;1^ dizendo: ‘Certamente, os caldeus vão-se embora e não voltarão a atacar-nos’, pois eles não se vão embora.
+
+[NOTE]
+====
+. Ou: “Não iludam as vossas almas”.
+====
+
+[[v24-37-10]]
+
+^<<v24-37-10,10>>^ Mesmo que destruíssem todo o exército dos caldeus que lutam contra vocês e apenas restassem entre eles os homens feridos, ainda assim, eles iriam levantar-se das suas tendas e queimar esta cidade com fogo.”’”
+
+[[v24-37-11]]
+
+^<<v24-37-11,11>>^ Quando o exército dos caldeus se retirou de Jerusalém por causa do exército do Faraó,
+
+[[v24-37-12]]
+
+^<<v24-37-12,12>>^ Jeremias partiu de Jerusalém para ir à terra de Benjamim e receber a sua propriedade entre o seu povo.
+
+[[v24-37-13]]
+
+^<<v24-37-13,13>>^ Contudo, quando ele chegou ao Portão de Benjamim, o oficial encarregado da guarda, que se chamava Jerias, filho de Selemias, filho de Hananias, agarrou o profeta Jeremias e disse-lhe: “Estás a desertar para o lado dos caldeus!”
+
+[[v24-37-14]]
+
+^<<v24-37-14,14>>^ Contudo, Jeremias disse: “Isso não é verdade! Eu não estou a desertar para o lado dos caldeus.” Todavia, Jerias não lhe deu ouvidos. Prendeu Jeremias e levou-o aos príncipes.
+
+[[v24-37-15]]
+
+^<<v24-37-15,15>>^ Os príncipes ficaram furiosos com Jeremias. Espancaram-no e prenderam-no^&#42;1^ na casa de Jeonatã, o secretário, a qual tinha sido transformada numa prisão.
+
+[NOTE]
+====
+. Lit.: “e puseram-no na casa das correntes”.
+====
+
+[[v24-37-16]]
+
+^<<v24-37-16,16>>^ Jeremias foi posto numa das celas da masmorra,^&#42;1^ onde permaneceu durante muitos dias.
+
+[NOTE]
+====
+. Lit.: “na casa da cisterna e nos compartimentos abobadados”.
+====
+
+[[v24-37-17]]
+
+^<<v24-37-17,17>>^ Então, o rei Zedequias mandou que o trouxessem, e o rei interrogou-o secretamente na sua casa.^&#42;1^ Ele perguntou: “Tens alguma palavra de Jeová?” Jeremias respondeu: “Tenho!” E continuou: “O senhor será entregue nas mãos do rei de Babilónia!”
+
+[NOTE]
+====
+. Ou: “no seu palácio”.
+====
+
+[[v24-37-18]]
+
+^<<v24-37-18,18>>^ Jeremias também disse ao rei Zedequias: “Que pecado cometi contra si, contra os seus servos e contra este povo, para que me metessem na prisão?
+
+[[v24-37-19]]
+
+^<<v24-37-19,19>>^ Onde é que estão os vossos profetas, que vos profetizaram: ‘O rei de Babilónia não virá contra vocês e contra esta terra’?
+
+[[v24-37-20]]
+
+^<<v24-37-20,20>>^ Agora, ouça, por favor, ó meu senhor, o rei. Por favor, aceite o meu pedido de favor. Não me mande novamente para a casa de Jeonatã, o secretário, senão vou morrer lá.”
+
+[[v24-37-21]]
+
+^<<v24-37-21,21>>^ Assim, o rei Zedequias ordenou que prendessem Jeremias no Pátio da Guarda, e deram-lhe diariamente um pão redondo da rua dos padeiros até se acabar todo o pão na cidade. E Jeremias permaneceu no Pátio da Guarda.
+
+'''
+
+xref:024-jeremias/024-jeremias-036.adoc#v24-36-0[&#60; Capítulo Anterior] | <<v24-37-0,Topo>> | xref:024-jeremias/024-jeremias-038.adoc#v24-38-0[Próximo Capítulo &#62;]

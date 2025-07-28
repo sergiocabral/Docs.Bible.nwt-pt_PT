@@ -1,0 +1,135 @@
+include::./index.adoc[]
+
+[[v22-2-0]]
+=== Cântico de Salomão, 2
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v22-2-1]]
+
+^<<v22-2-1,1>>^ “Sou apenas uma flor de açafrão^&#42;1^ da planície costeira,
+Um lírio dos vales.”
+
+[NOTE]
+====
+. Ou: “um croco”.
+====
+
+[[v22-2-2]]
+
+^<<v22-2-2,2>>^ “Como um lírio entre os espinhos,
+Assim é a minha amada entre as moças.”
+
+[[v22-2-3]]
+
+^<<v22-2-3,3>>^ “Como uma macieira entre as árvores da floresta,
+Assim é o meu querido entre os rapazes.
+Desejo ardentemente sentar-me à sua sombra,
+E o seu fruto é doce ao meu paladar.
+
+[[v22-2-4]]
+
+^<<v22-2-4,4>>^ Ele levou-me à sala de banquete,^&#42;1^
+E o seu estandarte sobre mim era o amor.
+
+[NOTE]
+====
+. Lit.: “casa de vinho”.
+====
+
+[[v22-2-5]]
+
+^<<v22-2-5,5>>^ Revigorem-me com passas prensadas,
+Sustentem-me com maçãs,
+Pois estou a desfalecer de amor.
+
+[[v22-2-6]]
+
+^<<v22-2-6,6>>^ A sua mão esquerda está sob a minha cabeça,
+E a sua mão direita abraça-me.
+
+[[v22-2-7]]
+
+^<<v22-2-7,7>>^ Ponho-vos sob juramento, ó filhas de Jerusalém,
+Pelas gazelas e pelas corças do campo:
+Não tentem despertar nem suscitar em mim amor até que este o queira.
+
+[[v22-2-8]]
+
+^<<v22-2-8,8>>^ Ouço o meu querido a chegar!
+Vejam! Lá vem ele,
+Escalando os montes, saltando pelas colinas.
+
+[[v22-2-9]]
+
+^<<v22-2-9,9>>^ O meu querido é como uma gazela, como um filhote de corça.
+Lá está ele, atrás da nossa parede,
+Olhando pelas janelas,
+Espreitando pelas gelosias.^&#42;1^
+
+[NOTE]
+====
+. Isto é, grades de ripas de madeira colocadas nas janelas.
+====
+
+[[v22-2-10]]
+
+^<<v22-2-10,10>>^ O meu querido diz-me:
+‘Levanta-te, minha amada,
+Minha bela, vem comigo.
+
+[[v22-2-11]]
+
+^<<v22-2-11,11>>^ Vê! O inverno^&#42;1^ passou.
+As chuvas cessaram, foram-se embora.
+
+[NOTE]
+====
+. Ou: “A estação chuvosa”.
+====
+
+[[v22-2-12]]
+
+^<<v22-2-12,12>>^ Apareceram as flores na terra,
+Já chegou o tempo da poda,
+E ouve-se o canto da rola nos campos.
+
+[[v22-2-13]]
+
+^<<v22-2-13,13>>^ Amadureceram os primeiros frutos da figueira;
+As videiras estão em flor e exalam a sua fragrância.
+Levanta-te, minha amada, e vem.
+Minha bela, vem comigo.
+
+[[v22-2-14]]
+
+^<<v22-2-14,14>>^ Ó minha pomba, nos abrigos dos rochedos,
+Nas fendas dos penhascos,
+Deixa-me ver-te e ouvir a tua voz,
+Pois a tua voz é agradável, e bela é a tua aparência.’”
+
+[[v22-2-15]]
+
+^<<v22-2-15,15>>^ “Apanhem as raposas para nós,
+As pequenas raposas que estragam as vinhas,
+Pois as nossas vinhas estão em flor.”
+
+[[v22-2-16]]
+
+^<<v22-2-16,16>>^ “O meu querido é meu, e eu sou dele.
+Ele pastoreia entre os lírios.
+
+[[v22-2-17]]
+
+^<<v22-2-17,17>>^ Antes que sopre a brisa do dia^&#42;1^ e as sombras fujam,
+Volta depressa, meu querido,
+Como a gazela ou o filhote de corça sobre as montanhas de separação.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “que o dia respire”.
+. Ou, possivelmente: “as montanhas fendidas”. Ou: “as montanhas de Beter”.
+====
+
+'''
+
+xref:022-cantico-de-salomao/022-cantico-de-salomao-001.adoc#v22-1-0[&#60; Capítulo Anterior] | <<v22-2-0,Topo>> | xref:022-cantico-de-salomao/022-cantico-de-salomao-003.adoc#v22-3-0[Próximo Capítulo &#62;]

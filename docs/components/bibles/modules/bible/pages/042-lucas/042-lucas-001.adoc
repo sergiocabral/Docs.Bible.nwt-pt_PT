@@ -1,0 +1,469 @@
+include::./index.adoc[]
+
+[[v42-1-0]]
+=== Lucas, 1
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v42-1-1]]
+
+^<<v42-1-1,1>>^ Muitos se empenharam em compilar um relato dos factos que recebem pleno crédito^&#42;1^ entre nós,
+
+[NOTE]
+====
+. Ou: “plena credibilidade”.
+====
+
+[[v42-1-2]]
+
+^<<v42-1-2,2>>^ conforme nos foram transmitidos por aqueles que, desde o princípio, foram testemunhas oculares e proclamadores^&#42;1^ da mensagem.
+
+[NOTE]
+====
+. Lit.: “assistentes”.
+====
+
+[[v42-1-3]]
+
+^<<v42-1-3,3>>^ Assim, também eu, depois de pesquisar todas as coisas com exatidão desde o início, resolvi escrevê-las para si em ordem lógica, Excelentíssimo Teófilo,
+
+[[v42-1-4]]
+
+^<<v42-1-4,4>>^ para que tenha a plena certeza das coisas que lhe foram ensinadas oralmente.
+
+[[v42-1-5]]
+
+^<<v42-1-5,5>>^ Nos dias de Herodes,^&#42;1^ rei da Judeia, havia um sacerdote chamado Zacarias, da turma de Abias. A sua esposa era uma das filhas de Arão, e o nome dela era Elisabete.^&#42;2^
+
+[NOTE]
+====
+. Veja o Glossário.
+. Ou: “Isabel”.
+====
+
+[[v42-1-6]]
+
+^<<v42-1-6,6>>^ Ambos eram justos diante de Deus e andavam de modo irrepreensível, de acordo com todos os mandamentos e exigências legais de Jeová.^&#42;1^
+
+[NOTE]
+====
+. Veja o Ap. A5.
+====
+
+[[v42-1-7]]
+
+^<<v42-1-7,7>>^ Mas não tinham filhos, porque Elisabete era estéril, e ambos já eram de idade bem avançada.
+
+[[v42-1-8]]
+
+^<<v42-1-8,8>>^ Zacarias estava a servir perante Deus como sacerdote, na designação da sua turma.
+
+[[v42-1-9]]
+
+^<<v42-1-9,9>>^ Segundo o costume estabelecido^&#42;1^ do sacerdócio, chegou a sua vez de oferecer incenso ao entrar no santuário de Jeová.^&#42;2^
+
+[NOTE]
+====
+. Ou: “a prática estabelecida”.
+. Veja o Ap. A5.
+====
+
+[[v42-1-10]]
+
+^<<v42-1-10,10>>^ E toda a multidão do povo estava a orar do lado de fora, na hora de se oferecer incenso.
+
+[[v42-1-11]]
+
+^<<v42-1-11,11>>^ Então, apareceu-lhe o anjo de Jeová,^&#42;1^ de pé, à direita do altar do incenso.
+
+[NOTE]
+====
+. Veja o Ap. A5.
+====
+
+[[v42-1-12]]
+
+^<<v42-1-12,12>>^ Porém, ao vê-lo, Zacarias ficou aflito e cheio de medo.
+
+[[v42-1-13]]
+
+^<<v42-1-13,13>>^ No entanto, o anjo disse-lhe: “Não tenhas medo, Zacarias, porque as tuas súplicas foram ouvidas, e a tua esposa, Elisabete, vai dar-te um filho, a quem darás o nome de João.
+
+[[v42-1-14]]
+
+^<<v42-1-14,14>>^ Terás alegria e grande felicidade, e muitos se alegrarão com o seu nascimento,
+
+[[v42-1-15]]
+
+^<<v42-1-15,15>>^ pois ele será grande aos olhos de Jeová.^&#42;1^ Mas ele não deve beber vinho nem outra bebida alcoólica, e ficará cheio de espírito santo, mesmo antes do seu nascimento,^&#42;2^
+
+[NOTE]
+====
+. Veja o Ap. A5.
+. Ou: “desde o ventre da sua mãe”.
+====
+
+[[v42-1-16]]
+
+^<<v42-1-16,16>>^ e fará com que muitos dos filhos de Israel voltem para Jeová,^&#42;1^ o Deus deles.
+
+[NOTE]
+====
+. Veja o Ap. A5.
+====
+
+[[v42-1-17]]
+
+^<<v42-1-17,17>>^ Além disso, será enviado à frente por Deus com o espírito e o poder de Elias, para fazer com que o coração dos pais se volte para os filhos, e fazer com que os desobedientes se voltem para a sabedoria prática dos justos, a fim de aprontar para Jeová^&#42;1^ um povo preparado.”
+
+[NOTE]
+====
+. Veja o Ap. A5.
+====
+
+[[v42-1-18]]
+
+^<<v42-1-18,18>>^ Zacarias disse ao anjo: “Como é que posso ter a certeza disso? Pois sou idoso e a minha esposa já é de idade bem avançada.”
+
+[[v42-1-19]]
+
+^<<v42-1-19,19>>^ Em resposta, o anjo disse-lhe: “Eu sou Gabriel e estou diante de Deus; fui enviado para falar contigo e declarar-te estas boas novas.
+
+[[v42-1-20]]
+
+^<<v42-1-20,20>>^ Mas, agora, ficarás mudo e não poderás falar até ao dia em que estas coisas ocorrerem, porque não acreditaste nas minhas palavras, que se cumprirão no seu tempo determinado.”
+
+[[v42-1-21]]
+
+^<<v42-1-21,21>>^ Enquanto isso, o povo continuava à espera de Zacarias, e estavam admirados porque ele se demorava muito no santuário.
+
+[[v42-1-22]]
+
+^<<v42-1-22,22>>^ Quando ele saiu, não conseguia falar com eles, e perceberam que ele tinha acabado de ver algo sobrenatural^&#42;1^ no santuário. Ele fazia-lhes sinais, mas permanecia mudo.
+
+[NOTE]
+====
+. Ou: “de ter uma visão”.
+====
+
+[[v42-1-23]]
+
+^<<v42-1-23,23>>^ Quando se completaram os dias do seu serviço sagrado,^&#42;1^ ele foi para casa.
+
+[NOTE]
+====
+. Ou: “serviço público”.
+====
+
+[[v42-1-24]]
+
+^<<v42-1-24,24>>^ Alguns dias depois, Elisabete, sua esposa, ficou grávida, e manteve-se isolada por cinco meses; ela dizia:
+
+[[v42-1-25]]
+
+^<<v42-1-25,25>>^ “É assim que Jeová^&#42;1^ tem agido comigo nestes dias. Ele voltou a sua atenção para mim, para eliminar a minha desonra entre as pessoas.”
+
+[NOTE]
+====
+. Veja o Ap. A5.
+====
+
+[[v42-1-26]]
+
+^<<v42-1-26,26>>^ No sexto mês dela, Deus enviou o anjo Gabriel a uma cidade da Galileia, chamada Nazaré,
+
+[[v42-1-27]]
+
+^<<v42-1-27,27>>^ a uma virgem prometida em casamento a^&#42;1^ um homem chamado José, da casa de David; e o nome da virgem era Maria.
+
+[NOTE]
+====
+. Ou: “virgem noiva de”.
+====
+
+[[v42-1-28]]
+
+^<<v42-1-28,28>>^ Entrando onde ela estava, o anjo disse-lhe: “Saúdo-te, altamente favorecida, Jeová^&#42;1^ está contigo!”
+
+[NOTE]
+====
+. Veja o Ap. A5.
+====
+
+[[v42-1-29]]
+
+^<<v42-1-29,29>>^ Mas ela ficou profundamente perturbada com as palavras dele e tentava entender o que poderia significar aquela saudação.
+
+[[v42-1-30]]
+
+^<<v42-1-30,30>>^ Portanto, o anjo disse-lhe: “Não tenhas medo, Maria, pois achaste favor diante de Deus.
+
+[[v42-1-31]]
+
+^<<v42-1-31,31>>^ E, agora, ficarás grávida^&#42;1^ e darás à luz um filho, e deves dar-lhe o nome de Jesus.
+
+[NOTE]
+====
+. Ou: “conceberás no teu ventre”.
+====
+
+[[v42-1-32]]
+
+^<<v42-1-32,32>>^ Ele será grande e será chamado Filho do Altíssimo, e Jeová^&#42;1^ Deus vai dar-lhe o trono de David, seu pai,
+
+[NOTE]
+====
+. Veja o Ap. A5.
+====
+
+[[v42-1-33]]
+
+^<<v42-1-33,33>>^ e ele será Rei sobre a casa de Jacó para sempre, e o seu Reino não terá fim.”
+
+[[v42-1-34]]
+
+^<<v42-1-34,34>>^ Maria, porém, disse ao anjo: “Como acontecerá isso, visto que ainda sou virgem?”
+
+[[v42-1-35]]
+
+^<<v42-1-35,35>>^ O anjo disse-lhe em resposta: “Espírito santo virá sobre ti e poder do Altíssimo há de cobrir-te com a sua sombra. E, por esta razão, aquele que nascer será chamado santo, Filho de Deus.
+
+[[v42-1-36]]
+
+^<<v42-1-36,36>>^ E fica a saber que a tua parente Elisabete, a chamada estéril, também terá um filho, na sua velhice, e este é o seu sexto mês;
+
+[[v42-1-37]]
+
+^<<v42-1-37,37>>^ pois nenhuma declaração^&#42;1^ é impossível para Deus.”
+
+[NOTE]
+====
+. Ou: “nada”.
+====
+
+[[v42-1-38]]
+
+^<<v42-1-38,38>>^ Maria disse então: “Eu sou a escrava de Jeová!^&#42;1^ Aconteça comigo segundo a tua declaração.” Com isso, o anjo saiu da sua presença.
+
+[NOTE]
+====
+. Veja o Ap. A5.
+====
+
+[[v42-1-39]]
+
+^<<v42-1-39,39>>^ Naqueles dias, Maria partiu apressadamente para a região montanhosa, para uma cidade de Judá,
+
+[[v42-1-40]]
+
+^<<v42-1-40,40>>^ e entrou na casa de Zacarias e cumprimentou Elisabete.
+
+[[v42-1-41]]
+
+^<<v42-1-41,41>>^ Quando Elisabete ouviu o cumprimento de Maria, o bebé no seu ventre pulou, e Elisabete ficou cheia de espírito santo
+
+[[v42-1-42]]
+
+^<<v42-1-42,42>>^ e exclamou bem alto: “Abençoada és tu entre as mulheres, e abençoado é o fruto do teu ventre!
+
+[[v42-1-43]]
+
+^<<v42-1-43,43>>^ Então, como é que eu tenho este privilégio, de a mãe do meu Senhor me vir visitar?
+
+[[v42-1-44]]
+
+^<<v42-1-44,44>>^ Pois, assim que o som do teu cumprimento chegou aos meus ouvidos, o bebé no meu ventre pulou de alegria.
+
+[[v42-1-45]]
+
+^<<v42-1-45,45>>^ E feliz é aquela que acreditou, porque as coisas que lhe foram ditas por Jeová^&#42;1^ vão cumprir-se plenamente.”
+
+[NOTE]
+====
+. Veja o Ap. A5.
+====
+
+[[v42-1-46]]
+
+^<<v42-1-46,46>>^ Maria disse: “A minha alma^&#42;1^ magnifica a Jeová^&#42;2^
+
+[NOTE]
+====
+. Ou: “Todo o meu ser”. Veja o Glossário, “Alma”.
+. Veja o Ap. A5.
+====
+
+[[v42-1-47]]
+
+^<<v42-1-47,47>>^ e o meu espírito não pode deixar de estar cheio de alegria por Deus, meu Salvador,
+
+[[v42-1-48]]
+
+^<<v42-1-48,48>>^ porque ele olhou para a condição humilde da sua escrava. Sim, de agora em diante, todas as gerações me proclamarão feliz,
+
+[[v42-1-49]]
+
+^<<v42-1-49,49>>^ porque o Poderoso fez grandes coisas por mim, e santo é o seu nome,
+
+[[v42-1-50]]
+
+^<<v42-1-50,50>>^ e, de geração em geração, a sua misericórdia está sobre os que o temem.
+
+[[v42-1-51]]
+
+^<<v42-1-51,51>>^ Ele agiu poderosamente com o seu braço; dispersou os que têm planos arrogantes no coração.
+
+[[v42-1-52]]
+
+^<<v42-1-52,52>>^ Derrubou de tronos homens poderosos e enalteceu humildes;
+
+[[v42-1-53]]
+
+^<<v42-1-53,53>>^ saciou plenamente de coisas boas os famintos e mandou embora, de mãos vazias, os que tinham riquezas.
+
+[[v42-1-54]]
+
+^<<v42-1-54,54>>^ Ele veio em socorro de Israel, seu servo, lembrando-se da sua misericórdia
+
+[[v42-1-55]]
+
+^<<v42-1-55,55>>^ a favor de Abraão e da sua descendência,^&#42;1^ assim como tinha prometido para sempre aos nossos antepassados.”
+
+[NOTE]
+====
+. Lit.: “semente”.
+====
+
+[[v42-1-56]]
+
+^<<v42-1-56,56>>^ Maria ficou com ela cerca de três meses e depois voltou para casa.
+
+[[v42-1-57]]
+
+^<<v42-1-57,57>>^ Chegou então o tempo para Elisabete dar à luz, e ela teve um filho.
+
+[[v42-1-58]]
+
+^<<v42-1-58,58>>^ E os vizinhos e os seus parentes ouviram dizer que Jeová^&#42;1^ lhe tinha mostrado muita misericórdia,^&#42;2^ e eles alegraram-se com ela.
+
+[NOTE]
+====
+. Veja o Ap. A5.
+. Ou: “Jeová tinha magnificado a sua misericórdia”.
+====
+
+[[v42-1-59]]
+
+^<<v42-1-59,59>>^ No oitavo dia, foram circuncidar o menino, e iam dar-lhe o nome do pai, Zacarias.
+
+[[v42-1-60]]
+
+^<<v42-1-60,60>>^ Mas a mãe disse: “Não! Ele vai chamar-se João.”
+
+[[v42-1-61]]
+
+^<<v42-1-61,61>>^ Em vista disso, disseram-lhe: “Nenhum dos teus parentes tem esse nome.”
+
+[[v42-1-62]]
+
+^<<v42-1-62,62>>^ Perguntaram então ao pai, por sinais, como queria que o menino se chamasse.
+
+[[v42-1-63]]
+
+^<<v42-1-63,63>>^ Ele pediu uma tabuinha e escreveu: “O nome dele é João.” Em vista disso, todos ficaram admirados.
+
+[[v42-1-64]]
+
+^<<v42-1-64,64>>^ No mesmo instante, a sua boca abriu-se e a sua língua soltou-se, e ele começou a falar, louvando a Deus.
+
+[[v42-1-65]]
+
+^<<v42-1-65,65>>^ E todos os que moravam na vizinhança ficaram com medo, e começou-se a falar sobre estas coisas em toda a região montanhosa da Judeia.
+
+[[v42-1-66]]
+
+^<<v42-1-66,66>>^ E todos os que ouviram guardaram isto no coração, dizendo: “O que será que este menino vai ser?” Pois, de facto, a mão de Jeová^&#42;1^ estava com ele.
+
+[NOTE]
+====
+. Veja o Ap. A5.
+====
+
+[[v42-1-67]]
+
+^<<v42-1-67,67>>^ Então, Zacarias, o seu pai, ficou cheio de espírito santo e profetizou, dizendo:
+
+[[v42-1-68]]
+
+^<<v42-1-68,68>>^ “Louvado seja Jeová,^&#42;1^ o Deus de Israel, porque voltou a sua atenção para o seu povo e trouxe-lhe livramento.
+
+[NOTE]
+====
+. Veja o Ap. A5.
+====
+
+[[v42-1-69]]
+
+^<<v42-1-69,69>>^ E ele fez-nos surgir um poderoso salvador^&#42;1^ na casa de David, seu servo,
+
+[NOTE]
+====
+. Lit.: “um chifre de salvação”. Veja o Glossário, “Chifre”.
+====
+
+[[v42-1-70]]
+
+^<<v42-1-70,70>>^ assim como tinha falado pela boca dos seus santos profetas da antiguidade,
+
+[[v42-1-71]]
+
+^<<v42-1-71,71>>^ para nos salvar dos nossos inimigos e das mãos de todos os que nos odeiam,
+
+[[v42-1-72]]
+
+^<<v42-1-72,72>>^ para nos mostrar a misericórdia prometida aos nossos antepassados e para se lembrar do seu santo pacto,
+
+[[v42-1-73]]
+
+^<<v42-1-73,73>>^ o juramento que ele fez a Abraão, nosso antepassado,
+
+[[v42-1-74]]
+
+^<<v42-1-74,74>>^ de nos conceder, depois de termos sido resgatados das mãos dos inimigos, o privilégio de lhe prestar destemidamente serviço sagrado
+
+[[v42-1-75]]
+
+^<<v42-1-75,75>>^ com lealdade e justiça, diante dele, todos os nossos dias.
+
+[[v42-1-76]]
+
+^<<v42-1-76,76>>^ Mas, quanto a ti, menino, serás chamado profeta do Altíssimo, pois serás enviado à frente por Jeová,^&#42;1^ para preparar os seus caminhos,
+
+[NOTE]
+====
+. Veja o Ap. A5.
+====
+
+[[v42-1-77]]
+
+^<<v42-1-77,77>>^ para dar ao seu povo conhecimento da salvação por meio do perdão dos pecados deles,
+
+[[v42-1-78]]
+
+^<<v42-1-78,78>>^ por causa da terna compaixão do nosso Deus. Devido a esta compaixão, um amanhecer há de visitar-nos do alto,
+
+[[v42-1-79]]
+
+^<<v42-1-79,79>>^ para dar luz aos sentados na escuridão e na sombra da morte, e para guiar os nossos pés no caminho da paz.”
+
+[[v42-1-80]]
+
+^<<v42-1-80,80>>^ E o menino cresceu e tornou-se forte em espírito. E ele continuou no deserto^&#42;1^ até ao dia em que se mostrou abertamente a Israel.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+'''
+
+xref:041-marcos/041-marcos-016.adoc#v41-16-0[&#60; Capítulo Anterior] | <<v42-1-0,Topo>> | xref:042-lucas/042-lucas-002.adoc#v42-2-0[Próximo Capítulo &#62;]

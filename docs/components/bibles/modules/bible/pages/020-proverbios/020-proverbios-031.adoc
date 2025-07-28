@@ -1,0 +1,281 @@
+include::./index.adoc[]
+
+[[v20-31-0]]
+=== Provérbios, 31
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-31-1]]
+
+^<<v20-31-1,1>>^ Palavras do rei Lemuel. As palavras importantes que a sua mãe lhe disse para o instruir:
+
+[[v20-31-2]]
+
+^<<v20-31-2,2>>^ O que é que te devo dizer, meu filho?
+O quê, filho do meu ventre?
+O quê, filho dos meus votos?
+
+[[v20-31-3]]
+
+^<<v20-31-3,3>>^ Não entregues o teu vigor às mulheres,
+Nem sigas caminhos que destroem reis.
+
+[[v20-31-4]]
+
+^<<v20-31-4,4>>^ Não é apropriado para os reis, ó Lemuel,
+Não é apropriado para os reis beberem vinho,
+Nem para os governantes dizerem: “Onde é que está a minha bebida?”
+
+[[v20-31-5]]
+
+^<<v20-31-5,5>>^ Para que não bebam e se esqueçam do que foi decretado,
+E neguem os direitos dos humildes.
+
+[[v20-31-6]]
+
+^<<v20-31-6,6>>^ Dá álcool aos que estão a morrer
+E vinho aos que estão amargurados.^&#42;1^
+
+[NOTE]
+====
+. Ou: “aos de alma amargurada”.
+====
+
+[[v20-31-7]]
+
+^<<v20-31-7,7>>^ Que bebam e se esqueçam da sua pobreza,
+Que nunca mais se lembrem da sua desgraça.
+
+[[v20-31-8]]
+
+^<<v20-31-8,8>>^ Fala a favor de quem não pode falar;
+Defende os direitos de todos os que estão a morrer.
+
+[[v20-31-9]]
+
+^<<v20-31-9,9>>^ Fala por eles e julga com justiça;
+Defende os direitos^&#42;1^ dos humildes e dos pobres.
+
+[NOTE]
+====
+. Ou: “Pleiteia a causa”.
+====
+
+_א &#91;álefe&#93;_
+
+[[v20-31-10]]
+
+^<<v20-31-10,10>>^ Quem é que pode encontrar uma esposa capaz?^&#42;1^
+O seu valor é muito maior do que o de corais.^&#42;2^
+
+[NOTE]
+====
+. Ou: “excelente”.
+. Veja o Glossário.
+====
+
+_ב &#91;bete&#93;_
+
+[[v20-31-11]]
+
+^<<v20-31-11,11>>^ O seu marido confia nela de coração,
+E a ele não lhe falta nada de valor.
+
+_ג &#91;guímel&#93;_
+
+[[v20-31-12]]
+
+^<<v20-31-12,12>>^ Ela recompensa-o com o bem, não com o mal,
+Todos os dias da sua vida.
+
+_ד &#91;dálete&#93;_
+
+[[v20-31-13]]
+
+^<<v20-31-13,13>>^ Ela obtém lã e linho,
+E tem prazer em trabalhar com as mãos.
+
+_ה &#91;hê&#93;_
+
+[[v20-31-14]]
+
+^<<v20-31-14,14>>^ Ela é como os navios de um mercador;
+De longe traz os seus alimentos.
+
+_ו &#91;vau&#93;_
+
+[[v20-31-15]]
+
+^<<v20-31-15,15>>^ Também se levanta enquanto ainda é de noite,
+Para providenciar comida aos da sua casa
+E porções às suas servas.
+
+_ז &#91;zaine&#93;_
+
+[[v20-31-16]]
+
+^<<v20-31-16,16>>^ Ela decide obter um campo e compra-o;
+Planta uma vinha com o resultado do seu trabalho.^&#42;1^
+
+[NOTE]
+====
+. Ou: “com os seus rendimentos”. Lit.: “com o fruto das suas mãos”.
+====
+
+_ח &#91;hete&#93;_
+
+[[v20-31-17]]
+
+^<<v20-31-17,17>>^ Ela prepara-se para o trabalho árduo,^&#42;1^
+E fortalece os seus braços.
+
+[NOTE]
+====
+. Lit.: “cinge as suas ancas de força”.
+====
+
+_ט &#91;tete&#93;_
+
+[[v20-31-18]]
+
+^<<v20-31-18,18>>^ Ela vê que os seus negócios são lucrativos;
+A sua lâmpada não se apaga à noite.
+
+_י &#91;iode&#93;_
+
+[[v20-31-19]]
+
+^<<v20-31-19,19>>^ As suas mãos seguram a roca de fiar;
+As suas mãos pegam no fuso.^&#42;1^
+
+[NOTE]
+====
+. A roca e o fuso eram bastões usados para fiar, ou seja, fabricar linhas e fios.
+====
+
+_כ &#91;cafe&#93;_
+
+[[v20-31-20]]
+
+^<<v20-31-20,20>>^ Ela estende a mão ao humilde,
+E abre as mãos ao pobre.
+
+_ל &#91;lâmede&#93;_
+
+[[v20-31-21]]
+
+^<<v20-31-21,21>>^ Ela não se preocupa com os da sua casa quando neva,
+Pois todos eles usam roupas quentes.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “duplas”.
+====
+
+_מ &#91;meme&#93;_
+
+[[v20-31-22]]
+
+^<<v20-31-22,22>>^ Ela faz as suas próprias colchas.
+A sua roupa é de linho e de lã roxa.
+
+_נ &#91;nune&#93;_
+
+[[v20-31-23]]
+
+^<<v20-31-23,23>>^ O seu marido é bem conhecido nos portões da cidade,
+Onde se senta entre os anciãos do país.
+
+_ס &#91;sâmeque&#93;_
+
+[[v20-31-24]]
+
+^<<v20-31-24,24>>^ Ela faz roupas^&#42;1^ de linho e vende-as,
+E fornece cintos aos mercadores.
+
+[NOTE]
+====
+. Ou: “túnicas”.
+====
+
+_ע &#91;aine&#93;_
+
+[[v20-31-25]]
+
+^<<v20-31-25,25>>^ Ela veste-se de força e esplendor,
+E olha para o futuro com confiança.^&#42;1^
+
+[NOTE]
+====
+. Ou: “E ri-se do amanhã”.
+====
+
+_פ &#91;pê&#93;_
+
+[[v20-31-26]]
+
+^<<v20-31-26,26>>^ Ela abre a boca com sabedoria;
+A lei da bondade^&#42;1^ está na sua língua.
+
+[NOTE]
+====
+. Ou: “Instrução amorosa; A lei do amor leal”.
+====
+
+_צ &#91;tsadê&#93;_
+
+[[v20-31-27]]
+
+^<<v20-31-27,27>>^ Ela vigia as atividades da sua casa,
+E não come o pão da preguiça.
+
+_ק &#91;cofe&#93;_
+
+[[v20-31-28]]
+
+^<<v20-31-28,28>>^ Os seus filhos levantam-se e elogiam-na;^&#42;1^
+O seu marido levanta-se e também a elogia.
+
+[NOTE]
+====
+. Ou: “e declaram-na feliz”.
+====
+
+_ר &#91;rexe&#93;_
+
+[[v20-31-29]]
+
+^<<v20-31-29,29>>^ Há muitas esposas capazes,^&#42;1^
+Mas tu superas todas elas.
+
+[NOTE]
+====
+. Ou: “excelentes”.
+====
+
+_ש &#91;chim&#93;_
+
+[[v20-31-30]]
+
+^<<v20-31-30,30>>^ O encanto talvez seja falso, e a beleza talvez seja passageira,^&#42;1^
+Mas a mulher que teme a Jeová receberá elogios.
+
+[NOTE]
+====
+. Ou: “vazia”.
+====
+
+_ת &#91;tau&#93;_
+
+[[v20-31-31]]
+
+^<<v20-31-31,31>>^ Que ela seja recompensada pelo que faz,^&#42;1^
+E que seja elogiada nos portões da cidade pelas suas obras.
+
+[NOTE]
+====
+. Lit.: “Deem-lhe do fruto das suas mãos”.
+====
+
+'''
+
+xref:020-proverbios/020-proverbios-030.adoc#v20-30-0[&#60; Capítulo Anterior] | <<v20-31-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-001.adoc#v21-1-0[Próximo Capítulo &#62;]

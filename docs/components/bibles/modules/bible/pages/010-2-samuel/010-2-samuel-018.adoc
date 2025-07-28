@@ -1,0 +1,191 @@
+include::./index.adoc[]
+
+[[v10-18-0]]
+=== 2 Samuel, 18
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v10-18-1]]
+
+^<<v10-18-1,1>>^ Então, David contou os seus homens e designou-lhes chefes de mil e chefes de cem.
+
+[[v10-18-2]]
+
+^<<v10-18-2,2>>^ E David colocou um terço dos homens sob o comando^&#42;1^ de Joabe, um terço sob o comando de Abisai, filho de Zeruia, irmão de Joabe, e um terço sob o comando de Itai, o geteu. O rei disse então aos homens: “Eu também irei convosco.”
+
+[NOTE]
+====
+. Lit.: “a mão”.
+====
+
+[[v10-18-3]]
+
+^<<v10-18-3,3>>^ No entanto, eles disseram-lhe: “Não deve ir, pois, se fugirmos, eles não se vão importar;^&#42;1^ e, se metade de nós morrer, eles também não se vão importar, porque o senhor vale 10 000 de nós. Portanto, seria melhor que ficasse aqui na cidade e que nos enviasse ajuda.”
+
+[NOTE]
+====
+. Ou: “não fixarão o coração em nós”.
+====
+
+[[v10-18-4]]
+
+^<<v10-18-4,4>>^ O rei disse-lhes: “Farei o que acharem melhor.” Assim, o rei ficou junto ao portão da cidade enquanto os homens saíam em grupos de cem e de mil.
+
+[[v10-18-5]]
+
+^<<v10-18-5,5>>^ E o rei deu a seguinte ordem a Joabe, a Abisai e a Itai: “Tratem bem o jovem Absalão, façam-no por mim.” Todos os homens ouviram quando o rei deu esta ordem a respeito de Absalão a todos os chefes.
+
+[[v10-18-6]]
+
+^<<v10-18-6,6>>^ Os homens saíram para o campo, a fim de enfrentar Israel, e a batalha foi travada na floresta de Efraim.
+
+[[v10-18-7]]
+
+^<<v10-18-7,7>>^ Os homens de Israel foram derrotados pelos homens de David. Naquele dia, houve uma grande matança: 20 000 homens foram mortos.
+
+[[v10-18-8]]
+
+^<<v10-18-8,8>>^ A batalha espalhou-se por toda a região e, naquele dia, a floresta devorou mais homens do que a espada.
+
+[[v10-18-9]]
+
+^<<v10-18-9,9>>^ Por fim, Absalão, que estava montado numa mula, deparou-se com os homens de David. A mula passou por baixo dos ramos de uma grande árvore e a cabeça de Absalão ficou presa nos ramos da árvore, de modo que ele ficou pendurado,^&#42;1^ ao passo que a mula que ele montava seguiu em frente.
+
+[NOTE]
+====
+. Lit.: “pendurado entre os céus e a terra”.
+====
+
+[[v10-18-10]]
+
+^<<v10-18-10,10>>^ Então, alguém viu o que aconteceu e foi contá-lo a Joabe: “Vi Absalão pendurado numa grande árvore.”
+
+[[v10-18-11]]
+
+^<<v10-18-11,11>>^ Joabe disse ao homem: “Se o viste, porque é que não o mataste ali mesmo? Nesse caso, eu iria dar-te com prazer dez peças de prata e um cinto.”
+
+[[v10-18-12]]
+
+^<<v10-18-12,12>>^ Contudo, o homem disse a Joabe: “Mesmo que me dessem^&#42;1^ 1000 peças de prata, eu não levantaria a mão contra o filho do rei, pois ouvimos a ordem do rei ao senhor, a Abisai e a Itai: ‘Não deixem que ninguém faça mal ao jovem Absalão.’
+
+[NOTE]
+====
+. Lit.: “eu estivesse a pesar nas minhas palmas”.
+====
+
+[[v10-18-13]]
+
+^<<v10-18-13,13>>^ Se eu desobedecesse e lhe tivesse tirado a vida,^&#42;1^ isso nunca ficaria escondido do rei, e o senhor não me protegeria.”
+
+[NOTE]
+====
+. Ou: “Se eu tivesse agido traiçoeiramente contra a alma dele”.
+====
+
+[[v10-18-14]]
+
+^<<v10-18-14,14>>^ Joabe disse: “Não vou perder mais tempo contigo!” Assim, ele pegou em três dardos^&#42;1^ e trespassou o coração de Absalão enquanto ele ainda estava vivo entre os ramos da árvore.
+
+[NOTE]
+====
+. Ou, possivelmente: “lanças”. Lit.: “varas”.
+====
+
+[[v10-18-15]]
+
+^<<v10-18-15,15>>^ Então, dez ajudantes que carregavam as armas de Joabe vieram e golpearam Absalão até matá-lo.
+
+[[v10-18-16]]
+
+^<<v10-18-16,16>>^ A seguir, Joabe tocou a buzina e os homens pararam de perseguir Israel; assim, Joabe deteve-os.
+
+[[v10-18-17]]
+
+^<<v10-18-17,17>>^ Eles atiraram Absalão para um grande buraco na floresta, sobre o qual amontoaram uma pilha de pedras. E todos os homens de Israel fugiram para casa.
+
+[[v10-18-18]]
+
+^<<v10-18-18,18>>^ Em vida, Absalão tinha erguido uma coluna para si próprio no vale^&#42;1^ do Rei, pois disse: “Não tenho nenhum filho para manter a lembrança do meu nome.” Por isso, deu à coluna o seu próprio nome, e, até hoje, chamam-lhe Monumento de Absalão.
+
+[NOTE]
+====
+. Ou: “na planície”.
+====
+
+[[v10-18-19]]
+
+^<<v10-18-19,19>>^ Aimaás, filho de Zadoque, disse: “Por favor, deixa-me ir a correr para dar a notícia ao rei, porque Jeová lhe fez justiça, livrando-o dos seus inimigos.”
+
+[[v10-18-20]]
+
+^<<v10-18-20,20>>^ Todavia, Joabe disse-lhe: “Não vais levar a notícia hoje. Poderás fazer isso noutro dia, mas não hoje, porque o filho do rei morreu.”
+
+[[v10-18-21]]
+
+^<<v10-18-21,21>>^ Joabe disse então a um cuchita: “Vai, conta ao rei o que viste.” Assim, o cuchita curvou-se diante de Joabe e saiu a correr.
+
+[[v10-18-22]]
+
+^<<v10-18-22,22>>^ Aimaás, filho de Zadoque, pediu mais uma vez a Joabe: “Por favor, aconteça o que acontecer, deixa-me ir também atrás do cuchita.” Porém, Joabe disse: “Porque é que haverias de ir também, meu filho, se não há mais nenhuma notícia para levares?”
+
+[[v10-18-23]]
+
+^<<v10-18-23,23>>^ No entanto, Aimaás insistiu: “Aconteça o que acontecer, deixa-me ir.” Assim, Joabe disse-lhe: “Vai!” E Aimaás foi a correr pelo caminho do distrito do Jordão,^&#42;1^ e, por fim, ultrapassou o cuchita.
+
+[NOTE]
+====
+. Lit.: “do distrito”.
+====
+
+[[v10-18-24]]
+
+^<<v10-18-24,24>>^ David estava sentado entre os dois portões da cidade e o vigia subiu ao terraço que havia sobre o portão, junto à muralha. O vigia levantou os olhos e viu um homem a correr sozinho.
+
+[[v10-18-25]]
+
+^<<v10-18-25,25>>^ Portanto, ele gritou para avisar o rei. O rei disse: “Se ele vem sozinho, é porque traz alguma notícia.” À medida que o homem se aproximava,
+
+[[v10-18-26]]
+
+^<<v10-18-26,26>>^ o vigia viu outro homem a correr. Assim, ele gritou ao porteiro: “Olha! Há outro homem que vem a correr sozinho!” O rei disse: “Este também traz alguma notícia.”
+
+[[v10-18-27]]
+
+^<<v10-18-27,27>>^ O vigia disse: “Pela maneira de correr, o primeiro é Aimaás, filho de Zadoque.” E o rei disse: “Ele é um homem bom e traz boas notícias.”
+
+[[v10-18-28]]
+
+^<<v10-18-28,28>>^ Aimaás gritou para o rei: “Está tudo bem!” Então, curvou-se diante do rei com o rosto por terra e disse: “Louvado seja Jeová, seu Deus, que entregou os homens que se rebelaram^&#42;1^ contra o meu senhor, o rei!”
+
+[NOTE]
+====
+. Lit.: “levantaram a sua mão”.
+====
+
+[[v10-18-29]]
+
+^<<v10-18-29,29>>^ No entanto, o rei perguntou-lhe: “Está tudo bem com o jovem Absalão?” Aimaás respondeu: “Vi um grande alvoroço quando Joabe enviou o servo do rei e me enviou também a mim,^&#42;1^ mas não sei o que era.”
+
+[NOTE]
+====
+. Lit.: “e o seu servo”.
+====
+
+[[v10-18-30]]
+
+^<<v10-18-30,30>>^ Portanto, o rei disse: “Afasta-te aqui para o lado e espera.” Assim, ele afastou-se e ficou à espera.
+
+[[v10-18-31]]
+
+^<<v10-18-31,31>>^ Entretanto, o cuchita chegou e disse: “Trago a seguinte notícia ao meu senhor, o rei: Hoje, Jeová fez-lhe justiça, livrando-o das mãos de todos os que se rebelaram contra si.”
+
+[[v10-18-32]]
+
+^<<v10-18-32,32>>^ Contudo, o rei perguntou ao cuchita: “Está tudo bem com o jovem Absalão?” O cuchita respondeu: “Que todos os inimigos do meu senhor, o rei, e todos os que se rebelaram contra si para prejudicá-lo acabem como o jovem!”
+
+[[v10-18-33]]
+
+^<<v10-18-33,33>>^ O rei ficou abalado e subiu ao quarto de terraço, que ficava por cima do portão. Enquanto caminhava, ele chorava e dizia: “Meu filho Absalão, meu filho, meu filho Absalão! Quem me dera ter morrido em teu lugar, Absalão, meu filho, meu filho!”
+
+'''
+
+xref:010-2-samuel/010-2-samuel-017.adoc#v10-17-0[&#60; Capítulo Anterior] | <<v10-18-0,Topo>> | xref:010-2-samuel/010-2-samuel-019.adoc#v10-19-0[Próximo Capítulo &#62;]

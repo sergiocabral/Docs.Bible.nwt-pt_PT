@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v36-2-0]]
+=== Sofonias, 2
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v36-2-1]]
+
+^<<v36-2-1,1>>^ Ajuntem-se, sim, ajuntem-se,
+Ó nação que não sente vergonha.
+
+[[v36-2-2]]
+
+^<<v36-2-2,2>>^ Antes que o decreto se cumpra,
+Antes que o dia passe como a palha levada pelo vento,^&#42;1^
+Antes que a ira ardente de Jeová vos sobrevenha,
+Antes que o dia da ira de Jeová vos sobrevenha,
+
+[NOTE]
+====
+. Ou: “como a pragana”.
+====
+
+[[v36-2-3]]
+
+^<<v36-2-3,3>>^ Procurem a Jeová, todos vocês, mansos^&#42;1^ da terra,
+Que obedecem aos seus decretos justos.^&#42;2^
+Procurem a justiça, procurem a mansidão.^&#42;3^
+Provavelmente, serão^&#42;4^ escondidos no dia da ira de Jeová.
+
+[NOTE]
+====
+. Ou: “humildes”.
+. Lit.: “ao seu julgamento”.
+. Ou: “humildade”.
+. Ou: “Talvez sejam”.
+====
+
+[[v36-2-4]]
+
+^<<v36-2-4,4>>^ Pois Gaza será uma cidade abandonada,
+E Ascalom será desolada.
+Asdode será expulsa em plena luz do dia,^&#42;1^
+E Ecrom será desarraigada.
+
+[NOTE]
+====
+. Ou: “ao meio-dia”.
+====
+
+[[v36-2-5]]
+
+^<<v36-2-5,5>>^ “Ai dos que moram no litoral, a nação dos queretitas!
+A palavra de Jeová é contra vocês.
+Ó Canaã, terra dos filisteus, vou destruir-te,
+E ficarás sem habitantes.
+
+[[v36-2-6]]
+
+^<<v36-2-6,6>>^ E o litoral irá transformar-se em pastagens,
+Com poços para pastores e currais de pedra para ovelhas.
+
+[[v36-2-7]]
+
+^<<v36-2-7,7>>^ Ela há de tornar-se uma região para os que restarem da casa de Judá;
+Será lá que eles se alimentarão.
+Nas casas de Ascalom, irão deitar-se ao anoitecer.
+Pois Jeová, seu Deus, voltará a sua atenção para eles^&#42;1^
+E trará de volta os seus cativos.”
+
+[NOTE]
+====
+. Ou: “cuidará deles”.
+====
+
+[[v36-2-8]]
+
+^<<v36-2-8,8>>^ “Eu ouvi os insultos de Moabe e as ofensas dos amonitas,
+Que gozaram com o meu povo e fizeram ameaças arrogantes contra o seu território.
+
+[[v36-2-9]]
+
+^<<v36-2-9,9>>^ Portanto, tão certo como eu vivo”, diz Jeová dos exércitos, o Deus de Israel,
+“Moabe irá tornar-se como Sodoma,
+E os amonitas como Gomorra:
+Um lugar de urtigas, um poço de sal, uma terra permanentemente desolada.
+Os que restarem do meu povo irão saqueá-los,
+E o restante da minha nação tomará posse da terra deles.
+
+[[v36-2-10]]
+
+^<<v36-2-10,10>>^ É isso que vão receber por causa do seu orgulho,
+Porque gozaram com o povo de Jeová dos exércitos e enalteceram-se contra eles.
+
+[[v36-2-11]]
+
+^<<v36-2-11,11>>^ Jeová agirá contra eles de modo atemorizante,^&#42;1^
+Pois ele reduzirá a nada^&#42;2^ todos os deuses da terra,
+E todas as ilhas das nações irão curvar-se diante dele,^&#42;3^
+Cada uma no seu lugar.
+
+[NOTE]
+====
+. Ou: “terrível”.
+. Ou: “fará definhar”.
+. Ou: “irão adorá-lo”.
+====
+
+[[v36-2-12]]
+
+^<<v36-2-12,12>>^ Vocês, etíopes, também serão mortos pela minha espada.
+
+[[v36-2-13]]
+
+^<<v36-2-13,13>>^ Ele estenderá a mão para o norte e destruirá a Assíria,
+E deixará Nínive desolada, tão seca como um deserto.
+
+[[v36-2-14]]
+
+^<<v36-2-14,14>>^ Os rebanhos irão deitar-se no meio dela, todo o tipo de animais selvagens.^&#42;1^
+Tanto o pelicano como o porco-espinho passarão a noite entre os capitéis das suas colunas.
+Uma voz cantará na janela.
+Haverá escombros na soleira das portas;
+Pois ele deixará expostos os painéis de cedro.
+
+[NOTE]
+====
+. Lit.: “todos os animais de uma nação”.
+====
+
+[[v36-2-15]]
+
+^<<v36-2-15,15>>^ Esta é a cidade orgulhosa que estava sentada em segurança,
+Que dizia no coração: ‘Eu sou a mais importante, não há ninguém igual a mim.’
+Como ela se tornou um motivo de terror,
+Um lugar para os animais selvagens se deitarem!
+Todos os que passarem por ela assobiarão e agitarão o punho.”
+
+'''
+
+xref:036-sofonias/036-sofonias-001.adoc#v36-1-0[&#60; Capítulo Anterior] | <<v36-2-0,Topo>> | xref:036-sofonias/036-sofonias-003.adoc#v36-3-0[Próximo Capítulo &#62;]

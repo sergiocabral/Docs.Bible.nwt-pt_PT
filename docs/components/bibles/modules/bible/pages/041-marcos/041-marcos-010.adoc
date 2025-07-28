@@ -1,0 +1,248 @@
+include::./index.adoc[]
+
+[[v41-10-0]]
+=== Marcos, 10
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v41-10-1]]
+
+^<<v41-10-1,1>>^ Ele levantou-se dali e foi para as fronteiras da Judeia, do outro lado do Jordão, e novamente multidões se ajuntaram à sua volta. Ele começou a ensiná-las outra vez, como costumava fazer.
+
+[[v41-10-2]]
+
+^<<v41-10-2,2>>^ Alguns fariseus aproximaram-se e, querendo pô-lo à prova, perguntaram se era permitido que um homem se divorciasse da esposa.
+
+[[v41-10-3]]
+
+^<<v41-10-3,3>>^ Ele respondeu-lhes: “O que é que Moisés vos ordenou?”
+
+[[v41-10-4]]
+
+^<<v41-10-4,4>>^ Disseram: “Moisés permitiu que o homem escrevesse um certificado de divórcio e a mandasse embora.”
+
+[[v41-10-5]]
+
+^<<v41-10-5,5>>^ Mas Jesus disse-lhes: “Foi por causa da dureza do vosso coração que ele vos escreveu esse mandamento.
+
+[[v41-10-6]]
+
+^<<v41-10-6,6>>^ No entanto, no princípio da criação ‘Ele fê-los homem e mulher.
+
+[[v41-10-7]]
+
+^<<v41-10-7,7>>^ Por esta razão, o homem deixará o seu pai e a sua mãe,
+
+[[v41-10-8]]
+
+^<<v41-10-8,8>>^ e os dois serão uma só carne’, de modo que já não são dois, mas uma só carne.
+
+[[v41-10-9]]
+
+^<<v41-10-9,9>>^ Portanto, o que Deus pôs sob o mesmo jugo, o homem não deve separar.”
+
+[[v41-10-10]]
+
+^<<v41-10-10,10>>^ Quando estavam novamente na casa, os discípulos fizeram-lhe perguntas sobre isso.
+
+[[v41-10-11]]
+
+^<<v41-10-11,11>>^ Ele disse-lhes: “Quem se divorcia da sua esposa e se casa com outra comete adultério contra ela,
+
+[[v41-10-12]]
+
+^<<v41-10-12,12>>^ e, se uma mulher, depois de se divorciar do marido, se casa com outro, comete adultério.”
+
+[[v41-10-13]]
+
+^<<v41-10-13,13>>^ As pessoas começaram então a trazer-lhe crianças, para que lhes tocasse, mas os discípulos repreenderam as pessoas.
+
+[[v41-10-14]]
+
+^<<v41-10-14,14>>^ Vendo isso, Jesus ficou indignado e disse-lhes: “Deixem as criancinhas vir a mim. Não tentem impedi-las, pois o Reino de Deus pertence aos que são como elas.
+
+[[v41-10-15]]
+
+^<<v41-10-15,15>>^ Digo-vos a verdade: Quem não receber o Reino de Deus como uma criancinha, de modo algum entrará nele.”
+
+[[v41-10-16]]
+
+^<<v41-10-16,16>>^ E tomou as crianças nos braços e começou a abençoá-las, pondo as mãos sobre elas.
+
+[[v41-10-17]]
+
+^<<v41-10-17,17>>^ Quando ele ia a sair, um homem chegou a correr, pôs-se de joelhos diante dele e perguntou-lhe: “Bom Instrutor, o que devo fazer para herdar a vida eterna?”
+
+[[v41-10-18]]
+
+^<<v41-10-18,18>>^ Jesus disse-lhe: “Porque é que me chamas bom? Ninguém é bom, a não ser um só, Deus.
+
+[[v41-10-19]]
+
+^<<v41-10-19,19>>^ Conheces os mandamentos: ‘Não assassines; não cometas adultério; não furtes; não dês falso testemunho; não defraudes; honra o teu pai e a tua mãe.’”
+
+[[v41-10-20]]
+
+^<<v41-10-20,20>>^ O homem disse-lhe: “Instrutor, eu tenho cumprido todas essas coisas desde bem jovem.”
+
+[[v41-10-21]]
+
+^<<v41-10-21,21>>^ Jesus olhou para ele e, sentindo amor por ele, disse: “Falta-te uma coisa: vai, vende o que tens e dá o dinheiro aos pobres, e terás um tesouro no céu; e vem ser meu seguidor.”
+
+[[v41-10-22]]
+
+^<<v41-10-22,22>>^ Mas ele ficou triste com a resposta e foi-se embora abatido, porque tinha muitos bens.
+
+[[v41-10-23]]
+
+^<<v41-10-23,23>>^ Depois de olhar à volta, Jesus disse aos discípulos: “Como será difícil para os que têm dinheiro entrar no Reino de Deus!”
+
+[[v41-10-24]]
+
+^<<v41-10-24,24>>^ Mas os discípulos ficaram surpreendidos com as suas palavras. Jesus disse então: “Filhos, como é difícil entrar no Reino de Deus!
+
+[[v41-10-25]]
+
+^<<v41-10-25,25>>^ É mais fácil um camelo passar pelo buraco de uma agulha do que um rico entrar no Reino de Deus.”
+
+[[v41-10-26]]
+
+^<<v41-10-26,26>>^ Eles ficaram ainda mais admirados e perguntaram-lhe:^&#42;1^ “Quem é que pode ser salvo?”
+
+[NOTE]
+====
+. Ou, possivelmente: “e perguntaram uns aos outros”.
+====
+
+[[v41-10-27]]
+
+^<<v41-10-27,27>>^ Jesus olhou diretamente para eles e disse: “Para os homens é impossível, mas para Deus não, pois para Deus todas as coisas são possíveis.”
+
+[[v41-10-28]]
+
+^<<v41-10-28,28>>^ Pedro começou a dizer-lhe: “Olha, deixámos tudo e seguimos-te.”
+
+[[v41-10-29]]
+
+^<<v41-10-29,29>>^ Jesus disse: “Eu garanto-vos: Ninguém deixou casa, irmãos, irmãs, mãe, pai, filhos ou campos, por minha causa e por causa das boas novas,
+
+[[v41-10-30]]
+
+^<<v41-10-30,30>>^ que não receba cem vezes mais agora, neste tempo, casas, irmãos, irmãs, mães, filhos e campos, com perseguições, e, no futuro sistema de coisas,^&#42;1^ a vida eterna.
+
+[NOTE]
+====
+. Ou: “na época futura”. Veja o Glossário.
+====
+
+[[v41-10-31]]
+
+^<<v41-10-31,31>>^ Mas muitos dos que são primeiros serão últimos; e os últimos, primeiros.”
+
+[[v41-10-32]]
+
+^<<v41-10-32,32>>^ Iam então pela estrada, subindo para Jerusalém, e Jesus ia à frente deles, e eles estavam admirados; mas os que os seguiam estavam com medo. Novamente, ele chamou os Doze à parte e começou a dizer-lhes as coisas que estavam para lhe acontecer:
+
+[[v41-10-33]]
+
+^<<v41-10-33,33>>^ “Escutem, estamos a subir para Jerusalém, e o Filho do Homem será entregue aos principais sacerdotes e aos escribas. Eles vão condená-lo à morte e entregá-lo a homens das nações,
+
+[[v41-10-34]]
+
+^<<v41-10-34,34>>^ e estes vão ridicularizá-lo, cuspir-lhe, açoitá-lo e matá-lo, mas três dias depois ele será levantado.”
+
+[[v41-10-35]]
+
+^<<v41-10-35,35>>^ Tiago e João, os filhos de Zebedeu, aproximaram-se dele e disseram-lhe: “Instrutor, queremos que nos faças o que te pedirmos.”
+
+[[v41-10-36]]
+
+^<<v41-10-36,36>>^ Ele perguntou-lhes: “O que é que querem que eu vos faça?”
+
+[[v41-10-37]]
+
+^<<v41-10-37,37>>^ Eles responderam: “Concede-nos que nos sentemos um à tua direita e outro à tua esquerda, na tua glória.”
+
+[[v41-10-38]]
+
+^<<v41-10-38,38>>^ Mas Jesus disse-lhes: “Vocês não sabem o que estão a pedir. Será que podem beber o cálice que eu estou a beber ou ser batizados com o batismo com que eu estou a ser batizado?”
+
+[[v41-10-39]]
+
+^<<v41-10-39,39>>^ Disseram-lhe: “Podemos.” Então, Jesus disse-lhes: “Vocês beberão o cálice que eu estou a beber e serão batizados com o batismo com que eu estou a ser batizado.
+
+[[v41-10-40]]
+
+^<<v41-10-40,40>>^ No entanto, não me cabe a mim conceder que se sentem à minha direita ou à minha esquerda. Esses lugares pertencem àqueles para quem foram preparados.”
+
+[[v41-10-41]]
+
+^<<v41-10-41,41>>^ Quando os outros dez souberam disso, ficaram indignados com Tiago e João.
+
+[[v41-10-42]]
+
+^<<v41-10-42,42>>^ Mas Jesus chamou-os e disse-lhes: “Sabem que os que são considerados governantes das^&#42;1^ nações dominam sobre elas, e os seus grandes exercem autoridade sobre elas.
+
+[NOTE]
+====
+. Ou: “os que parecem governar as”.
+====
+
+[[v41-10-43]]
+
+^<<v41-10-43,43>>^ Não deve ser assim entre vocês; mas quem quiser tornar-se grande entre vocês tem de ser o vosso servo,^&#42;1^
+
+[NOTE]
+====
+. Ou: “ministro”.
+====
+
+[[v41-10-44]]
+
+^<<v41-10-44,44>>^ e quem quiser ser o primeiro entre vocês tem de ser o escravo de todos.
+
+[[v41-10-45]]
+
+^<<v41-10-45,45>>^ Pois até mesmo o Filho do Homem veio, não para ser servido, mas para servir^&#42;1^ e dar a sua vida^&#42;2^ como resgate em troca de muitos.”
+
+[NOTE]
+====
+. Ou: “ministrar”.
+. Ou: “alma”.
+====
+
+[[v41-10-46]]
+
+^<<v41-10-46,46>>^ Eles entraram então em Jericó. Mas, quando ele, os seus discípulos e uma multidão considerável saíam de Jericó, Bartimeu (filho de Timeu), um mendigo cego, estava sentado à beira da estrada.
+
+[[v41-10-47]]
+
+^<<v41-10-47,47>>^ Ao ouvir que era Jesus, o Nazareno, ele começou a gritar: “Filho de David, Jesus, tenha misericórdia de mim!”
+
+[[v41-10-48]]
+
+^<<v41-10-48,48>>^ Em vista disso, muitos começaram a censurá-lo, mandando-o calar-se, mas ele gritava ainda mais: “Filho de David, tenha misericórdia de mim!”
+
+[[v41-10-49]]
+
+^<<v41-10-49,49>>^ Então, Jesus parou e disse: “Chamem-no.” E chamaram o cego, dizendo-lhe: “Coragem! Levanta-te, ele está a chamar-te.”
+
+[[v41-10-50]]
+
+^<<v41-10-50,50>>^ Atirando a capa para o lado, ele levantou-se rapidamente e foi ter com Jesus.
+
+[[v41-10-51]]
+
+^<<v41-10-51,51>>^ Então, Jesus perguntou-lhe: “O que é que queres que eu faça por ti?” O cego disse-lhe: “Raboni,^&#42;1^ deixe-me recuperar a visão.”
+
+[NOTE]
+====
+. Que significa “Instrutor”.
+====
+
+[[v41-10-52]]
+
+^<<v41-10-52,52>>^ E Jesus disse-lhe: “Vai, a tua fé fez-te ficar bom.” E ele recuperou imediatamente a visão e começou a segui-lo pela estrada.
+
+'''
+
+xref:041-marcos/041-marcos-009.adoc#v41-9-0[&#60; Capítulo Anterior] | <<v41-10-0,Topo>> | xref:041-marcos/041-marcos-011.adoc#v41-11-0[Próximo Capítulo &#62;]

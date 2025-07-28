@@ -1,0 +1,187 @@
+include::./index.adoc[]
+
+[[v19-118-0]]
+=== Salmos, 118
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v19-118-1]]
+
+^<<v19-118-1,1>>^ Agradeçam a Jeová, pois ele é bom;
+O seu amor leal dura para sempre.
+
+[[v19-118-2]]
+
+^<<v19-118-2,2>>^ Que diga, então, Israel:
+“O seu amor leal dura para sempre.”
+
+[[v19-118-3]]
+
+^<<v19-118-3,3>>^ Que digam, então, os da casa de Arão:
+“O seu amor leal dura para sempre.”
+
+[[v19-118-4]]
+
+^<<v19-118-4,4>>^ Que digam, então, os que temem a Jeová:
+“O seu amor leal dura para sempre.”
+
+[[v19-118-5]]
+
+^<<v19-118-5,5>>^ Invoquei a Jah^&#42;1^ na minha aflição;
+Jah respondeu-me e levou-me para um lugar seguro.^&#42;2^
+
+[NOTE]
+====
+. “Jah” é uma forma reduzida do nome Jeová.
+. Ou: “espaçoso”.
+====
+
+[[v19-118-6]]
+
+^<<v19-118-6,6>>^ Jeová está do meu lado; não terei medo.
+O que me pode fazer o homem?
+
+[[v19-118-7]]
+
+^<<v19-118-7,7>>^ Jeová está do meu lado, como meu ajudador;^&#42;1^
+Olharei triunfantemente para os que me odeiam.
+
+[NOTE]
+====
+. Ou, possivelmente: “entre os que me ajudam”.
+====
+
+[[v19-118-8]]
+
+^<<v19-118-8,8>>^ É melhor refugiar-se em Jeová
+Do que confiar nos humanos.
+
+[[v19-118-9]]
+
+^<<v19-118-9,9>>^ É melhor refugiar-se em Jeová
+Do que confiar em príncipes.
+
+[[v19-118-10]]
+
+^<<v19-118-10,10>>^ Todas as nações me cercaram;
+Mas, em nome de Jeová,
+Eu fiz com que fugissem.
+
+[[v19-118-11]]
+
+^<<v19-118-11,11>>^ Cercaram-me, sim, eu estava cercado de todos os lados;
+Mas, em nome de Jeová,
+Eu fiz com que fugissem.
+
+[[v19-118-12]]
+
+^<<v19-118-12,12>>^ Cercaram-me como abelhas,
+Mas foram extintas tão rapidamente como um fogo entre espinhos.
+Em nome de Jeová,
+Eu fiz com que fugissem.
+
+[[v19-118-13]]
+
+^<<v19-118-13,13>>^ Fui fortemente empurrado^&#42;1^ de modo a cair,
+Mas Jeová ajudou-me.
+
+[NOTE]
+====
+. Ou, possivelmente: “Tu empurraste-me”.
+====
+
+[[v19-118-14]]
+
+^<<v19-118-14,14>>^ Jah é o meu abrigo e a minha força,
+E ele tornou-se a minha salvação.
+
+[[v19-118-15]]
+
+^<<v19-118-15,15>>^ O som de alegria e de salvação^&#42;1^
+Está nas tendas dos justos.
+A mão direita de Jeová demonstra poder.
+
+[NOTE]
+====
+. Ou: “vitória”.
+====
+
+[[v19-118-16]]
+
+^<<v19-118-16,16>>^ A mão direita de Jeová enaltece-se;
+A mão direita de Jeová demonstra poder.
+
+[[v19-118-17]]
+
+^<<v19-118-17,17>>^ Não, não morrerei; eu viverei
+Para declarar os atos de Jah.
+
+[[v19-118-18]]
+
+^<<v19-118-18,18>>^ Jah disciplinou-me severamente,
+Mas não me entregou à morte.
+
+[[v19-118-19]]
+
+^<<v19-118-19,19>>^ Abram-me os portões da justiça;
+Entrarei por eles e louvarei a Jah.
+
+[[v19-118-20]]
+
+^<<v19-118-20,20>>^ Este é o portão de Jeová.
+Os justos entrarão por ele.
+
+[[v19-118-21]]
+
+^<<v19-118-21,21>>^ Vou louvar-te, pois tu respondeste-me
+E tornaste-te a minha salvação.
+
+[[v19-118-22]]
+
+^<<v19-118-22,22>>^ A pedra que os construtores rejeitaram
+Tornou-se a principal pedra angular.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “a cabeça da esquina”.
+====
+
+[[v19-118-23]]
+
+^<<v19-118-23,23>>^ Isto procede de Jeová;
+É maravilhoso aos nossos olhos.
+
+[[v19-118-24]]
+
+^<<v19-118-24,24>>^ Este é o dia que Jeová fez;
+Neste dia, vamos exultar e alegrar-nos.
+
+[[v19-118-25]]
+
+^<<v19-118-25,25>>^ Jeová, nós pedimos-te: salva-nos, por favor!
+Jeová, dá-nos a vitória, por favor!
+
+[[v19-118-26]]
+
+^<<v19-118-26,26>>^ Bendito é aquele que vem em nome de Jeová.
+É da casa de Jeová que nós vos abençoamos.
+
+[[v19-118-27]]
+
+^<<v19-118-27,27>>^ Jeová é Deus;
+Ele dá-nos luz.
+Acompanhem o cortejo festivo com ramos nas mãos,
+Até aos chifres do altar.
+
+[[v19-118-28]]
+
+^<<v19-118-28,28>>^ Tu és o meu Deus e eu vou louvar-te.
+Meu Deus, eu vou exaltar-te.
+
+[[v19-118-29]]
+
+^<<v19-118-29,29>>^ Agradeçam a Jeová, pois ele é bom;
+O seu amor leal dura para sempre.
+
+'''
+
+xref:019-salmo/019-salmo-117.adoc#v19-117-0[&#60; Capítulo Anterior] | <<v19-118-0,Topo>> | xref:019-salmo/019-salmo-119.adoc#v19-119-0[Próximo Capítulo &#62;]

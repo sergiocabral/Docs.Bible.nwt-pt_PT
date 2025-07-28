@@ -1,0 +1,114 @@
+include::./index.adoc[]
+
+[[v25-5-0]]
+=== Lamentações, 5
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v25-5-1]]
+
+^<<v25-5-1,1>>^ Lembra-te, ó Jeová, do que nos aconteceu.
+Olha, vê a nossa desonra.
+
+[[v25-5-2]]
+
+^<<v25-5-2,2>>^ A nossa herança foi entregue a estranhos; as nossas casas, a estrangeiros.
+
+[[v25-5-3]]
+
+^<<v25-5-3,3>>^ Nós tornámo-nos órfãos de pai; as nossas mães são como viúvas.
+
+[[v25-5-4]]
+
+^<<v25-5-4,4>>^ Temos de pagar para beber a nossa própria água, e temos de comprar a nossa própria lenha.
+
+[[v25-5-5]]
+
+^<<v25-5-5,5>>^ Aqueles que nos perseguem estão bem perto;
+Estamos exaustos e não temos descanso.
+
+[[v25-5-6]]
+
+^<<v25-5-6,6>>^ Estendemos a mão ao Egito e à Assíria a fim de termos o suficiente para comer.
+
+[[v25-5-7]]
+
+^<<v25-5-7,7>>^ Os nossos antepassados que pecaram já morreram, mas nós temos de pagar pelos seus erros.
+
+[[v25-5-8]]
+
+^<<v25-5-8,8>>^ Agora, somos governados por servos; não há ninguém que nos livre das suas mãos.
+
+[[v25-5-9]]
+
+^<<v25-5-9,9>>^ Arriscámos a vida^&#42;1^ para conseguir pão por causa da espada no deserto.^&#42;2^
+
+[NOTE]
+====
+. Ou: “alma”.
+. Veja o Glossário.
+====
+
+[[v25-5-10]]
+
+^<<v25-5-10,10>>^ A nossa pele ficou quente como um forno por causa das dores da fome.
+
+[[v25-5-11]]
+
+^<<v25-5-11,11>>^ As esposas em Sião foram humilhadas,^&#42;1^ assim como as virgens nas cidades de Judá.
+
+[NOTE]
+====
+. Ou: “violadas”.
+====
+
+[[v25-5-12]]
+
+^<<v25-5-12,12>>^ Príncipes foram pendurados pela mão, e anciãos não foram respeitados.
+
+[[v25-5-13]]
+
+^<<v25-5-13,13>>^ Rapazes carregam o moinho manual, e meninos cambaleiam com o peso das cargas de lenha.
+
+[[v25-5-14]]
+
+^<<v25-5-14,14>>^ Já não há anciãos no portão da cidade; os jovens já não tocam a sua música.
+
+[[v25-5-15]]
+
+^<<v25-5-15,15>>^ Já não há alegria no nosso coração; a nossa dança transformou-se em luto.
+
+[[v25-5-16]]
+
+^<<v25-5-16,16>>^ A coroa caiu-nos da cabeça. Ai de nós, porque pecámos!
+
+[[v25-5-17]]
+
+^<<v25-5-17,17>>^ O nosso coração ficou doente por causa disto,
+E os nossos olhos ficaram fracos por causa destas coisas,
+
+[[v25-5-18]]
+
+^<<v25-5-18,18>>^ Por causa do monte Sião, que está desolado; agora, as raposas andam por lá.
+
+[[v25-5-19]]
+
+^<<v25-5-19,19>>^ Quanto a ti, ó Jeová, permaneces no teu trono para sempre.
+O teu trono dura geração após geração.
+
+[[v25-5-20]]
+
+^<<v25-5-20,20>>^ Porque é que te esqueces de nós para sempre e nos abandonas durante tanto tempo?
+
+[[v25-5-21]]
+
+^<<v25-5-21,21>>^ Traz-nos de volta a ti, ó Jeová, e nós voltaremos prontamente.
+Renova os nossos dias, para que sejam como os dos tempos antigos.
+
+[[v25-5-22]]
+
+^<<v25-5-22,22>>^ No entanto, rejeitaste-nos totalmente.
+Continuas muito irado connosco.
+
+'''
+
+xref:025-lamentacoes/025-lamentacoes-004.adoc#v25-4-0[&#60; Capítulo Anterior] | <<v25-5-0,Topo>> | xref:026-ezequiel/026-ezequiel-001.adoc#v26-1-0[Próximo Capítulo &#62;]

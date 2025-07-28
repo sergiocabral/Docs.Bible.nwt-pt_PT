@@ -1,0 +1,103 @@
+include::./index.adoc[]
+
+[[v18-35-0]]
+=== Jó, 35
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v18-35-1]]
+
+^<<v18-35-1,1>>^ Eliú continuou a dizer:
+
+[[v18-35-2]]
+
+^<<v18-35-2,2>>^ “Estás assim tão convicto de que estás certo a ponto de dizeres:
+‘Sou mais justo do que Deus’?
+
+[[v18-35-3]]
+
+^<<v18-35-3,3>>^ Pois dizes: ‘O que é que isso te importa?^&#42;1^
+Estou em melhor situação do que se tivesse pecado?’
+
+[NOTE]
+====
+. Provavelmente, refere-se a Deus.
+====
+
+[[v18-35-4]]
+
+^<<v18-35-4,4>>^ Eu irei responder-te a ti
+E aos teus amigos.
+
+[[v18-35-5]]
+
+^<<v18-35-5,5>>^ Olha para o céu e vê,
+Observa as nuvens, que estão muito acima de ti.
+
+[[v18-35-6]]
+
+^<<v18-35-6,6>>^ Se pecares, como é que o prejudicarás?
+Se as tuas transgressões se multiplicarem, o que é que lhe farás?
+
+[[v18-35-7]]
+
+^<<v18-35-7,7>>^ Se fores justo, o que é que lhe darás?
+O que é que ele receberá de ti?
+
+[[v18-35-8]]
+
+^<<v18-35-8,8>>^ A tua maldade afeta apenas um humano como tu,
+E a tua justiça, o filho de um homem.
+
+[[v18-35-9]]
+
+^<<v18-35-9,9>>^ As pessoas clamam sob o peso da opressão;
+Clamam por alívio por causa do domínio^&#42;1^ dos poderosos.
+
+[NOTE]
+====
+. Lit.: “braço”.
+====
+
+[[v18-35-10]]
+
+^<<v18-35-10,10>>^ Contudo, ninguém diz: ‘Onde é que está Deus, o Grandioso que me fez,
+Aquele que faz com que se cantem cânticos à noite?’
+
+[[v18-35-11]]
+
+^<<v18-35-11,11>>^ Ele ensina-nos mais do que aos animais da terra,
+E faz-nos mais sábios do que as aves dos céus.
+
+[[v18-35-12]]
+
+^<<v18-35-12,12>>^ As pessoas clamam, mas ele não responde,
+Por causa do orgulho dos maus.
+
+[[v18-35-13]]
+
+^<<v18-35-13,13>>^ Certamente, Deus não ouve clamores vazios;^&#42;1^
+O Todo-Poderoso não dá atenção a isso.
+
+[NOTE]
+====
+. Ou: “uma mentira”.
+====
+
+[[v18-35-14]]
+
+^<<v18-35-14,14>>^ Quanto menos quando te queixas de que não o vês!
+A tua causa jurídica está perante ele, por isso devias esperar ansiosamente por ele.
+
+[[v18-35-15]]
+
+^<<v18-35-15,15>>^ Pois ele não exigiu com ira uma prestação de contas,
+Nem levou em consideração a tua grande impetuosidade.
+
+[[v18-35-16]]
+
+^<<v18-35-16,16>>^ Jó abre a boca em vão;
+Sem conhecimento, multiplica palavras.”
+
+'''
+
+xref:018-jo/018-jo-034.adoc#v18-34-0[&#60; Capítulo Anterior] | <<v18-35-0,Topo>> | xref:018-jo/018-jo-036.adoc#v18-36-0[Próximo Capítulo &#62;]

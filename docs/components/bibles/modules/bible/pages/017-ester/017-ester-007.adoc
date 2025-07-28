@@ -1,0 +1,70 @@
+include::./index.adoc[]
+
+[[v17-7-0]]
+=== Ester, 7
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v17-7-1]]
+
+^<<v17-7-1,1>>^ Portanto, o rei e Hamã foram ao banquete da rainha Ester.
+
+[[v17-7-2]]
+
+^<<v17-7-2,2>>^ Nesse segundo dia, enquanto bebiam o vinho, o rei disse outra vez a Ester: “Qual é o teu pedido, rainha Ester? Ele ser-te-á concedido. Qual é a tua solicitação? Até metade^&#42;1^ do meu reino eu te darei!”
+
+[NOTE]
+====
+. Ou: “Mesmo que seja metade”.
+====
+
+[[v17-7-3]]
+
+^<<v17-7-3,3>>^ A rainha Ester respondeu: “Se achei favor aos seus olhos, ó rei, e se for do agrado do rei, o meu pedido é que me poupe a vida,^&#42;1^ e a minha solicitação é que salve o meu povo.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v17-7-4]]
+
+^<<v17-7-4,4>>^ Pois eu e o meu povo fomos vendidos para sermos exterminados, mortos e destruídos. Se apenas tivéssemos sido vendidos para sermos escravos e escravas, eu teria ficado calada. Mas esta desgraça não deve ser permitida, pois causará prejuízo ao rei.”
+
+[[v17-7-5]]
+
+^<<v17-7-5,5>>^ O rei Assuero perguntou então à rainha Ester: “Quem é que fez isso? Onde é que está o homem que se atreveu a fazer uma coisa dessas?”
+
+[[v17-7-6]]
+
+^<<v17-7-6,6>>^ Ester respondeu: “O adversário e o inimigo é Hamã, este homem perverso.”
+Hamã ficou apavorado por causa do rei e da rainha.
+
+[[v17-7-7]]
+
+^<<v17-7-7,7>>^ O rei levantou-se furioso e deixou o banquete, indo para o jardim do palácio. Contudo, Hamã levantou-se para implorar à rainha Ester pela sua vida,^&#42;1^ pois percebeu que o rei já o tinha decidido condenar.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v17-7-8]]
+
+^<<v17-7-8,8>>^ O rei voltou do jardim do palácio para a casa do banquete e viu que Hamã se tinha lançado sobre o divã em que Ester se encontrava. O rei exclamou: “E ele ainda quer violar a rainha na minha própria casa?!” Assim que o rei acabou de falar, cobriram o rosto de Hamã.
+
+[[v17-7-9]]
+
+^<<v17-7-9,9>>^ E Harbona, um dos oficiais da corte do rei, disse: “Hamã também preparou um madeiro para Mordecai, o homem que salvou a vida do rei com a sua denúncia. O madeiro está ao pé da casa de Hamã e mede 50 côvados^&#42;1^ de altura.” Com isso, o rei disse: “Pendurem-no nele.”
+
+[NOTE]
+====
+. Cerca de 22,3 m. Veja o Ap. B14.
+====
+
+[[v17-7-10]]
+
+^<<v17-7-10,10>>^ Assim, penduraram Hamã no madeiro que ele tinha preparado para Mordecai, e o rei acalmou-se do seu furor.
+
+'''
+
+xref:017-ester/017-ester-006.adoc#v17-6-0[&#60; Capítulo Anterior] | <<v17-7-0,Topo>> | xref:017-ester/017-ester-008.adoc#v17-8-0[Próximo Capítulo &#62;]

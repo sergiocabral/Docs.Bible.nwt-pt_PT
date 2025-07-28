@@ -1,0 +1,171 @@
+include::./index.adoc[]
+
+[[v23-9-0]]
+=== Isaías, 9
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v23-9-1]]
+
+^<<v23-9-1,1>>^ No entanto, as trevas não serão como quando a terra de Zebulão e a terra de Naftali foram tratadas com desprezo, quando o país estava em aflição. Contudo, em épocas posteriores, Ele fará com que o caminho seja honrado, o caminho junto ao mar, na região do Jordão, Galileia das nações.
+
+[[v23-9-2]]
+
+^<<v23-9-2,2>>^ As pessoas que andavam nas trevas
+Viram uma grande luz.
+Quanto aos que moravam na terra de profunda escuridão,
+Brilhou sobre eles a luz.
+
+[[v23-9-3]]
+
+^<<v23-9-3,3>>^ Tornaste a nação populosa;
+Tornaste grande a sua alegria.
+Alegram-se diante de ti
+Como as pessoas se alegram no tempo da colheita,
+Como os que alegremente dividem o despojo.
+
+[[v23-9-4]]
+
+^<<v23-9-4,4>>^ Pois quebraste o jugo que carregavam,
+O bastão sobre os seus ombros, a vara do feitor,
+Como fizeste no dia de Midiã.
+
+[[v23-9-5]]
+
+^<<v23-9-5,5>>^ Todas as botas que fazem a terra tremer durante a marcha
+E todas as roupas encharcadas de sangue
+Servirão de combustível para o fogo.
+
+[[v23-9-6]]
+
+^<<v23-9-6,6>>^ Porque um menino nos nasceu,
+Um filho nos foi dado;
+E o reinado^&#42;1^ estará sobre os seus ombros.
+Ele receberá o nome de Maravilhoso Conselheiro, Deus Poderoso, Pai Eterno, Príncipe da Paz.
+
+[NOTE]
+====
+. Ou: “governo; domínio principesco”.
+====
+
+[[v23-9-7]]
+
+^<<v23-9-7,7>>^ A expansão do seu reinado^&#42;1^
+E a paz sobre o trono de David
+E sobre o seu reino não terão fim,
+Para o estabelecer firmemente e para o amparar
+Pela justiça e pela retidão,
+Agora e para sempre.
+O zelo de Jeová dos exércitos fará isso.
+
+[NOTE]
+====
+. Ou: “governo; domínio principesco”.
+====
+
+[[v23-9-8]]
+
+^<<v23-9-8,8>>^ Jeová enviou uma palavra contra Jacó,
+E ela caiu sobre Israel.
+
+[[v23-9-9]]
+
+^<<v23-9-9,9>>^ E todo o povo saberá,
+Efraim e os habitantes de Samaria,
+Que dizem na sua arrogância e na insolência do seu coração:
+
+[[v23-9-10]]
+
+^<<v23-9-10,10>>^ “Os tijolos caíram,
+Mas nós construiremos com pedras talhadas.
+Os sicómoros foram cortados,
+Mas nós iremos substituí-los por cedros.”
+
+[[v23-9-11]]
+
+^<<v23-9-11,11>>^ Jeová trará os adversários de Rezim contra ele
+E induzirá os seus inimigos à ação,
+
+[[v23-9-12]]
+
+^<<v23-9-12,12>>^ A Síria desde o leste e os filisteus desde o oeste,^&#42;1^
+Abrirão a boca e devorarão Israel.
+Em vista de tudo isto, a Sua ira não recuou,
+A sua mão ainda está estendida para golpear.
+
+[NOTE]
+====
+. Lit.: “desde trás”.
+====
+
+[[v23-9-13]]
+
+^<<v23-9-13,13>>^ Pois o povo não voltou Àquele que o golpeia;
+Eles não procuraram a Jeová dos exércitos.
+
+[[v23-9-14]]
+
+^<<v23-9-14,14>>^ Jeová decepará de Israel
+Cabeça e cauda, rebento e junco,^&#42;1^ num só dia.
+
+[NOTE]
+====
+. Ou, possivelmente: “ramo de palmeira e cana”.
+====
+
+[[v23-9-15]]
+
+^<<v23-9-15,15>>^ O homem idoso e muito respeitado é a cabeça,
+E o profeta que dá instrução falsa é a cauda.
+
+[[v23-9-16]]
+
+^<<v23-9-16,16>>^ Os que guiam este povo fazem-nos vaguear,
+E os que estão a ser guiados estão confusos.
+
+[[v23-9-17]]
+
+^<<v23-9-17,17>>^ É por isso que Jeová não se alegrará com os jovens deles
+E não terá misericórdia dos seus órfãos^&#42;1^ e das suas viúvas,
+Porque todos são apóstatas e malfeitores
+E todos falam insensatez.
+Em vista de tudo isto, a Sua ira não recuou,
+A sua mão ainda está estendida para golpear.
+
+[NOTE]
+====
+. Ou: “órfãos de pai”.
+====
+
+[[v23-9-18]]
+
+^<<v23-9-18,18>>^ Pois a maldade queima como um fogo,
+Consumindo espinhos e ervas daninhas.
+Incendiará as moitas da floresta,
+Que subirão em nuvens de fumo.
+
+[[v23-9-19]]
+
+^<<v23-9-19,19>>^ Por causa da fúria de Jeová dos exércitos
+Esta terra foi incendiada,
+E o povo irá tornar-se combustível para o fogo.
+Ninguém poupará nem mesmo o seu irmão.
+
+[[v23-9-20]]
+
+^<<v23-9-20,20>>^ Um cortará à direita,
+Mas continuará com fome;
+Outro comerá à esquerda,
+Mas não se saciará.
+Cada um devorará a carne do seu próprio braço,
+
+[[v23-9-21]]
+
+^<<v23-9-21,21>>^ Manassés devorará Efraim,
+E Efraim devorará Manassés.
+Juntos estarão contra Judá.
+Em vista de tudo isto, a Sua ira não recuou,
+A sua mão ainda está estendida para golpear.
+
+'''
+
+xref:023-isaias/023-isaias-008.adoc#v23-8-0[&#60; Capítulo Anterior] | <<v23-9-0,Topo>> | xref:023-isaias/023-isaias-010.adoc#v23-10-0[Próximo Capítulo &#62;]

@@ -1,0 +1,127 @@
+include::./index.adoc[]
+
+[[v9-22-0]]
+=== 1 Samuel, 22
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-22-1]]
+
+^<<v9-22-1,1>>^ Então, David retirou-se e fugiu para a caverna de Adulão. Quando os seus irmãos e toda a casa do seu pai souberam disso, foram até ao local onde ele estava.
+
+[[v9-22-2]]
+
+^<<v9-22-2,2>>^ E todos os que estavam em dificuldades, os endividados e os que se sentiam injustiçados^&#42;1^ juntaram-se a ele, e David tornou-se chefe deles. Havia cerca de 400 homens com ele.
+
+[NOTE]
+====
+. Ou: “que estavam com a alma amargurada”.
+====
+
+[[v9-22-3]]
+
+^<<v9-22-3,3>>^ Mais tarde, David foi de lá para Mispa, em Moabe, e disse ao rei de Moabe: “Por favor, deixe o meu pai e a minha mãe ficar convosco até que eu saiba o que Deus vai fazer por mim.”
+
+[[v9-22-4]]
+
+^<<v9-22-4,4>>^ Assim, deixou-os com o rei de Moabe, e eles ficaram no seu território durante todo o tempo que David passou no refúgio.
+
+[[v9-22-5]]
+
+^<<v9-22-5,5>>^ Depois de algum tempo, Gade, o profeta, disse a David: “Não fiques no refúgio. Vai para a terra de Judá.” Assim, David foi-se embora e entrou na floresta de Herete.
+
+[[v9-22-6]]
+
+^<<v9-22-6,6>>^ Saul soube que David e os seus homens tinham sido encontrados. Nessa ocasião, Saul estava sentado numa colina em Gibeá, debaixo da tamargueira, com a sua lança na mão, e todos os seus servos estavam à sua volta.
+
+[[v9-22-7]]
+
+^<<v9-22-7,7>>^ Saul disse então aos servos que estavam à sua volta: “Escutem, por favor, ó benjaminitas. Será que o filho de Jessé também vos dará, a todos vocês, campos e vinhas? Será que vos nomeará a todos como chefes de mil e chefes de cem?
+
+[[v9-22-8]]
+
+^<<v9-22-8,8>>^ Todos vocês conspiraram contra mim! Ninguém me contou que o meu próprio filho fez um pacto com o filho de Jessé! Nenhum de vocês tem consideração por mim, nem me avisa de que o meu próprio filho induziu o meu servo a armar uma emboscada contra mim, como está a acontecer agora.”
+
+[[v9-22-9]]
+
+^<<v9-22-9,9>>^ Então, Doegue, o edomita, que liderava os servos de Saul, disse: “Eu vi o filho de Jessé a chegar a Nobe para se encontrar com Aimeleque, filho de Aitube.
+
+[[v9-22-10]]
+
+^<<v9-22-10,10>>^ Aimeleque consultou a Jeová em seu favor e deu-lhe provisões. Entregou-lhe até mesmo a espada de Golias, o filisteu.”
+
+[[v9-22-11]]
+
+^<<v9-22-11,11>>^ Imediatamente, o rei mandou chamar Aimeleque, filho de Aitube, o sacerdote, e todos os sacerdotes da casa do seu pai, que estavam em Nobe. E todos eles vieram ao rei.
+
+[[v9-22-12]]
+
+^<<v9-22-12,12>>^ Saul disse então: “Escuta, filho de Aitube!” Ele respondeu: “Sim, meu senhor.”
+
+[[v9-22-13]]
+
+^<<v9-22-13,13>>^ Saul disse-lhe: “Porque é que tu e o filho de Jessé conspiraram contra mim? Porque é que lhe deste pão e uma espada, e consultaste a Deus em seu favor? Ele opõe-se a mim e armou uma emboscada contra mim, como está a acontecer agora.”
+
+[[v9-22-14]]
+
+^<<v9-22-14,14>>^ De seguida, Aimeleque disse ao rei: “Quem dentre todos os seus servos é tão digno de confiança^&#42;1^ como David? Ele é genro do rei, chefe da sua guarda pessoal e respeitado na sua casa.
+
+[NOTE]
+====
+. Ou: “fiel”.
+====
+
+[[v9-22-15]]
+
+^<<v9-22-15,15>>^ Será que é a primeira vez que eu consulto a Deus em seu favor? Eu jamais conspiraria contra si! Que o rei não me atribua nada de mal, nem a mim, seu servo, nem à casa inteira do meu pai, pois o seu servo não sabia de absolutamente nada a este respeito.”
+
+[[v9-22-16]]
+
+^<<v9-22-16,16>>^ Contudo, o rei disse: “Com certeza, morrerás, Aimeleque, tu e toda a casa do teu pai.”
+
+[[v9-22-17]]
+
+^<<v9-22-17,17>>^ Então, o rei disse aos guardas^&#42;1^ que estavam de pé à sua volta: “Matem os sacerdotes de Jeová, porque eles estão do lado de David! Eles sabiam que ele estava a fugir e não me avisaram!” No entanto, os servos do rei não quiseram levantar a mão para atacar os sacerdotes de Jeová.
+
+[NOTE]
+====
+. Lit.: “corredores”.
+====
+
+[[v9-22-18]]
+
+^<<v9-22-18,18>>^ Por conseguinte, o rei disse a Doegue: “Ataca tu os sacerdotes!” Doegue, o edomita, atacou imediatamente os sacerdotes. Naquele dia, ele matou 85 homens que usavam um éfode de linho.
+
+[[v9-22-19]]
+
+^<<v9-22-19,19>>^ Com a espada, ele também atacou Nobe, a cidade dos sacerdotes. Matou homens e mulheres, crianças e bebés, além de touros, jumentos e ovelhas.
+
+[[v9-22-20]]
+
+^<<v9-22-20,20>>^ No entanto, Abiatar, um dos filhos de Aimeleque, filho de Aitube, escapou e fugiu para se juntar a David.
+
+[[v9-22-21]]
+
+^<<v9-22-21,21>>^ Abiatar disse a David: “Saul matou os sacerdotes de Jeová.”
+
+[[v9-22-22]]
+
+^<<v9-22-22,22>>^ Então, David disse a Abiatar: “Naquele dia, quando lá vi Doegue, o edomita, eu sabia que ele contaria tudo a Saul. Sou o responsável pela morte de todos os^&#42;1^ da casa do teu pai.
+
+[NOTE]
+====
+. Ou: “de todas as almas”.
+====
+
+[[v9-22-23]]
+
+^<<v9-22-23,23>>^ Fica comigo, não tenhas medo, pois quem te quer tirar a vida^&#42;1^ também me quer tirar a vida a mim.^&#42;2^ Tu estás sob a minha proteção.”
+
+[NOTE]
+====
+. Ou: “procura a tua alma”.
+. Ou: “procura a minha alma”.
+====
+
+'''
+
+xref:009-1-samuel/009-1-samuel-021.adoc#v9-21-0[&#60; Capítulo Anterior] | <<v9-22-0,Topo>> | xref:009-1-samuel/009-1-samuel-023.adoc#v9-23-0[Próximo Capítulo &#62;]

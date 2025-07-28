@@ -1,0 +1,91 @@
+include::./index.adoc[]
+
+[[v6-14-0]]
+=== Josué, 14
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v6-14-1]]
+
+^<<v6-14-1,1>>^ Foi isto o que os israelitas receberam como herança na terra de Canaã, que lhes foi dado como herança por Eleazar, o sacerdote, Josué, filho de Num, e os cabeças das casas paternas das tribos de Israel.
+
+[[v6-14-2]]
+
+^<<v6-14-2,2>>^ A herança das nove tribos e meia foi dada por sortes, assim como Jeová tinha ordenado por meio de Moisés.
+
+[[v6-14-3]]
+
+^<<v6-14-3,3>>^ Moisés tinha dado a herança às outras duas tribos e meia no outro lado^&#42;1^ do Jordão, e aos levitas não deu herança entre eles.
+
+[NOTE]
+====
+. Isto é, no lado leste.
+====
+
+[[v6-14-4]]
+
+^<<v6-14-4,4>>^ Os descendentes de José foram contados como duas tribos, Manassés e Efraim; os levitas não receberam nenhuma porção da terra, a não ser cidades com as suas pastagens, para eles morarem e para os seus animais e para os seus bens.
+
+[[v6-14-5]]
+
+^<<v6-14-5,5>>^ Desta forma os israelitas repartiram a terra, assim como Jeová tinha ordenado a Moisés.
+
+[[v6-14-6]]
+
+^<<v6-14-6,6>>^ Então, os homens de Judá aproximaram-se de Josué em Gilgal, e Caleb, filho de Jefuné, o quenizeu, disse-lhe: “Tu bem sabes o que Jeová disse a respeito de mim e de ti, a Moisés, o homem do verdadeiro Deus, em Cades-Barneia.
+
+[[v6-14-7]]
+
+^<<v6-14-7,7>>^ Eu tinha 40 anos de idade quando Moisés, o servo de Jeová, me enviou de Cades-Barneia para espiar a terra, e voltei com um relatório franco e honesto.^&#42;1^
+
+[NOTE]
+====
+. Ou: “com uma palavra assim como estava no meu coração”.
+====
+
+[[v6-14-8]]
+
+^<<v6-14-8,8>>^ Embora os meus irmãos que foram comigo tenham desanimado o povo,^&#42;1^ eu segui a Jeová, meu Deus, de todo o coração.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “tenham feito o coração do povo derreter-se”.
+. Lit.: “plenamente; completamente”.
+====
+
+[[v6-14-9]]
+
+^<<v6-14-9,9>>^ Moisés jurou naquele dia: ‘A terra em que os teus pés pisaram vai tornar-se uma herança permanente para ti e para os teus filhos, pois seguiste a Jeová, meu Deus, de todo o coração.’
+
+[[v6-14-10]]
+
+^<<v6-14-10,10>>^ Assim como prometeu, Jeová preservou-me vivo durante estes 45 anos desde que Jeová fez esta promessa a Moisés, quando Israel andava no deserto; hoje ainda estou aqui, com 85 anos de idade.
+
+[[v6-14-11]]
+
+^<<v6-14-11,11>>^ E hoje sou tão forte como no dia em que Moisés me enviou. Tenho agora a mesma força que tinha naquela altura, tanto para a guerra como para outras atividades.
+
+[[v6-14-12]]
+
+^<<v6-14-12,12>>^ Portanto, dá-me esta região montanhosa, que Jeová prometeu naquele dia. Embora naquele dia tenhas ouvido dizer que havia ali os anaquins com grandes cidades fortificadas, certamente^&#42;1^ Jeová estará comigo e eu vou expulsá-los,^&#42;2^ assim como Jeová prometeu.”
+
+[NOTE]
+====
+. Ou: “provavelmente”.
+. Ou: “desapossá-los”.
+====
+
+[[v6-14-13]]
+
+^<<v6-14-13,13>>^ Então, Josué abençoou-o e deu Hébron como herança a Caleb, filho de Jefuné.
+
+[[v6-14-14]]
+
+^<<v6-14-14,14>>^ É por isso que Hébron pertence a Caleb, filho de Jefuné, o quenizeu, como herança até ao dia de hoje, porque ele seguiu a Jeová, o Deus de Israel, de todo o coração.
+
+[[v6-14-15]]
+
+^<<v6-14-15,15>>^ Anteriormente, o nome de Hébron era Quiriate-Arba (Arba era o homem mais importante dos anaquins). E a terra teve descanso da guerra.
+
+'''
+
+xref:006-josue/006-josue-013.adoc#v6-13-0[&#60; Capítulo Anterior] | <<v6-14-0,Topo>> | xref:006-josue/006-josue-015.adoc#v6-15-0[Próximo Capítulo &#62;]

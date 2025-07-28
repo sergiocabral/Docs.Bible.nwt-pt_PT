@@ -1,0 +1,172 @@
+include::./index.adoc[]
+
+[[v42-17-0]]
+=== Lucas, 17
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v42-17-1]]
+
+^<<v42-17-1,1>>^ Depois, ele disse aos discípulos: “É inevitável que surjam motivos para tropeço. Contudo, ai daquele por meio de quem eles surgem!
+
+[[v42-17-2]]
+
+^<<v42-17-2,2>>^ Seria melhor para ele que lhe pendurassem ao pescoço uma pedra de moinho e que fosse lançado ao mar, do que fazer tropeçar um destes pequenos.
+
+[[v42-17-3]]
+
+^<<v42-17-3,3>>^ Prestem atenção a vocês mesmos. Se o teu irmão cometer um pecado, censura-o e, se ele se arrepender, perdoa-lhe.
+
+[[v42-17-4]]
+
+^<<v42-17-4,4>>^ Mesmo que ele peque contra ti sete vezes por dia e venha ter contigo sete vezes, dizendo: ‘Arrependo-me’, tens de lhe perdoar.”
+
+[[v42-17-5]]
+
+^<<v42-17-5,5>>^ Os apóstolos disseram ao Senhor: “Dá-nos mais fé.”
+
+[[v42-17-6]]
+
+^<<v42-17-6,6>>^ E o Senhor disse: “Se vocês tivessem fé do tamanho de um grão de mostarda, diriam a esta amoreira-preta: ‘Arranca-te daí e planta-te no mar!’, e ela iria obedecer-vos.
+
+[[v42-17-7]]
+
+^<<v42-17-7,7>>^ “Qual de vocês, caso tenha um escravo que esteja a lavrar ou a cuidar do rebanho, lhe dirá quando ele chegar do campo: ‘Vem depressa para a mesa comer’?
+
+[[v42-17-8]]
+
+^<<v42-17-8,8>>^ Em vez disso, não lhe dirá: ‘Prepara-me o jantar, põe o avental e serve-me até eu acabar de comer e beber e, depois, podes comer e beber’?
+
+[[v42-17-9]]
+
+^<<v42-17-9,9>>^ Será que ele sentirá gratidão pelo escravo porque este fez o que lhe foi designado?
+
+[[v42-17-10]]
+
+^<<v42-17-10,10>>^ Da mesma forma, quando vocês tiverem feito todas as coisas que vos foram designadas, digam: ‘Somos escravos imprestáveis. O que fizemos é o que devíamos fazer.’”
+
+[[v42-17-11]]
+
+^<<v42-17-11,11>>^ A caminho de Jerusalém, ele passou entre Samaria e a Galileia.
+
+[[v42-17-12]]
+
+^<<v42-17-12,12>>^ Ao entrar numa aldeia, dez homens com lepra foram ao seu encontro, mas ficaram à distância.
+
+[[v42-17-13]]
+
+^<<v42-17-13,13>>^ E levantaram a voz, dizendo: “Jesus, Instrutor, tenha misericórdia de nós!”
+
+[[v42-17-14]]
+
+^<<v42-17-14,14>>^ Quando os viu, disse-lhes: “Vão e mostrem-se aos sacerdotes.” Então, enquanto eles se afastavam, foram purificados.
+
+[[v42-17-15]]
+
+^<<v42-17-15,15>>^ Um deles, quando viu que estava curado, voltou, glorificando a Deus em voz alta.
+
+[[v42-17-16]]
+
+^<<v42-17-16,16>>^ E prostrou-se com o rosto por terra aos pés de Jesus, agradecendo-lhe. E ele era samaritano.
+
+[[v42-17-17]]
+
+^<<v42-17-17,17>>^ Jesus disse em resposta: “Os dez foram purificados, não foram? Então, onde estão os outros nove?
+
+[[v42-17-18]]
+
+^<<v42-17-18,18>>^ Nenhum deles voltou para dar glória a Deus, a não ser este homem de outra nação?”
+
+[[v42-17-19]]
+
+^<<v42-17-19,19>>^ Depois disse-lhe: “Levanta-te e vai. A tua fé curou-te.”
+
+[[v42-17-20]]
+
+^<<v42-17-20,20>>^ Os fariseus perguntaram-lhe quando viria o Reino de Deus, e ele respondeu-lhes: “O Reino de Deus não vem de maneira claramente observável,
+
+[[v42-17-21]]
+
+^<<v42-17-21,21>>^ nem as pessoas dirão: ‘Vejam, está aqui!’ ou: ‘Está ali!’ Pois saibam que o Reino de Deus está no vosso meio.”^&#42;1^
+
+[NOTE]
+====
+. Ou: “está entre vocês”.
+====
+
+[[v42-17-22]]
+
+^<<v42-17-22,22>>^ Em seguida, ele disse aos discípulos: “Virá o tempo em que desejarão ver um dos dias do Filho do Homem, mas não verão.
+
+[[v42-17-23]]
+
+^<<v42-17-23,23>>^ E as pessoas irão dizer-vos: ‘Vejam, está ali!’ ou: ‘Vejam, está aqui!’ Não saiam nem corram atrás delas.
+
+[[v42-17-24]]
+
+^<<v42-17-24,24>>^ Pois, assim como o relâmpago ilumina o céu de um lado ao outro, assim será o Filho do Homem no seu dia.
+
+[[v42-17-25]]
+
+^<<v42-17-25,25>>^ Primeiro, porém, ele tem de sofrer muitas coisas e ser rejeitado por esta geração.
+
+[[v42-17-26]]
+
+^<<v42-17-26,26>>^ Além disso, assim como aconteceu nos dias de Noé, assim será nos dias do Filho do Homem:
+
+[[v42-17-27]]
+
+^<<v42-17-27,27>>^ as pessoas comiam, bebiam, os homens casavam-se, as mulheres eram dadas em casamento, até àquele dia em que Noé entrou na arca, e veio o dilúvio e destruiu-os a todos.
+
+[[v42-17-28]]
+
+^<<v42-17-28,28>>^ Do mesmo modo, será como aconteceu nos dias de Ló: as pessoas comiam, bebiam, compravam, vendiam, plantavam, construíam.
+
+[[v42-17-29]]
+
+^<<v42-17-29,29>>^ Contudo, no dia em que Ló saiu de Sodoma, choveu do céu fogo e enxofre, e destruiu-os a todos.
+
+[[v42-17-30]]
+
+^<<v42-17-30,30>>^ Acontecerá o mesmo no dia em que o Filho do Homem for revelado.
+
+[[v42-17-31]]
+
+^<<v42-17-31,31>>^ “Nesse dia, quem estiver no terraço, mas cujas coisas estiverem em casa, não desça para as apanhar, e, da mesma maneira, quem estiver no campo não deve voltar para as coisas deixadas atrás.
+
+[[v42-17-32]]
+
+^<<v42-17-32,32>>^ Lembrem-se da mulher de Ló.
+
+[[v42-17-33]]
+
+^<<v42-17-33,33>>^ Quem procurar salvar a sua vida^&#42;1^ há de perdê-la, mas quem perder a sua vida há de preservá-la.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v42-17-34]]
+
+^<<v42-17-34,34>>^ Digo-vos: Nessa noite, duas pessoas estarão numa cama; uma será levada, mas a outra será abandonada.
+
+[[v42-17-35]]
+
+^<<v42-17-35,35>>^ Duas mulheres estarão a moer no mesmo moinho: uma será levada, mas a outra será abandonada.”
+
+[[v42-17-36]]
+
+^<<v42-17-36,36>>^ ^&#42;1^——
+
+[NOTE]
+====
+. Veja o Ap. A3.
+====
+
+[[v42-17-37]]
+
+^<<v42-17-37,37>>^ Em vista disso, disseram-lhe: “Onde, Senhor?” Ele disse-lhes: “Onde estiver o corpo, ali também se juntarão as águias.”
+
+'''
+
+xref:042-lucas/042-lucas-016.adoc#v42-16-0[&#60; Capítulo Anterior] | <<v42-17-0,Topo>> | xref:042-lucas/042-lucas-018.adoc#v42-18-0[Próximo Capítulo &#62;]

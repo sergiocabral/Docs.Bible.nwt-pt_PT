@@ -1,0 +1,190 @@
+include::./index.adoc[]
+
+[[v27-4-0]]
+=== Daniel, 4
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v27-4-1]]
+
+^<<v27-4-1,1>>^ “Do rei Nabucodonosor a todos os povos, nações e línguas, que moram em toda a terra: Que seja grande a vossa paz!
+
+[[v27-4-2]]
+
+^<<v27-4-2,2>>^ Tenho a satisfação de declarar os sinais e as maravilhas que o Deus Altíssimo realizou para comigo.
+
+[[v27-4-3]]
+
+^<<v27-4-3,3>>^ Quão grandes são os seus sinais e quão poderosas são as suas maravilhas! O seu reino é um reino eterno, e o seu domínio é de geração após geração.
+
+[[v27-4-4]]
+
+^<<v27-4-4,4>>^ “Eu, Nabucodonosor, estava tranquilo na minha casa, em prosperidade no meu palácio.
+
+[[v27-4-5]]
+
+^<<v27-4-5,5>>^ Tive um sonho que me deixou com medo. Enquanto estava deitado na minha cama, as imagens e visões que me passaram pela mente amedrontaram-me.
+
+[[v27-4-6]]
+
+^<<v27-4-6,6>>^ Por isso, dei a ordem de que trouxessem à minha presença todos os sábios de Babilónia, para que me revelassem a interpretação do sonho.
+
+[[v27-4-7]]
+
+^<<v27-4-7,7>>^ “Então, vieram os sacerdotes-magos, os adivinhos,^&#42;1^ os caldeus^&#42;2^ e os astrólogos. Quando lhes contei o sonho, não foram capazes de me revelar a sua interpretação.
+
+[NOTE]
+====
+. Ou: “encantadores”.
+. Isto é, uma seita de pessoas que se consideravam peritas em adivinhação e astrologia.
+====
+
+[[v27-4-8]]
+
+^<<v27-4-8,8>>^ Por fim, veio à minha presença Daniel, que recebeu o nome de Beltessazar (conforme o nome do meu deus) e em quem está o espírito dos deuses santos, e eu contei-lhe o sonho:
+
+[[v27-4-9]]
+
+^<<v27-4-9,9>>^ “‘Ó Beltessazar, chefe dos sacerdotes-magos, sei muito bem que o espírito dos deuses santos está em ti e que nenhum segredo é demasiado difícil para ti; por isso, explica-me as visões que vi no meu sonho e a sua interpretação.
+
+[[v27-4-10]]
+
+^<<v27-4-10,10>>^ “‘Nas visões que me passaram pela mente enquanto eu estava deitado na minha cama, vi uma árvore no meio da terra, e ela era extremamente alta.
+
+[[v27-4-11]]
+
+^<<v27-4-11,11>>^ A árvore cresceu e ficou forte, e o seu topo atingiu os céus; era visível até aos confins da terra.
+
+[[v27-4-12]]
+
+^<<v27-4-12,12>>^ A sua folhagem era bela, tinha frutos em abundância e havia nela alimento para todos. Debaixo dela, os animais selvagens procuravam sombra; nos seus ramos, moravam as aves dos céus; e todas as criaturas se alimentavam^&#42;1^ dela.
+
+[NOTE]
+====
+. Lit.: “toda a carne se alimentava”.
+====
+
+[[v27-4-13]]
+
+^<<v27-4-13,13>>^ “‘Na minha cama, enquanto eu observava as visões que me passavam pela mente, vi um vigilante, um santo, que descia dos céus.
+
+[[v27-4-14]]
+
+^<<v27-4-14,14>>^ Ele gritou com voz forte: “Derrubem a árvore, cortem-lhe os ramos, façam-lhe cair as folhas e espalhem os seus frutos! Que os animais fujam de debaixo dela; e as aves, dos seus ramos.
+
+[[v27-4-15]]
+
+^<<v27-4-15,15>>^ Mas deixem o toco com as raízes^&#42;1^ na terra, com faixas de ferro e de cobre, no meio da relva do campo. Que seja molhado pelo orvalho dos céus, e que a sua porção seja partilhada com os animais, no meio da vegetação da terra.
+
+[NOTE]
+====
+. Ou: “deixem o porta-enxerto”.
+====
+
+[[v27-4-16]]
+
+^<<v27-4-16,16>>^ Que o seu coração seja mudado para que deixe de ser um coração humano, e que lhe seja dado um coração de animal, e passem sobre ele sete tempos.
+
+[[v27-4-17]]
+
+^<<v27-4-17,17>>^ Isto é por decreto dos vigilantes e o pedido é declarado pelos santos, para que todos os que vivem saibam que o Altíssimo é Governante no reino da humanidade e que ele o dá a quem quiser, e que, sobre ele, estabelece até mesmo o mais humilde dos homens.”
+
+[[v27-4-18]]
+
+^<<v27-4-18,18>>^ “‘Este foi o sonho que eu, o rei Nabucodonosor, tive. Agora, tu, ó Beltessazar, diz qual é a sua interpretação, visto que todos os outros sábios do meu reino são incapazes de me revelar a interpretação. Porém, tu podes fazê-lo, porque o espírito de deuses santos está em ti.’
+
+[[v27-4-19]]
+
+^<<v27-4-19,19>>^ “Nesse momento, Daniel, que recebeu o nome de Beltessazar, ficou pasmado por um instante, e os seus pensamentos começaram a amedrontá-lo.
+“O rei disse: ‘Ó Beltessazar, não permitas que o sonho e a interpretação te amedrontem.’
+“Beltessazar respondeu: ‘Ó meu senhor, que o sonho se aplique aos que o odeiam, e a sua interpretação aos seus inimigos.
+
+[[v27-4-20]]
+
+^<<v27-4-20,20>>^ “‘A árvore que viu, que cresceu e ficou forte, cujo topo atingiu os céus e era visível em toda a terra,
+
+[[v27-4-21]]
+
+^<<v27-4-21,21>>^ que tinha uma bela folhagem, frutos em abundância e alimento para todos, debaixo da qual moravam os animais selvagens e em cujos ramos residiam as aves dos céus,
+
+[[v27-4-22]]
+
+^<<v27-4-22,22>>^ é o senhor, ó rei, porque o senhor se tornou grande e ficou forte; a sua grandeza cresceu e atingiu os céus, e o seu domínio os confins da terra.
+
+[[v27-4-23]]
+
+^<<v27-4-23,23>>^ “‘E o rei viu um vigilante, um santo, que descia dos céus e dizia: “Derrubem a árvore e destruam-na, mas deixem o toco com as raízes^&#42;1^ na terra, com faixas de ferro e de cobre, no meio da relva do campo. Que ele seja molhado pelo orvalho dos céus, e que permaneça entre os animais selvagens, até terem passado sobre ele sete tempos.”
+
+[NOTE]
+====
+. Ou: “deixem o porta-enxerto”.
+====
+
+[[v27-4-24]]
+
+^<<v27-4-24,24>>^ Esta é a interpretação, ó rei; é o decreto do Altíssimo que atingirá o meu senhor, o rei.
+
+[[v27-4-25]]
+
+^<<v27-4-25,25>>^ O senhor será expulso do meio dos homens e a sua morada será com os animais selvagens; receberá vegetação para comer, como os touros, e será molhado pelo orvalho dos céus; e passarão sobre si sete tempos, até que reconheça que o Altíssimo é Governante no reino da humanidade e que ele o dá a quem quiser.
+
+[[v27-4-26]]
+
+^<<v27-4-26,26>>^ “‘No entanto, visto que mandaram deixar o toco da árvore com as raízes,^&#42;1^ o seu reino ser-lhe-á restituído depois de o senhor reconhecer que são os céus que governam.
+
+[NOTE]
+====
+. Ou: “o porta-enxerto da árvore”.
+====
+
+[[v27-4-27]]
+
+^<<v27-4-27,27>>^ Portanto, ó rei, queira aceitar o meu conselho. Afaste-se dos seus pecados por fazer o que é correto, e da sua maldade por mostrar misericórdia aos pobres. Talvez, assim, a sua prosperidade se prolongue.’”
+
+[[v27-4-28]]
+
+^<<v27-4-28,28>>^ Tudo isto aconteceu com o rei Nabucodonosor.
+
+[[v27-4-29]]
+
+^<<v27-4-29,29>>^ Doze meses mais tarde, o rei estava a caminhar no terraço do palácio real de Babilónia.
+
+[[v27-4-30]]
+
+^<<v27-4-30,30>>^ Ele dizia: “Não é esta Babilónia, a grande, que eu próprio construí para a casa real, com a minha própria força e poder, e para a glória da minha majestade?”
+
+[[v27-4-31]]
+
+^<<v27-4-31,31>>^ Enquanto a palavra ainda estava na boca do rei, uma voz veio dos céus: “Esta mensagem é para ti, ó rei Nabucodonosor: ‘O reino afastou-se de ti,
+
+[[v27-4-32]]
+
+^<<v27-4-32,32>>^ e serás expulso do meio da humanidade. A tua morada será com os animais selvagens; receberás vegetação para comer, como os touros; e passarão sobre ti sete tempos, até que reconheças que o Altíssimo é Governante no reino da humanidade e que ele o dá a quem quiser.’”
+
+[[v27-4-33]]
+
+^<<v27-4-33,33>>^ Naquele instante, cumpriu-se a palavra em Nabucodonosor. Ele foi expulso do meio da humanidade e começou a comer vegetação como os touros. O seu corpo foi molhado pelo orvalho dos céus, até que o seu cabelo ficou comprido como penas de águia, e as suas unhas eram como garras de aves.
+
+[[v27-4-34]]
+
+^<<v27-4-34,34>>^ “No fim daquele período, eu, Nabucodonosor, olhei para o céu, e o meu entendimento retornou a mim. E eu louvei o Altíssimo; dei louvor e glória Àquele que vive para sempre, porque o seu domínio é um domínio eterno, e o seu reino é de geração após geração.
+
+[[v27-4-35]]
+
+^<<v27-4-35,35>>^ Todos os habitantes da terra são como nada diante dele, e ele age segundo a sua própria vontade em relação ao exército dos céus e aos habitantes da terra. Não há ninguém que o possa deter^&#42;1^ ou dizer-lhe: ‘O que é que fizeste?’
+
+[NOTE]
+====
+. Ou: “lhe possa deter a mão”.
+====
+
+[[v27-4-36]]
+
+^<<v27-4-36,36>>^ “Naquela ocasião, voltou-me o entendimento, e recuperei a glória do meu reino, a minha majestade e o meu esplendor. Os meus altos funcionários e os meus nobres procuravam-me ansiosamente; fui restabelecido no meu reino, e foi-me dada uma grandeza ainda maior.
+
+[[v27-4-37]]
+
+^<<v27-4-37,37>>^ “Agora, eu, Nabucodonosor, louvo, enalteço e glorifico o Rei dos céus, porque todas as suas obras são verdade e os seus caminhos são justiça, e porque ele é capaz de humilhar os que andam com orgulho.”
+
+'''
+
+xref:027-daniel/027-daniel-003.adoc#v27-3-0[&#60; Capítulo Anterior] | <<v27-4-0,Topo>> | xref:027-daniel/027-daniel-005.adoc#v27-5-0[Próximo Capítulo &#62;]

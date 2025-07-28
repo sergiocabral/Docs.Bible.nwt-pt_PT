@@ -1,0 +1,162 @@
+include::./index.adoc[]
+
+[[v20-2-0]]
+=== Provérbios, 2
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-2-1]]
+
+^<<v20-2-1,1>>^ Meu filho, se aceitares as minhas declarações
+E guardares no coração^&#42;1^ os meus mandamentos,
+
+[NOTE]
+====
+. Ou: “entesourares”.
+====
+
+[[v20-2-2]]
+
+^<<v20-2-2,2>>^ Por ouvires atentamente a sabedoria
+E inclinares o teu coração ao discernimento;
+
+[[v20-2-3]]
+
+^<<v20-2-3,3>>^ Além disso, se clamares pelo entendimento
+E ergueres a voz a pedir discernimento;
+
+[[v20-2-4]]
+
+^<<v20-2-4,4>>^ Se persistires em procurar estas coisas como a prata
+E continuares a buscá-las como a tesouros escondidos;
+
+[[v20-2-5]]
+
+^<<v20-2-5,5>>^ Então, entenderás o que significa temer a Jeová
+E encontrarás o conhecimento de Deus.
+
+[[v20-2-6]]
+
+^<<v20-2-6,6>>^ Pois é Jeová quem dá sabedoria;
+Da sua boca procedem conhecimento e discernimento.
+
+[[v20-2-7]]
+
+^<<v20-2-7,7>>^ Ele reserva^&#42;1^ a sabedoria prática para os justos;
+É um escudo para os que andam em integridade.
+
+[NOTE]
+====
+. Ou: “entesoura”.
+====
+
+[[v20-2-8]]
+
+^<<v20-2-8,8>>^ Ele protege as veredas da justiça
+E guarda o caminho dos que lhe são leais.
+
+[[v20-2-9]]
+
+^<<v20-2-9,9>>^ Assim, entenderás o que é certo, justo e direito,
+Todos os caminhos do bem.
+
+[[v20-2-10]]
+
+^<<v20-2-10,10>>^ Quando a sabedoria entrar no teu coração
+E o conhecimento se tornar agradável para a tua alma,^&#42;1^
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v20-2-11]]
+
+^<<v20-2-11,11>>^ O raciocínio irá guardar-te
+E o discernimento irá proteger-te,
+
+[[v20-2-12]]
+
+^<<v20-2-12,12>>^ Para te salvar do mau caminho,
+Dos homens que dizem perversidades,
+
+[[v20-2-13]]
+
+^<<v20-2-13,13>>^ Dos que abandonam as veredas retas
+Para andarem nos caminhos da escuridão,
+
+[[v20-2-14]]
+
+^<<v20-2-14,14>>^ Dos que se alegram em fazer o que é mau
+E se agradam com coisas más e perversas,
+
+[[v20-2-15]]
+
+^<<v20-2-15,15>>^ Aqueles cujos caminhos são tortuosos,
+E cujas veredas são sempre sinuosas.
+
+[[v20-2-16]]
+
+^<<v20-2-16,16>>^ A sabedoria irá salvar-te da mulher devassa,^&#42;1^
+Das palavras macias^&#42;2^ da mulher imoral,^&#42;3^
+
+[NOTE]
+====
+. Lit.: “estranha”. Pelos vistos, moralmente apartada de Deus.
+. Ou: “sedutoras”.
+. Lit.: “estrangeira”. Pelos vistos, moralmente distante de Deus.
+====
+
+[[v20-2-17]]
+
+^<<v20-2-17,17>>^ Que abandona o companheiro^&#42;1^ da sua juventude
+E que se esquece do pacto com o seu Deus;
+
+[NOTE]
+====
+. Ou: “marido”.
+====
+
+[[v20-2-18]]
+
+^<<v20-2-18,18>>^ Pois a casa da mulher imoral conduz à morte;
+E os seus caminhos,^&#42;1^ aos impotentes na morte.
+
+[NOTE]
+====
+. Lit.: “os seus trilhos”.
+====
+
+[[v20-2-19]]
+
+^<<v20-2-19,19>>^ Ninguém que se envolve com^&#42;1^ ela voltará,
+Nem retornará às veredas da vida.
+
+[NOTE]
+====
+. Ou: “que entra até”.
+====
+
+[[v20-2-20]]
+
+^<<v20-2-20,20>>^ Por isso, segue o caminho das pessoas boas
+E mantém-te nas veredas dos justos,
+
+[[v20-2-21]]
+
+^<<v20-2-21,21>>^ Pois apenas os justos^&#42;1^ residirão na terra,
+E os irrepreensíveis^&#42;2^ permanecerão nela.
+
+[NOTE]
+====
+. Ou: “retos”.
+. Ou: “íntegros”.
+====
+
+[[v20-2-22]]
+
+^<<v20-2-22,22>>^ Quanto aos maus, serão eliminados da terra;
+E os traiçoeiros serão arrancados dela.
+
+'''
+
+xref:020-proverbios/020-proverbios-001.adoc#v20-1-0[&#60; Capítulo Anterior] | <<v20-2-0,Topo>> | xref:020-proverbios/020-proverbios-003.adoc#v20-3-0[Próximo Capítulo &#62;]

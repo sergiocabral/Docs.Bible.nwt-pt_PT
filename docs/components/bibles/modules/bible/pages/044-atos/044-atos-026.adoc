@@ -1,0 +1,152 @@
+include::./index.adoc[]
+
+[[v44-26-0]]
+=== Atos, 26
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v44-26-1]]
+
+^<<v44-26-1,1>>^ Agripa disse a Paulo: “Tens permissão para falar em tua defesa.” Então, Paulo estendeu a mão e começou a sua defesa:
+
+[[v44-26-2]]
+
+^<<v44-26-2,2>>^ “No que se refere a todas as coisas de que sou acusado pelos judeus, rei Agripa, considero-me feliz por ser na presença de Vossa Majestade que hoje devo fazer a minha defesa,
+
+[[v44-26-3]]
+
+^<<v44-26-3,3>>^ especialmente porque é conhecedor de todos os costumes e das controvérsias que há entre os judeus. Portanto, peço-lhe que me ouça com paciência.
+
+[[v44-26-4]]
+
+^<<v44-26-4,4>>^ “Realmente, quanto à vida que levei desde a juventude, entre o meu povo^&#42;1^ e em Jerusalém, todos os judeus
+
+[NOTE]
+====
+. Ou: “a minha nação”.
+====
+
+[[v44-26-5]]
+
+^<<v44-26-5,5>>^ que me conhecem há muito tempo bem sabem que vivi como fariseu, segundo a seita mais rigorosa da nossa religião; se eles quiserem, podem dar testemunho disso.
+
+[[v44-26-6]]
+
+^<<v44-26-6,6>>^ Mas, por causa da minha esperança na promessa que Deus fez aos nossos antepassados, estou, neste momento, a ser julgado.
+
+[[v44-26-7]]
+
+^<<v44-26-7,7>>^ É o cumprimento dessa mesma promessa que as nossas 12 tribos esperam ver, prestando-lhe serviço sagrado, dia e noite, de forma intensa. É por causa dessa esperança que estou a ser acusado pelos judeus, ó rei.
+
+[[v44-26-8]]
+
+^<<v44-26-8,8>>^ “Porque é que acham^&#42;1^ impossível crer que Deus levante os mortos?
+
+[NOTE]
+====
+. Ou: “julgam”.
+====
+
+[[v44-26-9]]
+
+^<<v44-26-9,9>>^ Eu próprio estava convencido de que devia combater o nome de Jesus, o Nazareno, de todas as formas.
+
+[[v44-26-10]]
+
+^<<v44-26-10,10>>^ Foi exatamente isso que fiz em Jerusalém. Meti muitos santos na prisão, pois tinha recebido autoridade para isso da parte dos principais sacerdotes; e, quando eles deviam ser executados, eu votava contra eles.
+
+[[v44-26-11]]
+
+^<<v44-26-11,11>>^ Em todas as sinagogas, puni-os muitas vezes para tentar obrigá-los a renunciar à sua fé. Como estava extremamente furioso com eles, cheguei inclusivamente a persegui-los em cidades afastadas.
+
+[[v44-26-12]]
+
+^<<v44-26-12,12>>^ “Era com esse objetivo que eu estava a viajar para Damasco, com plenos poderes e autoridade concedidos pelos principais sacerdotes.
+
+[[v44-26-13]]
+
+^<<v44-26-13,13>>^ E na estrada, ó rei, ao meio-dia, vi uma luz do céu, mais resplandecente do que o sol, brilhar à minha volta e à volta dos que viajavam comigo.
+
+[[v44-26-14]]
+
+^<<v44-26-14,14>>^ Todos nós caímos ao chão e, então, ouvi uma voz dizer-me em hebraico: ‘Saulo, Saulo, porque é que me persegues? Ao resistir às aguilhadas,^&#42;1^ só fazes mal a ti mesmo.’
+
+[NOTE]
+====
+. Aguilhada é uma vara pontiaguda usada para estimular um animal.
+====
+
+[[v44-26-15]]
+
+^<<v44-26-15,15>>^ E eu perguntei: ‘Quem é o senhor?’ E o Senhor respondeu: ‘Eu sou Jesus, a quem persegues.
+
+[[v44-26-16]]
+
+^<<v44-26-16,16>>^ Mas levanta-te e fica de pé. Apareci-te para te escolher como servo e testemunha tanto das coisas que viste como das coisas que te farei ver a meu respeito.
+
+[[v44-26-17]]
+
+^<<v44-26-17,17>>^ E vou livrar-te deste povo e das nações, às quais te envio
+
+[[v44-26-18]]
+
+^<<v44-26-18,18>>^ para lhes abrir os olhos, para convertê-los da escuridão para a luz e da autoridade de Satanás para Deus, de modo que recebam o perdão de pecados e uma herança entre os santificados pela fé em mim.’
+
+[[v44-26-19]]
+
+^<<v44-26-19,19>>^ “Portanto, rei Agripa, não desobedeci à visão celestial,
+
+[[v44-26-20]]
+
+^<<v44-26-20,20>>^ mas, primeiro aos de Damasco, depois aos de Jerusalém e de toda a região da Judeia, e também às nações, levei a mensagem de que deviam arrepender-se e converter-se a Deus, praticando obras próprias do arrependimento.
+
+[[v44-26-21]]
+
+^<<v44-26-21,21>>^ Foi por isso que os judeus me agarraram no templo e tentaram matar-me.
+
+[[v44-26-22]]
+
+^<<v44-26-22,22>>^ No entanto, visto que Deus me tem ajudado, continuo até hoje a dar testemunho tanto a pequenos como a grandes, e não digo nada além do que os Profetas e Moisés declararam que ia acontecer:
+
+[[v44-26-23]]
+
+^<<v44-26-23,23>>^ que o Cristo haveria de sofrer e que, como primeiro a ser ressuscitado dentre os mortos, proclamaria a luz tanto a este povo como às nações.”
+
+[[v44-26-24]]
+
+^<<v44-26-24,24>>^ Enquanto Paulo falava em sua defesa, Festo disse em voz alta: “Estás a ficar louco, Paulo! O teu grande saber está a levar-te à loucura!”
+
+[[v44-26-25]]
+
+^<<v44-26-25,25>>^ No entanto, Paulo respondeu: “Não estou a ficar louco, Excelentíssimo Festo, mas estou a dizer palavras de verdade e de bom senso.
+
+[[v44-26-26]]
+
+^<<v44-26-26,26>>^ Na realidade, o rei a quem me dirijo com franqueza conhece muito bem tudo isto. Estou convencido de que nem sequer uma destas coisas lhe passou despercebida, porque nada disto foi feito em segredo.
+
+[[v44-26-27]]
+
+^<<v44-26-27,27>>^ Crê nos Profetas, rei Agripa? Sei que crê.”
+
+[[v44-26-28]]
+
+^<<v44-26-28,28>>^ Contudo, Agripa disse a Paulo: “Em pouco tempo me persuadirias a tornar-me cristão.”
+
+[[v44-26-29]]
+
+^<<v44-26-29,29>>^ Então, Paulo respondeu: “Peço a Deus que, em pouco ou muito tempo, não apenas Vossa Majestade, mas também todos os que hoje me ouvem, se tornem como eu, mas sem estas correntes que me prendem.”
+
+[[v44-26-30]]
+
+^<<v44-26-30,30>>^ Assim, o rei levantou-se, bem como o governador, Berenice e os homens sentados com eles.
+
+[[v44-26-31]]
+
+^<<v44-26-31,31>>^ E, ao saírem, comentavam entre si: “Este homem não está a fazer nada que mereça a morte ou a prisão.”
+
+[[v44-26-32]]
+
+^<<v44-26-32,32>>^ Então, Agripa disse a Festo: “Este homem podia ter sido solto se não tivesse apelado para César.”
+
+'''
+
+xref:044-atos/044-atos-025.adoc#v44-25-0[&#60; Capítulo Anterior] | <<v44-26-0,Topo>> | xref:044-atos/044-atos-027.adoc#v44-27-0[Próximo Capítulo &#62;]

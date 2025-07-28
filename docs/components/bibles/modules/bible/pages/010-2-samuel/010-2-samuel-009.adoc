@@ -1,0 +1,82 @@
+include::./index.adoc[]
+
+[[v10-9-0]]
+=== 2 Samuel, 9
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v10-9-1]]
+
+^<<v10-9-1,1>>^ Então, David disse: “Ainda resta alguém da casa de Saul, a quem eu possa demonstrar amor leal por causa de Jonatã?”
+
+[[v10-9-2]]
+
+^<<v10-9-2,2>>^ Havia um servo da casa de Saul chamado Ziba. Chamaram-no à presença de David, e o rei perguntou-lhe: “Tu é que és o Ziba?” Ele respondeu: “Sim, sou eu, o seu servo.”
+
+[[v10-9-3]]
+
+^<<v10-9-3,3>>^ O rei perguntou-lhe: “Sobrou alguém da casa de Saul, a quem eu possa demonstrar o amor leal de Deus?” Ziba respondeu ao rei: “Resta ainda um filho de Jonatã; ele é aleijado^&#42;1^ dos dois pés.”
+
+[NOTE]
+====
+. Ou: “coxo”.
+====
+
+[[v10-9-4]]
+
+^<<v10-9-4,4>>^ O rei perguntou-lhe: “Onde é que ele está?” Ziba respondeu ao rei: “Está na casa de Maquir, filho de Amiel, em Lo-Debar.”
+
+[[v10-9-5]]
+
+^<<v10-9-5,5>>^ Imediatamente, o rei David mandou que o trouxessem da casa de Maquir, filho de Amiel, em Lo-Debar.
+
+[[v10-9-6]]
+
+^<<v10-9-6,6>>^ Quando se apresentou a David, Mefibosete, filho de Jonatã, filho de Saul, prostrou-se, lançando-se com o rosto por terra. David disse então: “Mefibosete!” Ele respondeu: “Aqui está o seu servo.”
+
+[[v10-9-7]]
+
+^<<v10-9-7,7>>^ David disse-lhe: “Não tenhas medo, pois, certamente, vou demonstrar-te amor leal por causa de Jonatã, teu pai. Eu vou devolver-te todas as terras de Saul, teu avô, e comerás^&#42;1^ sempre à minha mesa.”
+
+[NOTE]
+====
+. Lit.: “comerás pão”.
+====
+
+[[v10-9-8]]
+
+^<<v10-9-8,8>>^ Nisto, ele prostrou-se e disse: “Quem é o seu servo para que o senhor mostre consideração por^&#42;1^ um cão morto como eu?”
+
+[NOTE]
+====
+. Lit.: “tenha voltado a face para”.
+====
+
+[[v10-9-9]]
+
+^<<v10-9-9,9>>^ Então, o rei mandou chamar Ziba, ajudante de Saul, e disse-lhe: “Dou ao neto do teu senhor tudo o que pertencia a Saul e à sua casa.
+
+[[v10-9-10]]
+
+^<<v10-9-10,10>>^ Tu, os teus filhos e os teus servos vão cultivar-lhe a terra e, também, colher o que ela produzir, para fornecer alimento à sua família. Porém, Mefibosete, neto do teu senhor, comerá sempre à minha mesa.”
+Ziba tinha 15 filhos e 20 servos.
+
+[[v10-9-11]]
+
+^<<v10-9-11,11>>^ Então, Ziba disse ao rei: “O seu servo fará tudo o que meu senhor, o rei, ordena.” Assim, Mefibosete comia à mesa de David,^&#42;1^ como um dos filhos do rei.
+
+[NOTE]
+====
+. Ou, possivelmente: “à minha mesa”.
+====
+
+[[v10-9-12]]
+
+^<<v10-9-12,12>>^ Mefibosete também tinha um filho pequeno chamado Mica. Todos os que moravam na casa de Ziba tornaram-se servos de Mefibosete.
+
+[[v10-9-13]]
+
+^<<v10-9-13,13>>^ E Mefibosete morava em Jerusalém, pois comia sempre à mesa do rei. Ele era aleijado dos dois pés.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-008.adoc#v10-8-0[&#60; Capítulo Anterior] | <<v10-9-0,Topo>> | xref:010-2-samuel/010-2-samuel-010.adoc#v10-10-0[Próximo Capítulo &#62;]

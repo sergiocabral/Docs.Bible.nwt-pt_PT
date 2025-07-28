@@ -1,0 +1,196 @@
+include::./index.adoc[]
+
+[[v20-7-0]]
+=== Provérbios, 7
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-7-1]]
+
+^<<v20-7-1,1>>^ Meu filho, obedece às minhas declarações
+E guarda no coração^&#42;1^ os meus mandamentos.
+
+[NOTE]
+====
+. Ou: “E entesoura”.
+====
+
+[[v20-7-2]]
+
+^<<v20-7-2,2>>^ Obedece aos meus mandamentos e viverás;
+Guarda a minha instrução^&#42;1^ como a menina dos teus olhos.
+
+[NOTE]
+====
+. Ou: “lei”.
+====
+
+[[v20-7-3]]
+
+^<<v20-7-3,3>>^ Ata-os aos teus dedos;
+Escreve-os na tábua do teu coração.
+
+[[v20-7-4]]
+
+^<<v20-7-4,4>>^ Diz à sabedoria: “Tu és minha irmã”,
+E chama ao entendimento “meu parente”,
+
+[[v20-7-5]]
+
+^<<v20-7-5,5>>^ Para que te protejam da mulher devassa,^&#42;1^
+Da mulher imoral^&#42;2^ e das suas palavras macias.^&#42;3^
+
+[NOTE]
+====
+. Lit.: “estranha”. Veja Provérbios 2:16.
+. Lit.: “estrangeira”. Veja Provérbios 2:16.
+. Ou: “sedutoras”.
+====
+
+[[v20-7-6]]
+
+^<<v20-7-6,6>>^ Da janela da minha casa,
+Olhei para baixo através da gelosia^&#42;1^
+
+[NOTE]
+====
+. Isto é, uma grade de ripas de madeira colocada na janela.
+====
+
+[[v20-7-7]]
+
+^<<v20-7-7,7>>^ E, ao observar os ingénuos,^&#42;1^
+Vi entre os jovens um rapaz que não tinha bom senso.^&#42;2^
+
+[NOTE]
+====
+. Ou: “inexperientes”.
+. Lit.: “não tinha coração”.
+====
+
+[[v20-7-8]]
+
+^<<v20-7-8,8>>^ Ele passou pela rua perto da esquina dela
+E foi em direção à casa dela
+
+[[v20-7-9]]
+
+^<<v20-7-9,9>>^ Ao cair da tarde, quando estava a anoitecer,
+Ao aproximar-se a noite e a escuridão.
+
+[[v20-7-10]]
+
+^<<v20-7-10,10>>^ Vi uma mulher encontrar-se com ele,
+Vestida como^&#42;1^ prostituta, com astúcia no coração.
+
+[NOTE]
+====
+. Ou: “com roupa de”.
+====
+
+[[v20-7-11]]
+
+^<<v20-7-11,11>>^ Ela é escandalosa e insolente.
+Ela nunca fica^&#42;1^ em casa.
+
+[NOTE]
+====
+. Lit.: “Os seus pés nunca ficam”.
+====
+
+[[v20-7-12]]
+
+^<<v20-7-12,12>>^ Ora está na rua, ora está nas praças;
+Fica de emboscada perto de cada esquina.
+
+[[v20-7-13]]
+
+^<<v20-7-13,13>>^ Ela agarra-o e dá-lhe um beijo;
+Com um olhar atrevido, diz-lhe:
+
+[[v20-7-14]]
+
+^<<v20-7-14,14>>^ “Eu tinha de oferecer sacrifícios de participação em comum;
+Hoje cumpri os meus votos.
+
+[[v20-7-15]]
+
+^<<v20-7-15,15>>^ Por isso saí ao teu encontro,
+Para te procurar, e encontrei-te!
+
+[[v20-7-16]]
+
+^<<v20-7-16,16>>^ Pus colchas finas na minha cama,
+De linho colorido do Egito.
+
+[[v20-7-17]]
+
+^<<v20-7-17,17>>^ Borrifei a minha cama com mirra, aloés e canela.
+
+[[v20-7-18]]
+
+^<<v20-7-18,18>>^ Vem, embriaguemo-nos de amor até ao amanhecer;
+Vamos desfrutar juntos das delícias do amor,
+
+[[v20-7-19]]
+
+^<<v20-7-19,19>>^ Pois o meu marido não está em casa;
+Viajou para um lugar distante.
+
+[[v20-7-20]]
+
+^<<v20-7-20,20>>^ Levou uma bolsa de dinheiro
+E não voltará antes do dia da lua cheia.”
+
+[[v20-7-21]]
+
+^<<v20-7-21,21>>^ Ela engana-o com grande persuasão.
+Seduziu-o com a sua conversa suave.
+
+[[v20-7-22]]
+
+^<<v20-7-22,22>>^ Num instante ele vai atrás dela, como um touro levado ao abate,
+Como um tolo que vai ser punido no tronco,^&#42;1^
+
+[NOTE]
+====
+. Ou: “em correntes”.
+====
+
+[[v20-7-23]]
+
+^<<v20-7-23,23>>^ Até que uma flecha lhe atravessa o fígado.
+Assim como um pássaro que voa para a armadilha, ele não sabe que isso lhe custará a vida.^&#42;1^
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+[[v20-7-24]]
+
+^<<v20-7-24,24>>^ Agora, meus filhos, escutem-me;
+Prestem atenção ao que eu digo.
+
+[[v20-7-25]]
+
+^<<v20-7-25,25>>^ Não deixes o teu coração desviar-se para os caminhos dela.
+Não te afastes para as suas veredas,
+
+[[v20-7-26]]
+
+^<<v20-7-26,26>>^ Pois ela já tirou a vida a muitos,
+E os que ela matou são numerosos.
+
+[[v20-7-27]]
+
+^<<v20-7-27,27>>^ A sua casa leva à Sepultura,^&#42;1^
+Desce aos aposentos da morte.
+
+[NOTE]
+====
+. Ou: “ao Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+'''
+
+xref:020-proverbios/020-proverbios-006.adoc#v20-6-0[&#60; Capítulo Anterior] | <<v20-7-0,Topo>> | xref:020-proverbios/020-proverbios-008.adoc#v20-8-0[Próximo Capítulo &#62;]

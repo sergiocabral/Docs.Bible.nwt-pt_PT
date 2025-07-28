@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v38-3-0]]
+=== Zacarias, 3
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v38-3-1]]
+
+^<<v38-3-1,1>>^ E ele mostrou-me o sumo sacerdote Josué de pé diante do anjo de Jeová, e Satanás estava de pé à sua direita para se opor a ele.
+
+[[v38-3-2]]
+
+^<<v38-3-2,2>>^ O anjo de Jeová disse então a Satanás: “Que Jeová te censure, ó Satanás, sim, que Jeová, que escolheu Jerusalém, te censure! Não é este homem um pedaço de madeira^&#42;1^ tirado do fogo?”
+
+[NOTE]
+====
+. Ou: “um tição”.
+====
+
+[[v38-3-3]]
+
+^<<v38-3-3,3>>^ Josué, vestido com vestes imundas, estava de pé diante do anjo.
+
+[[v38-3-4]]
+
+^<<v38-3-4,4>>^ O anjo disse aos que estavam de pé diante dele: “Tirem-lhe as vestes imundas.” Depois, disse-lhe: “Vê, removi de ti o teu erro,^&#42;1^ e serás vestido com vestes finas.”^&#42;2^
+
+[NOTE]
+====
+. Ou: “a tua culpa”.
+. Ou: “nobres”.
+====
+
+[[v38-3-5]]
+
+^<<v38-3-5,5>>^ Então, eu disse: “Ponham-lhe um turbante limpo na cabeça.” E eles puseram-lhe o turbante limpo na cabeça e vestiram-no com as vestes; e o anjo de Jeová estava por perto.
+
+[[v38-3-6]]
+
+^<<v38-3-6,6>>^ O anjo de Jeová declarou então a Josué:
+
+[[v38-3-7]]
+
+^<<v38-3-7,7>>^ “Assim diz Jeová dos exércitos: ‘Se andares nos meus caminhos e cumprires as tuas responsabilidades para comigo, servirás como juiz na minha casa e cuidarás dos^&#42;1^ meus pátios; e eu vou dar-te pleno acesso entre estes que estão aqui diante de mim.’
+
+[NOTE]
+====
+. Ou: “serás encarregado dos; guardarás os”.
+====
+
+[[v38-3-8]]
+
+^<<v38-3-8,8>>^ “‘Ouve, por favor, ó sumo sacerdote Josué, tu e os teus companheiros, que se sentam diante de ti, pois estes homens servem como um sinal: Vou trazer o meu servo chamado Renovo.
+
+[[v38-3-9]]
+
+^<<v38-3-9,9>>^ Vejam a pedra que coloquei diante de Josué! Nessa única pedra, há sete olhos; e eu vou gravar nela uma inscrição’, diz Jeová dos exércitos, ‘e, num só dia, vou tirar a culpa desta terra’.
+
+[[v38-3-10]]
+
+^<<v38-3-10,10>>^ “‘Nesse dia’, diz Jeová dos exércitos, ‘cada um de vocês convidará o seu próximo a vir para debaixo da sua videira e para debaixo da sua figueira’.”
+
+'''
+
+xref:038-zacarias/038-zacarias-002.adoc#v38-2-0[&#60; Capítulo Anterior] | <<v38-3-0,Topo>> | xref:038-zacarias/038-zacarias-004.adoc#v38-4-0[Próximo Capítulo &#62;]

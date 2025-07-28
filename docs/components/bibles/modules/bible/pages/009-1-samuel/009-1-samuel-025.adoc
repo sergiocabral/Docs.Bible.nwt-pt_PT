@@ -1,0 +1,261 @@
+include::./index.adoc[]
+
+[[v9-25-0]]
+=== 1 Samuel, 25
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-25-1]]
+
+^<<v9-25-1,1>>^ Depois de algum tempo, Samuel morreu, e todo o Israel se reuniu para lamentá-lo e enterrá-lo perto da sua casa, em Ramá. Então, David foi para o deserto de Parã.
+
+[[v9-25-2]]
+
+^<<v9-25-2,2>>^ Em Maom, havia um homem que trabalhava em Carmelo.^&#42;1^ Ele era muito rico; tinha 3000 ovelhas e 1000 cabras, e estava a tosquiar as suas ovelhas em Carmelo.
+
+[NOTE]
+====
+. Uma cidade em Judá, sem nenhuma relação com o monte Carmelo.
+====
+
+[[v9-25-3]]
+
+^<<v9-25-3,3>>^ O homem chamava-se Nabal, e a sua esposa, Abigail. A esposa era sensata e bonita, mas o marido, descendente de Caleb, era rude e mau.
+
+[[v9-25-4]]
+
+^<<v9-25-4,4>>^ No deserto, David ouviu dizer que Nabal estava a tosquiar as suas ovelhas.
+
+[[v9-25-5]]
+
+^<<v9-25-5,5>>^ Portanto, David enviou dez homens a Nabal e disse-lhes: “Subam até Carmelo e, quando encontrarem Nabal, perguntem-lhe como é que ele está, em meu nome.
+
+[[v9-25-6]]
+
+^<<v9-25-6,6>>^ Depois, digam-lhe: ‘Que tenha uma vida longa e que tudo vá bem^&#42;1^ consigo, com os da sua casa e com tudo o que tem.
+
+[NOTE]
+====
+. Ou: “que haja paz”.
+====
+
+[[v9-25-7]]
+
+^<<v9-25-7,7>>^ Ouvi dizer que o senhor está a tosquiar as ovelhas. Quando os seus pastores estiveram connosco, não lhes fizemos nenhum mal, e eles não deram pela falta de nada durante todo o tempo que passaram em Carmelo.
+
+[[v9-25-8]]
+
+^<<v9-25-8,8>>^ Pergunte aos seus homens e eles confirmarão isso mesmo. Que os meus homens achem favor aos seus olhos, pois viemos numa ocasião alegre.^&#42;1^ Por favor, dê qualquer coisa aos seus servos e ao seu filho David. Dê aquilo que puder dar.’”
+
+[NOTE]
+====
+. Lit.: “num bom dia”.
+====
+
+[[v9-25-9]]
+
+^<<v9-25-9,9>>^ Assim, os homens de David foram e transmitiram a Nabal todas estas palavras de David. Quando terminaram,
+
+[[v9-25-10]]
+
+^<<v9-25-10,10>>^ Nabal disse aos servos de David: “Quem é David e quem é o filho de Jessé? Hoje em dia, há muitos servos que fogem dos seus senhores.
+
+[[v9-25-11]]
+
+^<<v9-25-11,11>>^ Porque é que eu deveria agarrar no meu pão, na minha água e na carne dos animais que abati para os meus tosquiadores e dá-los a homens que vieram não sei de onde?”
+
+[[v9-25-12]]
+
+^<<v9-25-12,12>>^ Em vista disso, os homens de David voltaram e contaram-lhe tudo o que Nabal tinha dito.
+
+[[v9-25-13]]
+
+^<<v9-25-13,13>>^ David disse imediatamente aos seus homens: “Ponham todos a espada na cintura!” Então, todos puseram a espada na cintura, e David também pôs a espada na cintura. Cerca de 400 homens foram com David, ao passo que 200 ficaram com a bagagem.
+
+[[v9-25-14]]
+
+^<<v9-25-14,14>>^ Entretanto, um dos servos disse a Abigail, esposa de Nabal: “David enviou mensageiros a partir do deserto, a fim de desejar o bem ao nosso senhor, mas ele insultou-os.
+
+[[v9-25-15]]
+
+^<<v9-25-15,15>>^ Esses homens foram muito bons connosco. Não nos fizeram nenhum mal, e não demos pela falta de nada durante todo o tempo que passámos com eles no campo.
+
+[[v9-25-16]]
+
+^<<v9-25-16,16>>^ De dia e de noite, eles foram como uma muralha protetora à nossa volta, durante todo o tempo que passámos com eles a guardar o rebanho.
+
+[[v9-25-17]]
+
+^<<v9-25-17,17>>^ Agora, decida o que vai fazer, porque isto, com certeza, vai resultar num desastre para o nosso senhor e todos os da sua casa. Ele é um homem tão imprestável^&#42;1^ que ninguém consegue falar com ele.”
+
+[NOTE]
+====
+. Ou: “inútil”.
+====
+
+[[v9-25-18]]
+
+^<<v9-25-18,18>>^ Assim, Abigail pegou rapidamente em duzentos pães, dois odres grandes de vinho, cinco ovelhas preparadas, cinco seás^&#42;1^ de grãos torrados, cem tortas de passas e duzentas tortas de figos prensados, e colocou tudo sobre os jumentos.
+
+[NOTE]
+====
+. Um seá equivalia a 7,33 l. Veja o Ap. B14.
+====
+
+[[v9-25-19]]
+
+^<<v9-25-19,19>>^ Então, ela disse aos seus servos: “Vão à minha frente e eu irei atrás.” No entanto, ela não disse nada a Nabal, seu marido.
+
+[[v9-25-20]]
+
+^<<v9-25-20,20>>^ Enquanto ela descia num jumento por um caminho escondido pela montanha, encontrou David e os seus homens, que vinham na sua direção.
+
+[[v9-25-21]]
+
+^<<v9-25-21,21>>^ David tinha dito: “Não adiantou nada proteger tudo o que pertence a este homem no deserto. Não desapareceu nada do que lhe pertence e, ainda assim, ele paga-me o bem com o mal.
+
+[[v9-25-22]]
+
+^<<v9-25-22,22>>^ Que Deus faça o mesmo ou até pior aos inimigos de David,^&#42;1^ se até ao amanhecer eu deixar vivo um único homem^&#42;2^ que pertence a Nabal.”
+
+[NOTE]
+====
+. Ou, possivelmente: “e até pior a David”.
+. Lit.: “alguém que urina contra o muro”. Expressão hebraica que indica desprezo e que se refere a homens.
+====
+
+[[v9-25-23]]
+
+^<<v9-25-23,23>>^ Quando Abigail viu David, desceu depressa do jumento e prostrou-se diante de David, com o rosto por terra.
+
+[[v9-25-24]]
+
+^<<v9-25-24,24>>^ Prostrada aos seus pés, ela disse: “Que a culpa recaia sobre mim, meu senhor. Deixe a sua serva falar, e escute as palavras da sua serva.
+
+[[v9-25-25]]
+
+^<<v9-25-25,25>>^ Por favor, meu senhor, não dê atenção a este homem imprestável, Nabal, pois ele faz jus ao seu nome. O nome dele é Nabal,^&#42;1^ e ele é um insensato. Mas eu, sua serva, não vi os homens que o meu senhor enviou.
+
+[NOTE]
+====
+. Que significa “insensato; tolo”.
+====
+
+[[v9-25-26]]
+
+^<<v9-25-26,26>>^ E agora, meu senhor, tão certo como Jeová vive e como o senhor^&#42;1^ vive, foi Jeová quem o impediu de incorrer em culpa de sangue e de fazer justiça^&#42;2^ com as próprias mãos. Que os seus inimigos e os que procuram fazer mal ao meu senhor se tornem como Nabal.
+
+[NOTE]
+====
+. Ou: “a sua alma”.
+. Ou: “trazer salvação”.
+====
+
+[[v9-25-27]]
+
+^<<v9-25-27,27>>^ Agora, dê este presente,^&#42;1^ que a sua serva trouxe ao meu senhor, aos homens que o acompanham.
+
+[NOTE]
+====
+. Lit.: “esta bênção”.
+====
+
+[[v9-25-28]]
+
+^<<v9-25-28,28>>^ Por favor, perdoe a transgressão da sua serva, pois Jeová certamente estabelecerá para o meu senhor uma casa permanente, pois o meu senhor está a travar as guerras de Jeová e não se achou nenhum mal no meu senhor durante todos os seus dias.
+
+[[v9-25-29]]
+
+^<<v9-25-29,29>>^ Quando alguém o perseguir e tentar tirar a sua vida,^&#42;1^ a vida^&#42;2^ do meu senhor estará bem guardada na bolsa da vida junto a Jeová, seu Deus, mas a vida^&#42;3^ dos seus inimigos ele lançará para longe, como pedras atiradas de uma funda.^&#42;4^
+
+[NOTE]
+====
+. Ou: “e procurar a sua alma”.
+. Ou: “alma”.
+. Ou: “alma”.
+. Ou: “como que da concavidade de uma funda”.
+====
+
+[[v9-25-30]]
+
+^<<v9-25-30,30>>^ E, quando Jeová tiver feito ao meu senhor todas as coisas boas que prometeu e o designar como líder de Israel,
+
+[[v9-25-31]]
+
+^<<v9-25-31,31>>^ o senhor não terá nenhum remorso nem arrependimento^&#42;1^ no coração por ter derramado sangue sem motivo ou por ter feito justiça^&#42;2^ com as suas próprias mãos. Quando Jeová fizer o bem ao meu senhor, lembre-se da sua serva.”
+
+[NOTE]
+====
+. Lit.: “cambaleio ou tropeço”.
+. Ou: “trazido salvação”.
+====
+
+[[v9-25-32]]
+
+^<<v9-25-32,32>>^ Então, David disse a Abigail: “Louvado seja Jeová, o Deus de Israel, que, neste dia, te enviou ao meu encontro!
+
+[[v9-25-33]]
+
+^<<v9-25-33,33>>^ Bendita seja a tua sensatez! Que sejas abençoada por, neste dia, me teres impedido de incorrer em culpa de sangue e de fazer justiça^&#42;1^ com as minhas próprias mãos.
+
+[NOTE]
+====
+. Ou: “trazer salvação”.
+====
+
+[[v9-25-34]]
+
+^<<v9-25-34,34>>^ Caso contrário, tão certo como vive Jeová, o Deus de Israel, que me impediu de te fazer mal, se não tivesses vindo depressa ao meu encontro, amanhã cedo, não teria restado nem sequer um único homem^&#42;1^ dos que pertencem a Nabal.”
+
+[NOTE]
+====
+. Lit.: “ninguém que urina contra o muro”. Expressão hebraica que indica desprezo e que se refere a homens.
+====
+
+[[v9-25-35]]
+
+^<<v9-25-35,35>>^ Assim, David aceitou o que ela tinha trazido e disse-lhe: “Vai em paz para a tua casa. Eu ouvi o que disseste e vou atender ao teu pedido.”
+
+[[v9-25-36]]
+
+^<<v9-25-36,36>>^ Mais tarde, quando Abigail voltou a Nabal, ele estava a banquetear-se como um rei na sua casa. Nabal^&#42;1^ estava alegre e completamente bêbado. Ela não lhe disse nada até à manhã seguinte.
+
+[NOTE]
+====
+. Lit.: “O coração de Nabal”.
+====
+
+[[v9-25-37]]
+
+^<<v9-25-37,37>>^ De manhã, quando Nabal estava sóbrio, a sua esposa contou-lhe tudo. Então, o coração dele ficou como o de um morto, e ele ficou paralisado, como uma pedra.
+
+[[v9-25-38]]
+
+^<<v9-25-38,38>>^ Cerca de dez dias depois, Jeová entregou Nabal à morte.
+
+[[v9-25-39]]
+
+^<<v9-25-39,39>>^ Quando David soube que Nabal tinha morrido, disse: “Louvado seja Jeová, que defendeu a minha causa e que me livrou da humilhação que Nabal trouxe sobre mim, e que impediu o seu servo de fazer o mal. Jeová fez a maldade de Nabal recair sobre a sua própria cabeça!” Então, David mandou uma mensagem a Abigail, propondo-lhe que se tornasse sua esposa.
+
+[[v9-25-40]]
+
+^<<v9-25-40,40>>^ Quando os servos de David foram ao encontro de Abigail, em Carmelo, disseram-lhe: “David ordenou que viéssemos buscar-te, para que te tornes sua esposa.”
+
+[[v9-25-41]]
+
+^<<v9-25-41,41>>^ Ela curvou-se imediatamente com o rosto por terra e disse: “Estou disposta a tornar-me uma serva para lavar os pés dos servos do meu senhor.”
+
+[[v9-25-42]]
+
+^<<v9-25-42,42>>^ Então, Abigail preparou-se depressa, montou o jumento e, acompanhada por cinco criadas, foi com os mensageiros de David e tornou-se sua esposa.
+
+[[v9-25-43]]
+
+^<<v9-25-43,43>>^ David também se tinha casado com Ainoã, de Jezreel, e as duas mulheres tornaram-se suas esposas.
+
+[[v9-25-44]]
+
+^<<v9-25-44,44>>^ Saul, porém, tinha dado sua filha Mical, esposa de David, a Palti, filho de Laís, que era de Galim.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-024.adoc#v9-24-0[&#60; Capítulo Anterior] | <<v9-25-0,Topo>> | xref:009-1-samuel/009-1-samuel-026.adoc#v9-26-0[Próximo Capítulo &#62;]

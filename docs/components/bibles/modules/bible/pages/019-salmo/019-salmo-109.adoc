@@ -1,0 +1,225 @@
+include::./index.adoc[]
+
+[[v19-109-0]]
+=== Salmos, 109
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Ao regente. De David. Salmo._
+
+[[v19-109-1]]
+
+^<<v19-109-1,1>>^ Ó Deus a quem louvo, não fiques calado.
+
+[[v19-109-2]]
+
+^<<v19-109-2,2>>^ Pois os maus e os falsos abrem a boca contra mim.
+Falam de mim com uma língua mentirosa;
+
+[[v19-109-3]]
+
+^<<v19-109-3,3>>^ Cercam-me com palavras de ódio
+E atacam-me sem nenhum motivo.
+
+[[v19-109-4]]
+
+^<<v19-109-4,4>>^ Em troca do meu amor, eles opõem-se a mim;
+Mas eu continuo a orar.
+
+[[v19-109-5]]
+
+^<<v19-109-5,5>>^ Retribuem-me o bem com o mal,
+E o meu amor com ódio.
+
+[[v19-109-6]]
+
+^<<v19-109-6,6>>^ Designa sobre o meu inimigo^&#42;1^ um homem perverso;
+Fique um opositor^&#42;2^ à sua direita.
+
+[NOTE]
+====
+. Lit.: “sobre ele”.
+. Ou: “um acusador”.
+====
+
+[[v19-109-7]]
+
+^<<v19-109-7,7>>^ Que ele seja declarado culpado^&#42;1^ quando o julgarem;
+Que até mesmo a sua oração seja considerada um pecado.
+
+[NOTE]
+====
+. Ou: “mau”.
+====
+
+[[v19-109-8]]
+
+^<<v19-109-8,8>>^ Sejam poucos os seus dias;
+Que outro ocupe o seu cargo de superintendente.
+
+[[v19-109-9]]
+
+^<<v19-109-9,9>>^ Que os seus filhos fiquem órfãos,^&#42;1^
+E que a sua esposa fique viúva.
+
+[NOTE]
+====
+. Ou: “órfãos de pai”.
+====
+
+[[v19-109-10]]
+
+^<<v19-109-10,10>>^ Que os seus filhos vagueiem como mendigos;
+Que saiam das suas casas arruinadas para procurar alimento.
+
+[[v19-109-11]]
+
+^<<v19-109-11,11>>^ Que o seu credor se apodere de^&#42;1^ tudo o que ele tem,
+E que estranhos saqueiem os seus bens.
+
+[NOTE]
+====
+. Ou: “Que agiotas armem ciladas para”.
+====
+
+[[v19-109-12]]
+
+^<<v19-109-12,12>>^ Que ninguém o trate com bondade,^&#42;1^
+E que ninguém mostre favor aos seus filhos órfãos.
+
+[NOTE]
+====
+. Ou: “amor leal”.
+====
+
+[[v19-109-13]]
+
+^<<v19-109-13,13>>^ Que os seus descendentes sejam destruídos;^&#42;1^
+Que o nome deles seja apagado dentro de uma geração.
+
+[NOTE]
+====
+. Ou: “a sua posteridade seja destruída”.
+====
+
+[[v19-109-14]]
+
+^<<v19-109-14,14>>^ Que Jeová se lembre do erro dos antepassados dele,
+E que o pecado da sua mãe não seja apagado.
+
+[[v19-109-15]]
+
+^<<v19-109-15,15>>^ Que Jeová tenha sempre em mente o que eles fizeram
+E que elimine da terra a sua recordação.
+
+[[v19-109-16]]
+
+^<<v19-109-16,16>>^ Pois esse homem não se lembrou de demonstrar bondade,^&#42;1^
+Mas perseguia aquele que é oprimido, pobre e de coração abatido,
+Para entregá-lo à morte.
+
+[NOTE]
+====
+. Ou: “amor leal”.
+====
+
+[[v19-109-17]]
+
+^<<v19-109-17,17>>^ Ele gostava de amaldiçoar, de modo que a maldição caiu sobre ele;
+E não tinha o desejo de abençoar, de modo que não recebeu nenhuma bênção;
+
+[[v19-109-18]]
+
+^<<v19-109-18,18>>^ Ele vestia maldições como roupa.
+Elas entraram no seu corpo como água,
+Penetraram nos seus ossos como óleo.
+
+[[v19-109-19]]
+
+^<<v19-109-19,19>>^ Que as suas maldições sejam como a roupa com que ele se cobre
+E como um cinto que lhe está sempre atado.
+
+[[v19-109-20]]
+
+^<<v19-109-20,20>>^ Esta é a retribuição de Jeová àquele que se opõe a mim
+E àqueles que dizem coisas más contra mim.^&#42;1^
+
+[NOTE]
+====
+. Ou: “a minha alma”.
+====
+
+[[v19-109-21]]
+
+^<<v19-109-21,21>>^ Mas tu, ó Jeová, Soberano Senhor,
+Age em meu favor por causa do teu nome.
+Livra-me, porque o teu amor leal é bom.
+
+[[v19-109-22]]
+
+^<<v19-109-22,22>>^ Pois estou desamparado e pobre,
+E, dentro de mim, o meu coração foi ferido.
+
+[[v19-109-23]]
+
+^<<v19-109-23,23>>^ Vou-me desvanecendo, como uma sombra que desaparece;
+Fui enxotado para longe como um gafanhoto.
+
+[[v19-109-24]]
+
+^<<v19-109-24,24>>^ Os meus joelhos fraquejam por causa do jejum;
+O meu corpo está magro, estou a definhar.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “A minha carne ficou magra, sem gordura (óleo)”.
+====
+
+[[v19-109-25]]
+
+^<<v19-109-25,25>>^ Tornei-me o alvo do gozo deles.
+Quando me veem, abanam a cabeça.
+
+[[v19-109-26]]
+
+^<<v19-109-26,26>>^ Ajuda-me, ó Jeová, meu Deus;
+Salva-me com o teu amor leal.
+
+[[v19-109-27]]
+
+^<<v19-109-27,27>>^ Que eles saibam que foi a tua mão,
+Que foste tu que agiste, ó Jeová.
+
+[[v19-109-28]]
+
+^<<v19-109-28,28>>^ Que eles profiram uma maldição; mas tu, uma bênção.
+Que sejam envergonhados quando se levantarem contra mim,
+Mas que o teu servo se alegre.
+
+[[v19-109-29]]
+
+^<<v19-109-29,29>>^ Vistam-se de humilhação os que se opõem a mim;
+Que sejam cobertos de vergonha, como se esta fosse uma túnica.^&#42;1^
+
+[NOTE]
+====
+. Ou: “túnica sem mangas”.
+====
+
+[[v19-109-30]]
+
+^<<v19-109-30,30>>^ A minha boca louvará a Jeová fervorosamente;
+Vou louvá-lo diante de uma multidão.
+
+[[v19-109-31]]
+
+^<<v19-109-31,31>>^ Pois ele estará à direita do pobre
+Para salvá-lo dos que o condenam.^&#42;1^
+
+[NOTE]
+====
+. Ou: “condenam a sua alma”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-108.adoc#v19-108-0[&#60; Capítulo Anterior] | <<v19-109-0,Topo>> | xref:019-salmo/019-salmo-110.adoc#v19-110-0[Próximo Capítulo &#62;]

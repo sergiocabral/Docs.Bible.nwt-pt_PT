@@ -1,0 +1,196 @@
+include::./index.adoc[]
+
+[[v42-5-0]]
+=== Lucas, 5
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v42-5-1]]
+
+^<<v42-5-1,1>>^ Em certa ocasião, ele estava à beira do lago de Genesaré,^&#42;1^ e a multidão apertava-se à volta dele para escutar a palavra de Deus.
+
+[NOTE]
+====
+. Isto é, o mar da Galileia.
+====
+
+[[v42-5-2]]
+
+^<<v42-5-2,2>>^ Ele viu dois barcos atracados à beira do lago, mas os pescadores tinham desembarcado e estavam a lavar as redes.
+
+[[v42-5-3]]
+
+^<<v42-5-3,3>>^ Entrando num dos barcos, o que era de Simão, pediu-lhe que o afastasse um pouco de terra. Sentou-se então e, do barco, começou a ensinar as multidões.
+
+[[v42-5-4]]
+
+^<<v42-5-4,4>>^ Quando acabou de falar, ele disse a Simão: “Vai para onde é fundo, e lancem as redes para pescar.”
+
+[[v42-5-5]]
+
+^<<v42-5-5,5>>^ Simão, porém, disse em resposta: “Instrutor, trabalhámos arduamente a noite toda e não apanhámos nada, mas, como pediste, lançarei as redes.”
+
+[[v42-5-6]]
+
+^<<v42-5-6,6>>^ Pois bem, quando o fizeram, apanharam^&#42;1^ uma quantidade tão grande de peixe que as redes começaram a romper-se.
+
+[NOTE]
+====
+. Lit.: “cercaram”.
+====
+
+[[v42-5-7]]
+
+^<<v42-5-7,7>>^ Então, fizeram sinal aos seus sócios que estavam no outro barco, para que se aproximassem e os ajudassem; e eles vieram e encheram ambos os barcos, de modo que estes começaram a afundar-se.
+
+[[v42-5-8]]
+
+^<<v42-5-8,8>>^ Vendo isto, Simão Pedro prostrou-se diante de Jesus, dizendo: “Afasta-te de mim, Senhor, porque sou um homem pecador.”
+
+[[v42-5-9]]
+
+^<<v42-5-9,9>>^ Pois tanto ele como os que estavam com ele ficaram cheios de espanto em vista da quantidade de peixe que tinham apanhado,
+
+[[v42-5-10]]
+
+^<<v42-5-10,10>>^ e o mesmo aconteceu com Tiago e João, filhos de Zebedeu, que eram sócios de Simão. Mas Jesus disse a Simão: “Para de ter medo. De agora em diante, apanharás^&#42;1^ homens.”^&#42;2^
+
+[NOTE]
+====
+. Ou: “apanharás vivos”.
+. Ou: “pessoas”.
+====
+
+[[v42-5-11]]
+
+^<<v42-5-11,11>>^ Assim, levaram os barcos de volta para terra, abandonaram tudo e seguiram-no.
+
+[[v42-5-12]]
+
+^<<v42-5-12,12>>^ Noutra ocasião, ele estava numa das cidades quando apareceu um homem cheio de lepra. Quando ele viu Jesus, prostrou-se com o rosto por terra e implorou-lhe: “Senhor, se apenas quiser, pode purificar-me.”
+
+[[v42-5-13]]
+
+^<<v42-5-13,13>>^ Assim, ele estendeu a mão e tocou no homem, dizendo: “Eu quero! Sê purificado.” De imediato, a lepra desapareceu.
+
+[[v42-5-14]]
+
+^<<v42-5-14,14>>^ Então, ele ordenou ao homem que não contasse nada a ninguém, e acrescentou: “Mas vai e mostra-te ao sacerdote, e faz uma oferta pela tua purificação, assim como Moisés determinou, para que lhes sirva de testemunho.”
+
+[[v42-5-15]]
+
+^<<v42-5-15,15>>^ Mas as notícias sobre ele continuavam a espalhar-se, e grandes multidões reuniam-se para escutar e para serem curadas das suas doenças.
+
+[[v42-5-16]]
+
+^<<v42-5-16,16>>^ No entanto, ele ia muitas vezes a lugares desertos para orar.
+
+[[v42-5-17]]
+
+^<<v42-5-17,17>>^ Num daqueles dias, quando estava a ensinar, fariseus e instrutores da Lei, que tinham chegado de todas as aldeias da Galileia e da Judeia, e de Jerusalém, estavam lá sentados; e o poder de Jeová^&#42;1^ estava com ele para curar as pessoas.
+
+[NOTE]
+====
+. Veja o Ap. A5.
+====
+
+[[v42-5-18]]
+
+^<<v42-5-18,18>>^ Nisto, chegaram alguns homens que carregavam um homem paralítico numa maca, e eles tentavam levá-lo para dentro e colocá-lo diante de Jesus.
+
+[[v42-5-19]]
+
+^<<v42-5-19,19>>^ Assim, visto que não encontraram uma forma de o levar para dentro por causa da multidão, subiram ao telhado e desceram-no com a maca, por entre as telhas, até ficar no meio dos que estavam diante de Jesus.
+
+[[v42-5-20]]
+
+^<<v42-5-20,20>>^ Quando ele viu a fé que tinham, disse: “Homem, os teus pecados estão perdoados.”
+
+[[v42-5-21]]
+
+^<<v42-5-21,21>>^ Então, os escribas e os fariseus começaram a raciocinar, dizendo: “Quem é este que diz blasfémias? Quem pode perdoar pecados senão apenas Deus?”
+
+[[v42-5-22]]
+
+^<<v42-5-22,22>>^ Mas Jesus, discernindo o raciocínio deles, disse-lhes em resposta: “O que estão a raciocinar no coração?
+
+[[v42-5-23]]
+
+^<<v42-5-23,23>>^ O que é mais fácil dizer: ‘Os teus pecados estão perdoados’, ou: ‘Levanta-te e anda’?
+
+[[v42-5-24]]
+
+^<<v42-5-24,24>>^ Mas, a fim de que saibam que o Filho do Homem tem autoridade na terra para perdoar pecados . . .”, ele disse ao paralítico: “Eu digo-te: Levanta-te, apanha a tua maca e vai para casa.”
+
+[[v42-5-25]]
+
+^<<v42-5-25,25>>^ Com isso, ele levantou-se diante deles, apanhou aquilo em que se deitara e foi para casa, glorificando a Deus.
+
+[[v42-5-26]]
+
+^<<v42-5-26,26>>^ Então, todos ficaram muito admirados, começaram a glorificar a Deus e, cheios de temor, diziam: “Hoje, vimos coisas maravilhosas!”
+
+[[v42-5-27]]
+
+^<<v42-5-27,27>>^ Depois disso, ele saiu e viu um cobrador de impostos, chamado Levi, sentado na coletoria,^&#42;1^ e disse-lhe: “Sê meu seguidor.”
+
+[NOTE]
+====
+. Isto é, repartição pública onde se pagam os impostos.
+====
+
+[[v42-5-28]]
+
+^<<v42-5-28,28>>^ E Levi, deixando tudo para trás, levantou-se e começou a segui-lo.
+
+[[v42-5-29]]
+
+^<<v42-5-29,29>>^ Então, Levi ofereceu-lhe um grande banquete para o receber na sua casa, e havia uma grande multidão de cobradores de impostos e de outros, que comiam^&#42;1^ com eles.
+
+[NOTE]
+====
+. Ou: “se recostavam à mesa”.
+====
+
+[[v42-5-30]]
+
+^<<v42-5-30,30>>^ Em vista disso, os fariseus e os seus escribas começaram a resmungar, dizendo aos discípulos dele: “Porque é que vocês comem e bebem com cobradores de impostos e pecadores?”
+
+[[v42-5-31]]
+
+^<<v42-5-31,31>>^ Em resposta, Jesus disse-lhes: “Os que têm saúde não precisam de médico, mas sim os doentes.
+
+[[v42-5-32]]
+
+^<<v42-5-32,32>>^ Eu não vim chamar os justos ao arrependimento, mas os pecadores.”
+
+[[v42-5-33]]
+
+^<<v42-5-33,33>>^ Eles disseram-lhe: “Os discípulos de João jejuam frequentemente e oferecem súplicas, e o mesmo fazem os dos fariseus, mas os teus comem e bebem.”
+
+[[v42-5-34]]
+
+^<<v42-5-34,34>>^ Jesus disse-lhes: “Será que podem fazer com que os amigos do noivo jejuem enquanto o noivo está com eles?
+
+[[v42-5-35]]
+
+^<<v42-5-35,35>>^ Mas virão dias em que o noivo realmente lhes será tirado; então, nesses dias, jejuarão.”
+
+[[v42-5-36]]
+
+^<<v42-5-36,36>>^ Contou-lhes também uma ilustração: “Ninguém corta um pedaço de uma peça de roupa nova para remendar roupa velha. Se alguém fizer isso, o remendo novo vai soltar-se e o remendo da roupa nova não combinará com a roupa velha.
+
+[[v42-5-37]]
+
+^<<v42-5-37,37>>^ De igual modo, ninguém põe vinho novo em odres velhos. Se alguém fizer isso, o vinho novo vai rebentar os odres e derramar-se, e os odres ficarão arruinados.
+
+[[v42-5-38]]
+
+^<<v42-5-38,38>>^ No entanto, o vinho novo tem de ser posto em odres novos.
+
+[[v42-5-39]]
+
+^<<v42-5-39,39>>^ Ninguém, depois de beber vinho velho, quer o novo, pois diz: ‘O velho é que é bom.’”
+
+'''
+
+xref:042-lucas/042-lucas-004.adoc#v42-4-0[&#60; Capítulo Anterior] | <<v42-5-0,Topo>> | xref:042-lucas/042-lucas-006.adoc#v42-6-0[Próximo Capítulo &#62;]

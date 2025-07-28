@@ -1,0 +1,37 @@
+include::./index.adoc[]
+
+[[v24-45-0]]
+=== Jeremias, 45
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v24-45-1]]
+
+^<<v24-45-1,1>>^ No quarto ano de Jeoiaquim, filho de Josias e rei de Judá, enquanto Baruque, filho de Nerias, escrevia num livro as palavras ditadas pelo profeta Jeremias, este transmitiu-lhe a seguinte palavra:
+
+[[v24-45-2]]
+
+^<<v24-45-2,2>>^ “Assim diz Jeová, o Deus de Israel, a teu respeito, Baruque:
+
+[[v24-45-3]]
+
+^<<v24-45-3,3>>^ ‘Disseste: “Ai de mim, pois Jeová acrescentou tristeza à minha dor! Estou exausto de tanto gemer e não encontro descanso.”’
+
+[[v24-45-4]]
+
+^<<v24-45-4,4>>^ “Deves dizer-lhe: ‘Assim diz Jeová: “Vou derrubar o que edifiquei e arrancar o que plantei, todo o país.
+
+[[v24-45-5]]
+
+^<<v24-45-5,5>>^ No entanto, estás à procura^&#42;1^ de grandes coisas para ti. Para de procurar tais coisas.”’
+“‘Pois estou prestes a trazer uma calamidade sobre todas as pessoas’,^&#42;2^ diz Jeová, ‘e, onde quer que vás, dar-te-ei a tua vida como despojo’.”^&#42;3^
+
+[NOTE]
+====
+. Ou: “espera”.
+. Lit.: “toda a carne”.
+. Ou: “vou deixar-te escapar com a tua vida (alma)”.
+====
+
+'''
+
+xref:024-jeremias/024-jeremias-044.adoc#v24-44-0[&#60; Capítulo Anterior] | <<v24-45-0,Topo>> | xref:024-jeremias/024-jeremias-046.adoc#v24-46-0[Próximo Capítulo &#62;]

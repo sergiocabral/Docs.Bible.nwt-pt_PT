@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v40-19-0]]
+=== Mateus, 19
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v40-19-1]]
+
+^<<v40-19-1,1>>^ Quando Jesus terminou de dizer estas coisas, partiu da Galileia e foi para as fronteiras da Judeia, do outro lado do Jordão.
+
+[[v40-19-2]]
+
+^<<v40-19-2,2>>^ Também, grandes multidões seguiram-no, e ele curou-as naquele lugar.
+
+[[v40-19-3]]
+
+^<<v40-19-3,3>>^ Alguns fariseus aproximaram-se dele, querendo pô-lo à prova, e perguntaram: “É permitido que um homem se divorcie da sua esposa por qualquer motivo?”
+
+[[v40-19-4]]
+
+^<<v40-19-4,4>>^ Ele respondeu: “Não leram que aquele que os criou no princípio os fez homem e mulher,
+
+[[v40-19-5]]
+
+^<<v40-19-5,5>>^ e disse: ‘Por esta razão, o homem deixará o seu pai e a sua mãe e irá apegar-se à sua esposa, e os dois serão uma só carne’?
+
+[[v40-19-6]]
+
+^<<v40-19-6,6>>^ Portanto, já não são dois, mas uma só carne. Por isso, o que Deus pôs sob o mesmo jugo, o homem não deve separar.”
+
+[[v40-19-7]]
+
+^<<v40-19-7,7>>^ Perguntaram-lhe: “Então, porque é que Moisés mandou que o homem lhe desse um certificado de divórcio e a mandasse embora?”
+
+[[v40-19-8]]
+
+^<<v40-19-8,8>>^ Ele disse-lhes: “Foi por causa da dureza do vosso coração que Moisés vos fez a concessão de se divorciarem das vossas esposas, mas não era assim no princípio.
+
+[[v40-19-9]]
+
+^<<v40-19-9,9>>^ Digo-vos que quem se divorcia da sua esposa, a não ser por causa de imoralidade sexual,^&#42;1^ e se casa com outra, comete adultério.”
+
+[NOTE]
+====
+. Em grego, porneía. Veja o Glossário.
+====
+
+[[v40-19-10]]
+
+^<<v40-19-10,10>>^ Os discípulos disseram-lhe: “Se essa é a situação entre o homem e a sua esposa, não é aconselhável casar-se.”
+
+[[v40-19-11]]
+
+^<<v40-19-11,11>>^ Ele disse-lhes: “Nem todos os homens dão lugar a estas palavras, mas somente os que têm o dom.
+
+[[v40-19-12]]
+
+^<<v40-19-12,12>>^ Pois há eunucos que nasceram assim, há eunucos que foram feitos eunucos pelos homens e há eunucos que se fizeram eunucos por causa do Reino dos céus. Dê lugar a isso aquele que pode dar lugar a isso.”
+
+[[v40-19-13]]
+
+^<<v40-19-13,13>>^ Então, alguns trouxeram-lhe crianças, para que pusesse as mãos sobre elas e proferisse uma oração, mas os discípulos repreenderam-nos.
+
+[[v40-19-14]]
+
+^<<v40-19-14,14>>^ Jesus, porém, disse: “Deixem as criancinhas e não tentem impedi-las de vir até mim, pois o Reino dos céus pertence aos que são como elas.”
+
+[[v40-19-15]]
+
+^<<v40-19-15,15>>^ Ele pôs as mãos sobre elas e retirou-se.
+
+[[v40-19-16]]
+
+^<<v40-19-16,16>>^ Então, alguém se aproximou dele e perguntou: “Instrutor, o que devo fazer de bom para ganhar a vida eterna?”
+
+[[v40-19-17]]
+
+^<<v40-19-17,17>>^ Ele disse-lhe: “Porque é que me perguntas sobre o que é bom? Bom só existe um. Porém, se queres entrar na vida, obedece sempre aos mandamentos.”
+
+[[v40-19-18]]
+
+^<<v40-19-18,18>>^ Ele perguntou-lhe: “Quais?” Jesus disse: “Não assassines; não cometas adultério; não furtes; não dês falso testemunho;
+
+[[v40-19-19]]
+
+^<<v40-19-19,19>>^ honra o teu pai e a tua mãe; e ama o teu próximo como a ti mesmo.”
+
+[[v40-19-20]]
+
+^<<v40-19-20,20>>^ O jovem disse-lhe: “Tenho-os cumprido a todos. O que é que me falta ainda?”
+
+[[v40-19-21]]
+
+^<<v40-19-21,21>>^ Jesus disse-lhe: “Se quiseres ser perfeito,^&#42;1^ vai e vende os teus bens, e dá o dinheiro aos pobres, e terás um tesouro no céu; e vem ser meu seguidor.”
+
+[NOTE]
+====
+. Ou: “completo”.
+====
+
+[[v40-19-22]]
+
+^<<v40-19-22,22>>^ Quando o jovem ouviu isto, foi-se embora triste, porque tinha muitos bens.
+
+[[v40-19-23]]
+
+^<<v40-19-23,23>>^ Jesus disse então aos seus discípulos: “Digo-vos a verdade: Será difícil para um rico entrar no Reino dos céus.
+
+[[v40-19-24]]
+
+^<<v40-19-24,24>>^ Digo-vos ainda: É mais fácil um camelo passar pelo buraco de uma agulha do que um rico entrar no Reino de Deus.”
+
+[[v40-19-25]]
+
+^<<v40-19-25,25>>^ Quando os discípulos ouviram isso, ficaram muito espantados e disseram: “Quem é que pode realmente ser salvo?”
+
+[[v40-19-26]]
+
+^<<v40-19-26,26>>^ Jesus olhou fixamente para eles e disse-lhes: “Para os homens isto é impossível, mas para Deus todas as coisas são possíveis.”
+
+[[v40-19-27]]
+
+^<<v40-19-27,27>>^ Pedro respondeu: “Olha, deixámos tudo e seguimos-te. O que é que haverá então para nós?”
+
+[[v40-19-28]]
+
+^<<v40-19-28,28>>^ Jesus disse-lhes: “Eu garanto-vos: Na recriação, quando o Filho do Homem se sentar no seu trono glorioso, vocês, os que me seguiram, irão sentar-se em 12 tronos e julgarão as 12 tribos de Israel.
+
+[[v40-19-29]]
+
+^<<v40-19-29,29>>^ E todo aquele que tiver deixado casas, irmãos, irmãs, pai, mãe, filhos ou terras, por causa do meu nome, receberá cem vezes mais e herdará a vida eterna.
+
+[[v40-19-30]]
+
+^<<v40-19-30,30>>^ “Mas muitos dos que são primeiros serão últimos; e os últimos, primeiros.
+
+'''
+
+xref:040-mateus/040-mateus-018.adoc#v40-18-0[&#60; Capítulo Anterior] | <<v40-19-0,Topo>> | xref:040-mateus/040-mateus-020.adoc#v40-20-0[Próximo Capítulo &#62;]

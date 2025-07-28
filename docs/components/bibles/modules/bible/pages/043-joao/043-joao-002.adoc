@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v43-2-0]]
+=== João, 2
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v43-2-1]]
+
+^<<v43-2-1,1>>^ No terceiro dia, realizou-se uma festa de casamento em Caná da Galileia, e a mãe de Jesus estava lá.
+
+[[v43-2-2]]
+
+^<<v43-2-2,2>>^ Jesus e os seus discípulos também foram convidados para a festa de casamento.
+
+[[v43-2-3]]
+
+^<<v43-2-3,3>>^ Quando o vinho estava a acabar, a mãe de Jesus disse-lhe: “Eles não têm vinho.”
+
+[[v43-2-4]]
+
+^<<v43-2-4,4>>^ Mas Jesus respondeu: “Mulher, o que é que eu e tu temos a ver com isso?^&#42;1^ A minha hora ainda não chegou.”
+
+[NOTE]
+====
+. Lit.: “O quê para mim e para ti, mulher?” Esta é uma expressão idiomática que indica objeção.
+====
+
+[[v43-2-5]]
+
+^<<v43-2-5,5>>^ A sua mãe disse então aos que serviam: “Façam o que ele vos disser.”
+
+[[v43-2-6]]
+
+^<<v43-2-6,6>>^ Havia ali seis jarros de pedra, para água, conforme exigido pelas regras de purificação dos judeus; a capacidade de cada jarro era de duas ou três medidas de líquidos.^&#42;1^
+
+[NOTE]
+====
+. A medida de líquidos era provavelmente o bato, que equivalia a 22 l. Veja o Ap. B14.
+====
+
+[[v43-2-7]]
+
+^<<v43-2-7,7>>^ Jesus disse-lhes: “Encham os jarros com água.” E eles encheram-nos até à borda.
+
+[[v43-2-8]]
+
+^<<v43-2-8,8>>^ Então, ele disse-lhes: “Agora tirem um pouco e levem-no ao diretor da festa.” E eles fizeram isso.
+
+[[v43-2-9]]
+
+^<<v43-2-9,9>>^ Quando o diretor da festa provou a água que tinha sido transformada em vinho, sem saber de onde viera o vinho (embora os servos que tinham tirado a água o soubessem), o diretor da festa chamou o noivo
+
+[[v43-2-10]]
+
+^<<v43-2-10,10>>^ e disse-lhe: “Todos servem primeiro o vinho bom e, quando as pessoas ficam embriagadas, servem o inferior. Tu guardaste o vinho bom até agora.”
+
+[[v43-2-11]]
+
+^<<v43-2-11,11>>^ Jesus fez isso em Caná da Galileia como o início dos seus sinais, e revelou a sua glória, e os seus discípulos depositaram fé nele.
+
+[[v43-2-12]]
+
+^<<v43-2-12,12>>^ Depois disso, ele, a sua mãe, os seus irmãos e os seus discípulos desceram para Cafarnaum, mas não ficaram lá muitos dias.
+
+[[v43-2-13]]
+
+^<<v43-2-13,13>>^ Aproximava-se então a Páscoa dos judeus, e Jesus subiu para Jerusalém.
+
+[[v43-2-14]]
+
+^<<v43-2-14,14>>^ Ele encontrou no templo os que vendiam gado, ovelhas e pombas, e os cambistas nos seus assentos.
+
+[[v43-2-15]]
+
+^<<v43-2-15,15>>^ Assim, depois de fazer um chicote de cordas, expulsou-os a todos do templo, com as ovelhas e os bois, espalhou as moedas dos cambistas e derrubou as suas mesas.
+
+[[v43-2-16]]
+
+^<<v43-2-16,16>>^ E disse aos que vendiam as pombas: “Tirem estas coisas daqui! Parem de fazer da casa do meu Pai uma casa de comércio!”^&#42;1^
+
+[NOTE]
+====
+. Ou: “um mercado; um negócio”.
+====
+
+[[v43-2-17]]
+
+^<<v43-2-17,17>>^ Os seus discípulos lembraram-se de que está escrito: “O zelo pela tua casa irá consumir-me.”
+
+[[v43-2-18]]
+
+^<<v43-2-18,18>>^ Em vista disso, os judeus perguntaram-lhe: “Que sinal nos podes mostrar como prova de que tens autoridade para fazer estas coisas?”
+
+[[v43-2-19]]
+
+^<<v43-2-19,19>>^ Jesus respondeu-lhes: “Derrubem este templo, e em três dias vou levantá-lo.”
+
+[[v43-2-20]]
+
+^<<v43-2-20,20>>^ Então, os judeus disseram: “Este templo foi construído em 46 anos, e tu vais levantá-lo em três dias?”
+
+[[v43-2-21]]
+
+^<<v43-2-21,21>>^ Mas o templo de que ele falava era o seu corpo.
+
+[[v43-2-22]]
+
+^<<v43-2-22,22>>^ Quando ele foi levantado dentre os mortos, porém, os seus discípulos lembraram-se de que ele costumava dizer isso, e eles acreditaram na passagem das Escrituras e no que Jesus tinha dito.
+
+[[v43-2-23]]
+
+^<<v43-2-23,23>>^ No entanto, quando ele estava em Jerusalém, na Festividade da Páscoa, muitos depositaram fé no nome dele ao observarem os sinais que ele realizava.
+
+[[v43-2-24]]
+
+^<<v43-2-24,24>>^ Mas Jesus não confiava totalmente neles,^&#42;1^ porque os conhecia a todos
+
+[NOTE]
+====
+. Ou: “não se confiava a eles”.
+====
+
+[[v43-2-25]]
+
+^<<v43-2-25,25>>^ e porque não precisava que ninguém lhe desse testemunho sobre os homens, pois ele sabia o que havia nos homens.
+
+'''
+
+xref:043-joao/043-joao-001.adoc#v43-1-0[&#60; Capítulo Anterior] | <<v43-2-0,Topo>> | xref:043-joao/043-joao-003.adoc#v43-3-0[Próximo Capítulo &#62;]

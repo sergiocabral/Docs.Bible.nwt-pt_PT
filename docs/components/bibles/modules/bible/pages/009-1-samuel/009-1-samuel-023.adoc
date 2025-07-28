@@ -1,0 +1,167 @@
+include::./index.adoc[]
+
+[[v9-23-0]]
+=== 1 Samuel, 23
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-23-1]]
+
+^<<v9-23-1,1>>^ Depois de algum tempo, informaram David: “Os filisteus estão a lutar contra Queila e estão a saquear as eiras.”
+
+[[v9-23-2]]
+
+^<<v9-23-2,2>>^ Então, David consultou a Jeová: “Devo ir e golpear estes filisteus?” Jeová disse a David: “Vai, golpeia os filisteus e salva Queila.”
+
+[[v9-23-3]]
+
+^<<v9-23-3,3>>^ No entanto, os homens de David disseram-lhe: “Se já estamos com medo aqui em Judá, quanto mais se formos a Queila para lutar contra o exército dos filisteus!”
+
+[[v9-23-4]]
+
+^<<v9-23-4,4>>^ Portanto, David consultou a Jeová mais uma vez. E Jeová respondeu-lhe: “Vai, desce até Queila, pois entregarei os filisteus nas tuas mãos.”
+
+[[v9-23-5]]
+
+^<<v9-23-5,5>>^ Então, David foi com os seus homens a Queila e lutou contra os filisteus; ele matou um grande número deles, levou consigo o gado e salvou os habitantes de Queila.
+
+[[v9-23-6]]
+
+^<<v9-23-6,6>>^ Quando Abiatar, filho de Aimeleque, fugiu para se juntar a David em Queila, levou consigo um éfode.
+
+[[v9-23-7]]
+
+^<<v9-23-7,7>>^ Saul foi informado: “David está em Queila.” Saul disse então: “Deus entregou-mo,^&#42;1^ pois ele entrou numa cidade com portões e trancas, e não tem como fugir.”
+
+[NOTE]
+====
+. Lit.: “vendeu-o à minha mão”.
+====
+
+[[v9-23-8]]
+
+^<<v9-23-8,8>>^ Portanto, Saul convocou todo o seu exército^&#42;1^ para a guerra, a fim de descer até Queila e cercar David e os seus homens.
+
+[NOTE]
+====
+. Ou: “povo”.
+====
+
+[[v9-23-9]]
+
+^<<v9-23-9,9>>^ Quando David soube que Saul tramava algo contra ele, disse a Abiatar, o sacerdote: “Traz aqui o éfode.”
+
+[[v9-23-10]]
+
+^<<v9-23-10,10>>^ E David disse: “Ó Jeová, Deus de Israel, o teu servo ouviu dizer que Saul pretende vir a Queila para destruir a cidade por minha causa.
+
+[[v9-23-11]]
+
+^<<v9-23-11,11>>^ Será que os habitantes^&#42;1^ de Queila me vão entregar nas mãos dele? Será que Saul vem mesmo, assim como o teu servo ouviu dizer? Ó Jeová, Deus de Israel, por favor, responde ao teu servo.” Jeová disse: “Ele vem.”
+
+[NOTE]
+====
+. Ou, possivelmente: “proprietários de terras”.
+====
+
+[[v9-23-12]]
+
+^<<v9-23-12,12>>^ David perguntou: “Será que os habitantes de Queila me vão entregar a mim e aos meus homens nas mãos de Saul?” Jeová respondeu: “Sim, vão.”
+
+[[v9-23-13]]
+
+^<<v9-23-13,13>>^ Imediatamente, David e os seus homens, cerca de 600, saíram de Queila e iam mudando de um lugar para o outro. Quando Saul foi informado de que David tinha fugido de Queila, não foi atrás dele.
+
+[[v9-23-14]]
+
+^<<v9-23-14,14>>^ David permaneceu em lugares de difícil acesso na região montanhosa do deserto de Zife. Saul estava sempre à procura de David, mas Jeová não o entregou nas suas mãos.
+
+[[v9-23-15]]
+
+^<<v9-23-15,15>>^ Enquanto estava no deserto de Zife, em Horesa, David soube que^&#42;1^ Saul tinha saído para lhe tirar a vida.^&#42;2^
+
+[NOTE]
+====
+. Ou, possivelmente: “ficou com medo porque”.
+. Ou: “à procura da sua alma”.
+====
+
+[[v9-23-16]]
+
+^<<v9-23-16,16>>^ Então, Jonatã, filho de Saul, encontrou-se com David em Horesa, e ajudou-o a encontrar forças^&#42;1^ em Jeová.
+
+[NOTE]
+====
+. Lit.: “e fortaleceu a sua mão”.
+====
+
+[[v9-23-17]]
+
+^<<v9-23-17,17>>^ Ele disse-lhe: “Não fiques com medo, pois Saul, o meu pai, não te encontrará. Tu serás o rei de Israel, e eu serei o segundo depois de ti; Saul, o meu pai, também sabe disso.”
+
+[[v9-23-18]]
+
+^<<v9-23-18,18>>^ Então, os dois fizeram um pacto perante Jeová. Depois disso, Jonatã foi para casa, e David permaneceu em Horesa.
+
+[[v9-23-19]]
+
+^<<v9-23-19,19>>^ Mais tarde, os homens de Zife foram a Gibeá e disseram a Saul: “David está escondido perto de nós, nos lugares de difícil acesso, em Horesa, na colina de Haquilá, que fica a sul^&#42;1^ do Jesimom.^&#42;2^
+
+[NOTE]
+====
+. Lit.: “no lado direito”.
+. Ou, possivelmente: “do deserto; do ermo”.
+====
+
+[[v9-23-20]]
+
+^<<v9-23-20,20>>^ Quando o senhor^&#42;1^ quiser descer, ó rei, desça, e nós vamos entregá-lo nas suas mãos.”
+
+[NOTE]
+====
+. Ou: “a sua alma”.
+====
+
+[[v9-23-21]]
+
+^<<v9-23-21,21>>^ Então, Saul disse: “Que Jeová vos abençoe, pois tiveram compaixão de mim.
+
+[[v9-23-22]]
+
+^<<v9-23-22,22>>^ Vão, por favor, e tentem descobrir onde é que ele está exatamente e quem o viu lá, pois disseram-me que ele é muito astuto.
+
+[[v9-23-23]]
+
+^<<v9-23-23,23>>^ Descubram onde ficam exatamente todos os seus esconderijos e tragam-me provas. Então, irei convosco e, se ele estiver no país, eu vou procurá-lo entre todos os milhares^&#42;1^ de Judá até o encontrar.”
+
+[NOTE]
+====
+. Ou: “clãs”.
+====
+
+[[v9-23-24]]
+
+^<<v9-23-24,24>>^ Assim, eles foram a Zife à frente de Saul, enquanto David e os seus homens estavam no deserto de Maom, no Arabá, a sul do Jesimom.
+
+[[v9-23-25]]
+
+^<<v9-23-25,25>>^ De seguida, Saul e os seus homens foram à procura dele. Ao ser informado disso, David desceu imediatamente até ao rochedo e permaneceu no deserto de Maom. Quando Saul soube disso, foi atrás de David no deserto de Maom.
+
+[[v9-23-26]]
+
+^<<v9-23-26,26>>^ Quando Saul chegou a um lado do monte, David e os seus homens estavam do outro lado. David fugia depressa de Saul, mas Saul e os seus homens aproximavam-se de David e dos seus homens para capturá-los.
+
+[[v9-23-27]]
+
+^<<v9-23-27,27>>^ No entanto, veio um mensageiro que disse a Saul: “Venha depressa, porque os filisteus atacaram o país!”
+
+[[v9-23-28]]
+
+^<<v9-23-28,28>>^ Assim, Saul deixou de perseguir David e foi lutar contra os filisteus. Foi por isso que se chamou àquele lugar Rochedo da Separação.
+
+[[v9-23-29]]
+
+^<<v9-23-29,29>>^ Então, David saiu dali e permaneceu nos lugares de difícil acesso em En-Gedi.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-022.adoc#v9-22-0[&#60; Capítulo Anterior] | <<v9-23-0,Topo>> | xref:009-1-samuel/009-1-samuel-024.adoc#v9-24-0[Próximo Capítulo &#62;]

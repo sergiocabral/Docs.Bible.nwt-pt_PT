@@ -1,0 +1,147 @@
+include::./index.adoc[]
+
+[[v52-5-0]]
+=== 1 Tessalonicenses, 5
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v52-5-1]]
+
+^<<v52-5-1,1>>^ Irmãos, quanto aos tempos e às épocas, não é preciso escrever-vos nada.
+
+[[v52-5-2]]
+
+^<<v52-5-2,2>>^ Pois sabem muito bem que o dia de Jeová^&#42;1^ vem exatamente como um ladrão à noite.
+
+[NOTE]
+====
+. Veja o Ap. A5.
+====
+
+[[v52-5-3]]
+
+^<<v52-5-3,3>>^ Quando estiverem a dizer: “Paz e segurança!”, então, virá instantaneamente sobre eles a repentina destruição, assim como as dores de parto vêm sobre a mulher grávida, e de modo algum escaparão.
+
+[[v52-5-4]]
+
+^<<v52-5-4,4>>^ Mas vocês, irmãos, não estão em escuridão, de modo que o dia vos sobrevenha assim como a luz do dia sobreviria a um ladrão,
+
+[[v52-5-5]]
+
+^<<v52-5-5,5>>^ pois todos vocês são filhos da luz e filhos do dia. Nós não pertencemos nem à noite nem à escuridão.
+
+[[v52-5-6]]
+
+^<<v52-5-6,6>>^ Portanto, não estejamos a dormir, assim como fazem os demais, mas estejamos despertos e mantenhamos os nossos sentidos.
+
+[[v52-5-7]]
+
+^<<v52-5-7,7>>^ Pois os que dormem, dormem de noite, e os que se embriagam, embriagam-se de noite.
+
+[[v52-5-8]]
+
+^<<v52-5-8,8>>^ Mas, quanto a nós, que pertencemos ao dia, mantenhamos os nossos sentidos e usemos a couraça da fé e do amor e, como capacete, a esperança da salvação;
+
+[[v52-5-9]]
+
+^<<v52-5-9,9>>^ porque Deus não nos escolheu para sofrer a ira, mas para obter a salvação por meio do nosso Senhor Jesus Cristo.
+
+[[v52-5-10]]
+
+^<<v52-5-10,10>>^ Ele morreu por nós, para que, quer estejamos acordados, quer estejamos a dormir,^&#42;1^ vivamos juntamente com ele.
+
+[NOTE]
+====
+. Ou: “a dormir na morte”.
+====
+
+[[v52-5-11]]
+
+^<<v52-5-11,11>>^ Portanto, continuem a encorajar-se^&#42;1^ e a edificar-se uns aos outros, assim como, de facto, estão a fazer.
+
+[NOTE]
+====
+. Ou: “consolar-se”.
+====
+
+[[v52-5-12]]
+
+^<<v52-5-12,12>>^ Pedimos agora, irmãos, que respeitem os que trabalham arduamente no vosso meio, que vos presidem no Senhor e que vos aconselham.
+
+[[v52-5-13]]
+
+^<<v52-5-13,13>>^ Tenham a mais alta consideração por eles, com amor, por causa do seu trabalho. Sejam pacíficos uns com os outros.
+
+[[v52-5-14]]
+
+^<<v52-5-14,14>>^ Por outro lado, queremos exortar-vos, irmãos, a que advirtam^&#42;1^ os desordeiros, consolem os que estão deprimidos,^&#42;2^ amparem os fracos, sejam pacientes com todos.
+
+[NOTE]
+====
+. Ou: “aconselhem com firmeza”.
+. Ou: “os desanimados”. Lit.: “os de pouca alma”.
+====
+
+[[v52-5-15]]
+
+^<<v52-5-15,15>>^ Tenham cuidado para que ninguém pague o mal com o mal, mas empenhem-se sempre pelo bem uns dos outros e de todos.
+
+[[v52-5-16]]
+
+^<<v52-5-16,16>>^ Estejam sempre alegres.
+
+[[v52-5-17]]
+
+^<<v52-5-17,17>>^ Orem constantemente.
+
+[[v52-5-18]]
+
+^<<v52-5-18,18>>^ Deem graças por todas as coisas. Esta é a vontade de Deus para convosco em Cristo Jesus.
+
+[[v52-5-19]]
+
+^<<v52-5-19,19>>^ Não apaguem o fogo do espírito.
+
+[[v52-5-20]]
+
+^<<v52-5-20,20>>^ Não tratem as profecias com desprezo.
+
+[[v52-5-21]]
+
+^<<v52-5-21,21>>^ Certifiquem-se de todas as coisas; apeguem-se ao que é bom.
+
+[[v52-5-22]]
+
+^<<v52-5-22,22>>^ Abstenham-se de todo o tipo de mal.
+
+[[v52-5-23]]
+
+^<<v52-5-23,23>>^ Que o próprio Deus de paz vos santifique completamente. E que o vosso espírito, alma^&#42;1^ e corpo, irmãos, sejam preservados irrepreensíveis e sãos em todos os sentidos durante a presença do nosso Senhor Jesus Cristo.
+
+[NOTE]
+====
+. Ou: “vida”. Veja o Glossário, “Alma”.
+====
+
+[[v52-5-24]]
+
+^<<v52-5-24,24>>^ Aquele que vos chama é fiel, e ele certamente o fará.
+
+[[v52-5-25]]
+
+^<<v52-5-25,25>>^ Irmãos, continuem a orar por nós.
+
+[[v52-5-26]]
+
+^<<v52-5-26,26>>^ Cumprimentem todos os irmãos com um beijo santo.
+
+[[v52-5-27]]
+
+^<<v52-5-27,27>>^ Ponho-vos sob a obrigação solene, pelo Senhor, de providenciar que esta carta seja lida a todos os irmãos.
+
+[[v52-5-28]]
+
+^<<v52-5-28,28>>^ Que a bondade imerecida do nosso Senhor Jesus Cristo esteja convosco.
+
+'''
+
+xref:052-1-tessalonicenses/052-1-tessalonicenses-004.adoc#v52-4-0[&#60; Capítulo Anterior] | <<v52-5-0,Topo>> | xref:053-2-tessalonicenses/053-2-tessalonicenses-001.adoc#v53-1-0[Próximo Capítulo &#62;]

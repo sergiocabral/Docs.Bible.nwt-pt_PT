@@ -1,0 +1,140 @@
+include::./index.adoc[]
+
+[[v2-13-0]]
+=== Êxodo, 13
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v2-13-1]]
+
+^<<v2-13-1,1>>^ Jeová disse ainda a Moisés:
+
+[[v2-13-2]]
+
+^<<v2-13-2,2>>^ “Santifica^&#42;1^ para mim todos os primogénitos do sexo masculino^&#42;2^ entre os israelitas. O primeiro que nascer, tanto entre os homens como entre os animais, pertence-me.”
+
+[NOTE]
+====
+. Ou: “Põe de parte”.
+. Lit.: “todos os primogénitos que abrem cada ventre”.
+====
+
+[[v2-13-3]]
+
+^<<v2-13-3,3>>^ Então, Moisés disse ao povo: “Lembrem-se deste dia em que saíram do Egito, a terra da escravidão,^&#42;1^ porque Jeová vos tirou daqui com mão poderosa. Por isso, não se deve comer nada que tenha fermento.
+
+[NOTE]
+====
+. Lit.: “casa dos escravos”.
+====
+
+[[v2-13-4]]
+
+^<<v2-13-4,4>>^ Vocês estão a sair hoje, no mês de abibe.^&#42;1^
+
+[NOTE]
+====
+. Veja o Ap. B15.
+====
+
+[[v2-13-5]]
+
+^<<v2-13-5,5>>^ Quando Jeová te tiver levado à terra dos cananeus, dos hititas, dos amorreus, dos heveus e dos jebuseus, a qual ele jurou aos teus antepassados que te daria, uma terra que mana leite e mel, então, realiza esta celebração neste mês.
+
+[[v2-13-6]]
+
+^<<v2-13-6,6>>^ Deves comer pães sem fermento por sete dias, e no sétimo dia haverá uma festividade para Jeová.
+
+[[v2-13-7]]
+
+^<<v2-13-7,7>>^ Devem-se comer pães sem fermento^&#42;1^ nos sete dias; nada que tenha fermento deve ser encontrado contigo, e nenhum fermento deve ser encontrado contigo em todo o teu território.^&#42;2^
+
+[NOTE]
+====
+. Veja a nota de Êxodo 12:15.
+. Lit.: “em todos os teus limites”.
+====
+
+[[v2-13-8]]
+
+^<<v2-13-8,8>>^ Nesse dia, conta isto aos teus filhos: ‘É por causa do que Jeová fez por mim quando saí do Egito.’
+
+[[v2-13-9]]
+
+^<<v2-13-9,9>>^ E esta celebração servirá para ti como um sinal na tua mão e como uma recordação^&#42;1^ na tua testa,^&#42;2^ a fim de que a lei de Jeová esteja na tua boca, pois foi com mão poderosa que Jeová te tirou do Egito.
+
+[NOTE]
+====
+. Ou: “lembrete”.
+. Lit.: “entre os teus olhos”.
+====
+
+[[v2-13-10]]
+
+^<<v2-13-10,10>>^ Cumpre este decreto na época determinada, ano após ano.
+
+[[v2-13-11]]
+
+^<<v2-13-11,11>>^ “Quando Jeová te fizer entrar na terra dos cananeus e a der a ti, como ele te jurou a ti e aos teus antepassados,
+
+[[v2-13-12]]
+
+^<<v2-13-12,12>>^ devota a Jeová todos os primogénitos do sexo masculino^&#42;1^ e todos os machos dentre as primeiras crias dos animais que adquirires; eles pertencem a Jeová.
+
+[NOTE]
+====
+. Lit.: “todo aquele que abre o ventre”.
+====
+
+[[v2-13-13]]
+
+^<<v2-13-13,13>>^ Deves remir cada primeira cria dos jumentos com uma ovelha; se não a remires, parte-lhe a nuca. E deves remir todos os primogénitos dos teus filhos.
+
+[[v2-13-14]]
+
+^<<v2-13-14,14>>^ “Caso os teus filhos te perguntem mais tarde: ‘O que é que isto significa?’, diz-lhes: ‘Com mão poderosa, Jeová tirou-nos do Egito, a terra da escravidão.
+
+[[v2-13-15]]
+
+^<<v2-13-15,15>>^ Quando o Faraó, obstinadamente, se recusou a deixar-nos partir, Jeová matou todos os primogénitos na terra do Egito, desde o primogénito dos homens até ao primogénito dos animais. É por isso que estou a sacrificar a Jeová todos os primogénitos machos dos animais^&#42;1^ e estou a remir todos os primogénitos dos meus filhos.’
+
+[NOTE]
+====
+. Lit.: “tudo o que abre o ventre”.
+====
+
+[[v2-13-16]]
+
+^<<v2-13-16,16>>^ Isto servirá como um sinal na tua mão e como uma faixa na tua testa,^&#42;1^ pois foi com mão poderosa que Jeová nos tirou do Egito.”
+
+[NOTE]
+====
+. Lit.: “entre os teus olhos”.
+====
+
+[[v2-13-17]]
+
+^<<v2-13-17,17>>^ Quando o Faraó mandou o povo embora, Deus não os conduziu pelo caminho da terra dos filisteus, embora fosse o mais curto. Pois Deus disse: “Talvez o povo mude de ideias e volte para o Egito quando se confrontar com uma guerra.”
+
+[[v2-13-18]]
+
+^<<v2-13-18,18>>^ Assim, Deus fez com que o povo desse a volta pelo caminho do deserto do mar Vermelho. Porém, foi em formação de batalha que os israelitas saíram da terra do Egito.
+
+[[v2-13-19]]
+
+^<<v2-13-19,19>>^ Moisés também levou os ossos de José, porque José tinha feito os filhos de Israel jurarem solenemente: “Deus, sem falta, voltará a atenção para vocês; levem então os meus ossos convosco para fora daqui.”
+
+[[v2-13-20]]
+
+^<<v2-13-20,20>>^ Eles partiram de Sucote e acamparam em Etão, na extremidade do deserto.
+
+[[v2-13-21]]
+
+^<<v2-13-21,21>>^ Jeová ia à sua frente: de dia, numa coluna de nuvem, para guiá-los pelo caminho, e, de noite, numa coluna de fogo, para lhes dar luz, a fim de que pudessem viajar de dia e de noite.
+
+[[v2-13-22]]
+
+^<<v2-13-22,22>>^ A coluna de nuvem não se afastava de diante do povo durante o dia, nem a coluna de fogo durante a noite.
+
+'''
+
+xref:002-exodo/002-exodo-012.adoc#v2-12-0[&#60; Capítulo Anterior] | <<v2-13-0,Topo>> | xref:002-exodo/002-exodo-014.adoc#v2-14-0[Próximo Capítulo &#62;]

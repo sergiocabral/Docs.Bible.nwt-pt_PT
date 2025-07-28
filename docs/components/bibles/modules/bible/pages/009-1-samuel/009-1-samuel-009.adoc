@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v9-9-0]]
+=== 1 Samuel, 9
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v9-9-1]]
+
+^<<v9-9-1,1>>^ Havia um homem de Benjamim que se chamava Quis, filho de Abiel, filho de Zeror, filho de Becorate, filho de Afia. Ele era benjaminita e era muito rico.
+
+[[v9-9-2]]
+
+^<<v9-9-2,2>>^ Tinha um filho chamado Saul, que era jovem e bonito — entre os israelitas, não havia homem que fosse mais bonito do que ele —, e era o mais alto de todos; os outros só lhe davam pelo ombro.
+
+[[v9-9-3]]
+
+^<<v9-9-3,3>>^ Quando se perderam as jumentas de Quis, pai de Saul, Quis disse a Saul, seu filho: “Por favor, leva um dos ajudantes contigo e vai procurar as jumentas.”
+
+[[v9-9-4]]
+
+^<<v9-9-4,4>>^ Eles atravessaram a região montanhosa de Efraim e a terra de Salisa, porém, não as encontraram. Passaram pela terra de Saalim, mas as jumentas não estavam lá. Atravessaram toda a terra dos benjaminitas e não as encontraram.
+
+[[v9-9-5]]
+
+^<<v9-9-5,5>>^ Quando entraram na terra de Zufe, Saul disse ao ajudante que estava com ele: “Vamos voltar; senão, em vez de estar preocupado com as jumentas, o meu pai vai ficar preocupado connosco.”
+
+[[v9-9-6]]
+
+^<<v9-9-6,6>>^ Contudo, o ajudante disse: “Há um homem de Deus nesta cidade e ele é respeitado. Tudo o que ele diz se cumpre. Vamos lá agora. Talvez ele nos indique que caminho devemos seguir.”
+
+[[v9-9-7]]
+
+^<<v9-9-7,7>>^ Então, Saul disse ao seu ajudante: “Se lá formos, o que é que levaremos ao homem? Não temos pão nos nossos alforges nem nenhum presente para dar ao homem do verdadeiro Deus. O que é que temos connosco?”
+
+[[v9-9-8]]
+
+^<<v9-9-8,8>>^ O ajudante disse a Saul: “Tenho aqui na minha mão um quarto de um siclo^&#42;1^ de prata. Vou dá-lo ao homem do verdadeiro Deus para que ele nos indique o caminho.”
+
+[NOTE]
+====
+. Um siclo equivalia a 11,4 g. Veja o Ap. B14.
+====
+
+[[v9-9-9]]
+
+^<<v9-9-9,9>>^ (Antigamente, em Israel, quando alguém consultava a Deus, dizia: “Vamos ao vidente.” Pois, no passado, chamavam videntes^&#42;1^ aos que hoje conhecemos por profetas.)
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v9-9-10]]
+
+^<<v9-9-10,10>>^ Saul disse então ao seu ajudante: “Boa ideia! Vamos lá.” Assim, foram à cidade onde estava o homem do verdadeiro Deus.
+
+[[v9-9-11]]
+
+^<<v9-9-11,11>>^ Enquanto subiam até à cidade, encontraram umas raparigas que iam tirar água, e perguntaram-lhes: “O vidente^&#42;1^ está por aqui?”
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v9-9-12]]
+
+^<<v9-9-12,12>>^ Elas responderam: “Sim, ele está mesmo ali. Vão depressa. Ele chegou hoje à cidade, porque o povo vai fazer um sacrifício, hoje, no alto sagrado.
+
+[[v9-9-13]]
+
+^<<v9-9-13,13>>^ Assim que entrarem na cidade, irão encontrá-lo, antes de ele subir ao alto sagrado para comer. O povo não comerá antes de ele chegar, porque é ele quem abençoa o sacrifício. Só depois é que os convidados podem comer. Subam já e hão de encontrá-lo.”
+
+[[v9-9-14]]
+
+^<<v9-9-14,14>>^ Assim, subiram à cidade e, quando entraram, viram que Samuel vinha na sua direção para subir até ao alto sagrado.
+
+[[v9-9-15]]
+
+^<<v9-9-15,15>>^ Um dia antes de Saul chegar, Jeová tinha dito a^&#42;1^ Samuel:
+
+[NOTE]
+====
+. Lit.: “destapado o ouvido de”.
+====
+
+[[v9-9-16]]
+
+^<<v9-9-16,16>>^ “Amanhã, por volta desta hora, vou enviar-te um homem da terra de Benjamim. Deves ungi-lo como líder do meu povo Israel, e ele salvará o meu povo das mãos dos filisteus. Pois vi o sofrimento do meu povo, e o seu clamor chegou até mim.”
+
+[[v9-9-17]]
+
+^<<v9-9-17,17>>^ Quando Samuel viu Saul, Jeová disse-lhe: “Este é o homem de quem te falei: ‘É ele que governará o meu povo.’”^&#42;1^
+
+[NOTE]
+====
+. Ou: “manterá o meu povo dentro dos limites”.
+====
+
+[[v9-9-18]]
+
+^<<v9-9-18,18>>^ Saul aproximou-se de Samuel no portão da cidade e perguntou-lhe: “Por favor, diga-me: Onde é a casa do vidente?”^&#42;1^
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v9-9-19]]
+
+^<<v9-9-19,19>>^ Em resposta, Samuel disse a Saul: “Eu sou o vidente.^&#42;1^ Vai à minha frente até ao alto sagrado. Hoje, vocês comem comigo. Amanhã de manhã, vou deixar que te vás embora e revelar-te tudo o que queres saber.^&#42;2^
+
+[NOTE]
+====
+. Veja o Glossário.
+. Lit.: “tudo o que há no teu coração”.
+====
+
+[[v9-9-20]]
+
+^<<v9-9-20,20>>^ Quanto às jumentas que se perderam há três dias, não te preocupes com elas, pois foram encontradas. E a quem é que pertence tudo o que é desejável em Israel? Não é a ti e a toda a casa do teu pai?”
+
+[[v9-9-21]]
+
+^<<v9-9-21,21>>^ Saul respondeu: “Não sou eu benjaminita, da menor das tribos de Israel? E não é a minha família a mais insignificante de todas as famílias da tribo de Benjamim? Então, porque é que o senhor me está a dizer isso?”
+
+[[v9-9-22]]
+
+^<<v9-9-22,22>>^ De seguida, Samuel levou Saul e o seu ajudante ao refeitório e deu-lhes um lugar à cabeceira dos convidados; havia cerca de 30 homens.
+
+[[v9-9-23]]
+
+^<<v9-9-23,23>>^ Samuel disse ao cozinheiro: “Traz a porção de carne que te entreguei e que te pedi para separares.”
+
+[[v9-9-24]]
+
+^<<v9-9-24,24>>^ Então, o cozinheiro retirou a perna do animal e o que nela havia, e colocou-a diante de Saul. E Samuel disse: “Aqui está o que foi separado para ti. Come, porque isto foi separado para que tu o comesses nesta ocasião. Pois eu disse: ‘Terei convidados.’” Assim, naquele dia, Saul comeu com Samuel.
+
+[[v9-9-25]]
+
+^<<v9-9-25,25>>^ Depois, desceram do alto sagrado para a cidade e Samuel continuou a conversar com Saul no terraço da casa.
+
+[[v9-9-26]]
+
+^<<v9-9-26,26>>^ Levantaram-se cedo e, ao amanhecer, Samuel chamou Saul, que estava no terraço, e disse-lhe: “Prepara-te, para que eu me despeça de ti.” Por conseguinte, Saul preparou-se, e ele e Samuel saíram.
+
+[[v9-9-27]]
+
+^<<v9-9-27,27>>^ Enquanto desciam, já ao sair da cidade, Samuel disse a Saul: “Diz ao ajudante que vá andando à frente” (então, ele foi andando), “mas, tu, fica aqui, para que eu te comunique a palavra de Deus”.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-008.adoc#v9-8-0[&#60; Capítulo Anterior] | <<v9-9-0,Topo>> | xref:009-1-samuel/009-1-samuel-010.adoc#v9-10-0[Próximo Capítulo &#62;]

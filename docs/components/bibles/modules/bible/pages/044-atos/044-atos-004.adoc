@@ -1,0 +1,221 @@
+include::./index.adoc[]
+
+[[v44-4-0]]
+=== Atos, 4
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v44-4-1]]
+
+^<<v44-4-1,1>>^ Enquanto os dois estavam a falar com o povo, aproximaram-se deles os sacerdotes, o capitão do templo e os saduceus.
+
+[[v44-4-2]]
+
+^<<v44-4-2,2>>^ Eles estavam irritados porque os apóstolos ensinavam o povo e declaravam abertamente a ressurreição de Jesus dentre os mortos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “a ressurreição dentre os mortos no caso de Jesus”.
+====
+
+[[v44-4-3]]
+
+^<<v44-4-3,3>>^ Então, agarraram-nos^&#42;1^ e puseram-nos na cadeia até ao dia seguinte, pois já tinha anoitecido.
+
+[NOTE]
+====
+. Ou: “prenderam-nos”.
+====
+
+[[v44-4-4]]
+
+^<<v44-4-4,4>>^ No entanto, muitos dos que tinham escutado o discurso acreditaram, e o número de homens chegou a cerca de 5000.
+
+[[v44-4-5]]
+
+^<<v44-4-5,5>>^ No dia seguinte, as autoridades, os anciãos e os escribas reuniram-se em Jerusalém,
+
+[[v44-4-6]]
+
+^<<v44-4-6,6>>^ juntamente com Anás, que era o principal sacerdote, Caifás, João, Alexandre e todos os que eram parentes do principal sacerdote.
+
+[[v44-4-7]]
+
+^<<v44-4-7,7>>^ Colocaram Pedro e João no meio deles e interrogaram-nos: “Com que poder ou em nome de quem é que fizeram isto?”
+
+[[v44-4-8]]
+
+^<<v44-4-8,8>>^ Então, Pedro, cheio de espírito santo, disse-lhes:
+“Líderes do povo e anciãos,
+
+[[v44-4-9]]
+
+^<<v44-4-9,9>>^ se hoje estamos a ser interrogados por causa de uma boa ação feita a um homem aleijado, e se querem saber quem fez esse homem ficar bom,
+
+[[v44-4-10]]
+
+^<<v44-4-10,10>>^ saibam os senhores e todo o povo de Israel que é em nome de Jesus Cristo, o Nazareno, aquele que os senhores executaram numa estaca, mas que Deus levantou dentre os mortos, sim, é por meio dele que este homem está aqui curado, diante dos senhores.
+
+[[v44-4-11]]
+
+^<<v44-4-11,11>>^ Este Jesus é ‘a pedra que vocês, construtores, não levaram em conta e que se tornou a principal pedra angular’.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “a cabeça da esquina”.
+====
+
+[[v44-4-12]]
+
+^<<v44-4-12,12>>^ Além disso, não há salvação em mais ninguém, pois não há outro nome debaixo do céu, que tenha sido dado aos homens, pelo qual devamos ser salvos.”
+
+[[v44-4-13]]
+
+^<<v44-4-13,13>>^ Quando viram a coragem^&#42;1^ de Pedro e de João, e notaram que eles eram homens comuns e sem instrução,^&#42;2^ ficaram admirados. E perceberam que eles tinham andado com Jesus.
+
+[NOTE]
+====
+. Ou: “franqueza”.
+. Ou: “e indoutos”, isto é, que não tinham estudado nas escolas rabínicas. Mas isto não significa que fossem analfabetos.
+====
+
+[[v44-4-14]]
+
+^<<v44-4-14,14>>^ Eles ficaram sem resposta, pois estavam a ver ali entre eles o homem que tinha sido curado.
+
+[[v44-4-15]]
+
+^<<v44-4-15,15>>^ Assim, ordenaram-lhes que saíssem do Sinédrio e começaram a discutir o assunto entre si;
+
+[[v44-4-16]]
+
+^<<v44-4-16,16>>^ diziam: “O que é que faremos com estes homens? Porque, realmente, ocorreu um sinal notável por meio deles, que passou a ser conhecido por todos os habitantes de Jerusalém, e não podemos negá-lo.
+
+[[v44-4-17]]
+
+^<<v44-4-17,17>>^ Para que isto não se espalhe ainda mais entre o povo, vamos ameaçá-los e dizer-lhes que não voltem a falar com ninguém à base deste nome.”
+
+[[v44-4-18]]
+
+^<<v44-4-18,18>>^ Por conseguinte, chamaram-nos e ordenaram-lhes que não dissessem nada nem ensinassem em nome de Jesus.
+
+[[v44-4-19]]
+
+^<<v44-4-19,19>>^ Contudo, Pedro e João responderam-lhes: “Julguem os senhores se é certo, à vista de Deus, obedecer-vos em vez de obedecer a Deus.
+
+[[v44-4-20]]
+
+^<<v44-4-20,20>>^ Quanto a nós, não podemos parar de falar das coisas que vimos e ouvimos.”
+
+[[v44-4-21]]
+
+^<<v44-4-21,21>>^ Assim, depois de terem voltado a ameaçá-los, soltaram-nos por não terem encontrado nenhuma base para puni-los e também por causa do povo, porque todos estavam a glorificar a Deus pelo que tinha acontecido.
+
+[[v44-4-22]]
+
+^<<v44-4-22,22>>^ Pois o homem curado por esse milagre^&#42;1^ tinha mais de 40 anos.
+
+[NOTE]
+====
+. Ou: “sinal”.
+====
+
+[[v44-4-23]]
+
+^<<v44-4-23,23>>^ Depois de serem soltos, foram ao encontro dos outros discípulos^&#42;1^ e contaram o que os principais sacerdotes e os anciãos lhes tinham dito.
+
+[NOTE]
+====
+. Ou: “do seu próprio povo”.
+====
+
+[[v44-4-24]]
+
+^<<v44-4-24,24>>^ Ao ouvirem isso, unidos, levantaram a voz a Deus, dizendo:
+“Soberano Senhor, tu és aquele que fez o céu, a terra, o mar e tudo o que há neles,
+
+[[v44-4-25]]
+
+^<<v44-4-25,25>>^ e quem, por espírito santo, disse por meio do nosso antepassado David, teu servo: ‘Porque é que as nações ficaram agitadas e os povos meditaram em coisas vãs?
+
+[[v44-4-26]]
+
+^<<v44-4-26,26>>^ Os reis da terra tomaram a sua posição, e os governantes uniram-se contra Jeová^&#42;1^ e contra o seu ungido.’^&#42;2^
+
+[NOTE]
+====
+. Veja o Ap. A5.
+. Ou: “o seu Cristo”.
+====
+
+[[v44-4-27]]
+
+^<<v44-4-27,27>>^ De facto, Herodes e Pôncio Pilatos reuniram-se nesta cidade com homens das nações e com povos de Israel contra o teu santo servo Jesus, a quem ungiste,
+
+[[v44-4-28]]
+
+^<<v44-4-28,28>>^ para fazerem aquilo que o teu poder e a tua vontade^&#42;1^ predeterminaram que ocorresse.
+
+[NOTE]
+====
+. Ou: “o teu conselho”.
+====
+
+[[v44-4-29]]
+
+^<<v44-4-29,29>>^ E agora, Jeová,^&#42;1^ dá atenção às suas ameaças e concede aos teus escravos que continuem a falar a tua palavra com toda a coragem,
+
+[NOTE]
+====
+. Veja o Ap. A5.
+====
+
+[[v44-4-30]]
+
+^<<v44-4-30,30>>^ enquanto estendes a mão para curar e enquanto ocorrem sinais e milagres^&#42;1^ por meio do nome do teu santo servo Jesus.”
+
+[NOTE]
+====
+. Ou: “portentos”.
+====
+
+[[v44-4-31]]
+
+^<<v44-4-31,31>>^ Depois de terem feito a súplica,^&#42;1^ o lugar onde estavam reunidos tremeu. Todos ficaram cheios de espírito santo e começaram a declarar a palavra de Deus com coragem.
+
+[NOTE]
+====
+. Ou: “orado fervorosamente”.
+====
+
+[[v44-4-32]]
+
+^<<v44-4-32,32>>^ Além disso, a multidão dos que creram era de um só coração e de uma só alma,^&#42;1^ e nenhum deles dizia que as coisas que possuía eram suas, mas compartilhavam tudo o que tinham.
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v44-4-33]]
+
+^<<v44-4-33,33>>^ E os apóstolos continuavam, de forma poderosa, a dar testemunho a respeito da ressurreição do Senhor Jesus, e todos eles eram grandemente abençoados com bondade imerecida.
+
+[[v44-4-34]]
+
+^<<v44-4-34,34>>^ De facto, ninguém entre eles passava necessidade, porque todos os que possuíam campos ou casas vendiam-nos, traziam o dinheiro da venda
+
+[[v44-4-35]]
+
+^<<v44-4-35,35>>^ e colocavam-no aos pés dos apóstolos. Depois, fazia-se a distribuição, conforme a necessidade de cada um.
+
+[[v44-4-36]]
+
+^<<v44-4-36,36>>^ Assim fez José, a quem os apóstolos chamavam Barnabé (que traduzido significa “filho do consolo”), um levita, natural de Chipre,
+
+[[v44-4-37]]
+
+^<<v44-4-37,37>>^ que possuía um pedaço de terra. Ele vendeu-o, trouxe o dinheiro e colocou-o aos pés dos apóstolos.
+
+'''
+
+xref:044-atos/044-atos-003.adoc#v44-3-0[&#60; Capítulo Anterior] | <<v44-4-0,Topo>> | xref:044-atos/044-atos-005.adoc#v44-5-0[Próximo Capítulo &#62;]

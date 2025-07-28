@@ -1,0 +1,193 @@
+include::./index.adoc[]
+
+[[v19-34-0]]
+=== Salmos, 34
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_De David. Quando fingiu estar louco diante de Abimeleque e, expulso por este, partiu._
+
+_א &#91;álefe&#93;_
+
+[[v19-34-1]]
+
+^<<v19-34-1,1>>^ Vou louvar a Jeová a toda a hora;
+O seu louvor estará sempre nos meus lábios.
+
+_ב &#91;bete&#93;_
+
+[[v19-34-2]]
+
+^<<v19-34-2,2>>^ Eu falarei^&#42;1^ de Jeová com orgulho;
+Os mansos vão ouvir e alegrar-se.
+
+[NOTE]
+====
+. Ou: “A minha alma falará”.
+====
+
+_ג &#91;guímel&#93;_
+
+[[v19-34-3]]
+
+^<<v19-34-3,3>>^ Magnifiquem a Jeová comigo;
+Exaltemos juntos o seu nome.
+
+_ד &#91;dálete&#93;_
+
+[[v19-34-4]]
+
+^<<v19-34-4,4>>^ Consultei a Jeová, e ele respondeu-me.
+Livrou-me de todos os meus temores.
+
+_ה &#91;hê&#93;_
+
+[[v19-34-5]]
+
+^<<v19-34-5,5>>^ Os que olharam para ele ficaram radiantes;
+O rosto deles não podia ficar envergonhado.
+
+_ז &#91;zaine&#93;_
+
+[[v19-34-6]]
+
+^<<v19-34-6,6>>^ Este homem humilde chamou, e Jeová ouviu.
+Ele salvou-o de todas as suas aflições.
+
+_ח &#91;hete&#93;_
+
+[[v19-34-7]]
+
+^<<v19-34-7,7>>^ O anjo de Jeová acampa ao redor dos que O temem,
+E ele socorre-os.
+
+_ט &#91;tete&#93;_
+
+[[v19-34-8]]
+
+^<<v19-34-8,8>>^ Provem e vejam que Jeová é bom;
+Feliz o homem que se refugia nele.
+
+_י &#91;iode&#93;_
+
+[[v19-34-9]]
+
+^<<v19-34-9,9>>^ Temam a Jeová, todos vocês, os seus santos,
+Pois nada falta aos que o temem.
+
+_כ &#91;cafe&#93;_
+
+[[v19-34-10]]
+
+^<<v19-34-10,10>>^ Até os fortes leões novos^&#42;1^ vieram a passar fome,
+Mas não faltará nada de bom aos que procuram a Jeová.
+
+[NOTE]
+====
+. Ou: “os leões novos jubados”.
+====
+
+_ל &#91;lâmede&#93;_
+
+[[v19-34-11]]
+
+^<<v19-34-11,11>>^ Venham, meus filhos, escutem-me;
+Vou ensinar-vos o temor de Jeová.
+
+_מ &#91;meme&#93;_
+
+[[v19-34-12]]
+
+^<<v19-34-12,12>>^ Entre vocês, quem é que tem prazer na vida
+E deseja ver muitos dias felizes?
+
+_נ &#91;nune&#93;_
+
+[[v19-34-13]]
+
+^<<v19-34-13,13>>^ Nesse caso, resguarda a tua língua do mal,
+E os teus lábios de dizer mentiras.
+
+_ס &#91;sâmeque&#93;_
+
+[[v19-34-14]]
+
+^<<v19-34-14,14>>^ Desvia-te do mal e faz o bem;
+Procura a paz e empenha-te por ela.
+
+_ע &#91;aine&#93;_
+
+[[v19-34-15]]
+
+^<<v19-34-15,15>>^ Os olhos de Jeová estão sobre os justos,
+E os seus ouvidos escutam o seu clamor por ajuda.
+
+_פ &#91;pê&#93;_
+
+[[v19-34-16]]
+
+^<<v19-34-16,16>>^ Mas a face de Jeová volta-se contra os que fazem o que é mau,
+Para apagar da terra todas as memórias que há deles.
+
+_צ &#91;tsadê&#93;_
+
+[[v19-34-17]]
+
+^<<v19-34-17,17>>^ Eles^&#42;1^ clamaram e Jeová ouviu;
+Ele livrou-os de todas as suas aflições.
+
+[NOTE]
+====
+. Isto é, os justos.
+====
+
+_ק &#91;cofe&#93;_
+
+[[v19-34-18]]
+
+^<<v19-34-18,18>>^ Jeová está perto dos que têm o coração quebrantado,
+Ele salva os que têm o espírito esmagado.^&#42;1^
+
+[NOTE]
+====
+. Ou: “estão desanimados”.
+====
+
+_ר &#91;rexe&#93;_
+
+[[v19-34-19]]
+
+^<<v19-34-19,19>>^ Muitas são as dificuldades^&#42;1^ do justo,
+Mas Jeová livra-o de todas elas.
+
+[NOTE]
+====
+. Ou: “calamidades”.
+====
+
+_ש &#91;chim&#93;_
+
+[[v19-34-20]]
+
+^<<v19-34-20,20>>^ Ele protege todos os seus ossos;
+Nem sequer um deles foi quebrado.
+
+_ת &#91;tau&#93;_
+
+[[v19-34-21]]
+
+^<<v19-34-21,21>>^ O desastre levará à morte aquele que é mau;
+Os que odeiam o justo serão condenados.
+
+[[v19-34-22]]
+
+^<<v19-34-22,22>>^ Jeová resgata a vida^&#42;1^ dos seus servos;
+Ninguém que se refugia nele será condenado.
+
+[NOTE]
+====
+. Ou: “alma”.
+====
+
+'''
+
+xref:019-salmo/019-salmo-033.adoc#v19-33-0[&#60; Capítulo Anterior] | <<v19-34-0,Topo>> | xref:019-salmo/019-salmo-035.adoc#v19-35-0[Próximo Capítulo &#62;]

@@ -1,0 +1,139 @@
+include::./index.adoc[]
+
+[[v34-2-0]]
+=== Naum, 2
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v34-2-1]]
+
+^<<v34-2-1,1>>^ Subiu contra ti^&#42;1^ alguém que te espalhará.
+Defende as fortificações.
+Vigia as estradas.
+Preparem-se^&#42;2^ e reúnam todas as vossas forças.
+
+[NOTE]
+====
+. Isto é, Nínive.
+. Lit.: “Fortalece as ancas”.
+====
+
+[[v34-2-2]]
+
+^<<v34-2-2,2>>^ Pois Jeová restaurará a glória^&#42;1^ de Jacó,
+Assim como a glória de Israel,
+Pois os devastadores os devastaram
+E arruinaram os seus ramos novos.
+
+[NOTE]
+====
+. Ou: “o orgulho”.
+====
+
+[[v34-2-3]]
+
+^<<v34-2-3,3>>^ Os escudos dos seus homens valentes estão tingidos de vermelho,
+Os seus guerreiros estão vestidos de escarlate.
+As partes de ferro do seu carro de guerra brilham como fogo
+No dia em que ele se prepara para a batalha,
+E as lanças de junípero são agitadas.
+
+[[v34-2-4]]
+
+^<<v34-2-4,4>>^ Os carros de guerra andam loucamente pelas ruas.
+Andam para cima e para baixo nas praças.
+Brilham como tochas acesas e reluzem como relâmpagos.
+
+[[v34-2-5]]
+
+^<<v34-2-5,5>>^ Ele^&#42;1^ convocará os seus oficiais.
+Eles avançarão aos tropeções.
+Correrão até à muralha dela;
+Eles erguerão uma barricada.
+
+[NOTE]
+====
+. Possivelmente, refere-se ao rei da Assíria.
+====
+
+[[v34-2-6]]
+
+^<<v34-2-6,6>>^ As portas dos rios serão abertas,
+E o palácio será destruído.^&#42;1^
+
+[NOTE]
+====
+. Ou: “será dissolvido; ruirá”.
+====
+
+[[v34-2-7]]
+
+^<<v34-2-7,7>>^ Foi decretado:^&#42;1^ Ela^&#42;2^ está exposta,
+Será levada, e as suas escravas lamentarão;
+Elas gemerão como pombas e baterão no peito.^&#42;3^
+
+[NOTE]
+====
+. Ou: “determinado”.
+. Isto é, Nínive.
+. Lit.: “nos seus corações”.
+====
+
+[[v34-2-8]]
+
+^<<v34-2-8,8>>^ Nínive sempre foi como um reservatório de águas,
+Mas, agora, elas estão a escapar-se.
+“Parem! Parem!”
+Mas ninguém volta atrás.
+
+[[v34-2-9]]
+
+^<<v34-2-9,9>>^ Saqueiem a prata, saqueiem o ouro!
+Os tesouros não têm fim.
+Ela está repleta de todo o tipo de coisas preciosas.
+
+[[v34-2-10]]
+
+^<<v34-2-10,10>>^ A cidade está vazia, desolada, devastada!
+Os corações derretem-se de medo, os joelhos vacilam e as ancas tremem;
+Todos os rostos expressam angústia.^&#42;1^
+
+[NOTE]
+====
+. Ou: “estão corados”.
+====
+
+[[v34-2-11]]
+
+^<<v34-2-11,11>>^ Onde é que está o esconderijo dos leões, o lugar onde os leões novos^&#42;1^ se alimentam,
+De onde o leão sai com a sua cria,
+Sem que ninguém os faça ter medo?
+
+[NOTE]
+====
+. Ou: “leões novos jubados”.
+====
+
+[[v34-2-12]]
+
+^<<v34-2-12,12>>^ O leão dilacerava presas suficientes para as suas crias
+E estrangulava animais para as suas leoas.
+Ele mantinha os seus covis cheios de presas,
+Os seus esconderijos cheios de animais dilacerados.
+
+[[v34-2-13]]
+
+^<<v34-2-13,13>>^ “Vê! Estou contra ti”, diz Jeová dos exércitos.
+“Reduzirei os teus carros de guerra^&#42;1^ a fumo,
+E a espada devorará os teus leões novos.^&#42;2^
+Eu acabarei com as tuas caçadas na terra,
+E não se voltarão a ouvir os teus mensageiros.”
+
+[NOTE]
+====
+. Lit.: “os carros de guerra dela”.
+. Ou: “leões novos jubados”.
+====
+
+'''
+
+xref:034-naum/034-naum-001.adoc#v34-1-0[&#60; Capítulo Anterior] | <<v34-2-0,Topo>> | xref:034-naum/034-naum-003.adoc#v34-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,115 @@
+include::./index.adoc[]
+
+[[v5-30-0]]
+=== Deuteronómio, 30
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v5-30-1]]
+
+^<<v5-30-1,1>>^ “Quando todas estas palavras vierem sobre ti— a bênção e a maldição que pus diante de ti —, e tu te lembrares delas^&#42;1^ em todas as nações por onde Jeová, teu Deus, te tiver espalhado,
+
+[NOTE]
+====
+. Lit.: “e as trouxeres de volta ao teu coração”.
+====
+
+[[v5-30-2]]
+
+^<<v5-30-2,2>>^ e voltares para Jeová, teu Deus, e escutares a sua voz, conforme tudo o que hoje te ordeno, tu e os teus filhos, de todo o teu coração e de toda a tua alma,^&#42;1^
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v5-30-3]]
+
+^<<v5-30-3,3>>^ então, Jeová, teu Deus, irá trazer-te de volta do cativeiro; terá misericórdia de ti e voltará a reunir-te dentre todos os povos pelos quais Jeová, teu Deus, te tiver espalhado.
+
+[[v5-30-4]]
+
+^<<v5-30-4,4>>^ Mesmo que o teu povo esteja espalhado até aos confins dos céus, Jeová, teu Deus, irá reunir-te de lá e trazer-te de volta.
+
+[[v5-30-5]]
+
+^<<v5-30-5,5>>^ Jeová, teu Deus, irá trazer-te à terra de que os teus pais tomaram posse, e tu tomarás posse dela. E ele fará com que prosperes e irá multiplicar-te mais do que aos teus pais.
+
+[[v5-30-6]]
+
+^<<v5-30-6,6>>^ Jeová, teu Deus, purificará^&#42;1^ o teu coração e o coração da tua descendência, de modo que amarás a Jeová, teu Deus, de todo o teu coração e de toda a tua alma,^&#42;2^ para que vivas.
+
+[NOTE]
+====
+. Lit.: “circuncidará”.
+. Veja o Glossário.
+====
+
+[[v5-30-7]]
+
+^<<v5-30-7,7>>^ Então, Jeová, teu Deus, trará todas estas maldições sobre os teus inimigos, que te odiaram e perseguiram.
+
+[[v5-30-8]]
+
+^<<v5-30-8,8>>^ “Então, tu voltarás para Jeová, escutarás a sua voz e obedecerás a todos os seus mandamentos, que hoje te ordeno.
+
+[[v5-30-9]]
+
+^<<v5-30-9,9>>^ Jeová, teu Deus, fará prosperar abundantemente todo o trabalho das tuas mãos, multiplicando os teus filhos, o teu gado e os produtos da tua terra, visto que Jeová se alegrará em te fazer prosperar, assim como se alegrou com os teus antepassados.
+
+[[v5-30-10]]
+
+^<<v5-30-10,10>>^ Pois, então, escutarás a voz de Jeová, teu Deus, guardarás os seus mandamentos e decretos, escritos neste livro da Lei, e voltarás para Jeová, teu Deus, de todo o teu coração e de toda a tua alma.^&#42;1^
+
+[NOTE]
+====
+. Veja o Glossário.
+====
+
+[[v5-30-11]]
+
+^<<v5-30-11,11>>^ “Este mandamento que hoje te ordeno não é demasiado difícil para cumprires, nem está fora do teu alcance.^&#42;1^
+
+[NOTE]
+====
+. Lit.: “nem está longe”.
+====
+
+[[v5-30-12]]
+
+^<<v5-30-12,12>>^ Não está nos céus, de modo que tenhas de dizer: ‘Quem é que subirá aos céus e o trará para nós, a fim de o podermos ouvir e cumprir?’
+
+[[v5-30-13]]
+
+^<<v5-30-13,13>>^ Nem está do outro lado do mar, para que tenhas de dizer: ‘Quem atravessará para o outro lado do mar e o trará para nós, a fim de o podermos ouvir e cumprir?’
+
+[[v5-30-14]]
+
+^<<v5-30-14,14>>^ Pois a palavra está bem perto de ti, na tua própria boca e no teu próprio coração, para que a cumpras.
+
+[[v5-30-15]]
+
+^<<v5-30-15,15>>^ “Vê, ponho hoje diante de ti a vida e o bem, a morte e o mal.
+
+[[v5-30-16]]
+
+^<<v5-30-16,16>>^ Se escutares os mandamentos de Jeová, teu Deus, que hoje te ordeno, por amares a Jeová, teu Deus, por andares nos seus caminhos e por guardares os seus mandamentos, decretos e decisões judiciais, então, ficarás vivo e irás multiplicar-te; e Jeová, teu Deus, irá abençoar-te na terra de que vais tomar posse.
+
+[[v5-30-17]]
+
+^<<v5-30-17,17>>^ “Mas, se o teu coração se desviar e tu não escutares, fores seduzido, te curvares diante de outros deuses e os servires,
+
+[[v5-30-18]]
+
+^<<v5-30-18,18>>^ declaro-vos hoje que vocês certamente morrerão. Não viverão muito tempo na terra da qual vais tomar posse ao atravessar o Jordão.
+
+[[v5-30-19]]
+
+^<<v5-30-19,19>>^ Tomo hoje os céus e a terra como testemunhas contra vocês de que pus diante de ti a vida e a morte, a bênção e a maldição. Escolhe a vida para continuares vivo, tu e os teus descendentes,
+
+[[v5-30-20]]
+
+^<<v5-30-20,20>>^ por amares a Jeová, teu Deus, por escutares a sua voz e por te apegares a ele, pois ele é a tua vida e, por meio dele, viverás muito tempo na terra que Jeová jurou dar aos teus antepassados, Abraão, Isaque e Jacó.”
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-029.adoc#v5-29-0[&#60; Capítulo Anterior] | <<v5-30-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-031.adoc#v5-31-0[Próximo Capítulo &#62;]

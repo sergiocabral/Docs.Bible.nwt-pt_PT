@@ -1,0 +1,266 @@
+include::./index.adoc[]
+
+[[v20-23-0]]
+=== Provérbios, 23
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v20-23-1]]
+
+^<<v20-23-1,1>>^ Quando te sentares para comer com um rei,
+Considera cuidadosamente o que está diante de ti;
+
+[[v20-23-2]]
+
+^<<v20-23-2,2>>^ Põe uma faca na tua própria garganta,^&#42;1^
+Se tiveres muito apetite.^&#42;2^
+
+[NOTE]
+====
+. Ou: “Controla-te”.
+. Ou: “uma alma cheia de desejo”.
+====
+
+[[v20-23-3]]
+
+^<<v20-23-3,3>>^ Não desejes as suas iguarias,
+Pois são alimentos enganosos.
+
+[[v20-23-4]]
+
+^<<v20-23-4,4>>^ Não te esgotes para obter riquezas.
+Para e mostra entendimento.^&#42;1^
+
+[NOTE]
+====
+. Ou, possivelmente: “Para de confiar no teu próprio entendimento.”
+====
+
+[[v20-23-5]]
+
+^<<v20-23-5,5>>^ Quando lhes pões os olhos, elas desaparecem,
+Pois certamente criam asas como uma águia e voam para o céu.
+
+[[v20-23-6]]
+
+^<<v20-23-6,6>>^ Não comas a comida de alguém mesquinho;^&#42;1^
+Não desejes as suas iguarias,
+
+[NOTE]
+====
+. Ou: “alguém cujo olho é mau”.
+====
+
+[[v20-23-7]]
+
+^<<v20-23-7,7>>^ Pois ele é como alguém que calcula os gastos.^&#42;1^
+Ele diz-te: “Come e bebe”, mas não está a ser sincero.^&#42;2^
+
+[NOTE]
+====
+. Ou: “calcula na sua alma”.
+. Lit.: “o coração dele não está contigo”.
+====
+
+[[v20-23-8]]
+
+^<<v20-23-8,8>>^ Vomitarás o pouco que comeste
+E terás desperdiçado os teus elogios.
+
+[[v20-23-9]]
+
+^<<v20-23-9,9>>^ Não fales aos ouvidos do tolo,
+Pois ele desprezará a sabedoria das tuas palavras.
+
+[[v20-23-10]]
+
+^<<v20-23-10,10>>^ Não mudes de lugar os antigos marcos divisórios,
+Nem entres no campo dos órfãos.^&#42;1^
+
+[NOTE]
+====
+. Ou: “órfãos de pai”.
+====
+
+[[v20-23-11]]
+
+^<<v20-23-11,11>>^ Pois o Defensor^&#42;1^ deles é forte;
+Ele defenderá a causa deles contra ti.
+
+[NOTE]
+====
+. Lit.: “Redentor”.
+====
+
+[[v20-23-12]]
+
+^<<v20-23-12,12>>^ Aplica o teu coração à disciplina
+E o teu ouvido às declarações de conhecimento.
+
+[[v20-23-13]]
+
+^<<v20-23-13,13>>^ Não deixes de disciplinar o rapaz.^&#42;1^
+Se lhe bateres com a vara, ele não morrerá.
+
+[NOTE]
+====
+. Ou: “a criança; o menino; o jovem”.
+====
+
+[[v20-23-14]]
+
+^<<v20-23-14,14>>^ Deves bater-lhe com a vara,
+Para o salvar^&#42;1^ da Sepultura.^&#42;2^
+
+[NOTE]
+====
+. Ou: “salvar a sua alma”.
+. Ou: “do Seol”, isto é, a sepultura comum da humanidade. Veja o Glossário.
+====
+
+[[v20-23-15]]
+
+^<<v20-23-15,15>>^ Meu filho, se o teu coração se tornar sábio,
+O meu coração irá alegrar-se.
+
+[[v20-23-16]]
+
+^<<v20-23-16,16>>^ O meu íntimo sentirá alegria^&#42;1^
+Quando os teus lábios falarem o que é certo.
+
+[NOTE]
+====
+. Lit.: “Os meus rins irão alegrar-se”.
+====
+
+[[v20-23-17]]
+
+^<<v20-23-17,17>>^ Que o teu coração não inveje os pecadores,
+Mas que tema a Jeová o dia inteiro,
+
+[[v20-23-18]]
+
+^<<v20-23-18,18>>^ Pois então terás um bom futuro,
+E a tua esperança não te será tirada.^&#42;1^
+
+[NOTE]
+====
+. Ou: “não será decepada”.
+====
+
+[[v20-23-19]]
+
+^<<v20-23-19,19>>^ Meu filho, ouve e torna-te sábio,
+E guia o teu coração no caminho certo.
+
+[[v20-23-20]]
+
+^<<v20-23-20,20>>^ Não estejas entre os que bebem muito vinho,
+Entre os que se empanturram de carne,
+
+[[v20-23-21]]
+
+^<<v20-23-21,21>>^ Pois o beberrão e o glutão ficarão pobres,
+E a sonolência irá vesti-los de trapos.
+
+[[v20-23-22]]
+
+^<<v20-23-22,22>>^ Escuta o teu pai, que causou o teu nascimento,
+E não desprezes a tua mãe só porque ela envelheceu.
+
+[[v20-23-23]]
+
+^<<v20-23-23,23>>^ Compra^&#42;1^ a verdade e nunca a vendas,
+Também a sabedoria, a disciplina e o entendimento.
+
+[NOTE]
+====
+. Ou: “Adquire”.
+====
+
+[[v20-23-24]]
+
+^<<v20-23-24,24>>^ O pai de um justo de certeza exultará;
+Quem é pai de um filho sábio irá alegrar-se por causa dele.
+
+[[v20-23-25]]
+
+^<<v20-23-25,25>>^ O teu pai e a tua mãe irão alegrar-se,
+E aquela que te deu à luz exultará.
+
+[[v20-23-26]]
+
+^<<v20-23-26,26>>^ Meu filho, dá-me o teu coração,
+E que os teus olhos se agradem dos meus caminhos.
+
+[[v20-23-27]]
+
+^<<v20-23-27,27>>^ Pois a prostituta é uma cova funda,
+E a mulher imoral^&#42;1^ é um poço estreito;
+
+[NOTE]
+====
+. Lit.: “estrangeira”. Veja Provérbios 2:16.
+====
+
+[[v20-23-28]]
+
+^<<v20-23-28,28>>^ Ela põe-se de emboscada como um assaltante,
+E aumenta o número de homens infiéis.
+
+[[v20-23-29]]
+
+^<<v20-23-29,29>>^ Quem tem ais? Quem tem ansiedades?
+Quem tem discussões? Quem tem queixas?
+Quem tem ferimentos sem nenhum motivo? Quem tem olhos vermelhos?^&#42;1^
+
+[NOTE]
+====
+. Ou: “embaçados”.
+====
+
+[[v20-23-30]]
+
+^<<v20-23-30,30>>^ Os que passam muito tempo a beber vinho,
+Os que procuram^&#42;1^ vinho misturado.
+
+[NOTE]
+====
+. Ou: “se reúnem para experimentar”.
+====
+
+[[v20-23-31]]
+
+^<<v20-23-31,31>>^ Não olhes para a cor vermelha do vinho,
+Quando cintila no copo e desce suavemente,
+
+[[v20-23-32]]
+
+^<<v20-23-32,32>>^ Pois, no fim, ele morde como uma serpente
+E expele veneno como uma víbora.
+
+[[v20-23-33]]
+
+^<<v20-23-33,33>>^ Os teus olhos verão coisas estranhas,
+E o teu coração dirá coisas perversas.
+
+[[v20-23-34]]
+
+^<<v20-23-34,34>>^ Ficarás como quem se deita no meio do mar,
+Como quem se deita no topo do mastro de um navio.
+
+[[v20-23-35]]
+
+^<<v20-23-35,35>>^ Dirás: “Bateram-me, mas não senti nada;^&#42;1^
+Deram-me uma tareia, mas não dei por isso.
+Quando é que acordarei?
+Preciso de mais uma bebida.”^&#42;2^
+
+[NOTE]
+====
+. Ou: “nenhuma dor”.
+. Ou: “Irei procurá-la outra vez.”
+====
+
+'''
+
+xref:020-proverbios/020-proverbios-022.adoc#v20-22-0[&#60; Capítulo Anterior] | <<v20-23-0,Topo>> | xref:020-proverbios/020-proverbios-024.adoc#v20-24-0[Próximo Capítulo &#62;]

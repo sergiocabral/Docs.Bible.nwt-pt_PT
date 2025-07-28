@@ -1,0 +1,256 @@
+include::./index.adoc[]
+
+[[v43-4-0]]
+=== João, 4
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v43-4-1]]
+
+^<<v43-4-1,1>>^ Quando o Senhor soube que os fariseus tinham ouvido dizer que Jesus fazia e batizava mais discípulos do que João
+
+[[v43-4-2]]
+
+^<<v43-4-2,2>>^ (embora o próprio Jesus não batizasse, mas sim os seus discípulos),
+
+[[v43-4-3]]
+
+^<<v43-4-3,3>>^ ele deixou a Judeia e partiu novamente para a Galileia.
+
+[[v43-4-4]]
+
+^<<v43-4-4,4>>^ Mas tinha de passar por Samaria.
+
+[[v43-4-5]]
+
+^<<v43-4-5,5>>^ Assim, chegou a uma cidade de Samaria chamada Sicar, perto do campo que Jacó tinha dado ao seu filho José.
+
+[[v43-4-6]]
+
+^<<v43-4-6,6>>^ De facto, ali ficava o poço de Jacó. E Jesus, cansado da viagem, estava sentado junto ao poço.^&#42;1^ Era por volta da sexta hora.^&#42;2^
+
+[NOTE]
+====
+. Ou: “à fonte; à nascente”.
+. Isto é, por volta do meio-dia.
+====
+
+[[v43-4-7]]
+
+^<<v43-4-7,7>>^ Uma mulher de Samaria veio tirar água. Jesus disse-lhe: “Dá-me um pouco de água.”
+
+[[v43-4-8]]
+
+^<<v43-4-8,8>>^ (Os seus discípulos tinham ido à cidade para comprar alimentos.)
+
+[[v43-4-9]]
+
+^<<v43-4-9,9>>^ Portanto, a samaritana disse-lhe: “Sendo judeu, como é que me pede água a mim, apesar de eu ser samaritana?” (Porque os judeus não se davam com os samaritanos.)
+
+[[v43-4-10]]
+
+^<<v43-4-10,10>>^ Jesus respondeu-lhe: “Se tu soubesses da dádiva^&#42;1^ de Deus e soubesses quem é que te diz: ‘Dá-me um pouco de água’, tu lhe terias pedido, e ele te teria dado água viva.”
+
+[NOTE]
+====
+. Ou: “dádiva gratuita”.
+====
+
+[[v43-4-11]]
+
+^<<v43-4-11,11>>^ Ela disse-lhe: “O senhor nem sequer tem um balde para tirar água, e o poço é fundo. De onde é que tira então esta água viva?
+
+[[v43-4-12]]
+
+^<<v43-4-12,12>>^ Será que é maior do que o nosso antepassado Jacó, que nos deu o poço e bebeu dele com os seus filhos e o seu gado?”
+
+[[v43-4-13]]
+
+^<<v43-4-13,13>>^ Em resposta, Jesus disse-lhe: “Todo aquele que beber desta água ficará novamente com sede.
+
+[[v43-4-14]]
+
+^<<v43-4-14,14>>^ Quem beber da água que eu lhe der nunca mais ficará com sede, mas a água que eu lhe der irá tornar-se nele uma fonte de água que borbulha para dar vida eterna.”
+
+[[v43-4-15]]
+
+^<<v43-4-15,15>>^ A mulher disse-lhe: “Senhor, dê-me dessa água, para que eu não tenha sede nem precise mais de vir aqui tirar água.”
+
+[[v43-4-16]]
+
+^<<v43-4-16,16>>^ Ele disse-lhe: “Vai, chama o teu marido e volta para cá.”
+
+[[v43-4-17]]
+
+^<<v43-4-17,17>>^ A mulher respondeu: “Não tenho marido.” Jesus disse-lhe: “Tens razão em dizer: ‘Não tenho marido.’
+
+[[v43-4-18]]
+
+^<<v43-4-18,18>>^ Pois tiveste cinco maridos, e o homem que tens agora não é teu marido. Disseste a verdade.”
+
+[[v43-4-19]]
+
+^<<v43-4-19,19>>^ A mulher disse-lhe: “Senhor, vejo que é um profeta.
+
+[[v43-4-20]]
+
+^<<v43-4-20,20>>^ Os nossos antepassados adoraram neste monte, mas o seu povo diz que o lugar onde as pessoas devem adorar é em Jerusalém.”
+
+[[v43-4-21]]
+
+^<<v43-4-21,21>>^ Jesus disse-lhe: “Acredita em mim, mulher: vem a hora em que nem neste monte, nem em Jerusalém, vocês adorarão o Pai.
+
+[[v43-4-22]]
+
+^<<v43-4-22,22>>^ Vocês adoram o que não conhecem; nós adoramos o que conhecemos, porque a salvação se origina dos^&#42;1^ judeus.
+
+[NOTE]
+====
+. Ou: “começa com os”.
+====
+
+[[v43-4-23]]
+
+^<<v43-4-23,23>>^ Contudo, vem a hora, e agora é, quando os verdadeiros adoradores adorarão o Pai com espírito e verdade. Pois, realmente, o Pai está à procura desses para o adorarem.
+
+[[v43-4-24]]
+
+^<<v43-4-24,24>>^ Deus é espírito, e os que o adoram têm de o adorar com espírito e verdade.”
+
+[[v43-4-25]]
+
+^<<v43-4-25,25>>^ A mulher disse-lhe: “Eu sei que vem o Messias, que é chamado Cristo. Quando ele vier, irá dizer-nos abertamente todas as coisas.”
+
+[[v43-4-26]]
+
+^<<v43-4-26,26>>^ Jesus disse-lhe: “Eu, que estou a falar contigo, sou ele.”
+
+[[v43-4-27]]
+
+^<<v43-4-27,27>>^ Naquele preciso momento, os seus discípulos chegaram e ficaram surpreendidos, porque ele estava a falar com uma mulher. Naturalmente, ninguém lhe perguntou: “O que queres dela?” ou “Porque é que estás a falar com ela?”
+
+[[v43-4-28]]
+
+^<<v43-4-28,28>>^ Então, a mulher deixou o seu cântaro de água, foi à cidade e disse ao povo:
+
+[[v43-4-29]]
+
+^<<v43-4-29,29>>^ “Venham ver um homem que me disse tudo o que eu fiz. Não será este o Cristo?”
+
+[[v43-4-30]]
+
+^<<v43-4-30,30>>^ Eles saíram da cidade e foram ter com ele.
+
+[[v43-4-31]]
+
+^<<v43-4-31,31>>^ Enquanto isso, os discípulos insistiam com ele: “Rabi, come.”
+
+[[v43-4-32]]
+
+^<<v43-4-32,32>>^ Mas ele disse-lhes: “Tenho um alimento para comer que vocês não conhecem.”
+
+[[v43-4-33]]
+
+^<<v43-4-33,33>>^ Assim, os discípulos disseram uns aos outros: “Será que alguém lhe trouxe algo para comer?”
+
+[[v43-4-34]]
+
+^<<v43-4-34,34>>^ Jesus disse-lhes: “O meu alimento é fazer a vontade daquele que me enviou e terminar a sua obra.
+
+[[v43-4-35]]
+
+^<<v43-4-35,35>>^ Vocês não dizem que ainda faltam quatro meses para chegar a colheita? Escutem o que vos digo: Ergam os olhos e observem os campos, que estão brancos para a colheita. Desde já,
+
+[[v43-4-36]]
+
+^<<v43-4-36,36>>^ o ceifeiro está a receber o salário e a recolher frutos para a vida eterna, para que o semeador e o ceifeiro se alegrem juntos.
+
+[[v43-4-37]]
+
+^<<v43-4-37,37>>^ Pois, neste respeito, é verdadeira a declaração: Um é o semeador e outro o ceifeiro.
+
+[[v43-4-38]]
+
+^<<v43-4-38,38>>^ Enviei-vos para colherem aquilo em que não trabalharam. Outros trabalharam arduamente, e vocês beneficiaram-se do trabalho deles.”
+
+[[v43-4-39]]
+
+^<<v43-4-39,39>>^ Muitos samaritanos daquela cidade depositaram fé nele por causa do testemunho da mulher, que tinha dito: “Ele disse-me tudo o que eu fiz.”
+
+[[v43-4-40]]
+
+^<<v43-4-40,40>>^ Portanto, quando os samaritanos foram ter com ele, pediram-lhe que ficasse com eles, e ele ficou ali dois dias.
+
+[[v43-4-41]]
+
+^<<v43-4-41,41>>^ Assim, muitos outros creram por causa do que ele disse,
+
+[[v43-4-42]]
+
+^<<v43-4-42,42>>^ e disseram à mulher: “Já não é só por causa do que disseste que nós cremos, pois nós mesmos ouvimos e sabemos que este homem é realmente o salvador do mundo.”
+
+[[v43-4-43]]
+
+^<<v43-4-43,43>>^ Depois desses dois dias, ele partiu dali para a Galileia.
+
+[[v43-4-44]]
+
+^<<v43-4-44,44>>^ O próprio Jesus, porém, dizia^&#42;1^ que um profeta não recebe honra na sua própria terra.
+
+[NOTE]
+====
+. Ou: “dava testemunho de”.
+====
+
+[[v43-4-45]]
+
+^<<v43-4-45,45>>^ Portanto, quando chegou à Galileia, os galileus receberam-no bem, porque tinham visto tudo o que ele fizera em Jerusalém, na festividade; pois eles também tinham ido à festividade.
+
+[[v43-4-46]]
+
+^<<v43-4-46,46>>^ Então, ele foi novamente a Caná da Galileia, onde tinha transformado água em vinho. E havia ali um funcionário real, cujo filho estava doente em Cafarnaum.
+
+[[v43-4-47]]
+
+^<<v43-4-47,47>>^ Quando esse homem ouviu dizer que Jesus tinha saído da Judeia para a Galileia, dirigiu-se a ele e pediu-lhe que descesse para curar o seu filho, pois estava a morrer.
+
+[[v43-4-48]]
+
+^<<v43-4-48,48>>^ Mas Jesus disse-lhe: “A menos que vocês vejam sinais e milagres, nunca acreditarão.”
+
+[[v43-4-49]]
+
+^<<v43-4-49,49>>^ O funcionário real disse-lhe: “Senhor, venha antes que o meu filho morra.”
+
+[[v43-4-50]]
+
+^<<v43-4-50,50>>^ Jesus disse-lhe: “Podes ir; o teu filho está vivo.” O homem acreditou nas palavras que Jesus lhe disse e foi-se embora.
+
+[[v43-4-51]]
+
+^<<v43-4-51,51>>^ Enquanto descia, os seus escravos foram ao encontro dele para lhe dizer que o seu menino estava vivo.^&#42;1^
+
+[NOTE]
+====
+. Ou: “estava a recuperar-se”.
+====
+
+[[v43-4-52]]
+
+^<<v43-4-52,52>>^ Então, ele perguntou-lhes a hora em que ele tinha melhorado. Eles responderam-lhe: “A febre deixou-o ontem, à sétima hora.”^&#42;1^
+
+[NOTE]
+====
+. Isto é, por volta da 1 h da tarde.
+====
+
+[[v43-4-53]]
+
+^<<v43-4-53,53>>^ O pai percebeu então que tinha sido naquela mesma hora que Jesus lhe tinha dito: “O teu filho está vivo.” E ele e todos os da sua casa creram.
+
+[[v43-4-54]]
+
+^<<v43-4-54,54>>^ Esta foi a segunda vez que Jesus realizou um sinal depois de voltar da Judeia para a Galileia.
+
+'''
+
+xref:043-joao/043-joao-003.adoc#v43-3-0[&#60; Capítulo Anterior] | <<v43-4-0,Topo>> | xref:043-joao/043-joao-005.adoc#v43-5-0[Próximo Capítulo &#62;]

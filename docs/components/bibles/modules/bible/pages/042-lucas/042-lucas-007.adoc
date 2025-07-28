@@ -1,0 +1,255 @@
+include::./index.adoc[]
+
+[[v42-7-0]]
+=== Lucas, 7
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v42-7-1]]
+
+^<<v42-7-1,1>>^ Quando terminou o que tinha a dizer ao povo, ele entrou em Cafarnaum.
+
+[[v42-7-2]]
+
+^<<v42-7-2,2>>^ E um escravo de um oficial do exército, que era muito estimado pelo seu senhor, estava gravemente doente e prestes a morrer.
+
+[[v42-7-3]]
+
+^<<v42-7-3,3>>^ Quando o oficial ouviu falar de Jesus, enviou-lhe alguns anciãos dos judeus para lhe pedirem que viesse e curasse o seu escravo.
+
+[[v42-7-4]]
+
+^<<v42-7-4,4>>^ Eles foram ter com Jesus e começaram a suplicar-lhe com insistência: “Ele merece a sua ajuda,
+
+[[v42-7-5]]
+
+^<<v42-7-5,5>>^ porque ama a nossa nação e foi ele que construiu a nossa sinagoga.”
+
+[[v42-7-6]]
+
+^<<v42-7-6,6>>^ Assim, Jesus foi com eles. Mas, quando estava perto da casa, o oficial do exército enviou amigos para lhe dizer: “Senhor, não se incomode, pois não sou digno de o receber debaixo do meu teto.
+
+[[v42-7-7]]
+
+^<<v42-7-7,7>>^ Foi por isso que não me considerei digno de ir até si. Mas diga a palavra, e o meu servo será curado.
+
+[[v42-7-8]]
+
+^<<v42-7-8,8>>^ Pois eu também sou um homem sujeito a autoridade e tenho soldados sob as minhas ordens, e digo a um: ‘Vai!’ e ele vai, e a outro: ‘Vem!’ e ele vem, e ao meu escravo: ‘Faz isto!’ e ele faz.”
+
+[[v42-7-9]]
+
+^<<v42-7-9,9>>^ Quando Jesus ouviu isto, ficou admirado com ele e, virando-se para a multidão que o seguia, disse: “Digo-vos: Nem mesmo em Israel encontrei tamanha fé.”
+
+[[v42-7-10]]
+
+^<<v42-7-10,10>>^ E, ao voltarem para casa, os que tinham sido enviados encontraram o escravo de boa saúde.
+
+[[v42-7-11]]
+
+^<<v42-7-11,11>>^ Logo depois disso, ele viajou para uma cidade chamada Naim, e os seus discípulos e uma grande multidão viajavam com ele.
+
+[[v42-7-12]]
+
+^<<v42-7-12,12>>^ No momento em que se aproximava do portão da cidade, estavam a carregar um morto para fora, o único filho^&#42;1^ da sua mãe. Além disso, ela era viúva. Uma multidão considerável da cidade também a acompanhava.
+
+[NOTE]
+====
+. Lit.: “filho unigénito”.
+====
+
+[[v42-7-13]]
+
+^<<v42-7-13,13>>^ Quando o Senhor a viu, teve pena dela e disse-lhe: “Para de chorar.”
+
+[[v42-7-14]]
+
+^<<v42-7-14,14>>^ Depois, aproximou-se e tocou no esquife,^&#42;1^ e os carregadores ficaram parados. Então, ele disse: “Jovem, digo-te: Levanta-te!”
+
+[NOTE]
+====
+. Ou: “na maca funerária”.
+====
+
+[[v42-7-15]]
+
+^<<v42-7-15,15>>^ E o morto sentou-se e começou a falar, e Jesus entregou-o à sua mãe.
+
+[[v42-7-16]]
+
+^<<v42-7-16,16>>^ Todos ficaram cheios de temor e começaram a glorificar a Deus, dizendo: “Um grande profeta surgiu no nosso meio”, e: “Deus voltou a sua atenção para o seu povo.”
+
+[[v42-7-17]]
+
+^<<v42-7-17,17>>^ E esta notícia sobre ele espalhou-se por toda a Judeia e por todas as regiões vizinhas.
+
+[[v42-7-18]]
+
+^<<v42-7-18,18>>^ Então, os discípulos de João contaram-lhe todas estas coisas.
+
+[[v42-7-19]]
+
+^<<v42-7-19,19>>^ João convocou então dois dos seus discípulos e enviou-os ao Senhor para lhe perguntar: “És Aquele Que Vem, ou devemos esperar outro?”
+
+[[v42-7-20]]
+
+^<<v42-7-20,20>>^ Quando chegaram ao pé dele, os homens disseram: “João Batista enviou-nos a ti para te perguntar: ‘És Aquele Que Vem, ou devemos esperar outro?’”
+
+[[v42-7-21]]
+
+^<<v42-7-21,21>>^ Naquele momento, ele curou muitas pessoas das suas enfermidades, de doenças graves e de espíritos maus, e concedeu visão a muitos cegos.
+
+[[v42-7-22]]
+
+^<<v42-7-22,22>>^ Ele disse-lhes em resposta: “Vão, contem a João o que viram e ouviram: os cegos agora veem, os coxos estão a andar, os leprosos estão a ser purificados, os surdos estão a ouvir, os mortos estão a ser levantados e as boas novas estão a ser anunciadas aos pobres.
+
+[[v42-7-23]]
+
+^<<v42-7-23,23>>^ Feliz é aquele que não encontra em mim causa para tropeço.”
+
+[[v42-7-24]]
+
+^<<v42-7-24,24>>^ Quando os mensageiros de João partiram, Jesus começou a falar às multidões sobre João: “O que é que foram ver ao deserto? Uma cana sacudida pelo vento?
+
+[[v42-7-25]]
+
+^<<v42-7-25,25>>^ Então, o que é que foram ver? Um homem vestido de roupas finas? Ora, os que usam roupa esplêndida e têm uma vida de luxo estão nos palácios reais.
+
+[[v42-7-26]]
+
+^<<v42-7-26,26>>^ Realmente, então, o que foram ver? Um profeta? Sim, digo-vos eu, e muito mais do que um profeta.
+
+[[v42-7-27]]
+
+^<<v42-7-27,27>>^ Este é aquele a respeito de quem se escreveu: ‘Vê! Enviarei o meu mensageiro à tua frente,^&#42;1^ o qual preparará o teu caminho diante de ti!’
+
+[NOTE]
+====
+. Lit.: “diante da tua face”.
+====
+
+[[v42-7-28]]
+
+^<<v42-7-28,28>>^ Digo-vos: Entre os nascidos de mulheres, não há ninguém maior do que João; mas aquele que é menor no Reino de Deus é maior do que ele.”
+
+[[v42-7-29]]
+
+^<<v42-7-29,29>>^ (Quando ouviram isto, todo o povo e os cobradores de impostos declararam que Deus é justo, pois tinham sido batizados com o batismo de João.
+
+[[v42-7-30]]
+
+^<<v42-7-30,30>>^ Mas os fariseus e os peritos na Lei desconsideraram a vontade^&#42;1^ de Deus para eles, pois não tinham sido batizados por ele.)
+
+[NOTE]
+====
+. Ou: “a orientação; o conselho”.
+====
+
+[[v42-7-31]]
+
+^<<v42-7-31,31>>^ “Com quem, portanto, compararei os homens desta geração, e a quem são semelhantes?
+
+[[v42-7-32]]
+
+^<<v42-7-32,32>>^ São semelhantes a crianças sentadas numa praça,^&#42;1^ que gritam umas para as outras: ‘Nós tocámos flauta para vocês, mas vocês não dançaram; nós lamentámos, mas vocês não choraram.’
+
+[NOTE]
+====
+. Área aberta usada como centro de compras e vendas e como local de reuniões públicas.
+====
+
+[[v42-7-33]]
+
+^<<v42-7-33,33>>^ Da mesma maneira, João Batista veio sem comer pão e sem beber vinho, mas vocês dizem: ‘Ele tem um demónio.’
+
+[[v42-7-34]]
+
+^<<v42-7-34,34>>^ O Filho do Homem veio, comendo e bebendo, mas vocês dizem: ‘Olhem! Um homem glutão e dado a beber vinho, amigo de cobradores de impostos e de pecadores!’
+
+[[v42-7-35]]
+
+^<<v42-7-35,35>>^ No entanto, a sabedoria prova-se justa^&#42;1^ por todos os seus filhos.”^&#42;2^
+
+[NOTE]
+====
+. Ou: “é vindicada”.
+. Ou: “resultados”.
+====
+
+[[v42-7-36]]
+
+^<<v42-7-36,36>>^ E um dos fariseus pedia-lhe com insistência que comesse com ele. Então, ele entrou em casa do fariseu e recostou-se à mesa.
+
+[[v42-7-37]]
+
+^<<v42-7-37,37>>^ Uma mulher, conhecida na cidade como pecadora, soube que ele estava a comer^&#42;1^ em casa do fariseu e levou um frasco de alabastro com óleo perfumado.
+
+[NOTE]
+====
+. Ou: “recostado à mesa”.
+====
+
+[[v42-7-38]]
+
+^<<v42-7-38,38>>^ Colocando-se atrás dele, aos seus pés, ela chorou e começou a molhar-lhe os pés com as suas lágrimas, e enxugou-os com os seus cabelos. Ela também beijava ternamente os pés dele e derramava sobre eles o óleo perfumado.
+
+[[v42-7-39]]
+
+^<<v42-7-39,39>>^ Ao ver isso, o fariseu que o tinha convidado disse para consigo: “Se este homem realmente fosse um profeta, saberia quem lhe está a tocar e que tipo de mulher ela é, que é uma pecadora.”
+
+[[v42-7-40]]
+
+^<<v42-7-40,40>>^ Em vista disso, porém, Jesus disse-lhe: “Simão, tenho algo para te dizer.” Ele disse: “Diz, Instrutor!”
+
+[[v42-7-41]]
+
+^<<v42-7-41,41>>^ “Dois homens eram devedores de certo credor: um devia 500 denários,^&#42;1^ mas o outro 50.
+
+[NOTE]
+====
+. Veja o Ap. B14.
+====
+
+[[v42-7-42]]
+
+^<<v42-7-42,42>>^ Visto que não tinham como lhe pagar, ele perdoou liberalmente a ambos. Portanto, qual deles o amará mais?”
+
+[[v42-7-43]]
+
+^<<v42-7-43,43>>^ Em resposta, Simão disse: “Suponho que seja aquele a quem ele perdoou mais.” Ele disse-lhe: “Julgaste corretamente.”
+
+[[v42-7-44]]
+
+^<<v42-7-44,44>>^ Então, ele virou-se para a mulher e disse a Simão: “Vês esta mulher? Entrei na tua casa e tu não me deste água para os pés. Mas esta mulher molhou os meus pés com as suas lágrimas e enxugou-os com os seus cabelos.
+
+[[v42-7-45]]
+
+^<<v42-7-45,45>>^ Tu não me deste nenhum beijo, mas esta mulher, desde o momento em que entrei, não parou de beijar ternamente os meus pés.
+
+[[v42-7-46]]
+
+^<<v42-7-46,46>>^ Tu não derramaste óleo na minha cabeça, mas esta mulher derramou óleo perfumado sobre os meus pés.
+
+[[v42-7-47]]
+
+^<<v42-7-47,47>>^ Por isso, digo-te: os pecados dela, embora sejam muitos,^&#42;1^ estão perdoados, porque ela amou muito. Mas aquele a quem se perdoa pouco, ama pouco.”
+
+[NOTE]
+====
+. Ou: “grandes”.
+====
+
+[[v42-7-48]]
+
+^<<v42-7-48,48>>^ Então, ele disse à mulher: “Os teus pecados estão perdoados.”
+
+[[v42-7-49]]
+
+^<<v42-7-49,49>>^ Os que se recostavam com ele à mesa começaram a dizer entre si: “Quem é este homem que até mesmo perdoa pecados?”
+
+[[v42-7-50]]
+
+^<<v42-7-50,50>>^ Mas ele disse à mulher: “A tua fé salvou-te. Vai em paz.”
+
+'''
+
+xref:042-lucas/042-lucas-006.adoc#v42-6-0[&#60; Capítulo Anterior] | <<v42-7-0,Topo>> | xref:042-lucas/042-lucas-008.adoc#v42-8-0[Próximo Capítulo &#62;]

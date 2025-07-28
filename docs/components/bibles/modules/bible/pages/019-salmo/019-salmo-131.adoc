@@ -1,0 +1,35 @@
+include::./index.adoc[]
+
+[[v19-131-0]]
+=== Salmos, 131
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+_Cântico das Subidas. De David._
+
+[[v19-131-1]]
+
+^<<v19-131-1,1>>^ Ó Jeová, o meu coração não é orgulhoso,
+Nem são arrogantes os meus olhos;
+Também não procuro grandes coisas
+Nem coisas que estão fora do meu alcance.
+
+[[v19-131-2]]
+
+^<<v19-131-2,2>>^ Não, mas eu acalmei e tranquilizei a minha alma,^&#42;1^
+Como uma criança desmamada no colo da mãe;
+Estou^&#42;2^ contente como uma criança desmamada.
+
+[NOTE]
+====
+. Ou: “eu acalmei-me e tranquilizei-me”. Veja o Glossário, “Alma”.
+. Ou: “A minha alma está”.
+====
+
+[[v19-131-3]]
+
+^<<v19-131-3,3>>^ Que Israel espere em Jeová,
+Agora e para sempre.
+
+'''
+
+xref:019-salmo/019-salmo-130.adoc#v19-130-0[&#60; Capítulo Anterior] | <<v19-131-0,Topo>> | xref:019-salmo/019-salmo-132.adoc#v19-132-0[Próximo Capítulo &#62;]

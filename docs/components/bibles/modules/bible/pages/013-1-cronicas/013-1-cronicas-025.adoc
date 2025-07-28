@@ -1,0 +1,140 @@
+include::./index.adoc[]
+
+[[v13-25-0]]
+=== 1 Crónicas, 25
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v13-25-1]]
+
+^<<v13-25-1,1>>^ Além disso, David e os chefes dos grupos de serviço escolheram alguns dos filhos de Asafe, de Hemã e de Jedutum para profetizarem com harpas, instrumentos de cordas e címbalos. Esta é a lista dos homens designados para este serviço.
+
+[[v13-25-2]]
+
+^<<v13-25-2,2>>^ Dos filhos de Asafe: Zacur, José, Netanias e Asarela, os filhos de Asafe que estavam sob a direção de Asafe, que profetizava sob a direção do rei.
+
+[[v13-25-3]]
+
+^<<v13-25-3,3>>^ De Jedutum, os filhos de Jedutum: Gedalias, Zeri, Jesaías, Simei, Hasabias e Matitias, seis, sob a direção do seu pai, Jedutum, que profetizava com a harpa, agradecendo e louvando a Jeová.
+
+[[v13-25-4]]
+
+^<<v13-25-4,4>>^ De Hemã, os filhos de Hemã: Buquias, Matanias, Uziel, Sebuel, Jerimote, Hananias, Hanani, Eliata, Gidalti, Romanti-Ezer, Josbecasa, Maloti, Hotir e Maaziote.
+
+[[v13-25-5]]
+
+^<<v13-25-5,5>>^ Todos estes eram filhos de Hemã, vidente^&#42;1^ do rei que transmitia as palavras do verdadeiro Deus para Lhe dar glória.^&#42;2^ O verdadeiro Deus deu a Hemã 14 filhos e 3 filhas.
+
+[NOTE]
+====
+. Veja o Glossário.
+. Lit.: “para erguer o Seu chifre”.
+====
+
+[[v13-25-6]]
+
+^<<v13-25-6,6>>^ Todos estes cantavam na casa de Jeová sob a direção do seu pai, com címbalos, instrumentos de cordas e harpas, prestando serviço na casa do verdadeiro Deus.
+Asafe, Jedutum e Hemã estavam sob a direção do rei.
+
+[[v13-25-7]]
+
+^<<v13-25-7,7>>^ O número deles e dos seus irmãos que eram treinados nos cânticos a Jeová, todos peritos, era de 288.
+
+[[v13-25-8]]
+
+^<<v13-25-8,8>>^ Portanto, lançaram sortes para designar as responsabilidades deles, tanto dos pequenos como dos grandes, dos peritos e dos aprendizes.
+
+[[v13-25-9]]
+
+^<<v13-25-9,9>>^ A primeira sorte, que era de Asafe, saiu a José; a segunda saiu a Gedalias (ele, os seus irmãos e os seus filhos eram 12);
+
+[[v13-25-10]]
+
+^<<v13-25-10,10>>^ a terceira saiu a Zacur, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-11]]
+
+^<<v13-25-11,11>>^ a quarta saiu a Izri, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-12]]
+
+^<<v13-25-12,12>>^ a quinta saiu a Netanias, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-13]]
+
+^<<v13-25-13,13>>^ a sexta saiu a Buquias, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-14]]
+
+^<<v13-25-14,14>>^ a sétima saiu a Jesarela, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-15]]
+
+^<<v13-25-15,15>>^ a oitava saiu a Jesaías, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-16]]
+
+^<<v13-25-16,16>>^ a nona saiu a Matanias, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-17]]
+
+^<<v13-25-17,17>>^ a décima saiu a Simei, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-18]]
+
+^<<v13-25-18,18>>^ a décima primeira saiu a Azarel, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-19]]
+
+^<<v13-25-19,19>>^ a décima segunda saiu a Hasabias, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-20]]
+
+^<<v13-25-20,20>>^ a décima terceira saiu a Subael, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-21]]
+
+^<<v13-25-21,21>>^ a décima quarta saiu a Matitias, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-22]]
+
+^<<v13-25-22,22>>^ a décima quinta saiu a Jeremote, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-23]]
+
+^<<v13-25-23,23>>^ a décima sexta saiu a Hananias, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-24]]
+
+^<<v13-25-24,24>>^ a décima sétima saiu a Josbecasa, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-25]]
+
+^<<v13-25-25,25>>^ a décima oitava saiu a Hanani, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-26]]
+
+^<<v13-25-26,26>>^ a décima nona saiu a Maloti, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-27]]
+
+^<<v13-25-27,27>>^ a vigésima saiu a Eliata, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-28]]
+
+^<<v13-25-28,28>>^ a vigésima primeira saiu a Hotir, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-29]]
+
+^<<v13-25-29,29>>^ a vigésima segunda saiu a Gidalti, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-30]]
+
+^<<v13-25-30,30>>^ a vigésima terceira saiu a Maaziote, aos seus filhos e aos seus irmãos, 12;
+
+[[v13-25-31]]
+
+^<<v13-25-31,31>>^ e a vigésima quarta saiu a Romanti-Ezer, aos seus filhos e aos seus irmãos, 12.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-024.adoc#v13-24-0[&#60; Capítulo Anterior] | <<v13-25-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-026.adoc#v13-26-0[Próximo Capítulo &#62;]

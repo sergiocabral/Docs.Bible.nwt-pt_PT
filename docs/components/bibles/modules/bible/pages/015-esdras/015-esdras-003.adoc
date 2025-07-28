@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v15-3-0]]
+=== Esdras, 3
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v15-3-1]]
+
+^<<v15-3-1,1>>^ Quando chegou o sétimo mês e os israelitas^&#42;1^ já estavam nas suas cidades, reuniram-se de comum acordo em Jerusalém.
+
+[NOTE]
+====
+. Lit.: “filhos de Israel”.
+====
+
+[[v15-3-2]]
+
+^<<v15-3-2,2>>^ Jesua, filho de Jeozadaque, e os seus companheiros de sacerdócio, bem como Zorobabel, filho de Sealtiel, e os seus irmãos, começaram a construir o altar do Deus de Israel, para que pudessem oferecer sacrifícios queimados, conforme está escrito na Lei de Moisés, o homem do verdadeiro Deus.
+
+[[v15-3-3]]
+
+^<<v15-3-3,3>>^ Embora estivessem com medo dos povos das terras ao redor, construíram o altar no seu lugar original e começaram a oferecer sacrifícios queimados a Jeová, os sacrifícios queimados da manhã e do anoitecer.
+
+[[v15-3-4]]
+
+^<<v15-3-4,4>>^ Celebraram então a Festividade das Barracas,^&#42;1^ de acordo com o que está escrito, e ofereceram diariamente o número determinado de sacrifícios queimados que era exigido para cada dia.
+
+[NOTE]
+====
+. Ou: “dos Tabernáculos”.
+====
+
+[[v15-3-5]]
+
+^<<v15-3-5,5>>^ Depois, ofereceram as ofertas queimadas regulares e as ofertas das luas novas e de todas as festividades sagradas de Jeová, bem como as que foram trazidas por todos os que faziam ofertas voluntárias a Jeová, de forma espontânea.
+
+[[v15-3-6]]
+
+^<<v15-3-6,6>>^ A partir do primeiro dia do sétimo mês, começaram a oferecer sacrifícios queimados a Jeová, embora os alicerces do templo de Jeová ainda não tivessem sido lançados.
+
+[[v15-3-7]]
+
+^<<v15-3-7,7>>^ Eles deram dinheiro aos cortadores de pedras e aos artesãos, e comida, bebida e azeite aos sidónios e aos tírios, por terem trazido madeiras de cedro pelo mar, do Líbano até Jope, de acordo com a autorização que tinham recebido de Ciro, o rei da Pérsia.
+
+[[v15-3-8]]
+
+^<<v15-3-8,8>>^ No segundo ano depois da sua chegada à casa do verdadeiro Deus em Jerusalém, no segundo mês, Zorobabel, filho de Sealtiel, e Jesua, filho de Jeozadaque, iniciaram a obra com os seus outros irmãos, os sacerdotes e os levitas, e com todos os que tinham voltado do cativeiro para Jerusalém. Eles designaram os levitas de 20 ou mais anos de idade como supervisores da obra da casa de Jeová.
+
+[[v15-3-9]]
+
+^<<v15-3-9,9>>^ Assim, Jesua, os seus filhos e os seus irmãos, e Cadmiel e os seus filhos, que eram filhos de Judá,^&#42;1^ juntaram-se para supervisionar o trabalho na casa do verdadeiro Deus, com os filhos de Henadade e os seus respetivos filhos e irmãos,^&#42;2^ que também eram levitas.
+
+[NOTE]
+====
+. Aparentemente, chamado “Hodavias” em Esdras 2:40 e “Hodeva” em Neemias 7:43.
+. Ou: “parentes”.
+====
+
+[[v15-3-10]]
+
+^<<v15-3-10,10>>^ Quando os construtores lançaram o alicerce do templo de Jeová, os sacerdotes, com as vestes oficiais e as trombetas, e os levitas, filhos de Asafe, com os címbalos, levantaram-se para louvar a Jeová segundo as orientações de David, rei de Israel.
+
+[[v15-3-11]]
+
+^<<v15-3-11,11>>^ E começaram a louvar e a agradecer a Jeová, cantando alternadamente o refrão: “Pois ele é bom; o seu amor leal por Israel dura para sempre.” Então, todo o povo gritou bem alto em louvor a Jeová, porque os alicerces da casa de Jeová tinham sido lançados.
+
+[[v15-3-12]]
+
+^<<v15-3-12,12>>^ Muitos dos sacerdotes, dos levitas e dos cabeças das casas paternas, os idosos que tinham visto a casa anterior, choraram em voz alta ao verem os alicerces desta casa a serem lançados, enquanto muitos outros gritavam de alegria ao máximo da sua voz.
+
+[[v15-3-13]]
+
+^<<v15-3-13,13>>^ Assim, ninguém conseguia distinguir o som dos gritos de alegria do som do choro, pois o povo gritava tão alto que se ouvia a grande distância.
+
+'''
+
+xref:015-esdras/015-esdras-002.adoc#v15-2-0[&#60; Capítulo Anterior] | <<v15-3-0,Topo>> | xref:015-esdras/015-esdras-004.adoc#v15-4-0[Próximo Capítulo &#62;]

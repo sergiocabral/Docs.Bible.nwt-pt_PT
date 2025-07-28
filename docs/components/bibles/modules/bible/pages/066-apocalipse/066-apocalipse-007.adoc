@@ -1,0 +1,95 @@
+include::./index.adoc[]
+
+[[v66-7-0]]
+=== Apocalipse, 7
+// nwt 2016, nwt - Tradução do Novo Mundo da Bíblia Sagrada
+
+[[v66-7-1]]
+
+^<<v66-7-1,1>>^ Depois disto, vi quatro anjos de pé nos quatro cantos da terra, segurando firmemente os quatro ventos da terra, de modo a que nenhum vento soprasse nem sobre a terra, nem sobre o mar, nem sobre nenhuma árvore.
+
+[[v66-7-2]]
+
+^<<v66-7-2,2>>^ E eu vi outro anjo a subir do nascente,^&#42;1^ com um selo do Deus vivente, e ele gritou em voz alta aos quatro anjos a quem se tinha concedido causar dano à terra e ao mar:
+
+[NOTE]
+====
+. Ou: “leste”.
+====
+
+[[v66-7-3]]
+
+^<<v66-7-3,3>>^ “Não causem dano nem à terra, nem ao mar, nem às árvores, até termos selado na testa os escravos do nosso Deus.”
+
+[[v66-7-4]]
+
+^<<v66-7-4,4>>^ Então, ouvi o número dos selados: 144 000, selados de todas as tribos dos filhos de Israel:
+
+[[v66-7-5]]
+
+^<<v66-7-5,5>>^ da tribo de Judá, 12 000 selados;
+da tribo de Rúben, 12 000;
+da tribo de Gade, 12 000;
+
+[[v66-7-6]]
+
+^<<v66-7-6,6>>^ da tribo de Aser, 12 000;
+da tribo de Naftali, 12 000;
+da tribo de Manassés, 12 000;
+
+[[v66-7-7]]
+
+^<<v66-7-7,7>>^ da tribo de Simeão, 12 000;
+da tribo de Levi, 12 000;
+da tribo de Issacar, 12 000;
+
+[[v66-7-8]]
+
+^<<v66-7-8,8>>^ da tribo de Zebulão, 12 000;
+da tribo de José, 12 000;
+da tribo de Benjamim, 12 000 selados.
+
+[[v66-7-9]]
+
+^<<v66-7-9,9>>^ Depois disto, vi uma grande multidão que nenhum homem era capaz de contar, de todas as nações, tribos, povos e línguas, de pé diante do trono e diante do Cordeiro, vestidos com compridas vestes brancas, e havia folhas de palmeiras nas suas mãos.
+
+[[v66-7-10]]
+
+^<<v66-7-10,10>>^ Clamavam em voz alta: “Devemos a salvação ao nosso Deus, que está sentado no trono, e ao Cordeiro.”
+
+[[v66-7-11]]
+
+^<<v66-7-11,11>>^ Todos os anjos estavam de pé à volta do trono, dos anciãos e das quatro criaturas viventes; e prostraram-se com o rosto por terra, diante do trono, e adoraram a Deus,
+
+[[v66-7-12]]
+
+^<<v66-7-12,12>>^ dizendo: “Amém! O louvor, a glória, a sabedoria, o agradecimento, a honra, o poder e a força sejam dados ao nosso Deus para todo o sempre. Amém.”
+
+[[v66-7-13]]
+
+^<<v66-7-13,13>>^ Em vista disso, um dos anciãos disse-me: “Quem são estes que se vestem com compridas vestes brancas, e de onde vieram?”
+
+[[v66-7-14]]
+
+^<<v66-7-14,14>>^ Assim, disse-lhe imediatamente: “Meu senhor, tu é que sabes.” Ele disse-me: “Estes são os que saem da grande tribulação; eles lavaram as suas vestes compridas e embranqueceram-nas no sangue do Cordeiro.
+
+[[v66-7-15]]
+
+^<<v66-7-15,15>>^ É por isso que estão perante o trono de Deus, e prestam-lhe serviço sagrado dia e noite no seu templo; Aquele que está sentado no trono estenderá a sua tenda sobre eles.
+
+[[v66-7-16]]
+
+^<<v66-7-16,16>>^ Não voltarão a ter fome, nem voltarão a ter sede; e nem o sol nem o calor abrasador os castigarão,
+
+[[v66-7-17]]
+
+^<<v66-7-17,17>>^ porque o Cordeiro, que está no meio^&#42;1^ do trono, vai pastoreá-los e guiá-los a fontes de água da vida. E Deus enxugará todas as lágrimas dos olhos deles.”
+
+[NOTE]
+====
+. Ou: “no centro”.
+====
+
+'''
+
+xref:066-apocalipse/066-apocalipse-006.adoc#v66-6-0[&#60; Capítulo Anterior] | <<v66-7-0,Topo>> | xref:066-apocalipse/066-apocalipse-008.adoc#v66-8-0[Próximo Capítulo &#62;]
